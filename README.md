@@ -1,4 +1,13 @@
-*** Main Simulation ***
+Supermarket Simulation
+====================
+
+This repo simulates the shopping behaviour of customers in a supermarket. It is part of a project of the Department of Data Analytics at the Maastricht University. 
+
+For further information please refer to the pdf documentation.
+
+
+Main Simulation
+----
 
 "main.py":
 - Runs the data simulation --> Outputs the generated datasets (purchases and fraud value)
@@ -19,8 +28,8 @@
 
 
 
-*** Data Directory ***
-
+Data Directory
+----
 "product_data":
 - It is a file system storing the products as individual text files
 - Changes can be made by adding new files containing a product or by adjusting the attributes of existing products
@@ -37,7 +46,8 @@
 
 
 
-***  Generated_Datasets Directory ***
+Generated_Datasets Directory
+----
 
 - Contains all kind of output data
 - The purchase datasets: Contains all of the purchases generated with fraud introduced
@@ -46,7 +56,8 @@
 
 
 
-*** Testing the performance ***
+Testing the performance
+----
 
 "PerformanceTesting":
 - Contains multiple classification models
@@ -58,7 +69,8 @@
 
 
 
-*** ProductCatalogFiles Directory ***
+ProductCatalogFiles Directory
+----
 
 - You probably do not need these files
 - Contain files that were used to process the original product dataset and store the products as json files
