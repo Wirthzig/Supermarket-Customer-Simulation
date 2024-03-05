@@ -1,0 +1,18 @@
+{
+    "id": 768,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "Mora Veggie-sat\u00e9",
+    "price": 2.19,
+    "unit": "160 gPrijs per KG \u20ac 13,69",
+    "weight": "160 Gram",
+    "calories": 222.0,
+    "ingredients": "Ingredi\u00ebnten: \nWater, vega stukjes 28% (water, plantaardige eiwitten [SOJA, TARWEGLUTEN], zonnebloemolie, zetmeel [aardappel, TARWE, ma\u00efs], kippenEI-eiwit, kruiden en specerijen, gistextract, natuurlijk aroma, verdikkingsmiddel: carrageen, zout, voedingszuur: citroenzuur), PINDAkaas (PINDA, arachideolie), suiker, ketjap (water, melasse, suiker, zout, gemodificeerd ma\u00efszetmeel, SOJAsaus [water,, SOJAbonen, TARWE, zout, azijn]), magere MELKpoeder, ui, TARWEbloem, SOJAsaus (water, SOJAbonen, TARWE, zout), knoflook, zout, gemodificeerd ma\u00efszetmeel, gembersiroop (suiker, water, gemberextract, zout, verdikkingsmiddelen: xanthaangom en guargom), natuurlijk aroma, sat\u00e9mix (zout, specerijen [bevat TARWE], dextrose, TARWEzetmeel, uipoeder, gehydrolyseerd SOJA-eiwit), sambal (rode peper, zout), citroensap, aardappelzetmeel, kleurstof: paprika-extract, gekarameliseerde suiker, maltodextrine. \n\n28% Vega stukjes / 72% pindasaus",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2037037037037037,
+    "price sensitivity": -0.8740554156171285
+}

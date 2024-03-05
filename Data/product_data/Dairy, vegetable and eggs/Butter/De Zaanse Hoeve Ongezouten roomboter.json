@@ -1,0 +1,18 @@
+{
+    "id": 2618,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "De Zaanse Hoeve Ongezouten roomboter",
+    "price": 4.99,
+    "unit": "500 gPrijs per KG \u20ac 9,98",
+    "weight": "500 Gram",
+    "calories": 744.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.7333333333333334,
+    "price sensitivity": -0.8277945619335347
+}

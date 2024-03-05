@@ -1,0 +1,18 @@
+{
+    "id": 1336,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Pasta, rice, noodles",
+    "product": "AH Ah basmati rijst",
+    "price": 2.19,
+    "unit": "400 gPrijs per KG \u20ac 5,48",
+    "weight": "400 Gram",
+    "calories": 355.0,
+    "ingredients": "Ingredi\u00ebnten: rijst.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.23758865248226946,
+    "price sensitivity": -0.3015873015873016
+}

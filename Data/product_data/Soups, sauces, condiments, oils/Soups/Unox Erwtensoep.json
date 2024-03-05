@@ -1,0 +1,18 @@
+{
+    "id": 1182,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Unox Erwtensoep",
+    "price": 3.19,
+    "unit": "570 mlPrijs per LT \u20ac 5,60",
+    "weight": "570 Milliliter",
+    "calories": 73.0,
+    "ingredients": "Ingredi\u00ebnten: Water, groenten\u00b9 36,8% (erwten 24,4%, wortel 4,2%, prei 4,1%, ui 2,5%, SELDERIJBLAD 1,6%), rookworst 5,7% (varkensvlees\u00b2 81%, separatorvlees\u00b2 3%, water, aardappelzetmeel, zout, rookaroma, stabilisator (E451, E452), collageen (runder, varken), varkensvet,  voedingszuur E330,), specerij-extracten, peper, antioxidant E301, conserveermiddel E250, houtrook), aardappel\u00b9 4,9%,  katenspek 4,2% (varkensvlees\u00b2, zout, stabilisator (E450, E451), rookaroma, antioxidant E301, conserveermiddel E250), raapzaadolie\u00b9 1,1%, gemodificeerd ma\u00efszetmeel, gistextract (bevat GERST), gejodeerd zout, zout, aroma, laurierblad, SELDERIJZAAD, balsamico-azijn (druivenmost, wijnazijn), witte wijnextract. Kan melk, ei, mosterd, soja bevatten. \u00b9 op duurzame wijze geteeld. \u00b2 Beter Leven keurmerk 1 ster.",
+    "lifestyle": 1.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.20356612184249626,
+    "price sensitivity": -0.7641597028783658
+}

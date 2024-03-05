@@ -1,0 +1,18 @@
+{
+    "id": 3213,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Warmgerookte zalmmoten",
+    "price": 7.99,
+    "unit": "ca. 250 gPrijs per KG \u20ac 31,96",
+    "weight": "250 Gram",
+    "calories": 219.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.20g per 100 gram",
+    "lifestyle": 0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4303797468354431,
+    "price sensitivity": -0.8906329113924051
+}

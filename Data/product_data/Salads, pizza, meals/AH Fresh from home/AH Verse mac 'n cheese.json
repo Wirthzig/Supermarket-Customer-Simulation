@@ -1,0 +1,18 @@
+{
+    "id": 3574,
+    "category": "Salads, pizza, meals",
+    "sub category": "AH Fresh from home",
+    "product": "AH Verse mac 'n cheese",
+    "price": 7.49,
+    "unit": "420 gNormale prijs per KG \u20ac 17,83",
+    "weight": "420 Gram",
+    "calories": 134.0,
+    "ingredients": "Ingredi\u00ebnten: gekookte pasta [water, durumtarwegriesmeel, raapolie, zout], kaassaus [67% volle\u00a0melk, 26% geraspte kaasmix [melk, zout, aardappelzetmeel, zuursel, vegetarisch stremsel, kleurstof (E160a)],\u00a0tarwebloem, raapolie, edelgistvlok, zout,\u00a0mosterdpoeder, uienpoeder, knoflookpoeder, peper, nootmuskaat], gegrilde bloemkool [96% bloemkool, raapolie, zout], geroosterde rode ui [98% rode ui, raapolie, zout],\u00a04,8% gegrilde rode paprika [rode paprika, raapolie, zout], 3,6% geraspte cheddar-goudsekaasmix [melk, zout, aardappelzetmeel, zuursel, vegetarisch stremsel, kleurstof (E160a)], 2% verse peterselie.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.9193548387096774,
+    "price sensitivity": -0.2867469879518072
+}

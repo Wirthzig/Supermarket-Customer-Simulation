@@ -1,0 +1,18 @@
+{
+    "id": 2456,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Spelt stokbrood met desem bereid",
+    "price": 2.9,
+    "unit": "300 gPrijs per KG \u20ac 6,97",
+    "weight": "250 Gram",
+    "calories": 293.0,
+    "ingredients": "Ingredi\u00ebnten: speltbloem (tarwe), water, speltdesem (tarwe), lijnzaad, zonnebloempit, plantaardige olie (olijf, raap), gejodeerd zout, volkorenspeltmeel (tarwe), 0,4% gist,\u00a0speltvlok (tarwe),\u00a0sesamzaad,\u00a0speltgluten\u00a0(tarwe),\u00a0lupinekorrel, antioxidant (ascorbinezuur [E300]), suiker,\u00a0speltmoutbloem (tarwe), cacaopoeder\u00b0.\nWaarvan toegevoegde suikers 0.1g per 100 gram en waarvan toegevoegd zout 0.93g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -0.4,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.15454545454545454,
+    "price sensitivity": 0.14613180515759305
+}

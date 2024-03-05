@@ -1,0 +1,18 @@
+{
+    "id": 3130,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "AH Zachte kruiden roomkaas",
+    "price": 0.89,
+    "unit": "125 gPrijs per KG \u20ac 7,12",
+    "weight": "125 Gram",
+    "calories": 288.0,
+    "ingredients": "Ingredi\u00ebnten: magere\u00a0melk, 44%\u00a0room,\u00a0roomboter,\u00a0lactose, zout, knoflookextract, peterselie, specerijen, mierikswortel, azijn, natuurlijk aroma, zuursel, raapolie, antioxidant (citroenzuur [E330], natriumdisulfiet\u00a0[E223]).\nWaarvan toegevoegde suikers 1.6g per 100 gram en waarvan toegevoegd zout 1.40g per 100 gram",
+    "lifestyle": 0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.015783540022547917,
+    "price sensitivity": -0.5542347696879644
+}

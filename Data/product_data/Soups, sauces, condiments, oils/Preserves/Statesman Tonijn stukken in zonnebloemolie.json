@@ -1,0 +1,18 @@
+{
+    "id": 1075,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "Statesman Tonijn stukken in zonnebloemolie",
+    "price": 1.59,
+    "unit": "160 gPrijs per KG \u20ac 9,94",
+    "weight": "160 Gram",
+    "calories": 180.0,
+    "ingredients": "Ingredi\u00ebnten: Skipjack tonijn (VIS) (65%), zonnebloemolie, zout",
+    "lifestyle": 0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.08469539375928678,
+    "price sensitivity": -0.8978644382544104
+}

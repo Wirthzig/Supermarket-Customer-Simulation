@@ -1,0 +1,18 @@
+{
+    "id": 1080,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "Frito x Heinz Tomatenblokjes",
+    "price": 2.46,
+    "unit": "per pakket",
+    "weight": NaN,
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": 0.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14933135215453192,
+    "price sensitivity": 0.5357474466109564
+}

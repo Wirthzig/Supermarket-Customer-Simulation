@@ -1,0 +1,18 @@
+{
+    "id": 1500,
+    "category": "Wine and bubbles",
+    "sub category": "Ros\u00e9",
+    "product": "Mooi Kaap Droe ros\u00e9",
+    "price": 3.79,
+    "unit": "1 lPrijs per LT \u20ac 3,79",
+    "weight": "1 Liter",
+    "calories": 70.0,
+    "ingredients": NaN,
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.25301204819277107,
+    "price sensitivity": -0.3721973094170403
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1520,
+    "category": "Wine and bubbles",
+    "sub category": "White wine",
+    "product": "Liebfraumilch Qualit\u00e4tswein",
+    "price": 2.79,
+    "unit": "1 lPrijs per LT \u20ac 2,79",
+    "weight": "1 Liter",
+    "calories": NaN,
+    "ingredients": "Contains sulfites",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13253012048192772,
+    "price sensitivity": -0.7704035874439461
+}

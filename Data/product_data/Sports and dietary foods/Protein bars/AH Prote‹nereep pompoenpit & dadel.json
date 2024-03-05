@@ -1,0 +1,18 @@
+{
+    "id": 910,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "AH Prote\u00efnereep pompoenpit & dadel",
+    "price": 2.49,
+    "unit": "90 gPrijs per KG \u20ac 27,67",
+    "weight": "90 Gram",
+    "calories": 403.0,
+    "ingredients": "Ingredi\u00ebnten: voedingsvezel (inuline), 21% pinda, 19% zonnebloemeiwit, 16% pompoenpit, rijstebloem, 6% dadelpuree, agavesiroop, cacaopoeder\u00b0, zeezout, vanille-extract.\nWaarvan toegevoegde suikers 7.3g per 100 gram en waarvan toegevoegd zout 0.58g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05063291139240506,
+    "price sensitivity": -0.7666666666666666
+}

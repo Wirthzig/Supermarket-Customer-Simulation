@@ -1,0 +1,18 @@
+{
+    "id": 3529,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Groentesalade kikkererwt munt",
+    "price": 4.39,
+    "unit": "305 gPrijs per KG \u20ac 14,39",
+    "weight": "310 Gram",
+    "calories": 79.0,
+    "ingredients": "Ingredi\u00ebnten: groente (29% pompoen, 13% rode paprika, 12% courgette, 11% wortel, 4,5% gele wortel, 3,2% spinazie, 2,9% lente-ui), kikkererwt, plantaardige olie (raap, zonnebloem), rozijn, water, zout, 0,3% munt, specerijen, gistextract, antioxidant (ascorbinezuur [E300]), conserveermiddel (kaliumsorbaat [E202]), verdikkingsmiddel (xanthaangom [E415]), voedingszuur (citroenzuur [E330]), suiker, natuurlijk aroma, chili-extract.\nWaarvan toegevoegde suikers 0.02g per 100 gram en waarvan toegevoegd zout 0.36g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4193548387096773,
+    "price sensitivity": -0.05932203389830515
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1156,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Maggi Bouillonblokjes rundvlees voordeelpak",
+    "price": 1.29,
+    "unit": "12 stuksPrijs per KG \u20ac 10,49",
+    "weight": "123 Gram",
+    "calories": 2.0,
+    "ingredients": "Ingredi\u00ebnten: zout, smaakversterkers (E621, E627, E631), glucosestroop, plantaardige olie (palm), gistextract, suiker, uienpoeder, kleurstoffen, (E150c, E101), rundvleespoeder (0,4%), aroma's, peterselie, gedroogde groenten (wortel, tomaat, prei), kruidenextracten. Bevat mogelijk MELK, EI, SELDERIJ, GLUTEN.",
+    "lifestyle": -0.1,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06240713224368499,
+    "price sensitivity": -0.9127205199628599
+}

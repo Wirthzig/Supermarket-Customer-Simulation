@@ -1,0 +1,18 @@
+{
+    "id": 3715,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Fruit",
+    "product": "AH Citroenen",
+    "price": 1.59,
+    "unit": "5 stuksPrijs per KG \u20ac 2,89",
+    "weight": "5 Aantal",
+    "calories": 22.0,
+    "ingredients": "Ingredi\u00ebnten: citroen\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1875,
+    "price sensitivity": 0.1807228915662651
+}

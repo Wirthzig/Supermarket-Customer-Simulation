@@ -1,0 +1,18 @@
+{
+    "id": 3832,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Vegetables",
+    "product": "AH Tomaten",
+    "price": 1.79,
+    "unit": "500 gPrijs per KG \u20ac 3,58",
+    "weight": "500 Gram",
+    "calories": 21.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.22916666666666666,
+    "price sensitivity": -0.1325301204819278
+}

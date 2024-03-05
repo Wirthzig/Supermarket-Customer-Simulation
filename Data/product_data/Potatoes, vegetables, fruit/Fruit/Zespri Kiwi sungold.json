@@ -1,0 +1,18 @@
+{
+    "id": 3745,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Fruit",
+    "product": "Zespri Kiwi sungold",
+    "price": 4.99,
+    "unit": "750 gPrijs per KG \u20ac 6,65",
+    "weight": "750 Gram",
+    "calories": 58.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.8958333333333334,
+    "price sensitivity": -0.7084337349397591
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3190,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Kabeljauwburger gepaneerd",
+    "price": 4.99,
+    "unit": "4 stuksPrijs per KG \u20ac 12,48",
+    "weight": "400 Gram",
+    "calories": 225.0,
+    "ingredients": "Ingredi\u00ebnten: 55% kabeljauw,\u00a0tarwebloem, plantaardige olie (raap, zonnebloem), water,\u00a0scharrelei-eiwit, gemodificeerd\u00a0tarwezetmeel, zout, voedingszuur (natriumacetaat [E262], citroenzuur [E330]), aardappelzetmeel, dextrose,\u00a0tarwegluten, stabilisator (hydroxypropylmethylcellulose [E464]), gist,\u00a0natriumcase\u00efnaat (melk), gedroogde glucosestroop, verdikkingsmiddel (guarpitmeel [E412], xanthaangom [E415]).\nWaarvan toegevoegde suikers 0.4g per 100 gram en waarvan toegevoegd zout 0.88g per 100 gram",
+    "lifestyle": -0.1,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24050632911392408,
+    "price sensitivity": -0.9037974683544303
+}

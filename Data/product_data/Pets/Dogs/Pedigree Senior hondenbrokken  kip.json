@@ -1,0 +1,18 @@
+{
+    "id": 180,
+    "category": "Pets",
+    "sub category": "Dogs",
+    "product": "Pedigree Senior hondenbrokken  kip",
+    "price": 8.69,
+    "unit": "2,5 kgPrijs per KG \u20ac 3,48",
+    "weight": "2.5 Kilogram",
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 1.0,
+    "price sensitivity": -0.6000000000000001
+}

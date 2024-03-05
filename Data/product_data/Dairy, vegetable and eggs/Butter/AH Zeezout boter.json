@@ -1,0 +1,18 @@
+{
+    "id": 2629,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "AH Zeezout boter",
+    "price": 1.89,
+    "unit": "100 gPrijs per KG \u20ac 18,90",
+    "weight": "100 Gram",
+    "calories": 725.0,
+    "ingredients": "Ingredi\u00ebnten: 83% roomboter, raapolie, water, zeezout, zout, conserveermiddel (kaliumsorbaat [E202]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 2.40g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.21666666666666665,
+    "price sensitivity": -0.8277945619335347
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3036,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Ontbijtspek",
+    "price": 3.9,
+    "unit": "150 gPrijs per KG \u20ac 20,60",
+    "weight": "150 Gram",
+    "calories": 272.0,
+    "ingredients": "Ingredi\u00ebnten: 97% varkensvlees, zout, gistextract, conserveermiddel (natriumacetaat [E262], natriumnitriet [E250]), specerijen, aroma's, antioxidant (natriumascorbaat [E301]), specerijenextract, rook.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 2.49g per 100 gram",
+    "lifestyle": -0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3551296505073281,
+    "price sensitivity": -0.9851411589895988
+}

@@ -1,0 +1,18 @@
+{
+    "id": 126,
+    "category": "Pets",
+    "sub category": "Cats",
+    "product": "Gourmet Gold mousse met kip",
+    "price": 0.69,
+    "unit": "85 gPrijs per KG \u20ac 8,12",
+    "weight": "85 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: Vlees en dierlijke bijproducten (58% waarvan kip 12%), mineralen, plantaardige bijproducten, suiker",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.052132701421800945,
+    "price sensitivity": -0.8307692307692308
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2487,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Roomboter croissants",
+    "price": 1.19,
+    "unit": "4 stuks",
+    "weight": "180 Gram",
+    "calories": 403.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 25% roomboter, gist, water, glucose-fructosestroop, ge\u00efnactiveerd tarwedesempoeder,\u00a0room, suiker, gejodeerd zout, raapolie, maltodextrine, emulgator (mono- en diglyceriden van vetzuren, veresterd met monoacetyl- en diacetylwijnsteenzuur [E472e], mono- en diglyceriden van vetzuren [E471]), palmvet, antioxidant (ascorbinezuur [E300]), dextrose, natuurlijk aroma (melk).\nWaarvan toegevoegde suikers 5.4g per 100 gram en waarvan toegevoegd zout 0.95g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.03496503496503496,
+    "price sensitivity": -0.7363896848137537
+}

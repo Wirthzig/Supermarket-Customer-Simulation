@@ -1,0 +1,18 @@
+{
+    "id": 955,
+    "category": "Sports and dietary foods",
+    "sub category": "Sports drinks",
+    "product": "Aquarius Lemon",
+    "price": 1.59,
+    "unit": "0,5 lPrijs per LT \u20ac 3,18",
+    "weight": "500 Milliliter",
+    "calories": 27.0,
+    "ingredients": "Ingredi\u00ebnten: \u00a0Water; suiker; voedingszuur: citroenzuur; natriumchloride; zuurteregelaars: natriumcitraat, kaliumfosfaat en calciumfosfaat; natuurlijk citroenaroma met ander natuurlijk aroma; antioxidant: ascorbinezuur ; stabilisatoren: arabische gom, glycerolesters van houthars; vitamine B6.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.027848101265822787,
+    "price sensitivity": -0.5666666666666667
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3197,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "Iglo Fishcuisine Bretagne",
+    "price": 4.99,
+    "unit": "380 gPrijs per KG \u20ac 13,13",
+    "weight": "380 Gram",
+    "calories": 175.0,
+    "ingredients": "Ingredi\u00ebnten: Alaska koolVIS 52%, water, paneermeel 11% (TARWEbloem, water, gist, zout, dextrose), koolzaadolie, uien, kwarkbereiding (kwark (MELK), magere yoghurt (MELK)), peterselie 0,8%, maiszetmeel, zout, citroensap uit concentraat 0,5%, EIpoeder, uipoeder, paprikapoeder, knoflookpoeder, zout.",
+    "lifestyle": 0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24050632911392408,
+    "price sensitivity": -0.809620253164557
+}

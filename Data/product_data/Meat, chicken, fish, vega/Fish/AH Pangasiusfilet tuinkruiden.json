@@ -1,0 +1,18 @@
+{
+    "id": 3223,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Pangasiusfilet tuinkruiden",
+    "price": 4.99,
+    "unit": "ca. 310 gPrijs per KG \u20ac 16,10",
+    "weight": "280 Gram",
+    "calories": 193.0,
+    "ingredients": "Ingredi\u00ebnten: 73%\u00a0pangasius, plantaardige olie (koolzaad, zonnebloem, palm),\u00a0tarwebloem, water, gemodificeerd\u00a0tarwezetmeel, zout,\u00a0dextrose, specerijen, ui, ma\u00efsmeel,\u00a0weipoeder, 0,1% kruiden, voedingszuur (kaliumcitraten [E332], citroenzuur [E330]), rijsmiddel (natriumcarbonaten [E500], difosfaten [E450]), verdikkingsmiddel (xanthaangom [E415]).\nWaarvan toegevoegde suikers 0.5g per 100 gram en waarvan toegevoegd zout 0.94g per 100 gram",
+    "lifestyle": -0.2,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24050632911392408,
+    "price sensitivity": -0.8906329113924051
+}

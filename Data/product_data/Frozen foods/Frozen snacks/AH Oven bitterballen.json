@@ -1,0 +1,18 @@
+{
+    "id": 774,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "AH Oven bitterballen",
+    "price": 2.45,
+    "unit": "300 gPrijs per KG \u20ac 8,17",
+    "weight": "300 Gram",
+    "calories": 269.0,
+    "ingredients": "Ingredi\u00ebnten: water, paneermeel\u00a0(tarwe), 19% rundvlees, plantaardige olie (zonnebloem, palm, raap),\u00a0tarwebloem, scharreleigeel,\u00a0room, rundergelatine, zout, gistextract, emulgator (hydroxypropylmethylcellulose [E464], cellulosegom [E466], mono- en diglyceriden van vetzuren [E471]), specerijen (o.a.\u00a0selderij), gehydrolyseerd\u00a0soja-eiwit, gedroogde glucosestroop, suiker, dextrose, kruiden, stabilisator (methylcellulose [E461], difosfaat [E450], carrageen [E407]), ma\u00efszetmeel, aroma, zeezout, suikerstroop, citroensap,\u00a0tarwegluten, rundvleesextract, rundvleespoeder,\u00a0tarwe, maltodextrine,\u00a0sojaboon, palmvet, verdikkingsmiddel (xanthaangom [E415], guarpitmeel [E412]), kleurstof (karamel [E150a]), gekaramelliseerde suiker, aardappelzetmeel, zuurteregelaar (natriumcarbonaat [E500]).\nWaarvan toegevoegde suikers 0.8g per 100 gram en waarvan toegevoegd zout 1.13g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2380952380952381,
+    "price sensitivity": -0.8639798488664987
+}

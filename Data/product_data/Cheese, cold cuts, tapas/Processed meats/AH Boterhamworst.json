@@ -1,0 +1,18 @@
+{
+    "id": 3028,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Boterhamworst",
+    "price": 1.89,
+    "unit": "ca. 125 gPrijs per KG \u20ac 15,15",
+    "weight": "125 Gram",
+    "calories": 261.0,
+    "ingredients": "Ingredi\u00ebnten: 64% varkensvlees\u00aa, water, aardappelzetmeel, zuurteregelaar (kaliumacetaat [E261], natriumlactaat [E325], kaliumlactaat [E326], glucono-delta-lacton [E575]), varkensspek\u00aa, zout, specerijen, specerijenextract, gehydrolyseerd plantaardig eiwit (ma\u00efs, koolzaad), natuurlijk aroma, glucosestroop, dextrose, stabilisator (difosfaat [E450], trifosfaat [E451]), varkenseiwit, antioxidant (natriumascorbaat [E301]), conserveermiddel (natriumnitriet [E250]). \u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.4g per 100 gram en waarvan toegevoegd zout 1.77g per 100 gram",
+    "lifestyle": 0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12852311161217586,
+    "price sensitivity": -0.8454680534918276
+}

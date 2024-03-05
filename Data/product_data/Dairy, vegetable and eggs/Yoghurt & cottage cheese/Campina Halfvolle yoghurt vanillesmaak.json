@@ -1,0 +1,18 @@
+{
+    "id": 2693,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "Campina Halfvolle yoghurt vanillesmaak",
+    "price": 2.9,
+    "unit": "1 lPrijs per LT \u20ac 2,09",
+    "weight": "1 Liter",
+    "calories": 78.0,
+    "ingredients": "Ingredi\u00ebnten: halfvolle YOGHURT, suiker, gemodificeerd ma\u00efszetmeel, aroma, kleurstoffen: curcumine en annato",
+    "lifestyle": 0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.385,
+    "price sensitivity": -0.8580060422960725
+}

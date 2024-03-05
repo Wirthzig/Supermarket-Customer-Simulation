@@ -1,0 +1,18 @@
+{
+    "id": 2636,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "Lurpak Ongezouten roomboter met koolzaadolie",
+    "price": 3.89,
+    "unit": "250 gPrijs per KG \u20ac 15,56",
+    "weight": "250 Gram",
+    "calories": 706.0,
+    "ingredients": "Ingredi\u00ebnten: Boter (64%) (MELK), koolzaadolie (26%), water, zuursel (MELK)",
+    "lifestyle": -0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.55,
+    "price sensitivity": -0.7673716012084593
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2476,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Turks brood",
+    "price": 1.29,
+    "unit": "500 gPrijs per KG \u20ac 2,58",
+    "weight": "500 Gram",
+    "calories": 248.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, bakkersgist, zout, 1% zwarte komijn, 1% sesamzaad, veldbonenmeel, tarwe-eiwit, aardappelmeel, dextrose, antioxidant (ascorbinezuur [E300]).\nWaarvan toegevoegde suikers 0.10g per 100 gram en waarvan toegevoegd zout 1.18g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.04195804195804196,
+    "price sensitivity": -0.025787965616045794
+}

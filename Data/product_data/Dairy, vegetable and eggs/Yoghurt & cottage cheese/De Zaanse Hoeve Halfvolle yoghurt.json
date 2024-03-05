@@ -1,0 +1,18 @@
+{
+    "id": 2679,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "De Zaanse Hoeve Halfvolle yoghurt",
+    "price": 1.35,
+    "unit": "1 lPrijs per LT \u20ac 1,35",
+    "weight": "1 Liter",
+    "calories": 46.0,
+    "ingredients": "Ingredi\u00ebnten: halfvolle yoghurt*.\nWaarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter\n*Van weidemelk.",
+    "lifestyle": 0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12666666666666668,
+    "price sensitivity": -0.8338368580060422
+}

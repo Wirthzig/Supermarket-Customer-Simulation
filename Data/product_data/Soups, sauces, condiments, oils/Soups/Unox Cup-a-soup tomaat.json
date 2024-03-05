@@ -1,0 +1,18 @@
+{
+    "id": 1176,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Unox Cup-a-soup tomaat",
+    "price": 1.79,
+    "unit": "3 x 175 mlPrijs per LT \u20ac 3,41",
+    "weight": "3 Stuks (piece)",
+    "calories": 31.0,
+    "ingredients": "Ingredi\u00ebnten: Tomaat\u00b9 38%, aardappelzetmeel, croutons 11% (witbrood (TARWEBLOEM, zout, gist, raapzaadolie), palmolie, antioxidant: rozemarijnextract), suiker, deegwaar 8% (harde TARWEGRIES, zout), gistextract, gejodeerd zout, dextrose, zout, uipoeder\u00b9, ma\u00efsolie, mineraalzout (kalium), glucosestroop, specerijen (knoflookpoeder\u00b9, peper), peterselie\u00b9 0,5%, geconcentreerd groentensap\u00b9 (KNOLSELDERIJ, wortel, prei, ui). Kan ei, melk, mosterd, soja bevatten. \u00b9 op duurzame wijze geteeld.",
+    "lifestyle": -0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09955423476968796,
+    "price sensitivity": -0.9220055710306406
+}

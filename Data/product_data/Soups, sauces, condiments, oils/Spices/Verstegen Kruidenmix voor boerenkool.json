@@ -1,0 +1,18 @@
+{
+    "id": 996,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Spices",
+    "product": "Verstegen Kruidenmix voor boerenkool",
+    "price": 1.49,
+    "unit": "10 gPrijs per KG \u20ac 149,00",
+    "weight": "10 Gram",
+    "calories": 256.0,
+    "ingredients": "Ingredi\u00ebnten: groenten (46% ui, 6% wortel), zout, specerijen (4% SELDERIJZAAD, 3% peper, nootmuskaat, koriander, kurkuma, komijn), 1% kruiden (majoraan).",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.07726597325408618,
+    "price sensitivity": -0.9220055710306406
+}

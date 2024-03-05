@@ -1,0 +1,18 @@
+{
+    "id": 3531,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Maaltijdsalade garnalen",
+    "price": 6.29,
+    "unit": "450 gPrijs per KG \u20ac 13,98",
+    "weight": "450 Gram",
+    "calories": 130.0,
+    "ingredients": "Ingredi\u00ebnten: groente (14% komkommer, 8,7% wortel, 8,6% radijs, 6,9% paksoi, 4,8% groene\u00a0sojaboon, 4,5% spinazie, 4,3% Chinese kool), 16%\u00a0garnaal, water, plantaardige olie (zonnebloem, koolzaad), durumtarwegriesmeel, suiker, zout, natuurlijke aroma's, 0,6% zwart\u00a0sesamzaad, 0,6% wit\u00a0sesamzaad, limoensapconcentraat, specerijen,\u00a0tarwegluten,\u00a0sojaboon,\u00a0tarwe, voedingszuur (azijnzuur [E260], melkzuur [E270]), gebufferd azijnpoeder\u00a0(conserverend ingredi\u00ebnt), azijn, gedroogd korianderblad, ui-extract, stabilisator (xanthaangom [E415]), citrusvezel.\nWaarvan toegevoegde suikers 0.7g per 100 gram en waarvan toegevoegd zout 0.60g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.7258064516129032,
+    "price sensitivity": -0.05932203389830515
+}

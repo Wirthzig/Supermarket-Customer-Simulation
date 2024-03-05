@@ -1,0 +1,18 @@
+{
+    "id": 2090,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "Haribo Kikkers",
+    "price": 1.79,
+    "unit": "250 gPrijs per KG \u20ac 7,16",
+    "weight": "250 Gram",
+    "calories": 345.0,
+    "ingredients": "Ingredi\u00ebnten: Glucosestroop, suiker, dextrose, gelatine, voedingszuur: citroenzuur, vruchten- en plantenconcentraten: spirulina, saffloer, appel, glansmiddelen: bijenwas wit en geel, carnaubawas, aroma, invertsuikerstroop\n\nKan sporen bevatten van melk, tarwe.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.21610169491525422,
+    "price sensitivity": -0.6445497630331753
+}

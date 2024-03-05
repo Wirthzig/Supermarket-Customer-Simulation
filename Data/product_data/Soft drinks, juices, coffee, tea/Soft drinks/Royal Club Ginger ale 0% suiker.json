@@ -1,0 +1,18 @@
+{
+    "id": 1593,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Royal Club Ginger ale 0% suiker",
+    "price": 1.99,
+    "unit": "1 lPrijs per LT \u20ac 1,99",
+    "weight": "1 Liter",
+    "calories": 1.0,
+    "ingredients": "Ingredi\u00ebnten: koolzuurhoudend water, natuurlijk gember aroma, voedingszuur (citroenzuur), natuurlijk aroma, zuurteregelaar (natriumcitraat), zoetstoffen (sucralose, acesulfaam-K), kleurstof (sulfietammoniakkaramel).",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1163141993957704,
+    "price sensitivity": -0.6962025316455696
+}

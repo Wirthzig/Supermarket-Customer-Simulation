@@ -1,0 +1,18 @@
+{
+    "id": 812,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Hertog Vegan vanille",
+    "price": 4.79,
+    "unit": "0,9 lPrijs per LT \u20ac 5,32",
+    "weight": "900 Milliliter. 472 Gram",
+    "calories": 176.0,
+    "ingredients": "Ingredi\u00ebnten: water, suiker, glucose-fructosestroop, glucosestroop, kokosolie, dextrose, SOJAMEEL (2%), stabilisatoren (guargom, johannesbroodpitmeel, carrageen), natuurlijk vanille-aroma, emulgator (mono- en diglyceriden van vetzuren), zout, uitgeputte gemalen vanillestokjes, kleurstof (carotenen).",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5476190476190476,
+    "price sensitivity": -0.8639798488664987
+}

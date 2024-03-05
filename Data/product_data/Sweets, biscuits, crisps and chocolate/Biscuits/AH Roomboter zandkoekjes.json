@@ -1,0 +1,18 @@
+{
+    "id": 2126,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Roomboter zandkoekjes",
+    "price": 1.85,
+    "unit": "200 gNormale prijs per KG \u20ac 9,25",
+    "weight": "200 Gram",
+    "calories": 522.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 30% roomboter, suiker, water, rijsmiddel (natriumcarbonaat [E500], difosfaat [E450]), zout, invertsuikerstroop, kleurstof (caroteen [E160a])\nWaarvan toegevoegde suikers 23g per 100 gram en waarvan toegevoegd zout 0.56g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.22881355932203387,
+    "price sensitivity": -0.29166666666666674
+}

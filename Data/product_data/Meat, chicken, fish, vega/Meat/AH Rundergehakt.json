@@ -1,0 +1,18 @@
+{
+    "id": 3387,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Rundergehakt",
+    "price": 9.49,
+    "unit": "1000 gPrijs per KG \u20ac 9,49",
+    "weight": "1 Kilogram",
+    "calories": 228.0,
+    "ingredients": "Ingredi\u00ebnten: 98% rundvlees, natuurlijk aroma, antioxidant (natriumascorbaat [E301], natriumcitraat [E331])\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5253164556962027,
+    "price sensitivity": -0.6949152542372882
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2537,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Mini roombroodjes",
+    "price": 3.5,
+    "unit": "4 stuks",
+    "weight": "4 Aantal",
+    "calories": 203.0,
+    "ingredients": "Ingredi\u00ebnten: volle melk, tarwebloem, water, dextrose, suiker, gemodificeerd ma\u00efszetmeel, palmvet, weipoeder, tarwegluten, bakkersgist, zetmeel (ma\u00efs, tarwe), emulgator (natriumstearoyl-2-lactylaat [E481], mono- en diglyceriden van vetzuren, veresterd met monoacetyl- en diacetylwijnsteenzuur [E472e], mono- en diglyceriden van vetzuren [E471]), roompoeder, geleermiddel (carrageen [E407], natriumfosfaat [E339]), gejodeerd zout, wei-eiwitconcentraat, veldbonenmeel, boterolie, meelverbeteraar (ascorbinezuur [E300]), tarwemoutmeel, kleurstof (caroteen [E160a]), glucosestroop, melkeiwit, aroma, vanillearoma, kleurend kurkuma-extract, natuurlijk aroma.\nWaarvan toegevoegde suikers 12g per 100 gram en waarvan toegevoegd zout 0.39g per 100 gram.",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1965034965034965,
+    "price sensitivity": -0.3696275071633238
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1999,
+    "category": "Snacks",
+    "sub category": "Fruit bars",
+    "product": "FBR Banana choco",
+    "price": 2.99,
+    "unit": "120 gPrijs per KG \u20ac 24,92",
+    "weight": "4 Stuks (piece). 120 Gram",
+    "calories": 311.0,
+    "ingredients": "Ingredi\u00ebnten: Dadelpasta 85%, cacaokernen 5%, banaanpoeder 4%, appelstukjes 4%, cacao poeder 2%. Kan sporen van ZWAVELDIOXIDE bevatten.",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4871060171919771,
+    "price sensitivity": 0.042654028436019065
+}

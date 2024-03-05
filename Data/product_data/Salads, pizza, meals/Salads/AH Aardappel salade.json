@@ -1,0 +1,18 @@
+{
+    "id": 3533,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Aardappel salade",
+    "price": 2.39,
+    "unit": "600 gPrijs per KG \u20ac 3,98",
+    "weight": "600 Gram",
+    "calories": 178.0,
+    "ingredients": "Ingredi\u00ebnten: 64% aardappel, water, raapolie, ui, suiker, azijn, vrije-uitloopeigeel, zout, ma\u00efszetmeel, gemodificeerd ma\u00efszetmeel, voedingszuur (melkzuur [E270]), conserveermiddel (kaliumsorbaat [E202], natriumbenzoaat [E211]), specerijen (o.a. mosterd), verdikkingsmiddel (guarpitmeel [E412], xanthaangom [E415]), limoensapconcentraat, peterselie, extract (wortel, peper), knoflook, natuurlijke aroma's.\nWaarvan toegevoegde suikers 3.0g per 100 gram en waarvan toegevoegd zout 1.03g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09677419354838711,
+    "price sensitivity": 0.15254237288135597
+}

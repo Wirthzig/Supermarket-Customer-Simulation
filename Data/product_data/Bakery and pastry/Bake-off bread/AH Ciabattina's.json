@@ -1,0 +1,18 @@
+{
+    "id": 2472,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Ciabattina's",
+    "price": 0.79,
+    "unit": "2 stuks",
+    "weight": "150 Gram",
+    "calories": 263.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, olijfolie, gist, gejodeerd zout, ge\u00efnactiveerd tarwezuurdesem, antioxidant (ascorbinezuur [E300]), rijstebloem.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.00g per 100 gram",
+    "lifestyle": -0.9,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.006993006993006999,
+    "price sensitivity": 0.26074498567335236
+}

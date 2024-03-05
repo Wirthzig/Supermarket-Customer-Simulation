@@ -1,0 +1,18 @@
+{
+    "id": 2461,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Liefde & Passie Stokbrood wit",
+    "price": 1.99,
+    "unit": "260 gPrijs per KG \u20ac 7,65",
+    "weight": "260 Gram",
+    "calories": 245.0,
+    "ingredients": "Ingredi\u00ebnten: 57% tarwebloem, water, 6,1% roggebloem, roggedesem, 2,4% durumtarwegries, tarwegluten, moutmeel (gerst, 0,6% tarwe), 1,2% tarwedesempoeder, gejodeerd zout, bakkersgist, tarwezetmeel, acerolapoeder (meelverbeteraar).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.02g per 100 gram",
+    "lifestyle": 0.7,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09090909090909091,
+    "price sensitivity": -0.2550143266475646
+}

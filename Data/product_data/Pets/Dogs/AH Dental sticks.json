@@ -1,0 +1,18 @@
+{
+    "id": 149,
+    "category": "Pets",
+    "sub category": "Dogs",
+    "product": "AH Dental sticks",
+    "price": 0.59,
+    "unit": "110 gPrijs per KG \u20ac 5,36",
+    "weight": "110 Gram",
+    "calories": NaN,
+    "ingredients": "Geproduceerd in: Duitsland",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.04028436018957346,
+    "price sensitivity": -0.15244755244755237
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1998,
+    "category": "Snacks",
+    "sub category": "Fruit bars",
+    "product": "FBR Strawberry popcorn",
+    "price": 2.99,
+    "unit": "120 gNormale prijs per KG \u20ac 24,92",
+    "weight": "4 Stuks (piece). 120 Gram",
+    "calories": 291.0,
+    "ingredients": "Ingredi\u00ebnten: Dadelpasta 89%, appelstukjes 5%, popcorn 4% (mais 88%, zonnebloemolie 12%), aardbeipoeder 2%, natuurlijk aroma. Kan pit fragmenten bevatten. Kan sporen van GLUTEN, SOJA, NOTEN, PINDAS, ZWAVELDIOXIDE, MELK en SESAM bevatten.",
+    "lifestyle": -0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4871060171919771,
+    "price sensitivity": 0.1018957345971565
+}

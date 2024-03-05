@@ -1,0 +1,18 @@
+{
+    "id": 2137,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Digestive",
+    "price": 0.89,
+    "unit": "400 gPrijs per KG \u20ac 2,23",
+    "weight": "400 Gram",
+    "calories": 485.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, zonnebloemolie, volkoren\u00a0tarwemeel, suiker, invertsuikerstroop, rijsmiddel (natriumcarbonaat [E500], citroenzuur [E330], ammoniumcarbonaat [E503]), zout.\nWaarvan toegevoegde suikers 16g per 100 gram en waarvan toegevoegd zout 0.34g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.025423728813559317,
+    "price sensitivity": -0.3750000000000001
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1438,
+    "category": "Beer and aperitifs",
+    "sub category": "Special beers",
+    "product": "Affligem Tripel 6-pack",
+    "price": 6.74,
+    "unit": "6 x 30 clNormale prijs per LT \u20ac 4,99",
+    "weight": "30 Centiliter",
+    "calories": 74.0,
+    "ingredients": "Ingredi\u00ebnten: water, GERSTEMOUT, glucosestroop, hop, hopextract, suiker, gist",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.25423728813559326,
+    "price sensitivity": -0.8206278026905829
+}

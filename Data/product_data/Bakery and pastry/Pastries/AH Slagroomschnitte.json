@@ -1,0 +1,18 @@
+{
+    "id": 2523,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Slagroomschnitte",
+    "price": 5.75,
+    "unit": "per stuk",
+    "weight": "1 Aantal",
+    "calories": 295.0,
+    "ingredients": "Ingredi\u00ebnten: 19% slagroom, suiker, scharrelei, magere\u00a0melk,\u00a0tarwebloem, fruit (2,6% mandarijn, 1,9% framboos, 1,8% aardbei, 1,6% kiwi, 0,3% rode bes), palmolie, 3,8%\u00a0room, water, zetmeel (tarwe, ma\u00efs), glucosestroop, emulgator (mono- en diglyceriden van vetzuren, veresterd met melkzuur [E472b], esters van propaan-1,2-diol met vetzuren [E477], mono- en diglyceriden van vetzuren [E471], sojalecithine [E322]), rijsmiddel (difosfaat [E450], natriumcarbonaat [E500]), rundergelatine, mageremelkpoeder, cacaomassa\u00b0, verdikkingsmiddel (xanthaangom [E415], pectine [E440]), cacaoboter\u00b0, stabilisator (carrageen [E407]), vollemelkpoeder, zuurteregelaar (citroenzuur [E330], natriumcitraat [E331]), natuurlijk aroma,\u00a0boterolie,\u00a0weipoeder, natuurlijk vanillearoma.\nWaarvan toegevoegde suikers 20g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.35384615384615387,
+    "price sensitivity": 0.4957020057306589
+}

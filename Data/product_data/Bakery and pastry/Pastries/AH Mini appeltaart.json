@@ -1,0 +1,18 @@
+{
+    "id": 2524,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Mini appeltaart",
+    "price": 3.9,
+    "unit": "3 stuks",
+    "weight": "288 Gram",
+    "calories": 295.0,
+    "ingredients": "Ingredi\u00ebnten: 34% appel, Tarwebloem, 16% ROOMBOTER, suiker, scharrelei, rozijnen, water, gemodificeerd zetmeel (ma\u00efs, aardappel), abrikoos, glucosestroop, kaneel, zout, rijsmiddel (E500, E450), citroenschillen, dextrose, aroma, plantaardige olie (raapzaad), voedingszuur (citroenzuur), conserveermiddel (E202), zuurteregelaar (E333, E331), verdikkingsmiddel (xanthaangom), geleermiddel (pectinen), natuurlijke aroma's.    Allergie-informatie: bevat tarwegluten, lactose, melkeiwit, ei.   Gemaakt in een bedrijf waar ook noten worden verwerkt.",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.22447552447552446,
+    "price sensitivity": -0.9083094555873926
+}

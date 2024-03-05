@@ -1,0 +1,18 @@
+{
+    "id": 987,
+    "category": "Sports and dietary foods",
+    "sub category": "Sports drinks",
+    "product": "Active O2 Appel-kiwi",
+    "price": 1.9,
+    "unit": "0,5 lPrijs per LT \u20ac 2,18",
+    "weight": "500 Milliliter",
+    "calories": 16.0,
+    "ingredients": "Ingredi\u00ebnten: Natuurlijk mineraalwater, fructosestroop, zuurteregelaar: citroenzuur, zoetstoffen: cyclamaten, sacharinen, acesulfaam-K; aroma, zuurstof (0,003%)",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.035696202531645564,
+    "price sensitivity": -0.6258124419684308
+}

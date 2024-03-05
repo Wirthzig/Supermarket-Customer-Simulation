@@ -1,0 +1,18 @@
+{
+    "id": 2117,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "Mars Minimix",
+    "price": 4.79,
+    "unit": "500 gPrijs per KG \u20ac 9,58",
+    "weight": "25 Stuks (piece). 500 Gram",
+    "calories": 443.0,
+    "ingredients": "Ingredi\u00ebnten:MILKY WAY Ingredi\u00ebnten: suiker, glucosestroop, magere MELKPOEDER, cacaoboter, cacaomassa, zonnebloemolie, botervet (van MELK), LACTOSE, weipermeaat (van MELK), GERSTEMOUTEXTRACT, zout, emulgator (SOJALECITHINE), KIPPENEI-EIWITPOEDER, palmvet, MELKEIWIT, zetmeel, vanille-extract. (Kan bevatten: PINDA, HAZELNOOT). # BOUNTY - Ingredi\u00ebnten: suiker, kokos (21%), glucosestroop, cacaoboter, cacaomassa, magere MELKPOEDER, emulgatoren (SOJALECITHINE, E471), botervet (van MELK), LACTOSE, weipermeaat (van MELK), bevochtigingsmiddel (glycerol), zout, vanille-extract. # MARS - Ingredi\u00ebnten: suiker, glucosestroop, volle MELKPOEDER, cacaoboter, cacaomassa, zonnebloemolie, magere MELKPOEDER, LACTOSE, weipermeaat (van MELK), magere cacao, GERSTEMOUTEXTRACT, botervet (van MELK), zout, emulgator (SOJALECITHINE), KIPPENEI-EIWITPOEDER, palmvet, MELKEIWIT, zetmeel, vanille-extract. (Kan bevatten: PINDA, HAZELNOOT). # TWIX - Ingredi\u00ebnten: suiker, glucosestroop, TARWEMEEL (17%), palmvet, magere MELKPOEDER, cacaoboter, cacaomassa, botervet (van MELK), LACTOSE, weipermeaat (van MELK), magere cacao, zout, emulgator (SOJALECITHINE), rijsmiddel (E500), vanille-extract. (Kan bevatten: HAZELNOOT, AMANDEL, GERST, HAVER). # SNICKERS - Ingredi\u00ebnten: suiker, glucosestroop, PINDA'S, magere MELKPOEDER, cacaoboter, cacaomassa, zonnebloemolie, botervet (van MELK), LACTOSE, weipermeaat (van MELK), palmvet, zout, emulgator (SOJALECITHINE), KIPPENEI-EIWITPOEDER, MELKEIWIT, vanille-extract. (Kan bevatten: HAZELNOOT).",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.8516949152542371,
+    "price sensitivity": 0.4549763033175356
+}

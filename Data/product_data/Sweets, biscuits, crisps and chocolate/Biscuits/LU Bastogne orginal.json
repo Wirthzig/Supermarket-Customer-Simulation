@@ -1,0 +1,18 @@
+{
+    "id": 2152,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "LU Bastogne orginal",
+    "price": 1.99,
+    "unit": "260 gNormale prijs per KG \u20ac 7,65",
+    "weight": "260 Gram",
+    "calories": 487.0,
+    "ingredients": "Ingredi\u00ebnten: TARWEBLOEM 45 %, suiker, palmolie, kandijpoeder 9,5 %, fructose-glucosestroop, EIEREN, kandijstroop, rijsmiddel (natriumcarbonaten), kleurstof (karamel), glucosestroop, kaneel 0,2 %, zout, aroma. KAN SESAM BEVATTEN.",
+    "lifestyle": 0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2584745762711864,
+    "price sensitivity": -0.5833333333333334
+}

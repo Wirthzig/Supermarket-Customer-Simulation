@@ -1,0 +1,18 @@
+{
+    "id": 2993,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Scharrel flinterdunne kipfilet",
+    "price": 2.49,
+    "unit": "100 gPrijs per KG \u20ac 24,90",
+    "weight": "100 Gram",
+    "calories": 123.0,
+    "ingredients": "Ingredi\u00ebnten: 85% kippenvlees, water, zuurteregelaar (kaliumacetaat [E261], kaliumlactaat [E326]), zout, kaliumchloride (dieetzout), dextrose, suiker, natuurlijk aroma, aroma, rookaroma, voedingsvezel (aardappel, citrus, bamboe), stabilisator (carrageen [E407], difosfaat [E450]), antioxidant (natriumascorbaat [E301]), conserveermiddel (natriumnitriet [E250]).\nWaarvan toegevoegde suikers 1.5g per 100 gram en waarvan toegevoegd zout 1.81g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1961668545659527,
+    "price sensitivity": -0.8989598811292719
+}

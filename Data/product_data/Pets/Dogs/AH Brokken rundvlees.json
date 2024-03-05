@@ -1,0 +1,18 @@
+{
+    "id": 170,
+    "category": "Pets",
+    "sub category": "Dogs",
+    "product": "AH Brokken rundvlees",
+    "price": 1.55,
+    "unit": "1,25 kgPrijs per KG \u20ac 1,25",
+    "weight": "1240 Gram",
+    "calories": NaN,
+    "ingredients": "Geproduceerd in: NederlandNL13166",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.15402843601895735,
+    "price sensitivity": -0.606993006993007
+}

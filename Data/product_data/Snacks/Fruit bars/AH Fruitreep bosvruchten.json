@@ -1,0 +1,18 @@
+{
+    "id": 2008,
+    "category": "Snacks",
+    "sub category": "Fruit bars",
+    "product": "AH Fruitreep bosvruchten",
+    "price": 1.65,
+    "unit": "216 gPrijs per KG \u20ac 7,64",
+    "weight": "216 Gram",
+    "calories": 395.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, suiker, fructo-oligosaccharide, bevochtigingsmiddel (glycerol [E422]), plantaardige olie (palm, raap, kokos, zonnebloem), glucose-fructosestroop,\u00a0havermout, dextrose, 3,2% zwartebessenpuree, invertsuikerstroop, suikerrietvezel,\u00a0tarwezetmeel, concentraat (0,9% framboos, 0,9% braam),\u00a0scharrelei, zuurteregelaar (calciumcitraat [E333], natriumcitraat [E331]), voedingszuur (citroenzuur [E330]), natuurlijk aroma, geleermiddel (pectine [E440]),\u00a0melkeiwit, zout, mageremelkpoeder, rijsmiddel (natriumcarbonaat [E500]), vanillearoma.\nWaarvan toegevoegde suikers 29g per 100 gram en waarvan toegevoegd zout 0.17g per 100 gram",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10315186246418334,
+    "price sensitivity": -0.7772511848341233
+}

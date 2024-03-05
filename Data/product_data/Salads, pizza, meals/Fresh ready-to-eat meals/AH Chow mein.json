@@ -1,0 +1,18 @@
+{
+    "id": 3492,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Chow mein",
+    "price": 2.59,
+    "unit": "200 gNormale prijs per KG \u20ac 12,95",
+    "weight": "200 Gram",
+    "calories": 135.0,
+    "ingredients": "Ingredi\u00ebnten: water, tarwebloem, groente (5,7% lente-ui, 5,7% wortel, 5,7% witte kool, 5,7% doperwt, 4,2% ma\u00efs), 11% vrije-uitloopei, plantaardige olie (soja, raap, sesam), zout, suiker, zuurteregelaar (natriumcarbonaat [E500]), sojaboon, specerijen, conserveermiddel (kaliumsorbaat [E202]).\nWaarvan toegevoegde suikers 0.7g per 100 gram en waarvan toegevoegd zout 0.70g per 100 gram",
+    "lifestyle": -0.6,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1290322580645161,
+    "price sensitivity": -0.9576271186440678
+}

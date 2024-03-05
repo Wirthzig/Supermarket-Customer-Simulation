@@ -1,0 +1,18 @@
+{
+    "id": 2502,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "Dudok Red velvet taart",
+    "price": 14.99,
+    "unit": "per stuk",
+    "weight": "1 Stuks (piece)",
+    "calories": 405.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, water, plantaardige olie(zonnebloem, raapzaad), Plantaardig Vet(palm, palmpit, kokos), TARWEbloem, EI, volle MELKpoeder, MELK (magere), cacaoboter, ROOMKAAS(4%), MELK, maiszetmeel (gemodificeerd), gemodificeerd zetmeel:(E1414), room(MELK), water, weipoeder(MELK), Rijsmiddel(E501, E450), magere MELKpoeder, dextrose, Natuurlijk Aroma(vanille, natuurlijk aroma), calciumcarbonaat, ijzer, vitamine B1, vitamine B3, Verdikkingsmiddel(E466, E410), zout, Kleurstof(E122, E160a, E102)*, aroma(aroma), Conserveermiddel(E202), EIgeel, EIpoeder, Emulgator(E471, E433, E477), emulgator:(lecitine, E322 (SOJA)), Stabilisator(E407, E415), stremsel, TARWEgluten, zuursel, Zuurteregelaar(E330,E270) *Kan de activiteit of oplettendheid van kinderen nadelig beinvloeden. Dit product wordt gemaakt in een ruimte waar pinda's en noten worden verwerkt.",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 1.0,
+    "price sensitivity": 0.26074498567335236
+}

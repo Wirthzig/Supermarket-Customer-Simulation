@@ -1,0 +1,18 @@
+{
+    "id": 3440,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "Unox Rookworst extra mager",
+    "price": 2.95,
+    "unit": "275 gPrijs per KG \u20ac 10,73",
+    "weight": "275 Gram",
+    "calories": 195.0,
+    "ingredients": "Ingredi\u00ebnten Varkensvlees\u00b9 83%, water, rijstebloem, rundercollageen, zout, aardappelzetmeel, minerale zout (kalium), natuurlijke aroma's, voedingszuur (E330), stabilisator (E452, E451), antioxidant (E300, E392), conserveermiddel (E250), rookaroma. \u00b9 Beter Leven keurmerk 1 ster keurmerk 1 ster",
+    "lifestyle": 0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11139240506329116,
+    "price sensitivity": -0.18644067796610186
+}

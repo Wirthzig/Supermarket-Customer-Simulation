@@ -1,0 +1,18 @@
+{
+    "id": 2292,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Crackers, rice cakes",
+    "product": "Wasa Vezelrijk",
+    "price": 2.9,
+    "unit": "300 gPrijs per KG \u20ac 6,97",
+    "weight": "30 Stuks (piece). 300 Gram",
+    "calories": 329.0,
+    "ingredients": "Ingredienten: Volkoren ROGGEMEEL (57 g*), TARWEZEMELEN (27 g*), HAVERVLOKKEN (13 g*), SESAMZAAD (8 g*), TARWEKIEMEN, zout. Kan sporen van MELK bevatten.\n\n*in g voor 100 g product.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.41698113207547166,
+    "price sensitivity": -0.5416666666666667
+}

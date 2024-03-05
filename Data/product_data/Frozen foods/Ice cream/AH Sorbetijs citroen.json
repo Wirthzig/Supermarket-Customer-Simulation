@@ -1,0 +1,18 @@
+{
+    "id": 861,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "AH Sorbetijs citroen",
+    "price": 1.69,
+    "unit": "500 mlPrijs per LT \u20ac 3,38",
+    "weight": "300 Gram",
+    "calories": 102.0,
+    "ingredients": "Ingredi\u00ebnten: water, suiker, citroensap, citroensap uit concentraat, citroenvezel, stabilisator (pectine [E440]), natuurlijk aroma.\nWaarvan toegevoegde suikers 24g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13756613756613756,
+    "price sensitivity": -0.6333333333333333
+}

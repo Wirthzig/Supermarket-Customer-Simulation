@@ -1,0 +1,18 @@
+{
+    "id": 1191,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Unox Hollandse tomatensoep",
+    "price": 3.89,
+    "unit": "570 mlPrijs per LT \u20ac 6,82",
+    "weight": "570 Milliliter",
+    "calories": 53.0,
+    "ingredients": "Ingredi\u00ebnten: Groenten 88,7% (tomaat\u00b9 77,7% (tomaat\u00b9, tomatenpuree\u00b9), ui\u00b9, courgette\u00b9 2,4%, wortel\u00b9, BLEEKSELDERIJ\u00b9, rode paprika\u00b9 1,5%, gele paprika\u00b9 0,6%), gehaktballetjes 5,2% (varkensvlees\u00b2 62%, rundvlees\u00b2 19%, water, aardappelzetmeel,  voedingszuur E330, zout, stabilisator (E451, E452), peper, koriander , nootmuskaatextract), suiker, raapzaadolie, gemodificeerd ma\u00efszetmeel, gejodeerd zout, gistextract (bevat GERST), fructose, natuurlijk aroma, zout, maltodextrine, laurierblad, witte wijnextract, balsamico-azijn (wijnazijn, druivenmost). Kan ei, soja, melk, mosterd bevatten.  \u00b9 op duurzame wijze geteeld. Zie www.unox.nl voor meer informatie over duurzaam verbouwde groenten. \u00b2 Beter Leven keurmerk 1 ster.",
+    "lifestyle": -0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2555720653789004,
+    "price sensitivity": -0.78644382544104
+}

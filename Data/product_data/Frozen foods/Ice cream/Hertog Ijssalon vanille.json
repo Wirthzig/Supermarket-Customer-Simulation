@@ -1,0 +1,18 @@
+{
+    "id": 853,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Hertog Ijssalon vanille",
+    "price": 3.49,
+    "unit": "900 mlPrijs per LT \u20ac 3,88",
+    "weight": "900 Milliliter. 480 Gram",
+    "calories": 197.0,
+    "ingredients": "Ingredi\u00ebnten: Volle MELK (32%), gerehydrateerde magere MELK, ROOM (20%), suiker, glucosestroop, magere MELKPOEDER, emulgatoren (mono- en diglyceriden van vetzuren), gemalen vanillestokjes, stabilisator (johannesbroodpitmeel), natuurlijk vanille-aroma, kleurstoffen (carotenen).",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3756613756613757,
+    "price sensitivity": 0.10333333333333328
+}

@@ -1,0 +1,18 @@
+{
+    "id": 850,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Hertog Ijssalon mini ijs 3 chocolades",
+    "price": 1.59,
+    "unit": "200 mlPrijs per LT \u20ac 7,95",
+    "weight": "200 Milliliter",
+    "calories": 215.0,
+    "ingredients": "Ingredi\u00ebnten: Gerehydrateerde magere MELK, suiker, glucosestroop, BOTERCONCENTRAAT, water, kokosolie, glucose-fructosestroop, magere cacaopoeder, magere MELKPOEDER, LACTOSE en MELKEIWITTEN, volle MELKPOEDER, geconcentreerde magere MELK, cacaomassa, emulgatoren (mono- en diglyceriden van vetzuren, SOJALECITHINE), stabilisatoren (guargom, johannesbroodpitmeel, carrageen), rijsmiddel (ammoniumfosfatiden), natuurlijk vanillearoma. Kan ei, tarwe, noten bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12433862433862433,
+    "price sensitivity": -0.6500000000000001
+}

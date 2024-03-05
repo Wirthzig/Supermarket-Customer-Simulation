@@ -1,0 +1,18 @@
+{
+    "id": 695,
+    "category": "Frozen foods",
+    "sub category": "Frozen vegetables",
+    "product": "AH Rodekool met appel deelblokjes",
+    "price": 0.79,
+    "unit": "450 gPrijs per KG \u20ac 1,76",
+    "weight": "450 Gram",
+    "calories": 58.0,
+    "ingredients": "Ingredi\u00ebnten: 61% rodekool, water, 10% appelpuree, suiker, 2,5% appelstukje, aardappelzetmeel, raapolie, zeezout, azijn, specerijen, zuurteregelaar (citroenzuur [E330]).\nWaarvan toegevoegde suikers 4.0g per 100 gram en waarvan toegevoegd zout 0.60g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.018518518518518517,
+    "price sensitivity": -0.36020151133501266
+}

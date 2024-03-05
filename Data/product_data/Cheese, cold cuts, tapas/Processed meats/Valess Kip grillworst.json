@@ -1,0 +1,18 @@
+{
+    "id": 3099,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "Valess Kip grillworst",
+    "price": 2.39,
+    "unit": "80 gPrijs per KG \u20ac 29,88",
+    "weight": "80 Gram",
+    "calories": 224.0,
+    "ingredients": "Ingredi\u00ebnten: 70% magere MELK, plantaardige olie (zonnebloem, koolzaad), kippenEI-eiwit*, verdikkingsmiddel (carrageen, xanthaangom, johannesbroodpitmeel, calciumalginaat, hydroxypropylmethylcellulose), voedingszuur (kaliumlactaat, natriumdiacetaat), stabilisator (polyfosfaat, difosfaat, trifosfaat), TARWEgluten, HAVERvezel, bamboevezel, uienpoeder, MELKeiwit, antioxidant (natriumascorbaat), glucosestroop, dextrose, natuurlijk aroma, specerijen, zout, zwart zout, ijzer, *indien beschikbaar van vrije-uitloopkippen",
+    "lifestyle": 0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1848928974069899,
+    "price sensitivity": -0.7919762258543833
+}

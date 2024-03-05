@@ -1,0 +1,18 @@
+{
+    "id": 3547,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Pastasalade tonijn",
+    "price": 4.39,
+    "unit": "350 gNormale prijs per KG \u20ac 12,54",
+    "weight": "350 Gram",
+    "calories": 142.0,
+    "ingredients": "Ingredi\u00ebnten: water, groente (10% tomaat, 6,7% rode ui), durumtarwegriesmeel, 11%\u00a0scharrelei, 11%\u00a0tonijn, appel, plantaardige olie (raap, zonnebloem), 1,1% zwarte olijf, 0,9% kappertje, gedroogde tomaat, peterselie, 0,4% magere\u00a0yoghurt, suiker, gemodificeerd zetmeel (ma\u00efs, aardappel),\u00a0scharreleigeel, zout, specerijen (o.a.\u00a0mosterd), azijn, verdikkingsmiddel (xanthaangom [E415]), aroma, poeder (wortel, erwt),\u00a0weipoeder, natuurlijk aroma, voedingszuur (citroenzuur [E330], natriumcitraat [E331]), wittewijnazijn, conserveermiddel (kaliumsorbaat [E202], azijnzuur [E260]), citroensapconcentraat, antioxidant (calciumdinatrium-EDTA [E385]), stabilisator (ijzer(ii)gluconaat [E579]).\nWaarvan toegevoegde suikers 0.5g per 100 gram en waarvan toegevoegd zout 0.45g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4193548387096773,
+    "price sensitivity": -0.18644067796610186
+}

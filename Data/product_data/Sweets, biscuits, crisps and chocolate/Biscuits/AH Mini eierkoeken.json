@@ -1,0 +1,18 @@
+{
+    "id": 2147,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Mini eierkoeken",
+    "price": 1.59,
+    "unit": "8 stuks",
+    "weight": "8 Aantal",
+    "calories": 289.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, suiker, 13%\u00a0vrije-uitloopei, water, rijsmiddel (ammoniumcarbonaat [E503]), dextrose, glucosestroop, ma\u00efszetmeel,\u00a0sojabloem,\u00a0melkeiwit, zout, natuurlijk aroma,\u00a0tarwemoutmeel, meelverbeteraar (ascorbinezuur [E300]).\nWaarvan toegevoegde suikers 33g per 100 gram en waarvan toegevoegd zout 0.16g per 100 gram",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17372881355932202,
+    "price sensitivity": 0.5833333333333333
+}

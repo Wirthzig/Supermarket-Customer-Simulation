@@ -1,0 +1,18 @@
+{
+    "id": 2832,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Milk",
+    "product": "AH Biologisch Houdbare volle melk",
+    "price": 1.69,
+    "unit": "1 lPrijs per LT \u20ac 1,69",
+    "weight": "1 Liter",
+    "calories": 68.0,
+    "ingredients": "Ingredi\u00ebnten: volle melk*.\nWaarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter\nEU Landbouw \n*Van biologische oorsprong.",
+    "lifestyle": -0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.18333333333333335,
+    "price sensitivity": -0.6523031203566123
+}

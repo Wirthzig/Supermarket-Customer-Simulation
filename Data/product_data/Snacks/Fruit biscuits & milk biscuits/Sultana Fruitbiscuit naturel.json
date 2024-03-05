@@ -1,0 +1,18 @@
+{
+    "id": 2022,
+    "category": "Snacks",
+    "sub category": "Fruit biscuits & milk biscuits",
+    "product": "Sultana Fruitbiscuit naturel",
+    "price": 2.85,
+    "unit": "306 gPrijs per KG \u20ac 9,31",
+    "weight": "21 Stuks (piece). 306 Gram",
+    "calories": 391.0,
+    "ingredients": "Ingredi\u00ebnten: TARWEbloem, gedroogde druiven 35% (rozijnen en krenten in wisselende verhoudingen), zonnebloemolie, suiker, maltodextrine, rijstebloem, inuline, weipermeaatpoeder (MELK), rijsmiddelen (natriumcarbonaten, difosfaten, ammoniumcarbonaten), glucosestroop, zout, magere MELKpoeder, natuurlijke aroma's (MELK)\n\nKan noten, sesamzaad en andere glutenbevattende granen bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4469914040114613,
+    "price sensitivity": -0.8483412322274881
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3480,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Hollandse stamppot bloemkool-broccoli",
+    "price": 4.49,
+    "unit": "500 gPrijs per KG \u20ac 8,98",
+    "weight": "500 Gram",
+    "calories": 108.0,
+    "ingredients": "Ingredi\u00ebnten: groente (16% bloemkool, 16% broccoli), 31% aardappel, water, 5,6% rundvlees\u1d47, 5,3% varkensvlees\u1d43, zetmeel (ma\u00efs,\u00a0tarwe, rijst), 1,2% aardappelvlok, raapolie,\u00a0roomboter,\u00a0scharrelei\u1d43,\u00a0tarwebloem, zout, ui, natuurlijke aroma's\u00a0(melk, tarwe, sulfiet), vollemelkpoeder, kaliumchloride\u00a0(dieetzout), suiker, varkensvet\u1d43, specerijen (o.a. ui\u00a0[sulfiet]), dextrose, kleurstof (karamel [E150a]), kruiden, aroma\u2019s (selderij), melasse, knoflookpuree,\u00a0sojaboon, emulgator (mono- en diglyceriden van vetzuren [E471]), gist, azijn,\u00a0tarwe, antioxidant (natriumwaterstofsulfiet\u00a0[E222], extracten van rozemarijn [E392]). \u1d47Beter Leven keurmerk 2 sterren.\u00a0\u1d43Beter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.3g per 100 gram en waarvan toegevoegd zout 0.57g per 100 gram",
+    "lifestyle": -0.6,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.43548387096774194,
+    "price sensitivity": -0.5423728813559323
+}

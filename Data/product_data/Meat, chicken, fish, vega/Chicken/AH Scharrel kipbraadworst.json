@@ -1,0 +1,18 @@
+{
+    "id": 3316,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel kipbraadworst",
+    "price": 3.99,
+    "unit": "300 gPrijs per KG \u20ac 13,30",
+    "weight": "300 Gram",
+    "calories": 200.0,
+    "ingredients": "Ingredi\u00ebnten: 90% kippenvlees\u00aa, extract (specerijen, rozemarijn), water, rijstebloem, aardappelzetmeel, schapendarm, zout, glucosestroop, natuurlijk aroma, koolzaadolie, paprikaconcentraat.\u00a0\u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.10g per 100 gram en waarvan toegevoegd zout 0.90g per 100 gram",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17721518987341775,
+    "price sensitivity": -0.05932203389830515
+}

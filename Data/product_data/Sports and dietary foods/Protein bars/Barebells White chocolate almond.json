@@ -1,0 +1,18 @@
+{
+    "id": 932,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "Barebells White chocolate almond",
+    "price": 2.69,
+    "unit": "55 gPrijs per KG \u20ac 48,91",
+    "weight": "55 Gram",
+    "calories": 364.0,
+    "ingredients": "Ingredi\u00ebnten: MELKEIWITTEN, bevochtigingsmiddel (glycerol), polydextrose, zoetstoffen (maltitolen, sucralose, acesulfaam-K), collageenhydrolysaat, cacaoboter, volle MELKPOEDER, water, geroosterde AMANDELEN, zonnebloemolie, SOJAPROTEINE, magere cacao, cacao, tapiocazetmeel, aroma's, zout, emulgator (lecithinen), cacaomassa. Kan sporen van GLUTENBEVATTENDE GRANEN, PINDA'S en andere NOTEN bevatten.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.055696202531645575,
+    "price sensitivity": -0.22999999999999998
+}

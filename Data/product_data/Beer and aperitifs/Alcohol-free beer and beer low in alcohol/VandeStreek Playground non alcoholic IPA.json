@@ -1,0 +1,18 @@
+{
+    "id": 1402,
+    "category": "Beer and aperitifs",
+    "sub category": "Alcohol-free beer and beer low in alcohol",
+    "product": "VandeStreek Playground non alcoholic IPA",
+    "price": 2.5,
+    "unit": "33 clPrijs per LT \u20ac 6,21",
+    "weight": "33 Centiliter",
+    "calories": 32.0,
+    "ingredients": "Ingredi\u00ebnten: water, GERSTEmout, hop, gist.",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06996957844415472,
+    "price sensitivity": -0.328042328042328
+}

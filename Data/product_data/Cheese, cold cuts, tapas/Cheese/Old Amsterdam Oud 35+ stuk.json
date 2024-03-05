@@ -1,0 +1,18 @@
+{
+    "id": 3181,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "Old Amsterdam Oud 35+ stuk",
+    "price": 9.62,
+    "unit": "ca. 385 gPrijs per KG \u20ac 24,99",
+    "weight": "385 Gram",
+    "calories": 325.0,
+    "ingredients": "Ingredi\u00ebnten: MELK*, zout, zuursel, stremsel,\u00a0conserveermiddel (E251), kleurstof (caroteen).*Van weidemelk",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 1.0,
+    "price sensitivity": -0.8779746835443037
+}

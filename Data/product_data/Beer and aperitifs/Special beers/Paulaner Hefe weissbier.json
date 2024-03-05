@@ -1,0 +1,18 @@
+{
+    "id": 1425,
+    "category": "Beer and aperitifs",
+    "sub category": "Special beers",
+    "product": "Paulaner Hefe weissbier",
+    "price": 2.39,
+    "unit": "0,5 lNormale prijs per LT \u20ac 4,78",
+    "weight": "0.5 Liter",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: water, TARWEMOUT, GERSTEMOUT, gist, hop.",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0651890482398957,
+    "price sensitivity": -0.39013452914798197
+}

@@ -1,0 +1,18 @@
+{
+    "id": 854,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "AH Ruimte ijsjes",
+    "price": 0.89,
+    "unit": "9 stuks",
+    "weight": "495 Gram",
+    "calories": 61.0,
+    "ingredients": "Ingredi\u00ebnten: water, glucose-fructosestroop, suiker, stabilisator (johannesbroodpitmeel [E410], guarpitmeel [E412], pectine [E440]), voedingszuur (citroenzuur [E330]), natuurlijke aroma's, extract van paprika, kleurstof (caroteen [E160a], curcumine [E100]), kleurend rodebietensapconcentraat.\nWaarvan toegevoegde suikers 15g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.031746031746031744,
+    "price sensitivity": -0.7666666666666666
+}

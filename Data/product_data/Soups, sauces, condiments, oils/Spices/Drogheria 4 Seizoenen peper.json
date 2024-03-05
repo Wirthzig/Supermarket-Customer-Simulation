@@ -1,0 +1,18 @@
+{
+    "id": 1001,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Spices",
+    "product": "Drogheria 4 Seizoenen peper",
+    "price": 2.79,
+    "unit": "35 gPrijs per KG \u20ac 79,71",
+    "weight": "40 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: 95%bpeperbessen (zwart), wit, groen), 5% roze peperbessen (S. Terebinthifolius).",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17384843982169387,
+    "price sensitivity": -1.0
+}

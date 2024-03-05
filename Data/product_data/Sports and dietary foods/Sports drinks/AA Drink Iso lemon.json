@@ -1,0 +1,18 @@
+{
+    "id": 989,
+    "category": "Sports and dietary foods",
+    "sub category": "Sports drinks",
+    "product": "AA Drink Iso lemon",
+    "price": 1.19,
+    "unit": "0,5 lPrijs per LT \u20ac 2,38",
+    "weight": "500 Milliliter",
+    "calories": 33.0,
+    "ingredients": "Ingredi\u00ebnten: Water, suiker, maltodextrine, voedingszuur: citroenzuur, natriumchloride, zuurteregelaars: magnesiumlactaat, natriumcitraat, kaliumfosfaat en calciumfosfaat, conserveermiddel: E202, vitamines: B3, E, B5, B6 en H, stabilisatoren: arabische gom en glycerol-esters van houthars, natuurlijke aroma\u2019s. Osmolaliteit 290-320 mOsm/L",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.01772151898734177,
+    "price sensitivity": -0.8848653667595172
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2377,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Sweet spreads",
+    "product": "AH Extra jam aardbeien",
+    "price": 1.25,
+    "unit": "450 gPrijs per KG \u20ac 2,78",
+    "weight": "450 Gram",
+    "calories": 245.0,
+    "ingredients": "Ingredi\u00ebnten: aardbei, glucose-fructosestroop, suiker, voedingszuur (citroenzuur [E330]), geleermiddel (pectine [E440]).\nWaarvan toegevoegde suikers 50g per 100 gram en waarvan toegevoegd zout 0g per 100 gram.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10566037735849056,
+    "price sensitivity": -0.8064516129032258
+}

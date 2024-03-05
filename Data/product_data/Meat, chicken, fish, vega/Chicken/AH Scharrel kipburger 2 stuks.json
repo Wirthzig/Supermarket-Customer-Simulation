@@ -1,0 +1,18 @@
+{
+    "id": 3270,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel kipburger 2 stuks",
+    "price": 2.29,
+    "unit": "200 gPrijs per KG \u20ac 11,45",
+    "weight": "200 Gram",
+    "calories": 284.0,
+    "ingredients": "Ingredi\u00ebnten: 58% kippenvlees, ui, bloem (tarwe, rijst), 10% water, zonnebloemolie, zetmeel (aardappel, tarwe, tapioca, ma\u00efs), zout, specerijen, gist, maltodextrine, natuurlijk aroma, voedingszuur (citroenzuur [E330]), kleurstof (curcumine [E100]), extract (specerijen, rozemarijn), poeder (pastinaak, peterseliewortel).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.74g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06962025316455697,
+    "price sensitivity": -0.8784810126582279
+}

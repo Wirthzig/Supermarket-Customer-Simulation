@@ -1,0 +1,18 @@
+{
+    "id": 762,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "AH Kipnuggets",
+    "price": 2.79,
+    "unit": "500 gPrijs per KG \u20ac 5,58",
+    "weight": "500 Gram",
+    "calories": 246.0,
+    "ingredients": "Ingredi\u00ebnten: 65% kipseparatorvleest, tarwebloem, water, raapolie, voedingsvezel (tarwe, bamboe, erwt), zout, zetmeel (tapioca, tarwe), gedroogde glucosestroop, stabilisator (natriumfosfaten [E339]), gist, specerijen, kleurstof (curcumine [E100], paprika-extract [E160c]), aroma, komijnextract, rijsmiddel (ammoniumcarbonaten [E503]).\nWaarvan toegevoegde suikers 0.4g per 100 gram en waarvan toegevoegd zout 1.24g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2830687830687831,
+    "price sensitivity": -0.6120906801007557
+}

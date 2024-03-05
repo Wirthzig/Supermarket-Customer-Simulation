@@ -1,0 +1,18 @@
+{
+    "id": 964,
+    "category": "Sports and dietary foods",
+    "sub category": "Sports drinks",
+    "product": "Focus drink Functional drink mango limoen",
+    "price": 1.45,
+    "unit": "330 mlPrijs per LT \u20ac 4,39",
+    "weight": "330 Milliliter",
+    "calories": 17.0,
+    "ingredients": "INGREDI\u00cbNTEN: Water, suiker, natuurlijk aroma, koolzuur, voedingszuur(citroenzuur), gedestilleerd extract van groene thee (0,1%), kleurende extracten (saffloer, paarse wortel en citroen), conserveermiddel (kaliumsorbaat), guarana-extract (0,02%), zoetstof (steviolglycosiden), extract van gingkoblad (0,01%), ginseng-extract (0,01%), vitaminen (niacine, pantotheenzuur, vitamine B6, vitamine B12), antioxidant (ascorbinezuur), mineraal (zink).",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.02430379746835443,
+    "price sensitivity": -0.7666666666666666
+}

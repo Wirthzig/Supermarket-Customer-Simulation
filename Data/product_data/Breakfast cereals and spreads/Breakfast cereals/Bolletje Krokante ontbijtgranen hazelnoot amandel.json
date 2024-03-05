@@ -1,0 +1,18 @@
+{
+    "id": 2405,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Bolletje Krokante ontbijtgranen hazelnoot amandel",
+    "price": 3.59,
+    "unit": "375 gPrijs per KG \u20ac 9,57",
+    "weight": "375 Gram",
+    "calories": 431.0,
+    "ingredients": "Ingredi\u00ebnten: volkoren HAVERVLOKKEN, volkoren TARWEVLOKKEN, ma\u00efsvlokken (ma\u00efs, zout, GERSTEMOUT), dadelpuree, plantaardige vezels, volkoren TARWEMEEL, gepofte granen (ma\u00efs, rijst, volkoren meel (TARWE, ROGGE, GERST), magere cacaopoeder, zout), plantaardige olie (zonnebloem), 4% geroosterde AMANDELEN, volkoren ROGGEMEEL, 3% geroosterde HAZELNOTEN. Kan sporen bevatten van andere glutenbevattende granen, soja, melk, andere  noten en sesamzaad.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5471698113207546,
+    "price sensitivity": 0.4516129032258065
+}

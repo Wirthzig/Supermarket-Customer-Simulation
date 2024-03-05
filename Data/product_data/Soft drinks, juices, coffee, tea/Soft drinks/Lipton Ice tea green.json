@@ -1,0 +1,18 @@
+{
+    "id": 1637,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Lipton Ice tea green",
+    "price": 2.99,
+    "unit": "1,5 lPrijs per LT \u20ac 1,99",
+    "weight": "1500 Milliliter",
+    "calories": 10.0,
+    "ingredients": "Ingredi\u00ebnten: Water, fructose, suiker, voedingszuren (citroenzuur, appelzuur), groene thee-extract(1) (0,12%), zuurteregelaar (trinatriumcitraat), antioxidant (ascorbinezuur), natuurlijk aroma, zoetstof (steviolglycosiden van Stevia). (1)Rainforest Alliance Certified. More information on ra.org.",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.19184290030211482,
+    "price sensitivity": -0.012658227848101111
+}

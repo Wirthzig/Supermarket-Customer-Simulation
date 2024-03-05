@@ -1,0 +1,18 @@
+{
+    "id": 1159,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Honig Basis voor kippensoep",
+    "price": 1.79,
+    "unit": "53 gPrijs per KG \u20ac 33,77",
+    "weight": "53 Gram",
+    "calories": 12.0,
+    "ingredients": "Ingredi\u00ebnten: (Na bereiding met water):, bouillon (SOJA), vermicelli 3,2% (TARWEMEEL, KIPPENEI-eiwit), zetmeel, groenten (tomaat, wortel, prei), aroma's (bevatten SOJA), zout, smaakversterkers (E621, E627, E631, E635), kruiden (peterselie, knoflook), kippenvlees 0,1%, palmvet, maltodextrine, specerijen (kurkuma, foelie, peper, nootmuskaat), zonnebloemolie",
+    "lifestyle": 0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09955423476968796,
+    "price sensitivity": -0.9767873723305478
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1659,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Fuze Tea Black tea peach hibiscus",
+    "price": 2.39,
+    "unit": "1,5 lNormale prijs per LT \u20ac 1,59",
+    "weight": "1.5 Liter",
+    "calories": 19.0,
+    "ingredients": "Ingredi\u00ebnten: Getrokken zwarte thee 91% (water, geconcentreerde zwarte thee* infusie), perziksap uit concentraat (5%), suiker, voedingszuren: citroenzuur, natriumcitraat, appelzuur, natuurlijk perzikaroma, natuurlijke aroma's, antioxidant: ascorbinezuur, hibiscusextract, zoetstof: steviolglycosiden, *Rainforest Alliance Certified\u1d40\u1d39",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14652567975830816,
+    "price sensitivity": -0.20886075949367078
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1151,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Zonnatura Groentebouillon tabletten",
+    "price": 1.9,
+    "unit": "66 gPrijs per KG \u20ac 16,52",
+    "weight": "6 Stuks (piece). 66 Gram",
+    "calories": 7.0,
+    "ingredients": "Ingredi\u00ebnten: Zeezout, aardappelzetmeel*, palmolie*, groente* 7,8% (wortel*, ui*, prei*, paprika*, SELDERIJ*), gistextract, rietsuiker*, kruiden* (peterselie*, lavas*, tijm*, rozemarijn*), specerijen* (zwarte peper*, kurkuma*), *Ingredi\u00ebnt van biologische teelt.",
+    "lifestyle": 0.5,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.10772659732540861,
+    "price sensitivity": -0.9777158774373259
+}

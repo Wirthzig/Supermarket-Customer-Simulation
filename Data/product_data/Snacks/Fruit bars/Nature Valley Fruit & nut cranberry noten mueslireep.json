@@ -1,0 +1,18 @@
+{
+    "id": 2001,
+    "category": "Snacks",
+    "sub category": "Fruit bars",
+    "product": "Nature Valley Fruit & nut cranberry noten mueslireep",
+    "price": 3.9,
+    "unit": "120 gPrijs per KG \u20ac 25,75",
+    "weight": "4 Stuks (piece)",
+    "calories": 417.0,
+    "ingredients": "Ingredi\u00ebnten: volkoren HAVERVLOKKEN (26%) glucosestroop, geroosterde PINDA\"S (8%), suiker, AMANDELEN (7%), rozijnen (6%), stukjes cranberry (5%), TARWEMEEL, rijstmeel, plantaaridge oli\u00ebn (zonnebloem, katoenzaad), bevochtingsmiddel (glycerol), cichoreiwortelextract, fructose, emulgator (zonnebloemlecithine), dextrose, natuurlijke aroma's (bevat MELK), zout, zuurteregelaar (citroenzuur), honing, antioxidant (tocoferolrijk extract). Kan SOJA en andere BOOMNOTEN bevatten.",
+    "lifestyle": -0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.7478510028653295,
+    "price sensitivity": 0.2890995260663509
+}

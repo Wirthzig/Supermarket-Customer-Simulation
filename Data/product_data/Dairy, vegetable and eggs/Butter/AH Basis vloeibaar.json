@@ -1,0 +1,18 @@
+{
+    "id": 2644,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "AH Basis vloeibaar",
+    "price": 2.9,
+    "unit": "0,75 lPrijs per LT \u20ac 2,79",
+    "weight": "750 Milliliter",
+    "calories": 630.0,
+    "ingredients": "Ingredi\u00ebnten: plantaardige olie (raap, zonnebloem, geheel geharde raap), water, zout, emulgator (mono- en diglyceriden van vetzuren [E471], lecithine\u00a0[E322]), conserveermiddel (kaliumsorbaat [E202]), voedingszuur (citroenzuur [E330]), natuurlijk aroma, kleurstof (caroteen [E160a]), vitaminen (A, D).\nWaarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.90g per 100 milliliter",
+    "lifestyle": 0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.385,
+    "price sensitivity": -0.7673716012084593
+}

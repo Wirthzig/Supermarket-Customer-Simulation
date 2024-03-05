@@ -1,0 +1,18 @@
+{
+    "id": 882,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein shakes",
+    "product": "Body & Fit Smart protein banana flavour",
+    "price": 19.99,
+    "unit": "504 gPrijs per KG \u20ac 39,66",
+    "weight": "504 Gram",
+    "calories": 308.0,
+    "ingredients": "Ingredi\u00ebnten:\u00a0MELKeiwitconcentraat, calciumcase\u00efnaat (MELK) (emulgator (lecithinen)), inuline, kaliumzouten van orthofosforzuur, verdikkingsmiddelen (guarpitmeel, xanthaangom), magnesiumcitraat, resistente dextrine (Fibersol\u00ae), calciumcitraat, polydextrose, aroma's (steviolglycosiden uit Stevia), cholinebitartraat (VitaCholine\u2122), L-carnitine-L-tartraat, zoetstoffen (sucralose, acesulfaam-K), zout, vitaminen (L-ascorbinezuur (vit. C), nicotinamide (vit. B3), D-biotine, calcium-D-pantothenaat (vit. B5), pyridoxinehydrochloride (vit. B6), thiaminehydrochloride (vit. B1), riboflavine (vit. B2), cyanocobalamine (vit. B12), pteroylmonoglutaminezuur (foliumzuur), DL-alfa-tocoferylacetaat (vit. E)), kleurstof (carotenen), chroompicolinaat.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4936708860759494,
+    "price sensitivity": -0.5666666666666667
+}

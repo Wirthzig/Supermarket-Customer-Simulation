@@ -1,0 +1,18 @@
+{
+    "id": 2056,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "Red Band Berries mix 30% minder suiker",
+    "price": 2.49,
+    "unit": "200 gPrijs per KG \u20ac 12,45",
+    "weight": "200 Gram",
+    "calories": 310.0,
+    "ingredients": "Ingredi\u00ebnten: Suiker, glucosestroop, vulstof (polydextrose), stabilisator (maltitol), zetmeel, gelatine, perensap 6% (uit sapconcentraat), voedingszuur (citroenzuur), natuurlijke aroma's, zuurteregelaar (E331), plantaardige oli\u00ebn (kokos, koolzaad), concentraat van (zwarte wortel, wortel, zwarte bes), glansmiddel (carnaubawas)",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3644067796610169,
+    "price sensitivity": -0.5876777251184834
+}

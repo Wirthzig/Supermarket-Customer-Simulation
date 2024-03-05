@@ -1,0 +1,18 @@
+{
+    "id": 939,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "Nature Valley Protein salted caramel & pinda repen",
+    "price": 4.25,
+    "unit": "4 stuks",
+    "weight": "4 Stuks (piece). 160 Gram",
+    "calories": 500.0,
+    "ingredients": "Ingredi\u00ebnten: Geroosterde PINDA'S (38%), cichorei-extract, ge\u00efsoleerd SOJAEIWIT, AMANDELEN (9%), glucosestroop, plantaardig vet: palm; suiker, weibestanddelen (MELK), fructose, maltodextrine, zonnebloemolie, tapioca, bevochtigingsmiddel: glycerol, zout, karamelpoeder (0,84%) (suiker, magere MELKPOEDER), magere MELKPOEDER, emulgatoren: zonnebloem en SOJA lecithinen, natuurlijke aroma's (bevat MELK). Kan andere BOOMNOTEN bevatten.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09518987341772152,
+    "price sensitivity": -0.9333333333333333
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1749,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "Pickwick Tea with fruit variatiebox red",
+    "price": 1.99,
+    "unit": "20 stuks",
+    "weight": "20 Stuks (piece). 30 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: Bosvruchten: zwarte thee, aroma's, stukjes bosvruchten (0,9%) (braam, bosbes, framboos, aardbei). 100% natuurlijk, Aardbei: zwarte thee, aroma's, stukjes aardbei (0,8%). 100% natuurlijk. Framboos: zwarte thee, aroma's, stukjes framboos (0,8%). 100% natuurlijk. Kers: zwarte thee, aroma's, stukjes kers (0,5%). 100% natuurlijk",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1163141993957704,
+    "price sensitivity": -0.950354609929078
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2566,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "Bolletje Brosse eierkoek melk",
+    "price": 1.79,
+    "unit": "155 gPrijs per KG \u20ac 11,55",
+    "weight": "10 Stuks (piece). 155 Gram",
+    "calories": 434.0,
+    "ingredients": "Ingredi\u00ebnten: 33% MELKLAAGJE (suiker, plantaardig vet (kokos, palm in wisselende verhoudingen), 12,5% MELKSUIKER, 9% weipoeder (MELK), vulstof (calciumcarbonaat), emulgator (SOJALECITHINE), aroma, natuurlijk vanillearoma), suiker, TARWEBLOEM, 13% VRIJE-UITLOOPEIEREN, TARWEZETMEEL, plantaardige vezels, rijsmiddelen (E450, E500), emulgatoren (E471, E475), zout, natuurlijk citroenaroma, aroma. Kan sporen bevatten van andere glutenbevattende granen, noten en sesamzaad.",
+    "lifestyle": -0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.07692307692307693,
+    "price sensitivity": -0.5861027190332326
+}

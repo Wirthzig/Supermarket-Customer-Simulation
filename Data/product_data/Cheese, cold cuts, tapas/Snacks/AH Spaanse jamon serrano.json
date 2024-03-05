@@ -1,0 +1,18 @@
+{
+    "id": 2947,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Spaanse jamon serrano",
+    "price": 2.75,
+    "unit": "60 gPrijs per KG \u20ac 45,83",
+    "weight": "60 Gram",
+    "calories": 228.0,
+    "ingredients": "Ingredi\u00ebnten: varkensvlees, zout, suiker, conserveermiddel (kaliumnitraat [E252], natriumnitriet [E250]), antioxidant (natriumascorbaat [E301]).\u00a0\nWaarvan toegevoegde suikers 0.10g per 100 gram en waarvan toegevoegd zout 4.70g per 100 gram\nVoor 100 g Jamon Serrano is 146 g varkensvlees gebruikt.",
+    "lifestyle": 0.7,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.22547914317925594,
+    "price sensitivity": -0.8603268945022289
+}

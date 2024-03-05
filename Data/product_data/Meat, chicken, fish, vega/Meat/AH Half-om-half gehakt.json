@@ -1,0 +1,18 @@
+{
+    "id": 3409,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Half-om-half gehakt",
+    "price": 6.89,
+    "unit": "1 kgPrijs per KG \u20ac 6,89",
+    "weight": "1 Kilogram",
+    "calories": 228.0,
+    "ingredients": "Ingredi\u00ebnten: 49% varkensvlees, 49% rundvlees, natuurlijk aroma, antioxidant (natriumascorbaat [E301], natriumcitraat [E331]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.36075949367088606,
+    "price sensitivity": -0.5254237288135595
+}

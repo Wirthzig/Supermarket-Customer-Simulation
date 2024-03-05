@@ -1,0 +1,18 @@
+{
+    "id": 3111,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "Babybel Original mini",
+    "price": 4.69,
+    "unit": "10 stuksPrijs per KG \u20ac 23,45",
+    "weight": "10 Stuks (piece). 200 Gram",
+    "calories": 295.0,
+    "ingredients": "Ingredi\u00ebnten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel",
+    "lifestyle": 0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.44419391206313424,
+    "price sensitivity": -0.7845468053491828
+}

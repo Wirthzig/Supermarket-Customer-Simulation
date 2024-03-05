@@ -1,0 +1,18 @@
+{
+    "id": 780,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "AH Kipsate op stokje",
+    "price": 0.99,
+    "unit": "130 gPrijs per KG \u20ac 7,62",
+    "weight": "130 Gram",
+    "calories": 223.0,
+    "ingredients": "Ingredi\u00ebnten: 37% kippenvlees, water, 14% pinda, suiker, gehydrolyseerd soja-eiwit, tarwevezel, tomatenpuree, ma\u00efszetmeel, chilipeper, zout, suikerstroop, volkorentarwemeel, tarwebloem, dextrose, azijn, melasse, stabilisator (trifosfaat [E451], difosfaat [E450], natriumfosfaat [E339]), specerijen, gekaramelliseerde suiker, glucose-fructosestroop, sojaboon, tarwe, invertsuikerstroop, gemodificeerd ma\u00efszetmeel, gistextract, natuurlijke aroma's, gist, zonnebloemolie, voedingszuur (citroenzuur [E330]), zoethoutextract, conserveermiddel (kaliumsorbaat [E202], natriumbenzoaat [E211]).\nWaarvan toegevoegde suikers 8.1g per 100 gram en waarvan toegevoegd zout 0.78g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.044973544973544964,
+    "price sensitivity": -0.7884130982367759
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2944,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Leverworst",
+    "price": 2.25,
+    "unit": "140 gPrijs per KG \u20ac 16,07",
+    "weight": "140 Gram",
+    "calories": 251.0,
+    "ingredients": "Ingredi\u00ebnten: 25% varkenslever\u1d43, 20% varkensvlees\u1d43, water, varkenscollageen\u1d43, varkensspek\u1d43, aardappelzetmeel, voedingszuur (natriumlactaat [E325], natriumacetaat [E262]), zout, specerijen (o.a.\u00a0mosterd), dextrose, aroma, varkenshemoglobine, suiker, gedroogde prei, gistextract, maltodextrine, conserveermiddel (natriumnitriet [E250]).\u00a0\u1d43Beter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.5g per 100 gram en waarvan toegevoegd zout 0.97g per 100 gram",
+    "lifestyle": -0.2,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.16910935738444197,
+    "price sensitivity": -0.8900445765230312
+}

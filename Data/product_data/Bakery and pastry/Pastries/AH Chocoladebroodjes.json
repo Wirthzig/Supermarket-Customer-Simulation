@@ -1,0 +1,18 @@
+{
+    "id": 2560,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Chocoladebroodjes",
+    "price": 2.49,
+    "unit": "8 stuks",
+    "weight": "360 Gram",
+    "calories": 418.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, palmvet, water, suiker, cacaomassa\u00b0,\u00a0scharrelei,\u00a0roomboterconcentraat, gist, mageremelkpoeder, emulgator (mono- en diglyceriden van vetzuren [E471], natriumstearoyl-2-lactylaat [E481], lecithinen [E322]), zout, natuurlijk aroma (1% alcohol), cacaoboter\u00b0, johannesbroodkiemmeel,\u00a0tarwegluten, natuurlijk vanillearoma, verdikkingsmiddel (johannesbroodpitmeel [E410]), antioxidant (ascorbinezuur [E300]),\u00a0roggebloem, kleurstof (carotenen [E160a]).\nWaarvan toegevoegde suikers 12g per 100 gram en waarvan toegevoegd zout 0.80g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1258741258741259,
+    "price sensitivity": -0.797583081570997
+}

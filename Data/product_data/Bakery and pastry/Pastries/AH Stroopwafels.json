@@ -1,0 +1,18 @@
+{
+    "id": 2586,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Stroopwafels",
+    "price": 1.86,
+    "unit": "8 stuks",
+    "weight": "310 Gram",
+    "calories": 450.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 29% glucose-fructosestroop, 25% roomboter, suiker, 4,5% suikerstroop, tarwevezel, sojabloem, zout, rijsmiddel (natriumcarbonaten [E500]), emulgator (sojalecithine\u00a0[E322]), natuurlijk aroma, kaneel, Bourbonvanille, voedingszuur (citroenzuur [E330]).\nWaarvan toegevoegde suikers 32g per 100 gram en waarvan toegevoegd zout 0.50g per 100 gram",
+    "lifestyle": -0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.08181818181818183,
+    "price sensitivity": -0.6163141993957704
+}

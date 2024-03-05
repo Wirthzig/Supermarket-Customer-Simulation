@@ -1,0 +1,18 @@
+{
+    "id": 2562,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Brioche",
+    "price": 3.19,
+    "unit": "400 gPrijs per KG \u20ac 7,98",
+    "weight": "400 Gram",
+    "calories": 366.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, scharrelei, suiker, roomboterconcentraat, raapolie, water, 1,2% rum, gist, zout, emulgator (mono- en diglyceriden van vetzuren [E471], natriumstearoyl-2-lactylaat [E481]), verdikkingsmiddel (taragom [E417]), tarwekiem, vegetarisch weipoeder, roggebloem, kleurstof (caroteen [E160a]).\nWaarvan toegevoegde suikers 13g per 100 gram en waarvan toegevoegd zout 0.98g per 100 gram",
+    "lifestyle": -0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17482517482517482,
+    "price sensitivity": -0.9335347432024169
+}

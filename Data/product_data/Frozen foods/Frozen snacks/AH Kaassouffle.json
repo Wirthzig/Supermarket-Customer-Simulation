@@ -1,0 +1,18 @@
+{
+    "id": 764,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "AH Kaassouffle",
+    "price": 1.49,
+    "unit": "6 stuksPrijs per KG \u20ac 4,14",
+    "weight": "360 Gram",
+    "calories": 303.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, paneermeel\u00a0(tarwe), plantaardige olie (palm, raap),\u00a0melk, ma\u00efszetmeel, gemodificeerd aardappelzetmeel, zout, dieetzout (kaliumchloride),\u00a0melkeiwit, natuurlijk aroma\u00a0(melk),\u00a0zuurteregelaar (citroenzuur [E330], melkzuur [E270]), zeezout, emulgator (mono- en diglyceriden van vetzuren [E471]), vegetarisch stremsel, zuursel, kurkumapoeder, smeltzout (polyfosfaat [E452], difosfaat [E450], calciumfosfaat [E341]), verdikkingsmiddel (guarpitmeel [E412]), kleurstof (caroteen [E160a]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.89g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1111111111111111,
+    "price sensitivity": -0.2846347607052897
+}

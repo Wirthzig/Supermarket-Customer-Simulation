@@ -1,0 +1,18 @@
+{
+    "id": 2438,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "AH Krokante muesli chocolade",
+    "price": 2.45,
+    "unit": "600 gPrijs per KG \u20ac 4,08",
+    "weight": "600 Gram",
+    "calories": 456.0,
+    "ingredients": "Ingredi\u00ebnten: 50% volkoren\u00a0havervlok, suiker, cacaomassa\u00b0, 7% zonnebloemolie, 6,6% tarwebloem, oligofructose, glucosestroop, ma\u00efs, 2% amandelschaafsel, 1% hazelnoot, rijstebloem, honing, moutmeel (tarwe, gerst), zout, emulgator (lecithine [E322]), natuurlijk aroma, gerstemoutextract, kaneel, antioxidant (tocoferolrijk extract [E306]).\nWaarvan toegevoegde suikers 14g per 100 gram en waarvan toegevoegd zout 0.15g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3320754716981132,
+    "price sensitivity": 0.8387096774193548
+}

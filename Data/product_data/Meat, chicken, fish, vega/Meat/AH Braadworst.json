@@ -1,0 +1,18 @@
+{
+    "id": 3415,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Braadworst",
+    "price": 1.99,
+    "unit": "2 stuks",
+    "weight": "200 Gram",
+    "calories": 257.0,
+    "ingredients": "Ingredi\u00ebnten: 94% varkensvlees\u00aa, natuurlijke aroma's, water, zout, varkensdarm, specerijen, aardappelzetmeel, gebufferd azijnpoeder (conserverend ingredi\u00ebnt), gistextract, antioxidant (natriumascorbaat [E301], natriumcitraat [E331]).\u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.00g per 100 gram",
+    "lifestyle": -0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05063291139240507,
+    "price sensitivity": 0.06779661016949134
+}

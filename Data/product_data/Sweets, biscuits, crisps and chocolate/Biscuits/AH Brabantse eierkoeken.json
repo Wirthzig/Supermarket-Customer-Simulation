@@ -1,0 +1,18 @@
+{
+    "id": 2163,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Brabantse eierkoeken",
+    "price": 2.29,
+    "unit": "4 stuks",
+    "weight": "4 Aantal",
+    "calories": 314.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, suiker, 12% vrije-uitloopei\u1d47, water, mageremelkpoeder, sojabloem, rijsmiddel (ammoniumcarbonaat [E503]), melkeiwit, citroensapconcentraat, citroenschil, lactose, tarwemoutmeel, gemodificeerd aardappelzetmeel, meelverbeteraar (ascorbinezuur [E300]).\u00a0\u1d47Beter Leven keurmerk 2 sterren.\nWaarvan toegevoegde suikers 38g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3220338983050847,
+    "price sensitivity": -0.6666666666666667
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2448,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Focaccia mozzarella",
+    "price": 2.59,
+    "unit": "2 stuks",
+    "weight": "300 Gram",
+    "calories": 300.0,
+    "ingredients": "Ingredi\u00ebnten: bloem (tarwe, rijst), water,\u00a0melk,\u00a0roomboter, raapolie, gist, gejodeerd zout, extra vierge olijfolie, knoflookpuree, azijn, peterselie, aardappelzetmeel, knoflookextract, suiker, conserveermiddel (natriumpropionaat [E281]), zuursel, vegetarisch stremsel.\nWaarvan toegevoegde suikers 0.10g per 100 gram en waarvan toegevoegd zout 0.92g per 100 gram",
+    "lifestyle": 0.7,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13286713286713286,
+    "price sensitivity": -0.2550143266475646
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2436,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Weetabix Mini's choco",
+    "price": 3.99,
+    "unit": "450 gPrijs per KG \u20ac 8,87",
+    "weight": "450 Gram",
+    "calories": 391.0,
+    "ingredients": "Ingredi\u00ebnten: VOLKOREN TARWE (84%), suiker, chocolade (12%) (suiker, cacao massa, cacao boter, emulgator: SOJALECITHINE, aroma), zout, aroma, ijzer, niacine (PP), thiamine (Vit B1), riboflavine (Vit B2), foliumzuur (Vit9).\n\n\n\nNiet geschikt voor personen met een allergie aan noten, pinda's of melk.",
+    "lifestyle": -0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6226415094339622,
+    "price sensitivity": 0.6774193548387097
+}

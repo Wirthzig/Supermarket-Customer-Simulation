@@ -1,0 +1,18 @@
+{
+    "id": 2112,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "Skittles Fruits uitdeelzak",
+    "price": 2.9,
+    "unit": "200 gPrijs per KG \u20ac 10,56",
+    "weight": "11 Stuks (piece). 198 Gram",
+    "calories": 397.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, glucosestroop, palmvet, voedingszuren citroenzuur, appelzuur; dextrine, maltodextrine, aroma's, gemodificeerd zetmeel, kleurstoffen E162, E163, E170, E160a, E100, E132, E133; zuurteregelaar trinatriumcitraat, glansmiddel carnaubawas.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4512711864406779,
+    "price sensitivity": -0.95260663507109
+}

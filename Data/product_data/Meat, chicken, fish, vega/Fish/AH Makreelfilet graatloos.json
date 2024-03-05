@@ -1,0 +1,18 @@
+{
+    "id": 3230,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Makreelfilet graatloos",
+    "price": 5.66,
+    "unit": "ca. 165 gPrijs per KG \u20ac 34,31",
+    "weight": "260 Gram",
+    "calories": 250.0,
+    "ingredients": "Ingredi\u00ebnten: 97% makreel, conserveermiddel (natriumacetaat [E262], melkzuur [E270]), zout, natuurlijk aroma, rook, stabilisator (mono- en diglyceriden van vetzuren [E471]).\u00a0\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.80g per 100 gram",
+    "lifestyle": -0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.28291139240506336,
+    "price sensitivity": -0.8582278481012658
+}

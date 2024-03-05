@@ -1,0 +1,18 @@
+{
+    "id": 1120,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "Hak Appelmoes extra kwaliteit",
+    "price": 2.9,
+    "unit": "355 gNormale prijs per KG \u20ac 5,89",
+    "weight": "355 Gram",
+    "calories": 61.0,
+    "ingredients": "Ingredi\u00ebnten: Appel (96,8%), suiker, citroensapconcentraat, antioxidant (ascorbinezuur).",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.18202080237741453,
+    "price sensitivity": -0.7827298050139275
+}

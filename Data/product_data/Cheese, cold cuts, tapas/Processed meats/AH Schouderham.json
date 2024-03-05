@@ -1,0 +1,18 @@
+{
+    "id": 3065,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Schouderham",
+    "price": 1.39,
+    "unit": "150 gPrijs per KG \u20ac 9,27",
+    "weight": "150 Gram",
+    "calories": 106.0,
+    "ingredients": "Ingredi\u00ebnten: 68% varkensvlees\u00aa, water, aardappelzetmeel, zuurteregelaar (kaliumacetaten [E261], natriumlactaat [E325], kaliumlactaat [E326]), glucosestroop, zout, natuurlijk aroma, varkenseiwit, stabilisator (carrageen [E407], trifosfaten [E451], polyfosfaten [E452]), aroma, antioxidant (natriumascorbaat [E301]), gistextract, conserveermiddel (natriumnitriet [E250]), rookaroma.\u00a0\u1d43Beter Leven keurmerk 1 ster.\u00a0\nWaarvan toegevoegde suikers 2.0g per 100 gram en waarvan toegevoegd zout 1.90g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.07215332581736189,
+    "price sensitivity": -0.7845468053491828
+}

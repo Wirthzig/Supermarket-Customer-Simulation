@@ -1,0 +1,18 @@
+{
+    "id": 1738,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "Zonnatura 100% Kamille",
+    "price": 2.49,
+    "unit": "20 stuks",
+    "weight": "20 Stuks (piece). 28 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: Kamille*, *Ingredi\u00ebnt van biologische teelt.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.1540785498489426,
+    "price sensitivity": -0.6569620253164556
+}

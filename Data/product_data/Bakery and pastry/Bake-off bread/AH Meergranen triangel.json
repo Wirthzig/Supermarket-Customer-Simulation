@@ -1,0 +1,18 @@
+{
+    "id": 2468,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Meergranen triangel",
+    "price": 1.9,
+    "unit": "2 stuks",
+    "weight": "180 Gram",
+    "calories": 245.0,
+    "ingredients": "Ingredi\u00ebnten: 33% volkoren\u00a0tarwemeel, water, 21% tarwebloem, 2,6% gerstemoutmeel, zonnebloempit, gist, 1,7% lijnzaad, tarwegluten, 1,5% gerstevlok, gejodeerd zout, 0,9% havervlok, 0,9% sesamzaad, 0,7% gerstebloem, 0,5% gierst, boekweitgrut, ma\u00efsgrut, dextrose, lupinegrut, rijstebloem, antioxidant (ascorbinezuur [E300]), verdikkingsmiddel (guarpitmeel [E412]).\nWaarvan toegevoegde suikers 0.2g per 100 gram en waarvan toegevoegd zout 0.96g per 100 gram",
+    "lifestyle": -0.8,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0846153846153846,
+    "price sensitivity": 0.26074498567335236
+}

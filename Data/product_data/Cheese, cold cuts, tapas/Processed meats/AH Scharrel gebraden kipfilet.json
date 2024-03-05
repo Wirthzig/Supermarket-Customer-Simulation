@@ -1,0 +1,18 @@
+{
+    "id": 3049,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Scharrel gebraden kipfilet",
+    "price": 3.39,
+    "unit": "ca. 125 gPrijs per KG \u20ac 27,15",
+    "weight": "125 Gram",
+    "calories": 109.0,
+    "ingredients": "Ingredi\u00ebnten: 94% kippenvlees, antioxidant (kaliumlactaat [E326], natriumlactaat [E325], natriumascorbaat [E301]), zout, dextrose, bamboevezel, conserveermiddel (kaliumacetaat [E261], natriumnitriet [E250]), stabilisator (carrageen [E407], difosfaat [E450]), aroma's, emulgator (sucrose-ester van vetzuren [E473]).\u00a0\nWaarvan toegevoegde suikers 0.7g per 100 gram en waarvan toegevoegd zout 1.40g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2976324689966178,
+    "price sensitivity": -0.7860326894502229
+}

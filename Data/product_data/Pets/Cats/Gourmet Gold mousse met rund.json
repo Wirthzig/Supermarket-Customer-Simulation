@@ -1,0 +1,18 @@
+{
+    "id": 103,
+    "category": "Pets",
+    "sub category": "Cats",
+    "product": "Gourmet Gold mousse met rund",
+    "price": 0.75,
+    "unit": "85 gPrijs per KG \u20ac 8,82",
+    "weight": "85 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: Vlees en dierlijke bijproducten (57% waarvan rund 4%), mineralen, plantaardige bijproducten, suiker",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05924170616113744,
+    "price sensitivity": -0.8881118881118881
+}

@@ -1,0 +1,18 @@
+{
+    "id": 925,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "Body & Fit Smart bar crunchy coffee & chocolate",
+    "price": 1.99,
+    "unit": "45 gPrijs per KG \u20ac 44,22",
+    "weight": "45 Gram",
+    "calories": 350.0,
+    "ingredients": "Ingredienten: eiwitblend (MELKeiwitconcentraat, MELKeiwit, wei-eiwitisolaat (MELK), emulgator (SOJAlecithine)), pure chocoladesmaak omhulling(13%) (zoetstoffen (isomalt, sucralose), palm- en palmpitolie, magere cacaopoeder, emulgatoren (SOJAlecithine, polyglycerolpolyricinoleaat)), bevochtigingsmiddel (glycerol), karamel(11%) (bevochtigingsmiddel (glycerol), maltodextrine, oligofructose, water, vulstof (maltitolen), kokosolie, magere MELKpoeder, verdikkingsmiddel (hydroxypropyldizetmeelfosfaat), kleurstof (karamel), geleermiddel (pectinen), zuurteregelaar (calciumlactaat), emulgator (SOJAlecithine), zout, aroma, verdikkingsmiddel (xanthaangom)), fructo-oligosacchariden, krokante eiwitstukjes (SOJA-eiwitisolaat, tapiocazetmeel, stabilisator (calciumcarbonaat), zout), zonnebloemolie, SOJA-eiwitisolaat, gehydrolyseerd TARWE-eiwit, bevochtigingsmiddel (maltitolen), cacao nibs, gedroogde koffie, magere cacaopoeder, zout, vulstof (polydextrose), aroma, zoetstof (sucralose), antioxidant (tocoferolrijk extract).\u00a0Kan sporen bevatten van ei, pinda's en noten",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0379746835443038,
+    "price sensitivity": -0.7333333333333334
+}

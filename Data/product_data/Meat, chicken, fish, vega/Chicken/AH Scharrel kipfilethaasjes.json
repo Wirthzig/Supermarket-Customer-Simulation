@@ -1,0 +1,18 @@
+{
+    "id": 3349,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel kipfilethaasjes",
+    "price": 4.99,
+    "unit": "300 gPrijs per KG \u20ac 16,63",
+    "weight": "300 Gram",
+    "calories": 114.0,
+    "ingredients": "Ingredi\u00ebnten: kipfilet.\u00a0\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 0.5,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24050632911392408,
+    "price sensitivity": -0.5000000000000001
+}

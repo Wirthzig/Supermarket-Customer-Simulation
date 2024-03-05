@@ -1,0 +1,18 @@
+{
+    "id": 3195,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "Iglo Lekkerbekje sticks",
+    "price": 2.51,
+    "unit": "8 x 28 gNormale prijs per KG \u20ac 14,96",
+    "weight": "8 Stuks (piece). 224 Gram",
+    "calories": 248.0,
+    "ingredients": "Ingredi\u00ebnten : Alaska koolVIS* 49%, beslag\n38% ( water, paneermeel (TARWEmeel,\nwater, gist, zout), TARWEmeel,\naardappelzetmeel, maismeel, zout, bakpoeder\n(stabilisator: E450, rijsmiddel: E500,\nTARWEzetmeel)**, palmvet***,\nMOSTERDpoeder, magere MELKpoeder,\nknoflookpoeder), raapzaadolie. ***E450,E500\nzijn standaard ingredi\u00ebnten van bakpoeder\nvoor een krokant en luchtige korst. **** Dit\nproduct bevat gecertificeerde duurzaam\npalmvet.",
+    "lifestyle": -0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.08354430379746836,
+    "price sensitivity": -0.9240506329113924
+}

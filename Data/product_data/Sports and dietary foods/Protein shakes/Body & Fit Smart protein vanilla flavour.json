@@ -1,0 +1,18 @@
+{
+    "id": 884,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein shakes",
+    "product": "Body & Fit Smart protein vanilla flavour",
+    "price": 19.99,
+    "unit": "504 gPrijs per KG \u20ac 39,66",
+    "weight": "504 Gram",
+    "calories": 309.0,
+    "ingredients": "Ingredi\u00ebnten: MELKeiwitconcentraat, calciumCASEINAAT (MELK) (emulgator (lecithinen)), inuline, kaliumzouten van orthofosforzuur, verdikkingsmiddelen (guarpitmeel, xanthaangom), magnesiumcitraat, resistente dextrine (Fibersol\u00ae), calciumcitraat, polydextrose, cholinebitartraat (VitaCholine\u2122), L-carnitine-L-tartraat, zoetstoffen (sucralose, acesulfaam-K), zout, vitaminen (L-ascorbinezuur (vit. C), nicotinamide (vit. B3), D-biotine, calcium-D-pantothenaat (vit. B5), pyridoxinehydrochloride (vit. B6), thiaminehydrochloride (vit. B1), riboflavine (vit. B2), cyanocobalamine (vit. B12), pteroylmonoglutaminezuur (foliumzuur), dl-alfa-tocoferylacetaat (vit. E)), chroompicolinaat",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4936708860759494,
+    "price sensitivity": -0.7466666666666666
+}

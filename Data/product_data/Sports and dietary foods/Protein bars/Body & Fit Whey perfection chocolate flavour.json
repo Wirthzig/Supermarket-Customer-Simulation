@@ -1,0 +1,18 @@
+{
+    "id": 896,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "Body & Fit Whey perfection chocolate flavour",
+    "price": 24.99,
+    "unit": "476 gPrijs per KG \u20ac 52,50",
+    "weight": "476 Gram",
+    "calories": 361.0,
+    "ingredients": "Ingredi\u00ebnten: wei-eiwitisolaat blend 59% (wei-eiwitisolaat (melk), gehydroliseerd wei-eiwitisolaat (melk), emulgator (sojalecithine)), wei-eiwitconcentraat (melk) (emulgator (sojalecithine)), magere cacaopoeder (6,8%), zonnebloemoliepoeder (melk), aroma, verdikkingsmiddelen (xanthaangom, guarpitmeel), zoetstoffen (sucralose, acesulfaam-K), zout. Kan sporen bevatten van gluten, ei, pinda's en noten.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.620253164556962,
+    "price sensitivity": -0.5333333333333334
+}

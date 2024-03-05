@@ -1,0 +1,18 @@
+{
+    "id": 3164,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "ERU Kids",
+    "price": 1.39,
+    "unit": "100 gPrijs per KG \u20ac 13,90",
+    "weight": "100 Gram",
+    "calories": 168.0,
+    "ingredients": "Ingredi\u00ebnten: water, kaas (MELK), magere MELKpoeder, MELKeiwitten, smeltzouten (E452, E451), zuurteregelaar (calciumfosfaat)",
+    "lifestyle": 0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.07215332581736189,
+    "price sensitivity": -0.9037974683544303
+}

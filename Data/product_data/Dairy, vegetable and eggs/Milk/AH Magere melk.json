@@ -1,0 +1,18 @@
+{
+    "id": 2856,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Milk",
+    "product": "AH Magere melk",
+    "price": 1.9,
+    "unit": "1 lPrijs per LT \u20ac 1,09",
+    "weight": "1 Liter",
+    "calories": 38.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter",
+    "lifestyle": -0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.21833333333333335,
+    "price sensitivity": -0.9197622585438335
+}

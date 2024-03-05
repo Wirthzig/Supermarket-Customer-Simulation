@@ -1,0 +1,18 @@
+{
+    "id": 3557,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Maaltijdsalade kip Caesar",
+    "price": 5.49,
+    "unit": "450 gPrijs per KG \u20ac 12,20",
+    "weight": "450 Gram",
+    "calories": 118.0,
+    "ingredients": "Ingredi\u00ebnten: groente (18% romaine, 18% ijsbergsla),\u00a0tarwebloem, aardappel, 14% kipfilet, water, dextrose,\u00a0scharrelei, gist,\u00a0melk, plantaardige olie (raap, palm), gistextract, suiker, specerijen (o.a.\u00a00,4% mosterd, 0,03% knoflook), wittewijnazijn, zeezout, limoensap uit concentraat, natuurlijk aroma, zout, gebufferd azijn (conserverend ingredi\u00ebnt), voedingsvezel (aardappel, bamboe, citrus),\u00a0scharreleigeel, kruiden, gemodificeerd ma\u00efszetmeel, 0,1%\u00a0ansjovis, stabilisator (xanthaangom [E415]), extract (kruiden, knoflook), verdikkingsmiddel (guarpitmeel [E412]), azijn, voedingszuur (melkzuur [E270], citroenzuur [E330]), stremsel, emulgator (azijnzuur [E260], natriumcitraten [E331]), mineralen (ijzer, calcium), vitaminen (B3, B1).\nWaarvan toegevoegde suikers 0.9g per 100 gram en waarvan toegevoegd zout 0.62g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5967741935483871,
+    "price sensitivity": -0.39830508474576287
+}

@@ -1,0 +1,18 @@
+{
+    "id": 872,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Magnum Almond remix pint",
+    "price": 5.19,
+    "unit": "440 mlPrijs per LT \u20ac 11,80",
+    "weight": "440 Milliliter. 313 Gram",
+    "calories": 323.0,
+    "ingredients": "Ingredi\u00ebnten Gerehydrateerde magere MELK, suiker, ROOM (16%), magere MELKPOEDER- of concentraat, cacaoboter1, glucose-fructosestroop, magere MELKPOEDER, AMANDELPASTA (3%), glucosestroop, BOTERCONCENTRAAT, cacaomassa1, kokosolie, gekarameliseerde suikerstroop, emulgatoren (E471, E442, E476), AMANDELEN (0,3%), zeezout, stabilisatoren (E412, E410, E407), zetmeel, aroma's, rijsmiddel (E500). Kan soja, hazelnoot, pecannoot en walnoot bevatten. Glutenvrij. \u00b9Rainforest Alliance gecertificeerd.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6005291005291005,
+    "price sensitivity": -0.033333333333333215
+}

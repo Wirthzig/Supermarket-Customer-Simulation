@@ -1,0 +1,18 @@
+{
+    "id": 1602,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Fanta Orange",
+    "price": 1.95,
+    "unit": "1 lPrijs per LT \u20ac 1,95",
+    "weight": "1 Liter",
+    "calories": 23.0,
+    "ingredients": "Ingredi\u00ebnten: Sprankelend water; sinaasappelsap uit concentraat (6.5%); suiker; voedingszuren: citroenzuur, appelzuur, natriumcitraten; natuurlijke sinaasappelaroma\u2019s met andere natuurlijke aroma\u2019s; zoetstoffen: natriumcyclamaat, acesulfaam-K, sucralose; conserveermiddel: kaliumsorbaat; antioxidant: ascorbinezuur; wortelconcentraat; stabilisator: guarpitmeel; kleurstof: carotenen.",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11329305135951662,
+    "price sensitivity": -0.3291139240506328
+}

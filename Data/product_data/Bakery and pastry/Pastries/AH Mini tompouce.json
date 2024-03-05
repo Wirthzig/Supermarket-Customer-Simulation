@@ -1,0 +1,18 @@
+{
+    "id": 2529,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Mini tompouce",
+    "price": 1.99,
+    "unit": "220 g",
+    "weight": "220 Gram",
+    "calories": 343.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, suiker, water, palmvet, glucosestroop, volle melk, gemodificeerd aardappelzetmeel, raapolie, lactose, emulgator (mono- en diglyceriden van vetzuren, veresterd met azijnzuur [E472a], mono- en diglyceriden van vetzuren [E471]), zout, abrikozenpuree, verdikkingsmiddel (natriumalginaat [E401], xanthaangom [E415],\u00a0pectine [E440]), voedingszuur (citroenzuur [E330]), zuurteregelaar (calciumchloride [E509], kaliumcitraat [E332]), geleermiddel (difosfaat [E450],\u00a0natriumfosfaat [E339], carrageen [E407]), vanillearoma, melkeiwit, kleurend bietensapconcentraat, kleurstof (caroteen [E160a]).\nWaarvan toegevoegde suikers 27g per 100 gram en waarvan toegevoegd zout 0.43g per 100 gram",
+    "lifestyle": 0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09090909090909091,
+    "price sensitivity": -0.2550143266475646
+}

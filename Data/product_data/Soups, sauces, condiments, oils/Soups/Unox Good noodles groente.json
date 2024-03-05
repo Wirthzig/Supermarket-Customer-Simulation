@@ -1,0 +1,18 @@
+{
+    "id": 1185,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Unox Good noodles groente",
+    "price": 0.79,
+    "unit": "per stukPrijs per KG \u20ac 11,29",
+    "weight": "1 Stuks (piece). 70 Gram",
+    "calories": 92.0,
+    "ingredients": "Ingredi\u00ebnten: Deegwaar (noedels) 89% (TARWEBLOEM, palmvet, zout, gemodificeerd aardappelzetmeel, suiker, raapzaadolie, kurkuma-extract), smaakversterker (E621, E631, E627), aroma\u2019s (bevat SELDERIJ), suiker, glucosestroop, aardappelzetmeel, palmvet, specerijen (knoflookpoeder\u00b9, peper, cayennepeper, kurkuma\u00b9), prei\u00b9 0,5%, mineraalzout (kalium), wortel\u00b9 0,4%, gejodeerd zout, geroosterde uienpoeder\u00b9, peterselie\u00b9 0,1%, rode paprika\u00b9 0,1%, uiensapconcentraat\u00b9, zout, voedingszuur E330, gistextract, sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), zonnebloemolie. Kan andere glutenbevattende granen, ei, melk, mosterd bevatten.\u00b9 op duurzame wijze geteeld.",
+    "lifestyle": 0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.02526002971768202,
+    "price sensitivity": -0.532033426183844
+}

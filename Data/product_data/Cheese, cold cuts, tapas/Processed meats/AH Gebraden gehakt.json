@@ -1,0 +1,18 @@
+{
+    "id": 3045,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Gebraden gehakt",
+    "price": 2.43,
+    "unit": "ca. 140 gPrijs per KG \u20ac 17,09",
+    "weight": "125 Gram",
+    "calories": 270.0,
+    "ingredients": "Ingredi\u00ebnten: 80% varkensvlees, water, aardappelzetmeel, zout, gehydrolyseerd ma\u00efseiwit, specerijen, ui, aroma, dextrose, gistextract, maltodextrine, emulgator (E451), antioxidant (E301), kleurstof (karamel), suiker, conserveermiddel (E250, E262).",
+    "lifestyle": 0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.18940248027057502,
+    "price sensitivity": -0.8900445765230312
+}

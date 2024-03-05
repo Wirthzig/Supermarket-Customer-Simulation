@@ -1,0 +1,18 @@
+{
+    "id": 3484,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Nasi",
+    "price": 3.19,
+    "unit": "300 gPrijs per KG \u20ac 10,63",
+    "weight": "300 Gram",
+    "calories": 140.0,
+    "ingredients": "Ingredi\u00ebnten: water, rijst, prei, vrije-uitloopei\u1d47, 4,1% varkensvlees\u1d43, plantaardige olie (soja, raap, zonnebloem), zout, suiker, aardappelzetmeel, gistextract, varkenseiwit, stabilisator (trifosfaten [E451], difosfaten [E450], carrageen [E407]), antioxidant (natriumascorbaat [E301]), specerijen, natuurlijke aroma's, conserveermiddel (natriumnitriet [E250]).\u00a0\u1d47Beter Leven keurmerk 2 sterren,\u00a0\u1d43Beter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.8g per 100 gram en waarvan toegevoegd zout 0.88g per 100 gram",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2258064516129032,
+    "price sensitivity": -0.652542372881356
+}

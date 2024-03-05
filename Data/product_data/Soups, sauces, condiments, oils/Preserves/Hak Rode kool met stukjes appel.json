@@ -1,0 +1,18 @@
+{
+    "id": 1089,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "Hak Rode kool met stukjes appel",
+    "price": 2.29,
+    "unit": "355 gNormale prijs per KG \u20ac 6,45",
+    "weight": "355 Gram",
+    "calories": 48.0,
+    "ingredients": "Ingredi\u00ebnten: Rode kool 66%, water, suiker, appelstukjes 6,8%, natuurazijn, maiszetmeel, zeezout",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13670133729569092,
+    "price sensitivity": -0.4391829155060353
+}

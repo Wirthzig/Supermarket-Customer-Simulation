@@ -1,0 +1,18 @@
+{
+    "id": 2605,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "De Zaanse Hoeve Roomboter gezouten",
+    "price": 2.69,
+    "unit": "250 gPrijs per KG \u20ac 10,76",
+    "weight": "250 Gram",
+    "calories": 735.0,
+    "ingredients": "Ingredi\u00ebnten: roomboter, 1% zout.\nWaarvan toegevoegde suikers 0.0g per 100 gram en waarvan toegevoegd zout 1.00g per 100 gram",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.35000000000000003,
+    "price sensitivity": -0.7673716012084593
+}

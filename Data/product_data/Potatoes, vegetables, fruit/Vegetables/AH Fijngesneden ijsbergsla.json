@@ -1,0 +1,18 @@
+{
+    "id": 3765,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Vegetables",
+    "product": "AH Fijngesneden ijsbergsla",
+    "price": 0.89,
+    "unit": "100 gPrijs per KG \u20ac 8,90",
+    "weight": "100 Gram",
+    "calories": 14.0,
+    "ingredients": "Ingredi\u00ebnten: ijsbergsla.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.04166666666666667,
+    "price sensitivity": 0.8795180722891567
+}

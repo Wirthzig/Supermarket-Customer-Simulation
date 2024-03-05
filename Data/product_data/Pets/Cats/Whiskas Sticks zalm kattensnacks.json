@@ -1,0 +1,18 @@
+{
+    "id": 105,
+    "category": "Pets",
+    "sub category": "Cats",
+    "product": "Whiskas Sticks zalm kattensnacks",
+    "price": 1.19,
+    "unit": "18 gPrijs per KG \u20ac 66,11",
+    "weight": "3 Stuks (piece). 18 Gram",
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11137440758293839,
+    "price sensitivity": -0.8321678321678322
+}

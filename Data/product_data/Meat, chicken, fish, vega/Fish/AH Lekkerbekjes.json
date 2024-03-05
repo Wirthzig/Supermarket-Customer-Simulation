@@ -1,0 +1,18 @@
+{
+    "id": 3224,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Lekkerbekjes",
+    "price": 2.99,
+    "unit": "3 x 100 gPrijs per KG \u20ac 9,97",
+    "weight": "300 Gram",
+    "calories": 198.0,
+    "ingredients": "Ingredi\u00ebnten: 55% koolvis, bloem (tarwe, ma\u00efs), zonnebloemolie, zetmeel (tarwe, aardappel), gemodificeerd zetmeel (tapioca, ma\u00efs,\u00a0tarwe), zout, specerijen, dextrose, gist, suiker, groentepoeder (prei, tomaat, pastinaak), weipoeder, peterselie, specerijenextract.\u00a0\nWaarvan toegevoegde suikers 0.6g per 100 gram en waarvan toegevoegd zout 1.27g per 100 gram",
+    "lifestyle": -0.7,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11392405063291142,
+    "price sensitivity": -0.8582278481012658
+}

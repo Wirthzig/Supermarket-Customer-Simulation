@@ -1,0 +1,19 @@
+{
+  "name": "Student Vegan/Vegetarian",
+  "n": 7,
+  "fraud_probability": 0.09,
+  "time": {"mean": 0, "std": 0.25},
+  "amount": {"mean": 0, "std": 0.25},
+  "recipes": {"Spaghetti:": 0.4, "Burger": 0, "Risotto": 0.3, "VegRice": 0.4, "Steak": 0, "Party": 0.4},
+  "attributes":{
+    "price sensitivity": {"mean": -0.4, "std": 0.3},
+    "meat": {"mean": -1, "std": 0},
+    "vegetarian": {"mean": 1, "std": 0.25},
+    "vegan": {"mean": 1, "std": 0.25},
+    "lifestyle": {"mean": 0, "std": 0.25},
+    "sustainability": {"mean": 0.7, "std": 0.25},
+    "pets": {"mean": -1, "std": 0},
+    "children": {"mean": -1, "std": 0}
+  }
+}
+

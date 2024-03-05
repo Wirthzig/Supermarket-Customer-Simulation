@@ -1,0 +1,18 @@
+{
+    "id": 2482,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Partymix",
+    "price": 1.99,
+    "unit": "12 stuks",
+    "weight": "300 Gram",
+    "calories": 198.0,
+    "ingredients": "Ingredi\u00ebnten: Mini witte tarwebroodjes:\u00a0tarwebloem, water, bakkersgist, gejodeerd zout, antioxidant (ascorbinezuur [E300]), erwteneiwit, raapolie, ma\u00efszetmeel. Mini witte tarwebroodjes met sesamzaad:\u00a0tarwebloem, water, bakkersgist, 2%\u00a0sesamzaad, gejodeerd zout, antioxidant (ascorbinezuur [E300]), erwteneiwit, raapolie, ma\u00efszetmeel.\u00a0Mini-croissants:\u00a0tarwebloem, roomboter, water, bakkersgist, glucose-fructosestroop, suiker, gejodeerd zout, raapolie, emulgator (mono- en diglyceriden van vetzuren, veresterd met monoacetyl- en diacetylwijnsteenzuur [E472e], mono- en diglyceriden van vetzuren [E471]), palmvet, dextrose, aroma.\nWaarvan toegevoegde suikers gemiddeld 1.9g per 100 gram en waarvan toegevoegd zout gemiddeld 1.10g per 100 gram",
+    "lifestyle": -0.7,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09090909090909091,
+    "price sensitivity": -0.07736389684813771
+}

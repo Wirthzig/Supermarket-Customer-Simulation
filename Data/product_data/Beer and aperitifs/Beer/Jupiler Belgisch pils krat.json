@@ -1,0 +1,18 @@
+{
+    "id": 1442,
+    "category": "Beer and aperitifs",
+    "sub category": "Beer",
+    "product": "Jupiler Belgisch pils krat",
+    "price": 18.25,
+    "unit": "24 x 25 clPrijs per LT \u20ac 3,04",
+    "weight": "25 Centiliter",
+    "calories": 26.0,
+    "ingredients": "Ingredi\u00ebnten: Water, GERSTEMOUT, Mais, Hop",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.7544545849630596,
+    "price sensitivity": -0.7757847533632287
+}

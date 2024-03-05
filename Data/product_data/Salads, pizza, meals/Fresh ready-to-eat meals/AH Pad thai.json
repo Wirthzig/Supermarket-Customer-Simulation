@@ -1,0 +1,18 @@
+{
+    "id": 3462,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Pad thai",
+    "price": 2.59,
+    "unit": "200 gNormale prijs per KG \u20ac 12,95",
+    "weight": "200 Gram",
+    "calories": 126.0,
+    "ingredients": "Ingredi\u00ebnten: groente (9,6% wortel, 8,8% broccoli, 8,8% snijboon, 6% prei, 4,9% ui, 4,2% tomaat), water, rijst, 7,3% vrije-uitloopei\u1d47, plantaardige olie (soja, sesam, raap), knoflookvlok, suiker, rietsuiker, zout, specerijen, gemodificeerd aardappelzetmeel, extract (oester, specerijen, kruiden [o.a. selderij]), azijn, sojaboon, soja-eiwit, tarwebloem, conserveermiddel (kaliumsorbaat [E202],\nnatriumwaterstofsulfiet [E222]), kleurstof (karamel [E150a], ammoniakkaramel [E150c]), stabilisator (xanthaangom [E415]), verdikkingsmiddel (cellulosegom [E466]).\u1d47Beter Leven keurmerk 2 sterren.\nWaarvan toegevoegde suikers 4.0g per 100 gram en waarvan toegevoegd zout 0.78g per 100 gram",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1290322580645161,
+    "price sensitivity": -0.18644067796610186
+}

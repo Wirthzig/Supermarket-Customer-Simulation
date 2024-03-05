@@ -1,0 +1,18 @@
+{
+    "id": 2539,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Slagroom truffels",
+    "price": 3.0,
+    "unit": "5 stuks",
+    "weight": "133 Gram",
+    "calories": 527.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, 21%\u00a0slagroom, cacaomassa\u00b0,\u00a0roomboter, cacaoboter\u00b0, mageremelkpoeder, vollemelkpoeder, cacaopoeder\u00b0, dextrose, emulgator (sojalechitinen [E322]), stabilisator (carrageen [E407]),\u00a0zuurteregelaar (citroenzuur [E330]), raapolie, glutenvrij tarwezetmeel, verdikkingsmiddel (johannesbroodpitmeel [E410]), vanille-extract, vanillearoma.\nWaarvan toegevoegde suikers 27g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.16153846153846155,
+    "price sensitivity": -0.8853868194842407
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1143,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "AH Rijkgevulde kippensoep",
+    "price": 1.89,
+    "unit": "800 mlPrijs per LT \u20ac 2,36",
+    "weight": "800 Milliliter",
+    "calories": 27.0,
+    "ingredients": "Ingredi\u00ebnten: water, 8,7% kippenvlees\u00aa, groente (3% wortel, bleekselderij, 0,9% prei), durum tarwegriesmeel, zout, natuurlijk aroma, kippenvet, aroma, uipoeder, dieetzout (kaliumchloride), verdikkingsmiddel (guarpitmeel [E412]), scharrelei-eiwit, bieslook, kleurstof (caroteen [E160a]). \u00aaBeter Leven keurmerk 1 ster.\u00a0\nWaarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.71g per 100 milliliter",
+    "lifestyle": 0.1,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10698365527488855,
+    "price sensitivity": -0.8570102135561746
+}

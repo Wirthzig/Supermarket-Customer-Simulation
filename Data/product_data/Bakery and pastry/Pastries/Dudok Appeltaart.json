@@ -1,0 +1,18 @@
+{
+    "id": 2504,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "Dudok Appeltaart",
+    "price": 12.79,
+    "unit": "per stuk",
+    "weight": "1 Stuks (piece)",
+    "calories": 243.0,
+    "ingredients": "Ingredienten:appel(54%), TARWEbloem, boter(MELK), suiker, suiker, rozijnen, EI, water, kruiden en specerijen(kaneel), bakkerszout, aardappelzetmeel, plantaardige olie(katoenzaad), Rijsmiddel(E503, E450, E500), Antiklontermiddel(E535, E341), aroma(bourbon vanille), Conserveermiddel(E202), enzymen(TARWE), gemodificeerd maiszetmeel, kaliumjodide, Meelverbeteraar(E300), paneermeel(paneermeel), rietsuiker, TARWEmoutmeel.                                 Dit product wordt gemaakt in een ruimte waar pinda's en noten worden verwerkt.",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.846153846153846,
+    "price sensitivity": -0.7936962750716333
+}

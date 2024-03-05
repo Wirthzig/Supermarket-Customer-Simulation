@@ -1,0 +1,18 @@
+{
+    "id": 924,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "FulFil Peanut and caramel",
+    "price": 2.55,
+    "unit": "55 gPrijs per KG \u20ac 46,36",
+    "weight": "55 Gram",
+    "calories": 372.0,
+    "ingredients": "Ingredi\u00ebnten: Melkchocolade met zoetstof 28,2% (zoetstof [maltitol], cacaoboter, volle MELKPOEDER, cacaomassa, emulgator [SOJALECITHINEN], aroma's), MELKEIWIT, laagje met karamelsmaak 12,7% (vulstof [polydextrose], SOJAOLIE, collageenhydrolysaat, magere MELKPOEDER, stabilisator [xylitol], MELKEIWIT, emulgator [SOJALECITHINEN], bevochtigingsmiddel [glycerol], aroma's, zout, zoetstof [sucralose]), collageenhydrolysaat, bevochtigingsmiddel (glycerol), PINDA'S 5,5%, SOJAkrokant (SOJA-EIWIT), zoetstoffen (erythritol, sucralose), ma\u00efsvezel, aroma's (bevatten PINDA'S), zout, vitaminen (vitamine C [ascorbinezuur], nicotinamide, vitamine E [tocoferylacetaat], calciumpantothenaat, vitamine B2 [riboflavine], vitamine B6 [pyridoxine hydrochloride], vitamine B1 [thiamine hydrochloride], folimzuur, vitamine B12 [cyanocobalamine])\n\nKan glutenbevattende granen, eieren, noten en sesamzaad bevatten.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05215189873417721,
+    "price sensitivity": -0.7
+}

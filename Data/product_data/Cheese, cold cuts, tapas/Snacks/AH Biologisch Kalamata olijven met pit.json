@@ -1,0 +1,18 @@
+{
+    "id": 2952,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Biologisch Kalamata olijven met pit",
+    "price": 3.0,
+    "unit": "100 gPrijs per KG \u20ac 30,00",
+    "weight": "100 Gram",
+    "calories": 300.0,
+    "ingredients": "Ingredi\u00ebnten: 85% kalamata-olijf*, zonnebloemolie*, zout, gebufferd azijn (conserverend ingredi\u00ebnt)*, wittewijnazijn*, water, voedingszuur (melkzuur [E270]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 2.97g per 100 gram\nEU/niet-EU Landbouw \n*Van biologische oorsprong.",
+    "lifestyle": -0.7,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.25366403607666294,
+    "price sensitivity": -1.0
+}

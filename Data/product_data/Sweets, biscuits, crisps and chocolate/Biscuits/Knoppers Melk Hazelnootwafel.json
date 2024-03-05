@@ -1,0 +1,18 @@
+{
+    "id": 2123,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "Knoppers Melk Hazelnootwafel",
+    "price": 1.49,
+    "unit": "5 x 25 gPrijs per KG \u20ac 11,92",
+    "weight": "25 Gram",
+    "calories": 551.0,
+    "ingredients": "Ingredienten: suiker, plantaardige vetten (palm, shea), MAGEREMELKPOEDER* (13,5%), TARWEMEEL (12,3%), HAZELNOTEN (9,1%), VOLKORENTARWEMEEL (6,1%), cacao, BOTERVET* (2,6%), magere cacao, TARWEZETMEEL, emulgator: lecithinen (SOJA), WEIPOEDER, ROOMPOEDER* (0,2%), zout, natuurlijke aroma's, rijsmiddel: natriumwaterstofcarbonaat, gemalen AARDNOTEN/PINDA'S. \n*komt overeen met 10% melkbestanddelen.\nKan ook bestanddelen van amandel, andere noten en ei bevatten.",
+    "lifestyle": 0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.15254237288135591,
+    "price sensitivity": -0.25
+}

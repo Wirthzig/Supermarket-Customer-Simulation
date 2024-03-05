@@ -1,0 +1,18 @@
+{
+    "id": 783,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "Topking Vlamtosti 2-pack",
+    "price": 2.69,
+    "unit": "2 stuksPrijs per KG \u20ac 12,23",
+    "weight": "2 Stuks (piece)",
+    "calories": 266.0,
+    "ingredients": "50% wit brood (tarwebloem, water, bakkerszout, bakkersgist), 25% kaas jong belegen 48+, 25% Vlammetjes\u00ae-vlees (varkensvlees, 1% Spaanse peper, suiker, wortel, zout, water, plantaardige vezel,  antioxidant (E301, citroenzuur), specerijen, paneermeel [bevat tarwe], gistextract, stabilisator (E464), azijn, zuurteregelaar (citroenzuur)).",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2698412698412698,
+    "price sensitivity": -0.2846347607052897
+}

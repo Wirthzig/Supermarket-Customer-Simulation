@@ -1,0 +1,18 @@
+{
+    "id": 3459,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "Vegetarische Slager Bratwurst",
+    "price": 2.85,
+    "unit": "160 gPrijs per KG \u20ac 17,81",
+    "weight": "2 Stuks (piece). 160 Gram",
+    "calories": 153.0,
+    "ingredients": "Ingredi\u00ebnten: SOJASTRUCTUUR 67% (water, SOJA-EIWIT, TARWE-EIWIT), ui, raapzaadolie, vrije-uitloop KIPPENEI-EIWIT, aroma, zetmeel (aardappelzetmeel, tapiocazetmeel), kruiden, specerijen, zout, suiker, dextrose, kleurstof (karamel), ijzer, vitamine B12. Kan melk, noten, pinda bevatten.",
+    "lifestyle": 0.5,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10506329113924052,
+    "price sensitivity": -0.6949152542372882
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3467,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Verse kip ketjap",
+    "price": 7.49,
+    "unit": "505 gNormale prijs per KG \u20ac 14,83",
+    "weight": "505 Gram",
+    "calories": 118.0,
+    "ingredients": "Ingredi\u00ebnten: kip ketjap [39% gegaarde kip [99% kippenvlees, zout], 28% ketjap [sojasaus [water,\u00a0sojaboon,\u00a0tarwe, zout, azijn, alcohol, suiker], suiker, specerijen], ui, water, raapolie, knoflook, gember, rode peper,\u00a0tarwebloem, specerijen],\u00a0gekruide sperzieboontjes [80% sperzieboon, 11% kokosmelk [kokosextract, water, stabilisator (E415, E412)], water, rode ui, raapolie, limoensap, gember, knoflook, rode peper, kurkuma, zout, limoenblad, verdikkingsmiddel (E415)],\u00a0limoen-kokosrijst [77% gekookte witte rijst, 15% kokosmelk [kokosextract, water, stabilisator (E415, E412)], 4,6% limoensap, suiker, 0,8% limoenschil, zout],\u00a0pittige komkommersalade [75% komkommer, rode paprika, 4,7% rode peper, zoetzuur [water, azijn, suiker, zout]], seroendeng [45%\u00a0pinda, 41% kokos, gele basterdsuiker, paprikapoeder, kruiden en specerijen, zout, knoflookpoeder], bosui.",
+    "lifestyle": -0.5,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.9193548387096774,
+    "price sensitivity": -0.5423728813559323
+}

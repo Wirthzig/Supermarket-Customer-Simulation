@@ -1,0 +1,18 @@
+{
+    "id": 748,
+    "category": "Frozen foods",
+    "sub category": "Frozen vegetables",
+    "product": "AH Gebroken sperziebonen fijn",
+    "price": 0.77,
+    "unit": "450 gPrijs per KG \u20ac 1,71",
+    "weight": "450 Gram",
+    "calories": 32.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.015873015873015872,
+    "price sensitivity": -0.6120906801007557
+}

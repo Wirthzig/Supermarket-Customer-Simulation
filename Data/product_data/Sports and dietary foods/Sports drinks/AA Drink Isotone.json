@@ -1,0 +1,18 @@
+{
+    "id": 979,
+    "category": "Sports and dietary foods",
+    "sub category": "Sports drinks",
+    "product": "AA Drink Isotone",
+    "price": 1.19,
+    "unit": "0,5 lPrijs per LT \u20ac 2,38",
+    "weight": "0.5 Liter",
+    "calories": 22.0,
+    "ingredients": "Ingredi\u00ebnten: Water, suiker, glucosefructosestroop,voedingszuur: citroenzuur, citroensap, natuurlijk citroenaroma, calciumlactaat, magnesiumlactaat, natriumcitraat, natriumchloride, kaliumcitraat,\n\nkleurstoffen: concentraat (saffloor en citroen) en E131, natriumfosfaat, zoetstof: acesulfaam K, conserveermiddel: E202\n\nOsmolaliteit: 300-320 mOsm/L",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.01772151898734177,
+    "price sensitivity": -0.5633333333333332
+}

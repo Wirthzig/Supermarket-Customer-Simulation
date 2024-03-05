@@ -1,0 +1,18 @@
+{
+    "id": 2495,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Worstenbroodjes",
+    "price": 2.9,
+    "unit": "4 stuks",
+    "weight": "280 Gram",
+    "calories": 238.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 17% varkensvlees\u00aa, 17% rundvlees\u00aa, water,\u00a0scharrelei, gist, plantaardige olie (palm, raap), dextrose, zout, conserveermiddel (natriumacetaat [E262], natriumlactaat [E325]), vollemelkpoeder, gejodeerd zout, specerijenextract,\u00a0kaliumchloride\u00a0(dieetzout), voedingszuur (melkzuur [E270], citroenzuur [E330]), natuurlijk aroma, erwteneiwit, specerijen, ma\u00efszetmeel, antioxidant (ascorbinezuur [E300]), emulgator (mono- en diglyceriden van vetzuren [E471]).\u00a0\u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.7g per 100 gram en waarvan toegevoegd zout 1.03g per 100 gram",
+    "lifestyle": -0.6,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.15454545454545454,
+    "price sensitivity": -0.5931232091690545
+}

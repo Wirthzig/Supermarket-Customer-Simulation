@@ -1,0 +1,18 @@
+{
+    "id": 1917,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Coffee",
+    "product": "Douwe Egberts Aroma variaties excellent filtermaling",
+    "price": 4.99,
+    "unit": "250 gPrijs per KG \u20ac 19,96",
+    "weight": "250 Gram",
+    "calories": NaN,
+    "ingredients": "Gebruik deze snelfiltermaling in een filterapparaat of opzetfilter.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3429003021148036,
+    "price sensitivity": -0.099290780141844
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3509,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Hachee rodekool aardappelpuree",
+    "price": 3.79,
+    "unit": "500 gNormale prijs per KG \u20ac 9,58",
+    "weight": "500 Gram",
+    "calories": 95.0,
+    "ingredients": "Ingredi\u00ebnten: groente (31% rodekool, 7,3% ui), 20% aardappel, water, 10% rundvlees, 4,4% appel, suiker, roomboter, vollemelkpoeder, zetmeel (ma\u00efs, aardappel, rijst), azijn, zout, 0,5% aardappelvlok,\u00a0tarwebloem, vruchtensapconcentraat (peer, appel), raapolie, runderbouillon, specerijen (o.a.\u00a0mosterd), knoflook, rodewijnazijn, glucose-fructosestroop, geroosterd gerstemoutextract, emulgator (mono- en diglyceriden van vetzuren [E471]), voedingszuur (citroenzuur [E330]), extract (specerijen, wortel, tomaat), gistextract, maltodextrine, laurier, geleermiddel (pectine [E440]), antioxidant (ascorbinezuur [E300], extracten van rozemarijn [E392]), stabilisator (difosfaat [E450]).\nWaarvan toegevoegde suikers 4.5g per 100 gram en waarvan toegevoegd zout 0.64g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3225806451612903,
+    "price sensitivity": -0.652542372881356
+}

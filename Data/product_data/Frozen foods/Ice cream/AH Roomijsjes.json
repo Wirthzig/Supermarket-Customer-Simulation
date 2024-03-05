@@ -1,0 +1,18 @@
+{
+    "id": 839,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "AH Roomijsjes",
+    "price": 2.55,
+    "unit": "8 stuksPrijs per LT \u20ac 3,19",
+    "weight": "400 Gram",
+    "calories": 185.0,
+    "ingredients": "Ingredi\u00ebnten: gerehydrateerde magere melk, 21%\u00a0room, suiker, glucosestroop, water, vegetarisch wei-eiwitconcentraat, mageremelkpoeder, emulgator (mono- en diglyceriden van vetzuren [E471]), stabilisator (johannesbroodpitmeel [E410], guarpitmeel [E412]), aroma, natuurlijk aroma, kleurstof (b\u00e8ta-caroteen [E160a]).\nWaarvan toegevoegde suikers 13g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2513227513227513,
+    "price sensitivity": 0.050000000000000044
+}

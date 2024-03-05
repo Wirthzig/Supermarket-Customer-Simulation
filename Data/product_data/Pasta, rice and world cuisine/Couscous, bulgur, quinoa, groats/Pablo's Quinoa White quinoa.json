@@ -1,0 +1,18 @@
+{
+    "id": 1258,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Couscous, bulgur, quinoa, groats",
+    "product": "Pablo's Quinoa White quinoa",
+    "price": 2.49,
+    "unit": "250 gPrijs per KG \u20ac 9,96",
+    "weight": "250 Gram",
+    "calories": 367.0,
+    "ingredients": "Ingredi\u00ebnten: Biologische witte quinoa zaden",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.2907801418439716,
+    "price sensitivity": -0.7777777777777778
+}

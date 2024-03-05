@@ -1,0 +1,18 @@
+{
+    "id": 2989,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Spaanse fuet",
+    "price": 3.25,
+    "unit": "90 gPrijs per KG \u20ac 36,11",
+    "weight": "90 Gram",
+    "calories": 415.0,
+    "ingredients": "Ingredi\u00ebnten: varkensvlees, zout, mageremelkpoeder, lactose, peper, dextrose, aroma's, rundercollageen, conserveermiddel (natriumnitriet [E250], kaliumnitraat [E252]), kleurend rodebietconcentraat, antioxidant (natriumascorbaat [E301]).\u00a0\nWaarvan toegevoegde suikers 2.3g per 100 gram en waarvan toegevoegd zout 4.15g per 100 gram\nVoor 100 g Spaanse fuet is 160 g varkensvlees gebruikt.",
+    "lifestyle": 0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.28184892897406993,
+    "price sensitivity": -0.87518573551263
+}

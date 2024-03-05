@@ -1,0 +1,18 @@
+{
+    "id": 2603,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "Croma Bakken en braden",
+    "price": 2.81,
+    "unit": "450 mlNormale prijs per LT \u20ac 8,33",
+    "weight": "450 Milliliter",
+    "calories": 805.0,
+    "ingredients": "Ingredi\u00ebnten: Plantaardige oli\u00ebn (koolzaad, zonnebloem, volledig geharde koolzaad), zout (1,1%), droge MELKBESTANDDELEN, emulgator (SOJALECITHINE), smaakversterkers (mononatriumglutamaat, dinatriumguanylaat, natriuminosinaat), natuurlijke aroma's, vitamine A en D",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.37000000000000005,
+    "price sensitivity": -0.7069486404833837
+}

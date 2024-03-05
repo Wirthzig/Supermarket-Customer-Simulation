@@ -1,0 +1,18 @@
+{
+    "id": 3605,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Potatoes",
+    "product": "AH Bakaardappeltjes",
+    "price": 0.99,
+    "unit": "500 gPrijs per KG \u20ac 1,98",
+    "weight": "500 Gram",
+    "calories": 87.0,
+    "ingredients": "Ingredi\u00ebnten: aardappelen\nWaarvan toegevoegde suikers 0g per 100 gram en waarvan toegevoegd zout 0g per 100 gram.",
+    "lifestyle": 0.6,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0625,
+    "price sensitivity": -0.927710843373494
+}

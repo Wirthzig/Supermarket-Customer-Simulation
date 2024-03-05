@@ -1,0 +1,18 @@
+{
+    "id": 163,
+    "category": "Pets",
+    "sub category": "Dogs",
+    "product": "Pets Unlimited Tricolor chewy stick with chicken medium",
+    "price": 2.29,
+    "unit": "3 stuks",
+    "weight": "3 Stuks",
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24170616113744078,
+    "price sensitivity": -0.5510489510489511
+}

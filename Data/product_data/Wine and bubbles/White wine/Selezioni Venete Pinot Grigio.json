@@ -1,0 +1,18 @@
+{
+    "id": 1526,
+    "category": "Wine and bubbles",
+    "sub category": "White wine",
+    "product": "Selezioni Venete Pinot Grigio",
+    "price": 4.49,
+    "unit": "0,75 lPrijs per LT \u20ac 5,99",
+    "weight": "0.75 Liter",
+    "calories": NaN,
+    "ingredients": "Contains sulfites",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3373493975903614,
+    "price sensitivity": -0.8565022421524664
+}

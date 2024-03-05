@@ -1,0 +1,18 @@
+{
+    "id": 138,
+    "category": "Pets",
+    "sub category": "Cats",
+    "product": "AH Kattenmelk met omega-3",
+    "price": 0.79,
+    "unit": "250 mlPrijs per LT \u20ac 3,16",
+    "weight": "250 Milliliter",
+    "calories": NaN,
+    "ingredients": "Geproduceerd in: Belgi\u00ebErkenningsnummer fabrikant: PET 157",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06398104265402844,
+    "price sensitivity": -0.8307692307692308
+}

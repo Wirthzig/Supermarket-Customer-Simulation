@@ -1,0 +1,18 @@
+{
+    "id": 3658,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Potatoes",
+    "product": "AH Aardappelgratin",
+    "price": 2.29,
+    "unit": "500 gPrijs per KG \u20ac 4,58",
+    "weight": "500 Gram",
+    "calories": 111.0,
+    "ingredients": "Ingredi\u00ebnten: 70% aardappel, water, volle melk, 5,4% room, zonnebloemolie, zout, gemodificeerd ma\u00efszetmeel, aroma (melk), stabilisator (xanthaangom [E415], guarpitmeel [E412]), scharreleigeel, suiker, gistextract, knoflookpoeder, emulgator (mono- en diglyceriden van vetzuren [E471]).\nWaarvan toegevoegde suikers 0.05g per 100 gram en waarvan toegevoegd zout 0.66g per 100 gram",
+    "lifestyle": -0.7,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3333333333333333,
+    "price sensitivity": -0.32530120481927716
+}

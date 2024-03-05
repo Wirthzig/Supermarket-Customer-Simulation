@@ -1,0 +1,18 @@
+{
+    "id": 1106,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "Hak Doperwtjes met worteltjes",
+    "price": 2.9,
+    "unit": "350 gNormale prijs per KG \u20ac 9,09",
+    "weight": "350 Gram",
+    "calories": 49.0,
+    "ingredients": "Ingredi\u00ebnten: Worteltjes, doperwtjes, water, zeezout.",
+    "lifestyle": 0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.18202080237741453,
+    "price sensitivity": 0.3036211699164346
+}

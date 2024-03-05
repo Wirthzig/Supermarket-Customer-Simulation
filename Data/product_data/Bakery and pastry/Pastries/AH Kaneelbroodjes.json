@@ -1,0 +1,18 @@
+{
+    "id": 2576,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Kaneelbroodjes",
+    "price": 2.19,
+    "unit": "2 stuks",
+    "weight": "150 Gram",
+    "calories": 456.0,
+    "ingredients": "Ingredi\u00ebnten: plantaardige olie (palm, raap, kokos), tarwebloem, water, suiker, scharrelei, bakkersgist, tarwegluten, kaneel, gemodificeerd aardappelzetmeel, vegetarisch\u00a0weipoeder, gejodeerd zout, emulgator (mono- en diglyceriden van vetzuren, veresterd met monoacetyl- en diacetylwijnsteenzuur [E472e], mono- en diglyceriden van vetzuren [E471]), verstevigingsmiddel (isomalt [E953]), stabilisator (difosfaat [E450], calciumsulfaat [E516], natriumalginaat [E401], guarpitmeel [E412], pectine [E440]), gerstemoutmeel,\u00a0kleurstof (caroteen [E160a], calciumcarbonaat [E170]), vollemelkpoeder, zuurteregelaar (citroenzuur [E330], ascorbinezuur [E300]), maltodextrine, tarwezetmeel, gerstemoutextract, glucosestroop, conserveermiddel (kaliumsorbaat [E202]), natuurlijk aroma, natuurlijk vanillearoma, geleermiddel (agaragar [E406]), melkeiwit, vitamine A.\nWaarvan toegevoegde suikers 13g per 100 gram en waarvan toegevoegd zout 0.45g per 100 gram",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1048951048951049,
+    "price sensitivity": -0.6299093655589124
+}

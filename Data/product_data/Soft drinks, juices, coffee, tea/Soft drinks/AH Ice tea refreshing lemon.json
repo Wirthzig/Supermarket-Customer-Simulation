@@ -1,0 +1,18 @@
+{
+    "id": 1597,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "AH Ice tea refreshing lemon",
+    "price": 0.89,
+    "unit": "1,5 lPrijs per LT \u20ac 0,59",
+    "weight": "1.5 Liter",
+    "calories": 10.0,
+    "ingredients": "Ingredi\u00ebnten: water, suiker, zuurteregelaar (citroenzuur [E330],\u00a0natriumcitraat [E331]), 0,1% citroensap uit concentraat, 0,1% zwarte thee-extract, natuurlijk aroma, antioxidant (ascorbinezuur [E300]), zoetstof (steviolglycosiden [E960]).\nWaarvan toegevoegde suikers 2.6g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.03323262839879154,
+    "price sensitivity": -0.06075949367088607
+}

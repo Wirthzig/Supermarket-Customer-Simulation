@@ -1,0 +1,18 @@
+{
+    "id": 2412,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "AH Fruit noten muesli",
+    "price": 4.25,
+    "unit": "1 kgPrijs per KG \u20ac 4,25",
+    "weight": "1 Kilogram",
+    "calories": 384.0,
+    "ingredients": "Ingredi\u00ebnten: gedroogd fruit (20% druif, 5,7% dadel, 1,7% banaan, 1,5% ananas, 1,5% kokos), 27% gerstevlok, 18% volkoren\u00a0havervlok, lijnzaad, 5% zonnebloempit, tarwevlok, 3% pompoenpit, suiker, plantaardige olie (kokos, zonnebloem, katoenzaad), 1% hazelnoot\u00b0, 1% pecannoot, 1% amandel, rijstebloem, zuurteregelaar (citroenzuur [E330]), gerstemout, emulgator (lecithine [E322]), antioxidant (zwaveldioxide [E220 (sulfiet)]).\nWaarvan toegevoegde suikers 1.9g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6716981132075471,
+    "price sensitivity": -0.19354838709677424
+}

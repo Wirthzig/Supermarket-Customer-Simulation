@@ -1,0 +1,18 @@
+{
+    "id": 2454,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Mini roomboter croissants",
+    "price": 1.89,
+    "unit": "8 stuks",
+    "weight": "200 Gram",
+    "calories": 441.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 25% roomboter, water, glucose-fructosestroop, gist, suiker, gejodeerd zout, raapolie, emulgator (mono- en diglyceriden van vetzuren, veresterd met monoacetyl- en diacetylwijnsteenzuur [E472e], mono- en diglyceriden van vetzuren [E471]), palmvet, antioxidant (ascorbinezuur [E300]), dextrose, aroma.\nWaarvan toegevoegde suikers 5.8g per 100 gram en waarvan toegevoegd zout 1.10g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0839160839160839,
+    "price sensitivity": -0.31232091690544406
+}

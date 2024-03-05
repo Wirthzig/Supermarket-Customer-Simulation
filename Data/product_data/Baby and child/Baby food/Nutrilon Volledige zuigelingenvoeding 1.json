@@ -1,0 +1,18 @@
+{
+    "id": 467,
+    "category": "Baby and child",
+    "sub category": "Baby food",
+    "product": "Nutrilon Volledige zuigelingenvoeding 1",
+    "price": 16.99,
+    "unit": "800 gPrijs per KG \u20ac 21,24",
+    "weight": "800 Gram",
+    "calories": 66.0,
+    "ingredients": "Ingredi\u00ebnten: Lactose (MELK), plantaardige oli\u00ebn (high oleic zonnebloemolie, kokosolie, koolzaadolie, zonnebloemolie), magere MELK, gedemineraliseerde wei (MELK), galacto-oligosachariden (MELK), wei-concentraat (MELK), eiwit (koeMELK), fructo-oligosachariden, VISolie, kaliumcitraat, calciumcarbonaat, olie van Mortierella alpina, magnesiumchloride, cholinechloride, tricalciumfosfaat, natriumcitraat, kaliumchloride, natriumchloride, L-ascorbinezuur, emulgator (SOJAlecithine), inositol, L-tryptofaan, natrium L-ascorbaat, ijzersulfaat, zinksulfaat, L-carnitine, antioxidant (ascorbylpalmitaat), calcium D-pantothenaat, nicotinamide, kopersulfaat, DL-\u03b1-tocoferylacetaat, retinylpalmitaat, thiaminehydrochloride, riboflavine, pyridoxinehydrochloride, kaliumjodide, pteroylmonoglutaminezuur, fytomenadion, natriumseleniet, mangaansulfaat, cholecalciferol, D-biotine, cyanocobalamine.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5629370629370629,
+    "price sensitivity": 0.24528301886792447
+}

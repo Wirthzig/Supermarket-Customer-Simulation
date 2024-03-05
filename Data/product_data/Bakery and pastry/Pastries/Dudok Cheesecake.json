@@ -1,0 +1,18 @@
+{
+    "id": 2500,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "Dudok Cheesecake",
+    "price": 13.89,
+    "unit": "per stuk",
+    "weight": "1 Stuks (piece)",
+    "calories": 243.0,
+    "ingredients": "Ingredi\u00ebnten:MELK (magere), ROOMKAAS, MELK, suiker, EI, TARWEbloem, Plantaardig Vet(palmpit, palm), boter(MELK), room(MELK), zwarte bes(2%), rode bes(2%), dextrose, plantaardige olie(raapzaad), EIgeel, mais, wilde braambes(1%), MELKeiwitten, MELKpoeder (magere), frambozen, kruiden en specerijen(kaneel), maiszetmeel (gemodificeerd), water, wilde bosbes(<1%), zout, Verdikkingsmiddel(E410), bakkerszout, Rijsmiddel(E503), zuursel, Antiklontermiddel(E535), Conserveermiddel(E202), Emulgator(E433, E471), enzymen(TARWE), kaliumjodide, Kleurstof(E160a), Meelverbeteraar(E300), Natuurlijk Aroma(natuurlijk aroma), Stabilisator(E407), startercultuur, stremsel, TARWEmoutmeel, voedingszuur(E330). Dit product wordt gemaakt in een ruimte waar pinda's en noten worden verwerkt",
+    "lifestyle": 0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.9230769230769231,
+    "price sensitivity": 0.4957020057306589
+}

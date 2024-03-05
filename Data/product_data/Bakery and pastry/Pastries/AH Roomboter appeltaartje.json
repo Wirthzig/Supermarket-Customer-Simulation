@@ -1,0 +1,18 @@
+{
+    "id": 2547,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Roomboter appeltaartje",
+    "price": 4.59,
+    "unit": "per stukPrijs per KG \u20ac 8,35",
+    "weight": "640 Gram",
+    "calories": 256.0,
+    "ingredients": "Ingredi\u00ebnten: 50% appel, tarwebloem, 12% roomboter, suiker, rozijn, gemodificeerd zetmeel (ma\u00efs, aardappel), abrikoos, glucosestroop, scharrelei, kaneel, citroenschil, dextrose, zout, rijsmiddel (natriumcarbonaten [E500], difosfaten [E450]), scharreleigeel, voedingszuur (citroenzuur [E330], natriumcitraten [E331], calciumcitraten [E333]), natuurlijke aroma's, plantaardige olie (zonnebloem, raap), verdikkingsmiddel (pectine [E440], xanthaangom [E415]), conserveermiddel (kaliumsorbaat [E202]).\nWaarvan toegevoegde suikers gemiddeld 12g per 100 gram en waarvan toegevoegd zout gemiddeld 0.15g per 100 gram",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2727272727272727,
+    "price sensitivity": -0.3696275071633238
+}

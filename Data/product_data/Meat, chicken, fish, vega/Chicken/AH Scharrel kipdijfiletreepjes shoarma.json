@@ -1,0 +1,18 @@
+{
+    "id": 3273,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel kipdijfiletreepjes shoarma",
+    "price": 7.99,
+    "unit": "650 gPrijs per KG \u20ac 12,29",
+    "weight": "650 Gram",
+    "calories": 166.0,
+    "ingredients": "Ingredi\u00ebnten: 93% kipdijfilet, extract\n (ui-extract, paprikaconcentrate, peper, foelie, peperextract), plantaardige olie (zonnebloemolie, koolzaadolie), specerijen (gedroogde paprikavlokken, ui, knoflook, cayennepeper, piment, kurkuma, witte peper, korianderzaad, paprika, komijnzaden, lavaswortel), zout, suiker, pastinaakpoeder\nWaarvan toegevoegde suikers 0.2g per 100 gram en waarvan toegevoegd zout 0.95g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4303797468354431,
+    "price sensitivity": -0.8784810126582279
+}

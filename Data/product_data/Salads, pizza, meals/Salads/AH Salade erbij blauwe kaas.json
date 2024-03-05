@@ -1,0 +1,18 @@
+{
+    "id": 3552,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Salade erbij blauwe kaas",
+    "price": 4.29,
+    "unit": "277 gPrijs per KG \u20ac 15,49",
+    "weight": "262 Gram",
+    "calories": 140.0,
+    "ingredients": "Ingredi\u00ebnten: groente (14% botersla, 11% bleekselderij, 9,1% veldsla, 8,6% radicchio), fruit (15% peer, 13% druif, 3,5% framboos), melk, raapolie, water, suiker, rodewijnazijn, zout, balsamicoazijn, verdikkingsmiddel (xanthaangom [E415]), zuursel, vegetarisch stremsel, schimmelcultuur, zwarte peper, antiklontermiddel (cellulose [E460]), antioxidant (calciumascorbaat [E302]).\u00a0\nWaarvan toegevoegde suikers 1.4g per 100 gram en waarvan toegevoegd zout 0.49g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4032258064516129,
+    "price sensitivity": -0.39830508474576287
+}

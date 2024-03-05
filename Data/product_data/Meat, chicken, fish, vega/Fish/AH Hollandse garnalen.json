@@ -1,0 +1,18 @@
+{
+    "id": 3245,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Hollandse garnalen",
+    "price": 5.99,
+    "unit": "100 gPrijs per KG \u20ac 59,90",
+    "weight": "100 Gram",
+    "calories": 95.0,
+    "ingredients": "Ingredi\u00ebnten: 99% garnaal, zout, zuurteregelaar (citroenzuur [E330], natriumcitraat [E331]), conserveermiddel (natriumbenzoaat [E211]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.55g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.30379746835443044,
+    "price sensitivity": -0.7569620253164557
+}

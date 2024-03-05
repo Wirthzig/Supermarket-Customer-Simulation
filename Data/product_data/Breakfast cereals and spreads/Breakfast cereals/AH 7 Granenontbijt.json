@@ -1,0 +1,18 @@
+{
+    "id": 2403,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "AH 7 Granenontbijt",
+    "price": 0.85,
+    "unit": "300 gPrijs per KG \u20ac 2,83",
+    "weight": "300 Gram",
+    "calories": 340.0,
+    "ingredients": "Ingredi\u00ebnten: volkorenmeel (88% tarwe, 2% gierst, 2% gerst, 2% haver), meel (2% ma\u00efs, 2% rijst), 2% roggebloem, zout, vitamine B1.\nWaarvan toegevoegde suikers 0g per 100 gram en waarvan toegevoegd zout 0.3g per 100 gram.",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.03018867924528302,
+    "price sensitivity": -0.8064516129032258
+}

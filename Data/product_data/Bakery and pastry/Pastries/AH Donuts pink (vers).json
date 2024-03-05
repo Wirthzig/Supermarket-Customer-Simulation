@@ -1,0 +1,18 @@
+{
+    "id": 2559,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Donuts pink (vers)",
+    "price": 3.15,
+    "unit": "4 stuks",
+    "weight": NaN,
+    "calories": 503.0,
+    "ingredients": "Ingredi\u00ebnten: TARWEbloem, water, suiker, palmvet, zonnebloemolie, dextrose, magere MELKpoeder, gist, kleurstof (bietenrood, caroteen), emulgator (lecithine (SOJA), E471, E481), aroma, glucosestroop, rijsmiddel (E450, E500), natuurlijk aroma, WEIPOEDER, zout, SOJAbloem\n\nAllergie-informatie: bevat tarwegluten, soja, melkeiwit, lactose. Gemaakt in een bedrijf waar ook noten worden verwerkt.",
+    "lifestyle": -0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17202797202797201,
+    "price sensitivity": -0.8429003021148036
+}

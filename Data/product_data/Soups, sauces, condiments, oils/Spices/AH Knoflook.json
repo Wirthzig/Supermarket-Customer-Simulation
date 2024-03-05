@@ -1,0 +1,18 @@
+{
+    "id": 1042,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Spices",
+    "product": "AH Knoflook",
+    "price": 1.69,
+    "unit": "250 gPrijs per KG \u20ac 6,76",
+    "weight": "250 Gram",
+    "calories": 158.0,
+    "ingredients": "Ingredi\u00ebnten: knoflook",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09212481426448736,
+    "price sensitivity": -0.9777158774373259
+}

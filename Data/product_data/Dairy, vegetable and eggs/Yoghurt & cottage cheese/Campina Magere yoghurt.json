@@ -1,0 +1,18 @@
+{
+    "id": 2717,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "Campina Magere yoghurt",
+    "price": 1.79,
+    "unit": "1 lPrijs per LT \u20ac 1,79",
+    "weight": "1 Liter",
+    "calories": 39.0,
+    "ingredients": "Schudden voor gebruik",
+    "lifestyle": -0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.20000000000000004,
+    "price sensitivity": 0.01812688821752273
+}

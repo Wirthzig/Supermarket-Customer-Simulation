@@ -1,0 +1,18 @@
+{
+    "id": 3086,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Achterham",
+    "price": 1.69,
+    "unit": "150 gPrijs per KG \u20ac 11,27",
+    "weight": "150 Gram",
+    "calories": 102.0,
+    "ingredients": "Ingredi\u00ebnten: 78% varkensvlees, water, zuurteregelaar (kaliumacetaten [E261], kaliumlactaat [E326]), zout, natuurlijke aroma\u2019s, aardappelzetmeel, glucosestroop, aroma, dextrose, stabilisator (carrageen [E407], difosfaten [E450], trifosfaten [E451], polyfosfaten [E452]), gistextract, antioxidant (natriumascorbaat [E301]), conserveermiddel (natriumnitriet [E250]), rook.\nWaarvan toegevoegde suikers 0.6g per 100 gram en waarvan toegevoegd zout 2.03g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10597519729425028,
+    "price sensitivity": -0.7711738484398217
+}

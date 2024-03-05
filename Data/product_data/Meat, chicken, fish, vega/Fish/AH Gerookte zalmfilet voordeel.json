@@ -1,0 +1,18 @@
+{
+    "id": 3259,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Gerookte zalmfilet voordeel",
+    "price": 7.49,
+    "unit": "200 gPrijs per KG \u20ac 37,45",
+    "weight": "200 Gram",
+    "calories": 187.0,
+    "ingredients": "Ingredi\u00ebnten: 97% zalm, zout, gebufferde azijnpoeder\u00a0(conserverend ingredi\u00ebnt), rook.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 2.50g per 100 gram",
+    "lifestyle": -0.7,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.39873417721518994,
+    "price sensitivity": -0.1392405063291139
+}

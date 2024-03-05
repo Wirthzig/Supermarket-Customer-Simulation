@@ -1,0 +1,18 @@
+{
+    "id": 803,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "Dr. Oetker Pizza bitterballen Hawaii",
+    "price": 4.59,
+    "unit": "250 gPrijs per KG \u20ac 18,36",
+    "weight": "10 Stuks (piece). 250 Gram",
+    "calories": 224.0,
+    "ingredients": "Ingredi\u00ebnten: water, TARWEBLOEM, 11% ananas (ananasstukjes, water, suiker, zuurteregelaars (E300, E330)), palmolie, 4,8% gekookte ham (varkensvlees, water, aardappelzetmeel, rundereiwit, rookaroma, conserveermiddelen (E250, E262), zout, antioxidant (E301), voedingszuur (E331), stabilisator (E451), 3,7% KAAS (gepasteuriseerde MELK, aardappelzetmeel, zout, stremsel, zuursel), 2,7% tomatenpuree, plantaardige oli\u00ebn (zonnebloem en raapzaad in wisselende verhoudingen), 1,4% MOZZARELLA (gepasteuriseerde MELK, aardappelzetmeel, zout, zuursel, stremsel), suiker, rundergelatine, verdikkingsmiddelen (E466, E464, E461), zout, 0,4% tomaten, aroma, uien, gist, gedroogde glucosestroop, basterdsuiker (suiker, invertsuikerstroop), bruine bastardsuiker (suiker, invertsuikerstroop, kleurstof (E150c)), kruiden, dextrose, kleurstoffen (E160b(i), E160b(ii), specerijen, stabilisatoren (E450, E500), TARWEGLUTEN.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5211640211640212,
+    "price sensitivity": -0.7884130982367759
+}

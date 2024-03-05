@@ -1,0 +1,18 @@
+{
+    "id": 2975,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Groene olijven met witte kaas",
+    "price": 2.5,
+    "unit": "130 gPrijs per KG \u20ac 19,23",
+    "weight": "130 Gram",
+    "calories": 276.0,
+    "ingredients": "Ingredi\u00ebnten: 55% groene olijf, melk, plantaardige olie (raap, zonnebloem [in wisselende verhoudingen]), zeezout, geroosterde rode paprika, knoflook, zout, water, zuursel, kruiden, voedingszuur (melkzuur [E270], citroenzuur [E330]), conserveermiddel (kaliumsorbaat [E202]), vegetarisch stremsel.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 2.48g per 100 gram",
+    "lifestyle": 0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.19729425028184894,
+    "price sensitivity": -0.9346210995542348
+}

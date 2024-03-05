@@ -1,0 +1,18 @@
+{
+    "id": 2447,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Sesam bagel",
+    "price": 1.89,
+    "unit": "4 stuks",
+    "weight": "340 Gram",
+    "calories": 317.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, suiker, raapolie, sesamzaad, gist, zout, tarwegluten, moutmeel (gerst, tarwe), sojameel, emulgator (sojalecithine\u00a0[E322], mono- en diglyceriden van vetzuren [E471]), conserveermiddel (sorbinezuur [E200]), antioxidant (ascorbinezuur [E300]), natuurlijk aroma.\nWaarvan toegevoegde suikers 2.6g per 100 gram en waarvan toegevoegd zout 1.20g per 100 gram",
+    "lifestyle": 0.9,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0839160839160839,
+    "price sensitivity": 0.26074498567335236
+}

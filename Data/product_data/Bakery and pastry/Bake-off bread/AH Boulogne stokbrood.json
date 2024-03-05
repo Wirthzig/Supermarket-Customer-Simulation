@@ -1,0 +1,18 @@
+{
+    "id": 2452,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Boulogne stokbrood",
+    "price": 1.49,
+    "unit": "per stukPrijs per KG \u20ac 5,96",
+    "weight": "250 Gram",
+    "calories": 258.0,
+    "ingredients": "Ingredi\u00ebnten: volkoren tarwemeel, water, tarwegluten, boekweitgrut, 3,3% lijnzaad, 3,3% pompoenpit, gerstemoutmeel, 1,8% zonnebloempit, gist, gerstemoutextract, tarwezemel, gejodeerd zout, havervlok, gierst, raapolie, veldbonenmeel, 0,4%\u00a0sesamzaad,\u00a0lupinekorrel, ma\u00efsmeel, emulgator (mono- en diglyceriden van vetzuren, veresterd met monoacetyl- en diacetylwijnsteenzuur [E472e], natriumstearoyl-2-lactylaat [E481]),\u00a0lupinemeel, rijstebloem, antioxidant (ascorbinezuur [E300]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.00g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.055944055944055944,
+    "price sensitivity": -0.31232091690544406
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2585,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Donuts suiker (vers)",
+    "price": 2.19,
+    "unit": "4 stuks",
+    "weight": NaN,
+    "calories": 442.0,
+    "ingredients": "Ingredi\u00ebnten: TARWEbloem, water, 14% suiker, palmvet, dextrose, zonnebloemolie, gist, rijsmiddel (E450, E500), WEIPOEDER, magere MELKpoeder, emulgator (E471, E481), aroma, kleurstof (caroteen), zout, SOJAbloem\n\nAllergie-informatie: bevat tarwegluten, soja, melkeiwit, lactose. Gemaakt in een bedrijf waar ook noten worden verwerkt.",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1048951048951049,
+    "price sensitivity": -0.9667673716012084
+}

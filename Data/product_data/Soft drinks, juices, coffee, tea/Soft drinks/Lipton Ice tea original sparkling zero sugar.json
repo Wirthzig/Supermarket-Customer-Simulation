@@ -1,0 +1,18 @@
+{
+    "id": 1603,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Lipton Ice tea original sparkling zero sugar",
+    "price": 3.19,
+    "unit": "1,5 lPrijs per LT \u20ac 2,13",
+    "weight": "1500 Milliliter",
+    "calories": 2.0,
+    "ingredients": "Ingredi\u00ebnten Koolzuurhoudend water, thee-extract\u00b9 (0,32%), voedingszuur (citroenzuur), zuurteregelaar (trinatriumcitraat), citroensap van geconcentreerd sap (0,1%),  aromas, antioxidant (ascorbinezuur), zoetstoffen (sucralose, acesulfaam-K). \u00b9Rainforest Alliance Certified",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.20694864048338366,
+    "price sensitivity": -0.7088607594936709
+}

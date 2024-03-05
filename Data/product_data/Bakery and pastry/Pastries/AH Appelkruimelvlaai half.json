@@ -1,0 +1,18 @@
+{
+    "id": 2543,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Appelkruimelvlaai half",
+    "price": 4.25,
+    "unit": "per stuk",
+    "weight": "1 Aantal",
+    "calories": 263.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 24% appel, water, suiker, palmvet, rozijn, bakkersgist, dextrose, vollemelkpoeder, plantaardige olie (raap, zonnebloem), gemodificeerd ma\u00efszetmeel, tarwezetmeel, melkeiwit, citroensapconcentraat, gejodeerd zout, emulgator (mono- en diglyceriden van vetzuren [E471]), rijsmiddel (natriumcarbonaat [E500]), kaneel, natuurlijke aroma's (melk), zout, zuurteregelaar (ascorbinezuur [E300]), conserveermiddel (kaliumsorbaat [E202]), vanille.\nWaarvan toegevoegde suikers 16g per 100 gram en waarvan toegevoegd zout 0.20g per 100 gram",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24895104895104894,
+    "price sensitivity": -0.9083094555873926
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1186,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Unox Champignonsoep",
+    "price": 2.99,
+    "unit": "570 mlPrijs per LT \u20ac 5,25",
+    "weight": "570 Milliliter",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: Water, champignon\u00b9 12%, ui\u00b9 2,2%, raapzaadolie, TARWEBLOEM, gemodificeerd ma\u00efszetmeel, KARNEMELKPOEDER, bieslook\u00b9 0,5%, gejodeerd zout, gistextract (bevat GERST), stabilisatoren (E451, E452), zout, aroma, maltodextrine, champignonsapconcentraat, uienpoeder, knoflookpuree, witte wijnextract, balsamico azijnpoeder (wijnazijn, druivenmost). Kan selderij, ei, hybride graansoorten, mosterd, haver, rogge, soja bevatten. \u00b9op duurzame wijze geteeld.",
+    "lifestyle": 0.1,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1887072808320951,
+    "price sensitivity": -0.3927576601671309
+}

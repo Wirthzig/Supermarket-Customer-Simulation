@@ -1,0 +1,18 @@
+{
+    "id": 1980,
+    "category": "Snacks",
+    "sub category": "Nut bars",
+    "product": "Hero B'tween protein pinda & chocolade",
+    "price": 2.9,
+    "unit": "96 gPrijs per KG \u20ac 21,77",
+    "weight": "24 Gram",
+    "calories": 544.0,
+    "ingredients": "Ingredi\u00ebnten: Geroosterde PINDA's 59%, glucosestroop, glucose-fructosestroop, volle MELKchocoladestukjes 10% (suiker, cacaomassa*, volle MELKpoeder, cacaoboter*, emulgator (lecithine)), volkoren TARWEcrispies (volkoren TARWEmeel 4,5%, TARWEGLUTEN, GERSTmoutextract), kokosvet, karamelsuikerstroop, stabilisator (glycerol), emulgator (lecithine), zout. Kan NOTEN bevatten.",
+    "lifestyle": 0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.46131805157593114,
+    "price sensitivity": -0.950354609929078
+}

@@ -1,0 +1,18 @@
+{
+    "id": 690,
+    "category": "Frozen foods",
+    "sub category": "Frozen vegetables",
+    "product": "AH Avocado stukjes",
+    "price": 2.39,
+    "unit": "250 gPrijs per KG \u20ac 9,56",
+    "weight": "250 Gram",
+    "calories": 203.0,
+    "ingredients": "Ingredi\u00ebnten: 99% avocado, voedingszuur (ascorbinezuur [E300], citroenzuur [E330]), zout.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.30g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.23015873015873017,
+    "price sensitivity": -0.6624685138539043
+}

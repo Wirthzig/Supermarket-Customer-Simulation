@@ -1,0 +1,18 @@
+{
+    "id": 3381,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Shoarma",
+    "price": 4.69,
+    "unit": "500 gPrijs per KG \u20ac 9,38",
+    "weight": "500 Gram",
+    "calories": 158.0,
+    "ingredients": "Ingredi\u00ebnten: 94% varkensvlees, zonnebloemolie, specerijen, zout, aardappelzetmeel, gistextract, peterselie, paprikaolie.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.93g per 100 gram",
+    "lifestyle": 0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2215189873417722,
+    "price sensitivity": 0.15254237288135597
+}

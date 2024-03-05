@@ -1,0 +1,18 @@
+{
+    "id": 1797,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "Pickwick Rooibos original no caffeine",
+    "price": 1.89,
+    "unit": "20 stuks",
+    "weight": "20 Stuks (piece). 30 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: rooibos*, specerijen (10,6%; kaneel (7%), kardemom, gember)",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10876132930513595,
+    "price sensitivity": -0.8439716312056738
+}

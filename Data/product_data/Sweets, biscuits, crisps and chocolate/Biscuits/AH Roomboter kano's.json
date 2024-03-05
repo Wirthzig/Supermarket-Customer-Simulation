@@ -1,0 +1,18 @@
+{
+    "id": 2145,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Roomboter kano's",
+    "price": 1.85,
+    "unit": "270 gNormale prijs per KG \u20ac 6,85",
+    "weight": "270 Gram",
+    "calories": 425.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, tarwebloem, sojaboon, 16% roomboter, dextrose, rijstebloem, glucose-fructosestroop, 1,1%\u00a0amandel, scharreleigeel, sojabloem, natuurlijke aroma's, water, emulgator (sojalecithine\u00a0[E322]), zout, rijsmiddel (difosfaat [E450], natriumcarbonaat [E500]), abrikozenpit, stabilisator (sorbitol [E420]), weipoeder, citroenschil, gemodificeerd aardappelzetmeel, zuurteregelaar (citroenzuur [E330]), kleurstof (caroteen [E160a]).\nWaarvan toegevoegde suikers 37g per 100 gram en waarvan toegevoegd zout 0.29g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.22881355932203387,
+    "price sensitivity": -0.45833333333333337
+}

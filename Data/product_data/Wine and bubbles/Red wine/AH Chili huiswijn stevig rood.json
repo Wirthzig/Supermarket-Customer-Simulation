@@ -1,0 +1,18 @@
+{
+    "id": 1553,
+    "category": "Wine and bubbles",
+    "sub category": "Red wine",
+    "product": "AH Chili huiswijn stevig rood",
+    "price": 2.9,
+    "unit": "0,25 lPrijs per LT \u20ac 8,36",
+    "weight": "250 Milliliter",
+    "calories": 79.0,
+    "ingredients": "Chile",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14578313253012046,
+    "price sensitivity": -0.9372197309417041
+}

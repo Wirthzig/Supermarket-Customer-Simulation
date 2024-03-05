@@ -1,0 +1,18 @@
+{
+    "id": 3232,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Biologisch Gerookte zalm",
+    "price": 4.99,
+    "unit": "100 gPrijs per KG \u20ac 49,90",
+    "weight": "100 Gram",
+    "calories": 200.0,
+    "ingredients": "Ingredi\u00ebnten: 97% zalm*, zout, rook.\u00a0\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 3.00g per 100 gram\nEU/niet-EU Landbouw",
+    "lifestyle": 0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.24050632911392408,
+    "price sensitivity": -0.8126582278481013
+}

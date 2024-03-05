@@ -1,0 +1,18 @@
+{
+    "id": 1193,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Unox Good noodles kip",
+    "price": 0.79,
+    "unit": "70 gPrijs per KG \u20ac 11,29",
+    "weight": "1 Stuks (piece). 70 Gram",
+    "calories": 91.0,
+    "ingredients": "Ingredi\u00ebnten: Deegwaar (noedels) 89% (TARWEBLOEM, palmvet, zout, gemodificeerd aardappelzetmeel, suiker, raapzaadolie, kurkuma-extract), suiker, smaakversterker (E621, E631, E627), aardappelzetmeel, aroma, mineraalzout (kalium), palmvet, specerijen (knoflookpoeder\u00b9, peper, kurkuma, cayennepeper), prei\u00b9 0,5%, wortel\u00b9 0,3%, geroosterde uienpoeder\u00b9, uiensapconcentraat\u00b9, peterselie\u00b9 0,1%, gejodeerd zout, zout, voedingszuur E330, gistextract, sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), zonnebloemolie. Kan ei, melk, selderij, mosterd bevatten.\u00b9 op duurzame wijze geteeld.",
+    "lifestyle": 0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.02526002971768202,
+    "price sensitivity": -0.8012999071494893
+}

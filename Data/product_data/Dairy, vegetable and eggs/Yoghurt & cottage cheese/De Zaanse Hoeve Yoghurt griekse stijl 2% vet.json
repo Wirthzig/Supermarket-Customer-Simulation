@@ -1,0 +1,18 @@
+{
+    "id": 2749,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "De Zaanse Hoeve Yoghurt griekse stijl 2% vet",
+    "price": 2.19,
+    "unit": "1 kgPrijs per KG \u20ac 2,19",
+    "weight": "1 Kilogram",
+    "calories": 61.0,
+    "ingredients": "Ingredi\u00ebnten: yoghurt*\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n*Van weidemelk.",
+    "lifestyle": -0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.26666666666666666,
+    "price sensitivity": -0.8429003021148036
+}

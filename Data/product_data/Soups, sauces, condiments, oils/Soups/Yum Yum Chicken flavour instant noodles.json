@@ -1,0 +1,18 @@
+{
+    "id": 1187,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Yum Yum Chicken flavour instant noodles",
+    "price": 0.59,
+    "unit": "60 gPrijs per KG \u20ac 9,83",
+    "weight": "60 Gram",
+    "calories": 76.0,
+    "ingredients": "Ingredi\u00ebnten: TARWEmeel, palmolie (bevat antioxidant: E319, E320), tapiocazetmeel, zout, groenten (knoflook, lente-ui), smaakversterkers: E621, E631, E627, suiker, kruiden, (chili, peper), voedingszuur: E296, zuurteregelaars: E500, E452, E451, kiparoma, verdikkingsmiddel: E466, gistextract. Dit product kan sporen van schaaldieren, vis, soja, melk selderij, en sesam bevatten.",
+    "lifestyle": -0.2,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.010401188707280828,
+    "price sensitivity": -0.5041782729805013
+}

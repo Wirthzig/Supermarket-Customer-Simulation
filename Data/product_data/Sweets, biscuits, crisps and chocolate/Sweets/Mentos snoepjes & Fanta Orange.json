@@ -1,0 +1,18 @@
+{
+    "id": 2121,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "Mentos snoepjes & Fanta Orange",
+    "price": 4.6,
+    "unit": "per pakket",
+    "weight": NaN,
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.8114406779661015,
+    "price sensitivity": 0.5497630331753556
+}

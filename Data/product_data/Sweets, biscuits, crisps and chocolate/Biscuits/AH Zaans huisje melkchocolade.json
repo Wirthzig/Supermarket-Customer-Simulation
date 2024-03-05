@@ -1,0 +1,18 @@
+{
+    "id": 2157,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Zaans huisje melkchocolade",
+    "price": 0.95,
+    "unit": "125 gPrijs per KG \u20ac 7,60",
+    "weight": "125 Gram",
+    "calories": 511.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, tarwebloem, cacaoboter\u00b0, cacaomassa\u00b0, mageremelkpoeder, 3.9% roomboter, lactose, glucosestroop, boterolie, rijsmiddel (natriumcarbonaat [E500], ammoniumcarbonaat [E503]), emulgator (sojalecithine\u00a0[E322]), vollemelkpoeder, vegetarisch weipoeder, zout, voedingszuur (citroenzuur [E330]).\nWaarvan toegevoegde suikers 35g per 100 gram en waarvan toegevoegd zout 0.09g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.038135593220338965,
+    "price sensitivity": -0.625
+}

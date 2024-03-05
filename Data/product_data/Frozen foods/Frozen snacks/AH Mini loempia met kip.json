@@ -1,0 +1,18 @@
+{
+    "id": 757,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "AH Mini loempia met kip",
+    "price": 1.99,
+    "unit": "10 stuksPrijs per KG \u20ac 9,95",
+    "weight": "200 Gram",
+    "calories": 269.0,
+    "ingredients": "Ingredi\u00ebnten: groente (17% witte kool, 8,5% wortel, 3,6% prei),\u00a0tarwebloem, water, 16% kippenvlees\u00aa, raapolie, zout, specerijen, rode chilipeper, suiker, aardappelpoeder, zetmeel (aardappel, rijst), natuurlijke aroma's (tarwe), gemodificeerd zetmeel (ma\u00efs, aardappel), dextrose, azijn, rozemarijnextract, melasse, gistextract, gedroogde glucosestroop,\u00a0sojaboon, 0,01% kippenvleespoeder, antioxidant (citroenzuur [E330], vetzuuresters van ascorbinezuur [E304]), aroma's,\u00a0tarwe, emulgator (mono- en diglyceriden van vetzuren [E471]), stabilisator (difosfaten [E450]), conserveermiddel (natriumdisulfiet\u00a0[E223]).\u00a0\u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.7g per 100 gram en waarvan toegevoegd zout 1.14g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1772486772486772,
+    "price sensitivity": -0.6347607052896727
+}

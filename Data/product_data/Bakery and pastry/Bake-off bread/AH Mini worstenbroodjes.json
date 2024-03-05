@@ -1,0 +1,18 @@
+{
+    "id": 2455,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Mini worstenbroodjes",
+    "price": 1.99,
+    "unit": "12 stuksPrijs per KG \u20ac 8,29",
+    "weight": "240 Gram",
+    "calories": 260.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, 11% varkensvlees\u00aa, 11% rundvlees\u00aa, gist, scharrelei, plantaardige olie (palm, raap), dextrose, vollemelkpoeder, gejodeerd zout, conserveermiddel (natriumacetaat [E262], natriumlactaat [E325]), erwteneiwit, specerijenextract,\u00a0kaliumchloride\u00a0(dieetzout), voedingszuur (melkzuur [E270], citroenzuur [E330]), zout, natuurlijk aroma, specerijen, ma\u00efszetmeel, emulgator (mono- en diglyceriden van vetzuren [E471]).\u00a0\u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 1.0g per 100 gram en waarvan toegevoegd zout 0.64g per 100 gram",
+    "lifestyle": -0.9,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09090909090909091,
+    "price sensitivity": -0.5931232091690545
+}

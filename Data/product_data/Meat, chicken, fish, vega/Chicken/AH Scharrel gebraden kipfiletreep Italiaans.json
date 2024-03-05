@@ -1,0 +1,18 @@
+{
+    "id": 3266,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel gebraden kipfiletreep Italiaans",
+    "price": 3.69,
+    "unit": "150 gPrijs per KG \u20ac 24,60",
+    "weight": "150 Gram",
+    "calories": 119.0,
+    "ingredients": "Ingredi\u00ebnten: 91% kippendijfilet\u1d43, voedingszuur (kaliumlactaat [E326], natriumacetaat [E262], azijnzuur [E260]), zout, dextrose, aardappelzetmeel, poeder (tomaat, ui, knoflook, pastinaak, peterseliewortel), 0,4% kruiden (o.a. oregano, basilicum, rozemarijn), specerijen, voedingsvezel (aardappel, bamboe, citrus), suiker, extract (specerijen, kruiden), kippeneiwit, gebufferde azijnpoeder\u00a0(conserverend ingredi\u00ebnt), natuurlijke aroma's, ma\u00efsmeel, gistextract.\u00a0\u1d43Beter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 1.2g per 100 gram en waarvan toegevoegd zout 1.33g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.15822784810126583,
+    "price sensitivity": -0.9443037974683545
+}

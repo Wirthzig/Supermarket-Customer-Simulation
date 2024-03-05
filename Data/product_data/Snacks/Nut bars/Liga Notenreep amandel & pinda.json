@@ -1,0 +1,18 @@
+{
+    "id": 1993,
+    "category": "Snacks",
+    "sub category": "Nut bars",
+    "product": "Liga Notenreep amandel & pinda",
+    "price": 3.39,
+    "unit": "120 gNormale prijs per KG \u20ac 28,25",
+    "weight": "120 Gram",
+    "calories": 516.0,
+    "ingredients": "Ingredi\u00ebnten: Geroosterde AMANDELEN, geroosterde PINDA'S, suiker, glucosestroop, oligofructose, cacaomassa, invertsuikerstroop,\u00a0TARWE-eiwit, cacaoboter, honing, TARWEBLOEM 2,3 % (bevat calciumcarbonaat, elementair ijzer, niacine, vitamine B1), magere MELKPOEDER, weipoeder (van MELK), plantaardige vetten (palm, shea), MELKVET, zout, emulgatoren (SOJALECITHINEN, E476, E471), koolzaadolie, antiklontermiddel (E170), GERSTEMOUTEXTRACT, rijsmiddel (E503), aroma's.KAN BEVATTEN: EI, ANDERE NOTEN.",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6017191977077364,
+    "price sensitivity": -0.5876777251184834
+}

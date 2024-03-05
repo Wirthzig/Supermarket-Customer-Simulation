@@ -1,0 +1,18 @@
+{
+    "id": 1619,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Royal Club Tonic classic 0% suiker",
+    "price": 1.99,
+    "unit": "1 lPrijs per LT \u20ac 1,99",
+    "weight": "1 Liter",
+    "calories": 1.0,
+    "ingredients": "Ingredi\u00ebnten: koolzuurhoudend water, voedingszuur (citroenzuur), natuurlijk aroma (waarvan natuurlijke kinine), zoetstoffen (cyclaamzuur, sacharine, acesulfaam-K).",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1163141993957704,
+    "price sensitivity": -0.6455696202531644
+}

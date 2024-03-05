@@ -1,0 +1,18 @@
+{
+    "id": 3453,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "Unox Gelderse xxl rookworst 2015",
+    "price": 4.19,
+    "unit": "375 gPrijs per KG \u20ac 11,17",
+    "weight": "375 Gram",
+    "calories": 283.0,
+    "ingredients": "Ingredi\u00ebnten: Varkensvlees\u00b9 92%, water, zout, rundercollageen, mineraal zout (kalium), natuurlijke aroma's, stabilisator (E451, E452), voedingszuur (E330), antioxidant (E301, E392), rookaroma, conserveermiddel (E250).\u00a0\u00b9 Beter Leven keurmerk 1 ster\n\u00b9Beter Leven keurmerk 1 ster",
+    "lifestyle": -0.2,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.18987341772151903,
+    "price sensitivity": 0.6228813559322031
+}

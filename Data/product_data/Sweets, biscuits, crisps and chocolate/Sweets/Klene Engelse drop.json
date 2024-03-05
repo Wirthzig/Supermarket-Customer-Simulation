@@ -1,0 +1,18 @@
+{
+    "id": 2080,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "Klene Engelse drop",
+    "price": 2.59,
+    "unit": "340 gPrijs per KG \u20ac 7,62",
+    "weight": "340 Gram",
+    "calories": 401.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, glucosestroop, rietsuikermelasse, TARWEBLOEM, kokos, water, gelatine, zoethoutwortelextract, TARWEZETMEEL, natuurlijke aroma's, cacaopoeder, concentraten (saffloer, spirulina), emulgator (mono- en diglyceriden van vetzuren), kleurstoffen (bietenrood, paprika-extract), kokosolie, glansmiddel (bijenwas).",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.38559322033898297,
+    "price sensitivity": -0.95260663507109
+}

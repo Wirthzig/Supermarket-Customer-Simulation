@@ -1,0 +1,18 @@
+{
+    "id": 2666,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "Pur Natur Bio yoghurt framboos",
+    "price": 1.29,
+    "unit": "150 gPrijs per KG \u20ac 8,60",
+    "weight": "150 Gram",
+    "calories": 87.0,
+    "ingredients": "Ingredi\u00ebnten: Volle YOGHURT* met levende fermenten, rietsuiker*, frambozen* 6,3%, frambozensap* 1,8%, citroensapconcentraat*, verdikkingsmiddelen: pectine, johannesbroodpitmeel*, rode bietensapconcentraat*, natuurlijk frambozenaroma, zuurteregelaar: calciumcitraat, *afkomstig van biologische landbouw",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.11666666666666668,
+    "price sensitivity": -0.7673716012084593
+}

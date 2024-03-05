@@ -1,0 +1,18 @@
+{
+    "id": 1647,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Pepsi Cola max zero sugar",
+    "price": 2.39,
+    "unit": "1,5 lPrijs per LT \u20ac 1,59",
+    "weight": "1.5 Liter",
+    "calories": 4.0,
+    "ingredients": "Ingredi\u00ebnten: koolzuurhoudend water, kleurstof (karamel E150d), zoetstoffen (E950, E951), voedingszuren (E338, E330), zuurteregelaar (E331), aroma\u2019s (o.a. cafe\u00efne en natuurlijke plantenextracten).",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14652567975830816,
+    "price sensitivity": -0.7088607594936709
+}

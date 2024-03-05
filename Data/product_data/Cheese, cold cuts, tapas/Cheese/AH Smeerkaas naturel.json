@@ -1,0 +1,18 @@
+{
+    "id": 3168,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "AH Smeerkaas naturel",
+    "price": 0.75,
+    "unit": "100 gPrijs per KG \u20ac 7,50",
+    "weight": "100 Gram",
+    "calories": 255.0,
+    "ingredients": "Ingredi\u00ebnten: melk, water,\u00a013% roomboter,\u00a0weipoeder, smeltzout (polyfosfaat [E452], difosfaat [E450], natriumcitraat [E331]), mageremelkpoeder, zout, zuursel, stremsel, kleurstof (caroteen [E160a]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.02g per 100 gram",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0,
+    "price sensitivity": -0.9037974683544303
+}

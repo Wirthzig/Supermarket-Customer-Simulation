@@ -1,0 +1,18 @@
+{
+    "id": 3023,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "Kips Smeerleverworst kleintje",
+    "price": 2.9,
+    "unit": "120 gPrijs per KG \u20ac 17,42",
+    "weight": "6 Stuks (piece). 120 Gram",
+    "calories": 249.0,
+    "ingredients": "Ingredi\u00ebnten: varkenslever* 38%, varkensvlees* 20%, water, varkensspek*, varkenszwoerd*, tomatenpuree, zout, emulgator: E472c, varkenshemoglobine, dextrose, suiker, gebakken uien (uien, palmolie, TARWEMEEL, zout), specerijen, antioxidanten: E300, E316, kruiden, aroma, gehydrolyseerd plantaardig eiwit (SOJA, ma\u00efs), conserveermiddel: E250. * = Beter Leven keurmerk 1 ster. E is een door de EU goedgekeurde hulpstof.",
+    "lifestyle": -0.7,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24239007891770012,
+    "price sensitivity": -0.9687964338781575
+}

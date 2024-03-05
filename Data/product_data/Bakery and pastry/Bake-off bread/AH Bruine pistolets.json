@@ -1,0 +1,18 @@
+{
+    "id": 2477,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Bruine pistolets",
+    "price": 1.19,
+    "unit": "4 stuks",
+    "weight": "300 Gram",
+    "calories": 251.0,
+    "ingredients": "Ingredi\u00ebnten: volkoren\u00a0tarwemeel, tarwebloem, water, gist, gejodeerd zout, moutmeel (tarwe, gerst), antioxidant (ascorbinezuur [E300]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.08g per 100 gram",
+    "lifestyle": -0.7,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.03496503496503496,
+    "price sensitivity": -0.4269340974212035
+}

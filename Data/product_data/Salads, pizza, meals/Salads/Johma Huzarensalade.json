@@ -1,0 +1,18 @@
+{
+    "id": 3525,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "Johma Huzarensalade",
+    "price": 1.99,
+    "unit": "500 gPrijs per KG \u20ac 3,98",
+    "weight": "500 Gram",
+    "calories": 161.0,
+    "ingredients": "Ingredi\u00ebnten: 50% gestoomde aardappel, water, koolzaadolie, 6% wortel, 5% augurk, suiker, 2% ui, natuurazijn, 2% doperwten, 1% gekookt rundvlees, gemodificeerd zetmeel, zout, EIGEEL, specerijen (MOSTERD), aroma's (SELDERII), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), zetmeel, smaakversterkers (dinatriuminosinaat, mononatriumglutamaat, natriumguanylaat), verdikkingsmiddelen (guarpitmeel, xanthaangom), zuurteregelaar (natriumacetaten), voedingszuren (azijnzuur, citroenzuur, melkzuur), rundereiwit, aardappelvezel, LACTOSE (MELK), dextrose, maltodextrine, natuurlijk aroma's, knoflook, gistextract, kleurstoffen (ammoniakkaramel, riboflavinen). Kan sporen bevatten van gluten, noten, pinda's, sesamzaad, schaaldieren, soja en vis,",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.032258064516129024,
+    "price sensitivity": 1.0
+}

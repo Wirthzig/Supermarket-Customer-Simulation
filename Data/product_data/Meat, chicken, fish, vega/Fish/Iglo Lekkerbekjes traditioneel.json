@@ -1,0 +1,18 @@
+{
+    "id": 3207,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "Iglo Lekkerbekjes traditioneel",
+    "price": 3.52,
+    "unit": "2 x 120 gNormale prijs per KG \u20ac 19,54",
+    "weight": "2 Stuks (piece). 240 Gram",
+    "calories": 238.0,
+    "ingredients": "Ingredi\u00ebnten: Alaska koolVIS 56%, koolzaadolie, TARWEbloem, paneermeel 7,6% [TARWEbloem, dextrose, zout, bakpoeder (stabilisator: difosfaat, rijsmiddel: natriumbicarbonaat)], water, TARWEzetmeel, aardappelzetmeel, rijstmeel, bakpoeder (stabilisator: difosfaat, rijsmiddel: natriumbicarbonaat), zout, ma\u00efsmeel, dextrose, TARWEgluten, magere MELKpoeder.",
+    "lifestyle": 0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14746835443037976,
+    "price sensitivity": -0.9240506329113924
+}

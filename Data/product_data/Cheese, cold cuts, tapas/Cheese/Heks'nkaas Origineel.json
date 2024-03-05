@@ -1,0 +1,18 @@
+{
+    "id": 3141,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "Heks'nkaas Origineel",
+    "price": 3.55,
+    "unit": "200 gPrijs per KG \u20ac 17,75",
+    "weight": "200 Gram",
+    "calories": 403.0,
+    "ingredients": "Ingredi\u00ebnten: koolzaadolie, water, 16%roomkaas (MELK, room [MELK], microbieel stremsel, zuursel), 10%verse prei, suiker, 3% verse peterselie, 1% knoflook, 1% room(MELK), natuurazijn, citroensap, EIGEEL*, gemodificeerd zetmeel(ma\u00efs, aardappel), zout, verdikkingsmiddelen (carrageen,guarpitmeel, johannesbroodpitmeel, xanthaangom), zetmeel(ma\u00efs), conserveermiddel (kaliumsorbaat), EI-EIWIT*, specerijen(MOSTERD), voedingszuur (citroenzuur), zoetstoffen (sacharinen, sucralose).*van scharreleieren. Kan sporen bevatten van selderij.",
+    "lifestyle": 0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3156708004509583,
+    "price sensitivity": 1.0
+}

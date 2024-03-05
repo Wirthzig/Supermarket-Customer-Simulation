@@ -1,0 +1,18 @@
+{
+    "id": 2293,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Crackers, rice cakes",
+    "product": "AH Knackebrod Volkoren",
+    "price": 1.39,
+    "unit": "375 gPrijs per KG \u20ac 3,71",
+    "weight": "375 Gram",
+    "calories": 371.0,
+    "ingredients": "Ingredi\u00ebnten: volkorenmeel\u00a0(rogge,\u00a0tarwe),\u00a0tarwebloem, voedingsvezel (inuline), raapolie, gist, zout, paneermeel\u00a0(tarwe, sesam, rogge, gerst),\u00a0roggemoutmeel, antioxidant (ascorbinezuur [E300]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.69g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13207547169811318,
+    "price sensitivity": -0.7083333333333334
+}

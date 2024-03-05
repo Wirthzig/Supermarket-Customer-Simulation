@@ -1,0 +1,18 @@
+{
+    "id": 3033,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Kalkoenfilet",
+    "price": 2.49,
+    "unit": "150 gPrijs per KG \u20ac 16,60",
+    "weight": "150 Gram",
+    "calories": 127.0,
+    "ingredients": "Ingredi\u00ebnten: 82% kalkoenvlees, water, zuurteregelaar (kaliumacetaten [E261], natriumlactaat [E325], kaliumlactaat [E326], natriumcitraten [E331]), zout, dextrose, suiker, kaliumchloride (dieetzout), natuurlijk aroma, antioxidant (natriumascorbaat [E301]), stabilisator (carrageen [E407]), conserveermiddel (natriumnitriet [E250]).\nWaarvan toegevoegde suikers 1.0g per 100 gram en waarvan toegevoegd zout 1.90g per 100 gram",
+    "lifestyle": -0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1961668545659527,
+    "price sensitivity": -0.9257057949479941
+}

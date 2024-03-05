@@ -1,0 +1,18 @@
+{
+    "id": 1128,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "AH Augurken zoetzuur",
+    "price": 0.99,
+    "unit": "670 gPrijs per KG \u20ac 2,75",
+    "weight": "670 Gram",
+    "calories": 34.0,
+    "ingredients": "Ingredi\u00ebnten: augurk, water, suiker, azijn, zout, mosterdzaad, paprika, ui, verstevigingsmiddel (calciumchloride [E509]), natuurlijke aroma's.\nWaarvan toegevoegde suikers 5.2g per 100 gram en waarvan toegevoegd zout 0.70g per 100 gram",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.04011887072808321,
+    "price sensitivity": -0.48560817084493957
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1160,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Maggi Bouillonblokjes groente voordeelpak",
+    "price": 1.29,
+    "unit": "12 stuksPrijs per KG \u20ac 10,54",
+    "weight": "122.4 Gram",
+    "calories": 2.0,
+    "ingredients": "Ingredi\u00ebnten: zout, smaakversterker (E621), plantaardige olie (palm), glucosestroop, gedroogde groente 5,1% (prei, ui, wortel), gistextract, aroma's (bevat SELDERIJ, TARWE), peterselie, extracten van SELDERIJ, tijm, laurier, dragon. Bevat mogelijk MELK, EIEREN.",
+    "lifestyle": -0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06240713224368499,
+    "price sensitivity": -0.11420612813370457
+}

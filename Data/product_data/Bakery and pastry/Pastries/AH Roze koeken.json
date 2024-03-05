@@ -1,0 +1,18 @@
+{
+    "id": 2567,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Roze koeken",
+    "price": 2.54,
+    "unit": "4 stuks",
+    "weight": "320 Gram",
+    "calories": 439.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, tarwebloem, roomboter, 7,1% amandel, scharrelei, glucosestroop, plantaardige olie (palmpit, raap, palm, kokos), rijsmiddel (natriumcarbonaat [E500], difosfaat [E450], ammoniumcarbonaat [E503]), water, lactose, emulgator (mono- en diglyceriden van vetzuren [E471], lecithine [E322]), gedroogde glucosestroop, dextrose, kleurstof (bietenrood [E162], caroteen [E160a]), zout, tarwezetmeel, stabilisator (sorbitol [E420]), voedingszuur (citroenzuur [E330]), natuurlijk citroenaroma, verdikkingsmiddel (xanthaangom [E415]).\nWaarvan toegevoegde suikers 44g per 100 gram en waarvan toegevoegd zout 0.10g per 100 gram",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12937062937062938,
+    "price sensitivity": -0.08761329305135956
+}

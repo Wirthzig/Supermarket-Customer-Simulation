@@ -1,0 +1,18 @@
+{
+    "id": 2460,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Croissantdeeg voor 6 croissants",
+    "price": 1.99,
+    "unit": "250 gPrijs per KG \u20ac 7,96",
+    "weight": "250 Gram",
+    "calories": 339.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, plantaardige olie (palm,\u00a0soja, zonnebloem), palmvet,\u00a0tarwegluten, dextrose, sucrose, rijsmiddel (natriumacetaat [E262], natriumcarbonaat [E500]), alcohol*, aroma, zout, dieetzout (kaliumchloride), emulgator (mono- en diglyceriden van vetzuren [E471], polyglycerolester van vetzuren [E475]), stabilisator (xanthaangom [E415]), conserveermiddel (melkzuur [E270]), meelverbeteraar (ascorbinezuur [E300]), kleurstof (caroteen [E160a]). *Verdampt tijdens het bakken.\nWaarvan toegevoegde suikers 4.6g per 100 gram en waarvan toegevoegd zout 1.30g per 100 gram",
+    "lifestyle": 0.8,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09090909090909091,
+    "price sensitivity": -0.4842406876790831
+}

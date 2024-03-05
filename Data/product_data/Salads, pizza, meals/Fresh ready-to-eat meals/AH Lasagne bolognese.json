@@ -1,0 +1,18 @@
+{
+    "id": 3497,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Lasagne bolognese",
+    "price": 4.79,
+    "unit": "1 kgPrijs per KG \u20ac 4,79",
+    "weight": "1 Kilogram",
+    "calories": 151.0,
+    "ingredients": "Ingredi\u00ebnten: water, 18% varkensvlees, durumtarwegriesmeel, 8,6% tomatenconcentraat, melk, groente (3,6% ui, 3% courgette), gemodificeerd ma\u00efszetmeel,\u00a0tarwebloem, mageremelkpoeder, zout, specerijen,\u00a0weipoeder, kokosolie, 0,3% rode wijn, suiker,\u00a0scharreleipoeder, zuursel, aardappelzetmeel, stremsel, kruiden.\nWaarvan toegevoegde suikers 0.2g per 100 gram en waarvan toegevoegd zout 0.51g per 100 gram",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.48387096774193544,
+    "price sensitivity": -0.26694915254237295
+}

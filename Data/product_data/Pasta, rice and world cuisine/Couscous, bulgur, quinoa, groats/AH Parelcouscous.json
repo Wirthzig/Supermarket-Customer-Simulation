@@ -1,0 +1,18 @@
+{
+    "id": 1256,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Couscous, bulgur, quinoa, groats",
+    "product": "AH Parelcouscous",
+    "price": 6.49,
+    "unit": "800 gPrijs per KG \u20ac 8,11",
+    "weight": "800 Gram",
+    "calories": 375.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 1.0,
+    "price sensitivity": 0.14814814814814814
+}

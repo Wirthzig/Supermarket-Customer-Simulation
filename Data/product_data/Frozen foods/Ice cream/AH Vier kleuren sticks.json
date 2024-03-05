@@ -1,0 +1,18 @@
+{
+    "id": 847,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "AH Vier kleuren sticks",
+    "price": 0.99,
+    "unit": "8 stuks",
+    "weight": "304 Gram",
+    "calories": 81.0,
+    "ingredients": "Ingredi\u00ebnten: water, vruchtensap uit concentraat (12% ananas, 3,8% sinaasappel, 2,8% framboos), suiker, glucose-fructosestroop, stabilisator (johannesbroodpitmeel [E410], guarpitmeel [E412], pectine [E440]), voedingszuur (citroenzuur [E330]), kleurstof (curcumine [E100], kopercomplexen van chlorofyl en chlorofyline [E141], caroteen [E160a]), natuurlijke aroma's, extract van paprika, kleurend rodebietensapconcentraat.\nWaarvan toegevoegde suikers 18g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.044973544973544964,
+    "price sensitivity": -0.5666666666666667
+}

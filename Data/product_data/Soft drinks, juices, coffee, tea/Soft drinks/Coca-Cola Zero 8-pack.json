@@ -1,0 +1,18 @@
+{
+    "id": 1641,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Coca-Cola Zero 8-pack",
+    "price": 4.49,
+    "unit": "2 lNormale prijs per LT \u20ac 2,70",
+    "weight": "250 Milliliter",
+    "calories": 3.0,
+    "ingredients": "Ingredi\u00ebnten: Sprankelend water; kleurstof: E150d; voedingszuur: E338; zoetstoffen: aspartaam, acesulfaam-K; natuurlijke aroma's; aroma cafe\u00efne; zuurteregelaar: E331.",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.30513595166163143,
+    "price sensitivity": -0.7468354430379747
+}

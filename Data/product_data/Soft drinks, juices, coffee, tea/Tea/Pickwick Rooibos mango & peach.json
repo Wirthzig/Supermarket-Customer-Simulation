@@ -1,0 +1,18 @@
+{
+    "id": 1768,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "Pickwick Rooibos mango & peach",
+    "price": 1.99,
+    "unit": "20 stuks",
+    "weight": "20 Stuks (piece). 40 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: rooibos, sinaasappelschilletjes, aroma's, rozenbottel, hibiscus, perzikpuree (1%), stukjes mango (1%).",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1163141993957704,
+    "price sensitivity": 0.11347517730496448
+}

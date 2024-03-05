@@ -1,0 +1,18 @@
+{
+    "id": 1596,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Crystal Clear Appel- en peersmaak",
+    "price": 1.79,
+    "unit": "1,5 lPrijs per LT \u20ac 1,19",
+    "weight": "1.5 Liter",
+    "calories": 1.0,
+    "ingredients": "Ingredi\u00ebnten: water, voedingszuur\n(citroenzuur), natuurlijk aroma,zuurteregelaar\n(natriumcitraat), zoetstoffen (sucralose,\nacesulfaam-K), appelsap uit concentraat\n(0,01%), perensap uit concentraat (0,01%).",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10120845921450151,
+    "price sensitivity": -0.6455696202531644
+}

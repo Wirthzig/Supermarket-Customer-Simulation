@@ -1,0 +1,18 @@
+{
+    "id": 3554,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Kleine salade mozzarella",
+    "price": 4.49,
+    "unit": "250 gPrijs per KG \u20ac 17,96",
+    "weight": "250 Gram",
+    "calories": 156.0,
+    "ingredients": "Ingredi\u00ebnten: groente (38% cherrytomaat, 14% veldsla, 7,2% rucola), melk, plantaardige olie (3,7% olijf, zonnebloem), pompoenpit, water, kruiden (o.a. 1,2% basilicum), azijn, suiker, zout, 0,1% pijnboompit, specerijen, knoflook, natuurlijk aroma, zuurteregelaar (citroenzuur [E330]), gedroogde spinazie, vegetarisch stremsel, zuursel, gemodificeerd ma\u00efszetmeel, stabilisator (xanthaangom [E415]), conserveermiddel (kaliumsorbaat [E202]).\nWaarvan toegevoegde suikers 0.5g per 100 gram en waarvan toegevoegd zout 0.31g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.43548387096774194,
+    "price sensitivity": -0.48305084745762716
+}

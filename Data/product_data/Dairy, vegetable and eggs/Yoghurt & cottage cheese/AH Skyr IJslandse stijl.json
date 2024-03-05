@@ -1,0 +1,18 @@
+{
+    "id": 2700,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "AH Skyr IJslandse stijl",
+    "price": 1.45,
+    "unit": "500 gPrijs per KG \u20ac 2,90",
+    "weight": "500 Gram",
+    "calories": 62.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14333333333333334,
+    "price sensitivity": -0.32779456193353473
+}

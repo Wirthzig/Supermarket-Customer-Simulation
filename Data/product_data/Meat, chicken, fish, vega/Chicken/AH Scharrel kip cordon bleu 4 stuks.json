@@ -1,0 +1,18 @@
+{
+    "id": 3292,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel kip cordon bleu 4 stuks",
+    "price": 6.49,
+    "unit": "500 gPrijs per KG \u20ac 12,98",
+    "weight": "500 Gram",
+    "calories": 209.0,
+    "ingredients": "Ingredi\u00ebnten: 42% kipfilet\u00aa,\u00a020% water,\u00a0tarwebloem, 5,4% kalkoendij\u00aa, zonnebloemolie, zetmeel (tarwe, ma\u00efs, aardappel), zout, gemodificeerd ma\u00efszetmeel, 0,5% kaaspoeder, extract (specerijen, rozemarijn), specerijen, gist, natuurlijke aroma's, dextrose, glucosestroop,\u00a0tarwegluten,\u00a0boterpoeder,\u00a0weipoeder, kleurstof (annatto norbixine [E160b(ii)]),\u00a0melkeiwit, stabilisator (guarpitmeel [E412]), voedingszuur (citroenzuur [E330]), poeder (pastinaak, peterseliewortel).\u00a0\u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.2g per 100 gram en waarvan toegevoegd zout 1.10g per 100 gram",
+    "lifestyle": 0.5,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3354430379746836,
+    "price sensitivity": -0.9443037974683545
+}

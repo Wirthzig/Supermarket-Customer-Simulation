@@ -1,0 +1,18 @@
+{
+    "id": 2170,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Roomboter stroopwafels",
+    "price": 2.44,
+    "unit": "12 stuks",
+    "weight": "468 Gram",
+    "calories": 456.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 29% glucose-fructosestroop, 14% roomboter, suiker, palmvet, 4,5% suikerstroop, tarwevezel, sojabloem, raapolie, zout, rijsmiddel (natriumcarbonaat [E500]), emulgator (sojalecithine\u00a0[E322], mono- en diglyceriden van vetzuren [E471]), kaneel, Bourbonvanille, voedingszuur (citroenzuur [E330]).\nWaarvan toegevoegde suikers 34g per 100 gram en waarvan toegevoegd zout 0.50g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.35381355932203384,
+    "price sensitivity": -0.7916666666666667
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2499,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "Picard Mini appeltaartjes",
+    "price": 4.49,
+    "unit": "170 gPrijs per KG \u20ac 26,41",
+    "weight": "2 Stuks (piece). 170 Gram",
+    "calories": 272.0,
+    "ingredients": "Ingredi\u00ebnten: Appel (appel 61,8%, citroenextract, zout, acerola-extract), bladerdeeg met roomboter 29,1% [TARWEmeel (GLUTEN), boter (MELK) 9,6%, water, zout], boter (MELK) 5,4%, suiker, kaneel 0,07%.\nKan sporen bevatten van: schaaldieren, ei, vis, soja, noten, selderij, mosterd, sesam, weekdieren.",
+    "lifestyle": -0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.26573426573426573,
+    "price sensitivity": -0.025787965616045794
+}

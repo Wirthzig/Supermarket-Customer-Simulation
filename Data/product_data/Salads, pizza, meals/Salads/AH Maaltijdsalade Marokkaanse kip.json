@@ -1,0 +1,18 @@
+{
+    "id": 3513,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Maaltijdsalade Marokkaanse kip",
+    "price": 5.79,
+    "unit": "450 gPrijs per KG \u20ac 12,87",
+    "weight": "450 Gram",
+    "calories": 155.0,
+    "ingredients": "Ingredi\u00ebnten: groente (13% komkommer, 12% tuinerwt, 11% rode paprika, 8,5% spinazie, 3% rucola, 2,1% bosui), water, 13% kippenvlees, volkoren durumtarwegriesmeel, plantaardige olie (raap, olijf, zonnebloem), 3,9%\u00a0amandel, 3,8% gedroogde abrikoos, extra vierge olijfolie, 0,5% gebakken groente (rode paprika, ui), 0,4% citroenazijn, zout, honing, kruiden (o.a. 0.2% munt), ma\u00efszetmeel, concentraat (0,2% citroensap, sinaasappel), specerijen, gebufferd azijnpoeder\u00a0(conserverend ingredi\u00ebnt), rijstebloem, suiker, dextrose, aroma, azijn, verdikkingsmiddel (xanthaangom [E415]), citroensap, conserveermiddel (zwaveldioxide [E220\u00a0(sulfiet)]), gistextract, maltodextrine, gedroogde groente (ui, tomaat), lavasextract.\nWaarvan toegevoegde suikers 0.4g per 100 gram en waarvan toegevoegd zout 0.43g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6451612903225806,
+    "price sensitivity": -0.39830508474576287
+}

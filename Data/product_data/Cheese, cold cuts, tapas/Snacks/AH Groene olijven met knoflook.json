@@ -1,0 +1,18 @@
+{
+    "id": 2914,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Groene olijven met knoflook",
+    "price": 3.5,
+    "unit": "260 gPrijs per KG \u20ac 13,46",
+    "weight": "260 Gram",
+    "calories": 252.0,
+    "ingredients": "Ingredi\u00ebnten: 67% groene olijf, plantaardige olie (raap, zonnebloem [in wisselende verhoudingen]), knoflook, zeezout, water, 0,4% knoflookgranulaat, voedingszuur (citroenzuur [E330], melkzuur [E270]), kruiden, zout, conserveermiddel (kaliumsorbaat [E202]), knoflookextract.\u00a0\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 2.65g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.31003382187147693,
+    "price sensitivity": -1.0
+}

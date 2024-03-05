@@ -1,0 +1,18 @@
+{
+    "id": 3571,
+    "category": "Salads, pizza, meals",
+    "sub category": "AH Fresh from home",
+    "product": "AH Verse  louisiana pull pork",
+    "price": 6.99,
+    "unit": "445 gNormale prijs per KG \u20ac 15,71",
+    "weight": "445 Gram",
+    "calories": 108.0,
+    "ingredients": "Ingredi\u00ebnten: aardappel-bonenpuree [70% aardappel [aardappel, antioxidant (E222)], 14% witte boon, 14% volle melk, extra vierge olijfolie, zout, peper], spitskoolsalade [52% spitskool, wortel, rode ui, gele rozijn [rozijn, zonnebloemolie, conserveermiddel (E220\u00a0(sulfiet))], raapolie, peterselie, zout, gerookte paprikapoeder, kurkuma], gemarineerde pulled pork [48% pulled pork [97% varkensvlees, specerijen, zout, suiker, conserveermiddel (E250)], 48% barbecuesaus [appelazijn [appelcider, azijn, antioxidant (E224 (sulfiet))], honing, rode ui, suiker, mosterd [water, mosterdzaad, azijn, zout, suiker, specerijen], raapolie, tomatenpuree [tomaat, zout], citroensap, sriracha [jalape\u00f1o, water, suiker, zout, knoflook, azijn, verdikkingsmiddel (E415), tabasco pepersaus [azijn, rode peper, zout]], sojasaus [water, sojaboon, tarwe, zout, azijn, alcohol, suiker], knoflook, gerookte paprikapoeder, komijn, nootmuskaat], rode ui], bosui.",
+    "lifestyle": 0.5,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.8387096774193549,
+    "price sensitivity": 0.03614457831325302
+}

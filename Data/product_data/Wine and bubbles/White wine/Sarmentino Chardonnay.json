@@ -1,0 +1,18 @@
+{
+    "id": 1513,
+    "category": "Wine and bubbles",
+    "sub category": "White wine",
+    "product": "Sarmentino Chardonnay",
+    "price": 3.49,
+    "unit": "0,75 lPrijs per LT \u20ac 4,65",
+    "weight": "0.75 Liter",
+    "calories": 74.0,
+    "ingredients": NaN,
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.21686746987951808,
+    "price sensitivity": -0.757847533632287
+}

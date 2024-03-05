@@ -1,0 +1,18 @@
+{
+    "id": 2201,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Easter treats",
+    "product": "AH Excellent Chocolade paashaasjes",
+    "price": 2.99,
+    "unit": "150 gPrijs per KG \u20ac 19,93",
+    "weight": "150 Gram",
+    "calories": 538.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, cacaoboter\u00b0, vollemelkpoeder, cacaomassa\u00b0, vegetarisch weipoeder, emulgator (sojalecithine\u00a0[E322]), natuurlijk vanillearoma, extract van paprika, kleurstof (b\u00e8ta-apo-8'-carotenal (c30) [E160e], curcumine [E100]), kleurend spirulina.\nWaarvan toegevoegde suikers 50g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\nCacaobestanddelen ten minste 30%, melkbestanddelen ten minste 20%. \n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4703389830508474,
+    "price sensitivity": 0.04166666666666652
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2708,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "De Zaanse Hoeve Volle kwark",
+    "price": 1.29,
+    "unit": "500 gPrijs per KG \u20ac 2,58",
+    "weight": "500 Gram",
+    "calories": 115.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11666666666666668,
+    "price sensitivity": -0.918429003021148
+}

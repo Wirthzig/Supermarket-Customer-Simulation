@@ -1,0 +1,18 @@
+{
+    "id": 1623,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Rivella",
+    "price": 2.9,
+    "unit": "1 lPrijs per LT \u20ac 2,09",
+    "weight": "1 Liter",
+    "calories": 5.0,
+    "ingredients": "Ingredi\u00ebnten: koolzuurhoudend water, MELKserum (26%), voedingszuur (L(+) melkzuur), karamelsuikersiroop, zoetstoffen (cyclaamzuur, acesulfaam-K, sacharine), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), natuurlijke aroma's.",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1850453172205438,
+    "price sensitivity": -0.13924050632911378
+}

@@ -1,0 +1,18 @@
+{
+    "id": 865,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "AH IJshoorntjes",
+    "price": 1.89,
+    "unit": "8 x 120 ml",
+    "weight": "556 Gram",
+    "calories": 275.0,
+    "ingredients": "Ingredi\u00ebnten: water, vegetarisch\u00a0wei-eiwitconcentraat, magere melk, suiker, kokosvet, tarwebloem, glucose-fructosestroop, emulgator (sojalecithine\u00a0[E322], mono- en diglyceriden van vetzuren [E471]), magere cacaopoeder\u00b0, 0,1% hazelnoot\u00b0, stabilisator (johannesbroodpitmeel [E410], guarpitmeel [E412]), kleurend concentraat (wortel, pompoen, saffloer, citroen), natuurlijk vanillearoma.\nWaarvan toegevoegde suikers 21g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.16402116402116398,
+    "price sensitivity": -0.09999999999999998
+}

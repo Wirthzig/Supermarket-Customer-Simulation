@@ -1,0 +1,18 @@
+{
+    "id": 2124,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "LU Prince ministars melkchocolade",
+    "price": 2.69,
+    "unit": "187 gNormale prijs per KG \u20ac 14,39",
+    "weight": "187 Gram",
+    "calories": 506.0,
+    "ingredients": "Ingredi\u00ebnten: TARWEBLOEM, suiker, palmolie, koolzaadolie, cacaoboter, weipoeder (van MELK), cacaomassa, magere MELKPOEDER 2 %, volle MELKPOEDER 1,5 %, weipermeaat (van MELK), glucosestroop, MELKVET, lactose (van MELK), zout, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), emulgatoren (E442, SOJALECITHINEN, E476), aroma's, voedingszuur (citroenzuur). KAN EI EN NOTEN BEVATTEN.",
+    "lifestyle": 0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.40677966101694907,
+    "price sensitivity": -0.04166666666666674
+}

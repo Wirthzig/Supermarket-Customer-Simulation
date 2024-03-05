@@ -1,0 +1,18 @@
+{
+    "id": 2354,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Sweet spreads",
+    "product": "AH Choco spread duo",
+    "price": 3.15,
+    "unit": "600 gPrijs per KG \u20ac 5,25",
+    "weight": "600 Gram",
+    "calories": 573.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, plantaardige olie (raap, palm), 2,5% magerecacaopoeder\u00b0, 0,8% hazelnoot\u00b0, emulgator (lecithine\u00a0[E322]), zout, vanillearoma.\nWaarvan toegevoegde suikers 61g per 100 gram en waarvan toegevoegd zout 0.04g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.46415094339622637,
+    "price sensitivity": -0.7419354838709677
+}

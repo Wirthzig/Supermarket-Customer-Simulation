@@ -1,0 +1,18 @@
+{
+    "id": 3220,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Vissticks",
+    "price": 2.99,
+    "unit": "15 stuks",
+    "weight": "450 Gram",
+    "calories": 191.0,
+    "ingredients": "Ingredi\u00ebnten: 65% koolvis, tarwebloem, raapolie, water, aardappelzetmeel, zout, gist, specerijen.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.70g per 100 gram",
+    "lifestyle": -0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11392405063291142,
+    "price sensitivity": -0.8734177215189873
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3000,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Flinterdunne achterham",
+    "price": 1.99,
+    "unit": "100 gPrijs per KG \u20ac 19,90",
+    "weight": "100 Gram",
+    "calories": 102.0,
+    "ingredients": "Ingredi\u00ebnten: 78% varkensvlees, water, zuurteregelaar (kaliumacetaat [E261], kaliumlactaat [E326]), zout, natuurlijk aroma, aardappelzetmeel, glucosestroop, aroma, dextrose, stabilisator (carrageen [E407], difosfaat [E450], trifosfaat [E451], polyfosfaat [E452]), gistextract, antioxidant (natriumascorbaat [E301]), conserveermiddel (natriumnitriet [E250]), rook.\nWaarvan toegevoegde suikers 0.6g per 100 gram en waarvan toegevoegd zout 2.03g per 100 gram",
+    "lifestyle": -0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13979706877113868,
+    "price sensitivity": -0.8157503714710252
+}

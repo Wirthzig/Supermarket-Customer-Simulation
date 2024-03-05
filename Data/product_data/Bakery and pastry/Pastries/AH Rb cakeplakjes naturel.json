@@ -1,0 +1,18 @@
+{
+    "id": 2548,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Rb cakeplakjes naturel",
+    "price": 1.69,
+    "unit": "4 stuks",
+    "weight": "150 Gram",
+    "calories": 393.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, scharrelei, tarwebloem, 22% roomboter, zetmeel (tarwe, aardappel), rijsmiddel (natriumcarbonaat [E500], difosfaat [E450]), gedroogde glucosestroop, emulgator (mono- en diglyceriden van vetzuren [E471]), conserveermiddel (kaliumsorbaat [E202], calciumpropionaat [E282]), gejodeerd zout, tarwevezel, natuurlijk aroma, aroma, verdikkingsmiddel (xanthaangom [E415]), kleurstof (annatto norbixine [E160b(ii)]).\nWaarvan toegevoegde suikers 27g per 100 gram en waarvan toegevoegd zout 0.20g per 100 gram",
+    "lifestyle": -0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06993006993006992,
+    "price sensitivity": -0.3696275071633238
+}

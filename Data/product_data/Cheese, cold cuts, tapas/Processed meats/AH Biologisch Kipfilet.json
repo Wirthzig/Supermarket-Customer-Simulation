@@ -1,0 +1,18 @@
+{
+    "id": 3040,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Biologisch Kipfilet",
+    "price": 3.49,
+    "unit": "ca. 100 gPrijs per KG \u20ac 34,90",
+    "weight": "100 Gram",
+    "calories": 126.0,
+    "ingredients": "Ingredi\u00ebnten: 85% kippenvlees*, water, zonnebloemolie*, voedingszuur (natriumlactaat [E325]), zout, aardappelzetmeel*, gekaramelliseerde suiker*, gebufferd azijn (conserverend ingredi\u00ebnt), dextrose*, conserveermiddel (natriumnitriet [E250]), stabilisator (guarpitmeel [E412]), specerijen*, champignonpoeder.\u00a0\nWaarvan toegevoegde suikers 1.0g per 100 gram en waarvan toegevoegd zout 1.50g per 100 gram\nEU/niet-EU Landbouw \n*Van biologische oorsprong.",
+    "lifestyle": -0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.30890642615558067,
+    "price sensitivity": -0.5928677563150075
+}

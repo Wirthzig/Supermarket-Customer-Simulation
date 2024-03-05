@@ -1,0 +1,18 @@
+{
+    "id": 2463,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "Danerolles Croissants classic",
+    "price": 2.35,
+    "unit": "6 stuksPrijs per KG \u20ac 9,79",
+    "weight": "240 Gram",
+    "calories": 345.0,
+    "ingredients": "Ingredi\u00ebnten: TARWEmeel, water, margarine: (palmvet, koolzaadolie, water, emulgatoren (mono en diglyceriden van vetzuren), zout, voedingszuur: citroenzuur), dextrose, TARWEGLUTEN, rijsmiddelen: difosfaten, natriumcarbonaten; suiker, BOTERCONCENTRAAT, ethylalcohol, zout, aroma, stabilisator: natriumalginaat, meelverbeteraar: ascorbinezuur.",
+    "lifestyle": 0.1,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11608391608391609,
+    "price sensitivity": -0.025787965616045794
+}

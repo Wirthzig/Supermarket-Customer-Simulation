@@ -1,0 +1,18 @@
+{
+    "id": 3209,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "Princes Ansjovisfilets in olijfolie",
+    "price": 1.99,
+    "unit": "46 gPrijs per KG \u20ac 43,26",
+    "weight": "46 Gram",
+    "calories": 182.0,
+    "ingredients": "Ingredi\u00ebnten: Gezouten AnsjoVISfilets (ansjoVIS, Zout.), Olijfolie (35%).",
+    "lifestyle": -0.5,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05063291139240507,
+    "price sensitivity": -0.8886075949367088
+}

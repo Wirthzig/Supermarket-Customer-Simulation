@@ -1,0 +1,18 @@
+{
+    "id": 2804,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Milk",
+    "product": "AH Lactosevrij verse halfvolle melk drank",
+    "price": 1.69,
+    "unit": "1 lPrijs per LT \u20ac 1,69",
+    "weight": "1 Liter",
+    "calories": 40.0,
+    "ingredients": "Ingredi\u00ebnten: halfvolle melk, lactase.\nWaarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.18333333333333335,
+    "price sensitivity": -0.3141993957703928
+}

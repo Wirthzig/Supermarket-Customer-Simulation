@@ -1,0 +1,18 @@
+{
+    "id": 3515,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Maaltijdsalade Mexicaanse kip",
+    "price": 5.79,
+    "unit": "450 gPrijs per KG \u20ac 12,87",
+    "weight": "450 Gram",
+    "calories": 102.0,
+    "ingredients": "Ingredi\u00ebnten: groente (18% tomaat, 8,4% sperzieboon, 8% rode paprika, 7,8% ijsbergsla, 4,4% andijvie, 4,4% spinazie), 17% kippendijfilet, 16% kidneyboon, natuurlijk aroma, water, ma\u00efsmeel, plantaardige olie (zonnebloem, olijf), gebufferd azijn (conserverend ingredi\u00ebnt), specerijen, dextrose, wittewijnazijn, zout, suiker, knoflookpuree, maltodextrine, extract (rozemarijn, specerijen), limoensapconcentraat, voedingsvezel (citrus, bamboe, aardappel), verdikkingsmiddel (xanthaangom [E415]), citroenolie, gemodificeerd ma\u00efszetmeel, limoenolie, poeder (pastinaak, peterseliewortel), voedingszuur (citroenzuur [E330], natriumacetaten [E262], natriumlactaat [E325]), kruiden, stabilisator (difosfaten [E450]), gedroogde tomaat.\nWaarvan toegevoegde suikers 0.7g per 100 gram en waarvan toegevoegd zout 0.73g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6451612903225806,
+    "price sensitivity": 0.15254237288135597
+}

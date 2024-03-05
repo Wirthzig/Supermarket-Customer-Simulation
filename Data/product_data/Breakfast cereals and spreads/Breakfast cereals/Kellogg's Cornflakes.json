@@ -1,0 +1,18 @@
+{
+    "id": 2419,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Kellogg's Cornflakes",
+    "price": 3.9,
+    "unit": "375 gPrijs per KG \u20ac 8,24",
+    "weight": "375 Gram",
+    "calories": 378.0,
+    "ingredients": "Ingredi\u00ebnten: Ma\u00efs, suiker, GERSTEMOUTAROMA, zout, Vitaminen en mineralen: vitaminen(niacine, B6, B2, B1, foliumzuur, D, B12), ijzer.\n\nVoor allergenen: zie ingredi\u00ebnten in vet gemarkeerd.",
+    "lifestyle": -0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6056603773584904,
+    "price sensitivity": -0.19354838709677424
+}

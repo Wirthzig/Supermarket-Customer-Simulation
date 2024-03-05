@@ -1,0 +1,18 @@
+{
+    "id": 3007,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Goudsalami",
+    "price": 2.25,
+    "unit": "ca. 98 gPrijs per KG \u20ac 22,99",
+    "weight": "98 Gram",
+    "calories": 301.0,
+    "ingredients": "Ingredi\u00ebnten: varkensvlees\u00aa, zout, rundvlees, specerijen, dieetzout (kaliumchloride), glucosestroop, rodebietensapconcentraat, dextrose, antioxidant (natriumascorbaat [E301]), conserveermiddel (natriumnitriet [E250]), zuursel, rook. \u00aaBeter Leven keurmerk 1 ster.\u00a0\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 3.08g per 100 gram\nVoor 100 g goudsalami is 116 g varkensvlees en 3 g rundvlees gebruikt.",
+    "lifestyle": -1.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.16910935738444197,
+    "price sensitivity": -0.7711738484398217
+}

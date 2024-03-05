@@ -1,0 +1,18 @@
+{
+    "id": 1004,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Spices",
+    "product": "Knorr Aromat navulzakje",
+    "price": 0.59,
+    "unit": "38 gPrijs per KG \u20ac 15,53",
+    "weight": "38 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: Gejodeerd zout, smaakversterker E621, MELKSUIKER, TARWEZETMEEL, gistextract, ui\u00b9, plantaardige olie, plantaardig vet, specerijen (knoflook\u00b9, kurkuma\u00b9, SELDERIJZAAD, kruidnagel), anti-klontermiddel E551, boleet, laurierblad. Kan soja, ei, mosterd bevatten. \u00b9op duurzame wijze geteeld.",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.010401188707280828,
+    "price sensitivity": -0.8105849582172702
+}

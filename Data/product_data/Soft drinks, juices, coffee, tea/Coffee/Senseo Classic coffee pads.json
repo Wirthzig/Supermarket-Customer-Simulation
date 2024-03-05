@@ -1,0 +1,18 @@
+{
+    "id": 1890,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Coffee",
+    "product": "Senseo Classic coffee pads",
+    "price": 5.59,
+    "unit": "36 stuks",
+    "weight": "36 Stuks (piece). 250 Gram",
+    "calories": NaN,
+    "ingredients": "Gebruik de enkele padhouder voor 1 kopje koffie en de dubbele padhouder voor 2 kopjes koffie. Na gebruik de padhouder naspoelen met water.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.38821752265861026,
+    "price sensitivity": -0.007092198581560405
+}

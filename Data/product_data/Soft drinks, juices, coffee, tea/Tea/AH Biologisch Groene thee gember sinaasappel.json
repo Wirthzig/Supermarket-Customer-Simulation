@@ -1,0 +1,18 @@
+{
+    "id": 1686,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "AH Biologisch Groene thee gember sinaasappel",
+    "price": 1.79,
+    "unit": "20 stuks",
+    "weight": "24 Gram",
+    "calories": 1.0,
+    "ingredients": "Ingredi\u00ebnten: 61% groene thee*\u00b0, 20% witte thee*\u00b0, gember*, natuurlijk sinaasappelaroma, sinaasappelschil*.\nWaarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter\nEU/niet-EU Landbouw \n*Van biologische oorsprong. \n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.10120845921450151,
+    "price sensitivity": -0.6835443037974683
+}

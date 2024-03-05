@@ -1,0 +1,18 @@
+{
+    "id": 3103,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "MonChou Verse roomkaas",
+    "price": 1.59,
+    "unit": "100 gPrijs per KG \u20ac 15,90",
+    "weight": "100 Gram",
+    "calories": 316.0,
+    "ingredients": "Ingredi\u00ebnten: ROOM, MELK, verdikkingsmiddel: E410, zuursel, zout, stremsel",
+    "lifestyle": -0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09470124013528751,
+    "price sensitivity": -0.8008915304606241
+}

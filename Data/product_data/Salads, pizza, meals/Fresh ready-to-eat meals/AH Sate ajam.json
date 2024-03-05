@@ -1,0 +1,18 @@
+{
+    "id": 3499,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Sate ajam",
+    "price": 2.59,
+    "unit": "200 gNormale prijs per KG \u20ac 12,95",
+    "weight": "200 Gram",
+    "calories": 188.0,
+    "ingredients": "Ingredi\u00ebnten: water, 25% kipfilet\u1d43, 16%\u00a0pindapasta, suiker, plantaardige olie (soja, zonnebloem), 1,8% tomatenpuree, 1,8% ui,\u00a0tarwemeel, knoflookvlok, gember, zout, gemalen rode peper, rietsuiker, specerijen, gistextract, suikerstroop, gehydrolyseerd plantaardig eiwit (soja, ma\u00efs), voedingszuur (azijnzuur [E260], citroenzuur [E330]), citroensap, conserveermiddel (kaliumsorbaat [E202], natriumbenzoaat [E211]), zuurteregelaar (melkzuur [E270]), kleurstof (ammoniakkaramel [E150c],\u00a0sulfiet-ammoniakkaramel [E150d]), verdikkingsmiddel (cellulosegom [E466]), aroma\u00a0(selderij).\u00a0\u1d43Beter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 7.9g per 100 gram en waarvan toegevoegd zout 0.50g per 100 gram",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1290322580645161,
+    "price sensitivity": -0.35593220338983056
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2563,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Extra lang lekker mini chocolade bol",
+    "price": 2.79,
+    "unit": "9 stuks",
+    "weight": "360 Gram",
+    "calories": 309.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, suiker, cacao\u00b0, dextrose,\u00a0boterolie, bakkersgist, mageremelkpoeder,\u00a0tarwegluten, cacaoboter\u00b0, gejodeerd zout, emulgator (mono- en diglyceriden van vetzuren [E471], mono- en diglyceriden van vetzuren, veresterd met monoacetyl- en diacetylwijnsteenzuur [E472e], lecithine [E322]), conserveermiddel (sorbinezuur [E200]),\u00a0melkeiwit, meelverbeteraar (ascorbinezuur [E300]), glucosestroop, kurkuma-extract, natuurlijk aroma, raapolie,\u00a0tarwemoutmeel, erwteneiwit, maltodextrine.\nWaarvan toegevoegde suikers 11g per 100 gram en waarvan toegevoegd zout 0.81g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14685314685314685,
+    "price sensitivity": -0.7734138972809668
+}

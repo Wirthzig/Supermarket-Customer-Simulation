@@ -1,0 +1,18 @@
+{
+    "id": 3556,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Salade erbij boeren mix",
+    "price": 3.89,
+    "unit": "295 gPrijs per KG \u20ac 13,19",
+    "weight": "285 Gram",
+    "calories": 134.0,
+    "ingredients": "Ingredi\u00ebnten: groente (37% ijsbergsla, 13% rode paprika, 6,6% rode ui, 6,1% krulsla), melk, water, plantaardige olie (raap, zonnebloem), 3,5% yoghurt, 3% varkensvlees, 2,8% walnoot, 2,8% gele rozijn, suiker, citroenazijn, zout, gemodificeerd ma\u00efszetmeel, citroensapconcentraat, uipoeder, zuursel, glucosestroop, weipoeder, verdikkingsmiddel (xanthaangom [E415]), stremsel, gedroogde peterselie, natuurlijk aroma, rookaroma, antioxidant (natriumascorbaat [E301]), conserveermiddel (natriumnitriet [E250], zwaveldioxide [E220\u00a0(sulfiet)]).\nWaarvan toegevoegde suikers 0.9g per 100 gram en waarvan toegevoegd zout 0.55g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.33870967741935487,
+    "price sensitivity": -0.05932203389830515
+}

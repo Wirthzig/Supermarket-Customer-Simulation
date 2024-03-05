@@ -1,0 +1,18 @@
+{
+    "id": 2505,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "Almondy Daim",
+    "price": 5.49,
+    "unit": "400 gPrijs per KG \u20ac 13,73",
+    "weight": "1 Stuks (piece). 400 Gram",
+    "calories": 446.0,
+    "ingredients": "INGREDI\u00cbNTEN: Suiker, EIWIT, ROOM, EIGEEL plantaardig vet (palm, shea), AMANDEL (5%), KARNEMELKPOEDER, plantaardige olie (raapzaad), zonnebloempitten, cacaoboter, zoete abrikozenpitten, weipoeder (uit MELK), cacaomassa, magere MELKPOEDER, MELKVET, gecondenseerde magere MELK met suiker, suikersiroop, basterdsuiker, zout, emulgator (SOJAlecithine), aroma. KAN SPOREN VAN PINDA'S EN HAZELNOTEN BEVATTEN",
+    "lifestyle": 0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3356643356643357,
+    "price sensitivity": 0.26074498567335236
+}

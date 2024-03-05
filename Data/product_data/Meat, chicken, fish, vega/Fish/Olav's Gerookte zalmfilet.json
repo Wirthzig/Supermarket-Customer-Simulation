@@ -1,0 +1,18 @@
+{
+    "id": 3257,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "Olav's Gerookte zalmfilet",
+    "price": 5.99,
+    "unit": "200 gPrijs per KG \u20ac 29,95",
+    "weight": "200 Gram",
+    "calories": 183.0,
+    "ingredients": "Ingredi\u00ebnten: 95%\u00a0zalm, zout, zuurteregelaar (natriumlactaat [E325]), rook.\u00a0\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 2.50g per 100 gram",
+    "lifestyle": -0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.30379746835443044,
+    "price sensitivity": -0.1392405063291139
+}

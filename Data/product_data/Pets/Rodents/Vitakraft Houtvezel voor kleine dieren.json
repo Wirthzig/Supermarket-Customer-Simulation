@@ -1,0 +1,18 @@
+{
+    "id": 94,
+    "category": "Pets",
+    "sub category": "Rodents",
+    "product": "Vitakraft Houtvezel voor kleine dieren",
+    "price": 1.55,
+    "unit": "15 lPrijs per LT \u20ac 0,10",
+    "weight": "15 Liter",
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": 0.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.15402843601895735,
+    "price sensitivity": -0.29370629370629364
+}

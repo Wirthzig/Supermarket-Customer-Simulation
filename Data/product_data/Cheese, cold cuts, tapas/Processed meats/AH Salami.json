@@ -1,0 +1,18 @@
+{
+    "id": 3072,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Salami",
+    "price": 1.69,
+    "unit": "150 gPrijs per KG \u20ac 11,27",
+    "weight": "150 Gram",
+    "calories": 415.0,
+    "ingredients": "Ingredi\u00ebnten: varkensvlees\u1d43, zout, varkenscollageen, kaliumchloride (dieetzout), rundercollageen, dextrose, kleurend rodebietensapconcentraat, specerijen, varkensvet\u1d43, natuurlijke aroma's, antioxidant (natriumascorbaat [E301]), varkenseiwit, conserveermiddel (natriumnitriet [E250], natamycine [E235]), rook.\u1d43Beter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.5g per 100 gram en waarvan toegevoegd zout 1.86g per 100 gram\nVoor 100 g salami is 113 g varkensvlees gebruikt.",
+    "lifestyle": 0.5,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10597519729425028,
+    "price sensitivity": -0.8008915304606241
+}

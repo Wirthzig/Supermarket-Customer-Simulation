@@ -1,0 +1,18 @@
+{
+    "id": 2492,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Ciabatta afbakbrood",
+    "price": 0.99,
+    "unit": "per stukPrijs per KG \u20ac 3,96",
+    "weight": "250 Gram",
+    "calories": 263.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, olijfolie, gist, gejodeerd zout, ge\u00efnactiveerd tarwezuurdesem, rijstebloem, antioxidant (ascorbinezuur [E300]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.05g per 100 gram",
+    "lifestyle": -0.9,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.02097902097902098,
+    "price sensitivity": -0.5931232091690545
+}

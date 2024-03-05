@@ -1,0 +1,18 @@
+{
+    "id": 2970,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Grillworst",
+    "price": 2.25,
+    "unit": "140 gPrijs per KG \u20ac 16,07",
+    "weight": "140 Gram",
+    "calories": 228.0,
+    "ingredients": "Ingredi\u00ebnten: 86% varkensvlees, water, voedingszuur (kaliumlactaat [E326]), aardappelzetmeel, zout, specerijen, dextrose, conserveermiddel (natriumacetaat [E262], natriumnitriet [E250]), gehydrolyseerd ma\u00efseiwit, emulgator (trifosfaten [E451]), antioxidant (natriumascorbaat [E301]), aroma's, citrusvezel, natuurlijke aroma's.\u00a0\nWaarvan toegevoegde suikers 0.7g per 100 gram en waarvan toegevoegd zout 1.41g per 100 gram",
+    "lifestyle": -0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.16910935738444197,
+    "price sensitivity": -0.5928677563150075
+}

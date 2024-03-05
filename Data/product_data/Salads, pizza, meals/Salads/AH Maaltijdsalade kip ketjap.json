@@ -1,0 +1,18 @@
+{
+    "id": 3517,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Maaltijdsalade kip ketjap",
+    "price": 5.79,
+    "unit": "450 gPrijs per KG \u20ac 12,87",
+    "weight": "450 Gram",
+    "calories": 114.0,
+    "ingredients": "Ingredi\u00ebnten: groente (14% ijsbergsla, 8,8% andijvie, 8,8% kool, 6,6% wortel, 4,4% rettich), water, 16% kipfilet, durumtarwemeel, cashewnoot, suiker, specerijen, zout, gemodificeerd ma\u00efszetmeel, plantaardige olie (zonnebloem, sesam), 0,4% sojaboon, tarwe, rijstzemel, aroma, wittewijnazijn, gedroogde groente (ui, paprika, tomaat), rozemarijnextract, rijstebloem, zetmeel (rijst, aardappel), gebufferd azijn (conserverend ingredient), gekaramelliseerde suiker, voedingszuur (natriumacetaten [E262], kaliumlactaat [E326], citroenzuur [E330]), azijn.\nWaarvan toegevoegde suikers 2.5g per 100 gram en waarvan toegevoegd zout 0.65g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6451612903225806,
+    "price sensitivity": -0.48305084745762716
+}

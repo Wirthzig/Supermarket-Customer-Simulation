@@ -1,0 +1,18 @@
+{
+    "id": 992,
+    "category": "Sports and dietary foods",
+    "sub category": "Sports drinks",
+    "product": "AA Drink High energy",
+    "price": 1.9,
+    "unit": "500 mlPrijs per LT \u20ac 2,18",
+    "weight": "0.5 Liter",
+    "calories": 59.0,
+    "ingredients": "Ingredi\u00ebnten: water, sacharose, dextrose (druivensuiker), fructose, maltose, hogere sachariden, maltodextrine, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat, aroma, antioxidant: ascorbinezuur, stabilisator: E445, kleurstof: beta-caroteen, natriumchloride.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.035696202531645564,
+    "price sensitivity": -0.9350046425255338
+}

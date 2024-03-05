@@ -1,0 +1,18 @@
+{
+    "id": 2067,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "Haribo Kindermix",
+    "price": 3.29,
+    "unit": "375 gPrijs per KG \u20ac 8,77",
+    "weight": "375 Gram",
+    "calories": 339.0,
+    "ingredients": "Ingredi\u00ebnten: Glucosestroop, suiker, zetmeel, bruine suikerstroop, dextrose, gelatine, zoethout\u0435xtract (3% in het dropaandeel), voedingszuur: citroenzuur, aroma, kookzout, vruchten- en plantenconcentraten: spirulina, saffloer, rammenas, zoete aardappel, wortel, zwarte bes, hibiscus, apel, sinaasappel, vlierbes, citroen, aronia, druif, karamelstroop, glansmiddelen: bijenwas wit en geel, carnaubawas, vilerbesextract, kleurstof: indigotine\n\nKan sporen bevatten van melk, tarwe.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5338983050847457,
+    "price sensitivity": -0.6919431279620853
+}

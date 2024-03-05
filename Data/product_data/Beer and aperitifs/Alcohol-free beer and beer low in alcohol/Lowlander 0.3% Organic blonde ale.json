@@ -1,0 +1,18 @@
+{
+    "id": 1378,
+    "category": "Beer and aperitifs",
+    "sub category": "Alcohol-free beer and beer low in alcohol",
+    "product": "Lowlander 0.3% Organic blonde ale",
+    "price": 2.25,
+    "unit": "33 clPrijs per LT \u20ac 6,82",
+    "weight": "330 Milliliter",
+    "calories": 19.0,
+    "ingredients": "water, hop, gist, vlierbes, rozenbottel",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.05910473707083876,
+    "price sensitivity": 0.22751322751322745
+}

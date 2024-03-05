@@ -1,0 +1,19 @@
+{
+  "name": "Quick and Few Items",
+  "n": 10,
+  "fraud_probability": 0.1,
+  "time": {"mean": -0.9, "std": 0.2},
+  "amount": {"mean": -0.7, "std": 0.3},
+  "recipes": {"Spaghetti:": 0.5, "Burger": 0.2, "Risotto": 0.3, "VegRice": 0.3, "Steak": 0.1, "Party": 0.2},
+  "attributes":{
+    "price sensitivity": {"mean": 0, "std": 0.5},
+    "meat": {"mean": 0.5, "std": 0.25},
+    "vegetarian": {"mean": 0, "std": 0.25},
+    "vegan": {"mean": 0, "std": 0.25},
+    "lifestyle": {"mean": 0, "std": 0.25},
+    "sustainability": {"mean": 0, "std": 0.25},
+    "pets": {"mean": -1, "std": 0},
+    "children": {"mean": -1, "std": 0}
+  }
+}
+

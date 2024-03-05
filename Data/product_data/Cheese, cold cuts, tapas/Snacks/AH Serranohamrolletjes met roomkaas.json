@@ -1,0 +1,18 @@
+{
+    "id": 2960,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Serranohamrolletjes met roomkaas",
+    "price": 3.25,
+    "unit": "85 gPrijs per KG \u20ac 38,24",
+    "weight": "85 Gram",
+    "calories": 298.0,
+    "ingredients": "Ingredi\u00ebnten: varkensvlees, magere melk, room, zout, zeezout, basilicum, conserveermiddel (E202, E250, E252), zuursel, water, suiker, antioxidant (E301).\nWaarvan toegevoegde suikers 0.04g per 100 gram\nVoor 100 g serranoham is 151 g varkensvlees gebruikt.",
+    "lifestyle": -0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.28184892897406993,
+    "price sensitivity": -0.8008915304606241
+}

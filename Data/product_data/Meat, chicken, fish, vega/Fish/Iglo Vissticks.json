@@ -1,0 +1,18 @@
+{
+    "id": 3237,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "Iglo Vissticks",
+    "price": 4.87,
+    "unit": "20 x 28 gNormale prijs per KG \u20ac 11,59",
+    "weight": "20 Stuks (piece). 560 Gram",
+    "calories": 216.0,
+    "ingredients": "Ingredi\u00ebnten: Alaska koolVIS 58%, paneermeel 20% (TARWEbloem, water, specerijen, gist, zout) koolzaadolie, water, TARWEbloem, aardappelzetmeel, zout.",
+    "lifestyle": -0.7,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2329113924050633,
+    "price sensitivity": -0.8734177215189873
+}

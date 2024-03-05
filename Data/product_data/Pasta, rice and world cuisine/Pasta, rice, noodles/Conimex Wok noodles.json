@@ -1,0 +1,18 @@
+{
+    "id": 1325,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Pasta, rice, noodles",
+    "product": "Conimex Wok noodles",
+    "price": 1.65,
+    "unit": "248 gPrijs per KG \u20ac 6,65",
+    "weight": "248 Gram",
+    "calories": 410.0,
+    "ingredients": "Ingredi\u00ebnten:TARWEMEEL, palmolie, gemodificeerd tapiocazetmeel, zout.Kan soja bevatten.",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14184397163120566,
+    "price sensitivity": -0.5925925925925926
+}

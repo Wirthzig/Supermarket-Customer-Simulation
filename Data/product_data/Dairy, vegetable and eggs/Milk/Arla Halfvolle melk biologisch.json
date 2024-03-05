@@ -1,0 +1,18 @@
+{
+    "id": 2782,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Milk",
+    "product": "Arla Halfvolle melk biologisch",
+    "price": 2.95,
+    "unit": "1,5 lPrijs per LT \u20ac 1,97",
+    "weight": "1.5 Liter",
+    "calories": 46.0,
+    "ingredients": "Ingredi\u00ebnten: Bevat koemelkeiwit en lactose",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.39333333333333337,
+    "price sensitivity": -0.22356495468277948
+}

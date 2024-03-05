@@ -1,0 +1,18 @@
+{
+    "id": 3575,
+    "category": "Salads, pizza, meals",
+    "sub category": "AH Fresh from home",
+    "product": "AH Verse varkenshaas krieltjes",
+    "price": 7.49,
+    "unit": "450 gNormale prijs per KG \u20ac 16,64",
+    "weight": "450 Gram",
+    "calories": 85.0,
+    "ingredients": "Ingredi\u00ebnten: ovengegaarde krieltjes [96% aardappel, raapolie, venkelzaad, zout, kruiden], champignonroomsaus [43% kastanjechampignon, volle melk, 21% kookroom [room, gemodificeerd ma\u00efszetmeel, melkeiwit, karnemelkpoeder, stabilisator (E407a, E466), emulgator (E471, E472b)], tarwebloem, raapolie, zout, eekhoorntjesbroodpoeder, peper], gegaarde varkenshaas [99% varkensvlees, zout, peper], broccoli, 8,9% sperzieboon, geroosterde rode ui [rode ui, raapolie, zout].",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.9193548387096774,
+    "price sensitivity": -0.012048192771084487
+}

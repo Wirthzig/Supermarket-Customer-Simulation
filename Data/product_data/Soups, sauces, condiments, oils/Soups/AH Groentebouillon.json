@@ -1,0 +1,18 @@
+{
+    "id": 1174,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "AH Groentebouillon",
+    "price": 0.6,
+    "unit": "120 gPrijs per KG \u20ac 5,00",
+    "weight": "120 Gram",
+    "calories": 5.0,
+    "ingredients": "Ingredi\u00ebnten: zout, suiker, smaakversterker (mononatriumglutamaat [E621]), maltodextrine, palmvet, gedroogde groente (2,5% wortel, 1,6% prei, 0,5% selderij, 0,3% ui, 0,3% tomaat), specerijen (o.a.\u00a0selderij), aroma, peterselie, kleurstof (ammoniakkaramel [E150c]).\nWaarvan toegevoegde suikers 0.3g per 100 milliliter en waarvan toegevoegd zout 0.78g per 100 milliliter",
+    "lifestyle": 0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.011144130757800888,
+    "price sensitivity": -0.6155988857938719
+}

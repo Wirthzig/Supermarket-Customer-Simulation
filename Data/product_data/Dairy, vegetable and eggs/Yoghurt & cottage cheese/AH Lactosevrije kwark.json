@@ -1,0 +1,18 @@
+{
+    "id": 2690,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "AH Lactosevrije kwark",
+    "price": 1.69,
+    "unit": "500 gPrijs per KG \u20ac 3,38",
+    "weight": "500 Gram",
+    "calories": 50.0,
+    "ingredients": "Ingredi\u00ebnten: magere kwark, lactase.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.18333333333333335,
+    "price sensitivity": -0.6299093655589124
+}

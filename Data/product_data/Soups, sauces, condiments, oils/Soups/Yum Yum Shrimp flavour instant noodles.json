@@ -1,0 +1,18 @@
+{
+    "id": 1154,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Yum Yum Shrimp flavour instant noodles",
+    "price": 0.59,
+    "unit": "60 gPrijs per KG \u20ac 9,83",
+    "weight": "60 Gram",
+    "calories": 75.0,
+    "ingredients": "Ingredi\u00ebnten: TARWEmeel, palmolie (bevat antioxidant: E319, E320), tapiocazetmeel, zout, suiker, groenten(knoflook, ui, lente ui), specerijen en kruiden (chili, galanga, citroengras), smaakversterkers: E621, E631, E627, voedingszuren: E296, E330, SOJAsauspoeder (SOJAbonen, glucosesiroop, maltodextrine, kleurstof: E150c), zuurteregelaars: E500,E452,E451, maltodextrine, maiszetmeel, GARNALEN 0,2%, VISsaus, (ANSJOVISextract, zout), antiklontermiddel:E551, aroma, verdikkingsmiddel: E466, gistextract, kleurstof: E160c. Dit product kan sporen van melk, selderij en sesam bevatten.",
+    "lifestyle": -0.7,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.010401188707280828,
+    "price sensitivity": 0.8142989786443826
+}

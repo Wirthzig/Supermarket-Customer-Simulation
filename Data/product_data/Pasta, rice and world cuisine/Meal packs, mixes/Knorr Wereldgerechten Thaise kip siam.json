@@ -1,0 +1,18 @@
+{
+    "id": 1219,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Meal packs, mixes",
+    "product": "Knorr Wereldgerechten Thaise kip siam",
+    "price": 4.15,
+    "unit": "300 g",
+    "weight": "300 Gram",
+    "calories": 94.0,
+    "ingredients": "Ingredi\u00ebnten rijstmix Rijst\u00b9 99,5%, peterselie\u00b9. Kan glutenbevattende granen, ei, soja, melk, selderij, mosterd bevatten. Ingredi\u00ebnten sausmix Zetmeel, suiker, sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON,TARWE)), knoflookpoeder\u00b9 8%, aroma (bevatSELDERIJ), zout, uipoeder\u00b9 3,4%, rode paprika\u00b9 2,2%, gehydrolyseerde plantaardige eiwitten, palmvet, citroensappoeder, gistextract, GARNALENPOEDER, cayennepeper, mineraalzout (kalium). Kan ei, melk, mosterd, vis, weekdieren bevatten. Ingredi\u00ebnten cashewnoten CASHEWNOTEN 96,5%, zonnebloemolie. \u00b9 op duurzame wijze geteeld.",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5851063829787234,
+    "price sensitivity": -0.02135561745589587
+}

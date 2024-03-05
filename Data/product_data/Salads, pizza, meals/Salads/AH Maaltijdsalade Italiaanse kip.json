@@ -1,0 +1,18 @@
+{
+    "id": 3540,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Maaltijdsalade Italiaanse kip",
+    "price": 5.79,
+    "unit": "450 gPrijs per KG \u20ac 12,87",
+    "weight": "450 Gram",
+    "calories": 132.0,
+    "ingredients": "Ingredi\u00ebnten: groente (16% cherrytomaat, 15% komkommer, 7,2% romaine, 3,6% rucola, 3,6% radicchio), water, 14% kippenvlees, durumtarwegriesmeel, plantaardige olie (2,2% olijf, zonnebloem, koolzaad),\u00a0melk, Leccino-olijf, kruiden (o.a. 0,8% basilicum), zout, azijn, suiker, ma\u00efszetmeel, gebufferd azijnpoeder\u00a0(conserverend ingredi\u00ebnt), 0,2% zwarte olijf, specerijen, dextrose, 0,07% pijnboompit, spinaziepoeder, natuurlijk aroma, conserveermiddel (melkzuur [E270]), gemodificeerd ma\u00efszetmeel, wittewijnazijn, stabilisator (xanthaangom [E415]), zuursel, stremsel.\nWaarvan toegevoegde suikers 0.4g per 100 gram en waarvan toegevoegd zout 0.78g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6451612903225806,
+    "price sensitivity": -0.9067796610169492
+}

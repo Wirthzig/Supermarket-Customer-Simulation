@@ -1,0 +1,18 @@
+{
+    "id": 1114,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "AH Gepelde tomaten",
+    "price": 0.69,
+    "unit": "400 gPrijs per KG \u20ac 1,73",
+    "weight": "400 Gram",
+    "calories": 23.0,
+    "ingredients": "Ingredi\u00ebnten: 60% tomaat, 40% tomatensap, zuurteregelaar (citroenzuur).\nWaarvan toegevoegde suikers 0.00g per 100 gram",
+    "lifestyle": -0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.017830609212481422,
+    "price sensitivity": -0.7307335190343547
+}

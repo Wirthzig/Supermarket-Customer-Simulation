@@ -1,0 +1,18 @@
+{
+    "id": 2697,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "Melkunie Protein chocolade pudding",
+    "price": 1.79,
+    "unit": "200 gPrijs per KG \u20ac 8,95",
+    "weight": "200 Gram",
+    "calories": 74.0,
+    "ingredients": "Ingredi\u00ebnten: MELK, MELKeiwit, zoetstoffen: erytritol en steviolglycosiden, 1,8% magere cacaopoeder, stabilisatoren: carrageen en guargom, BCAA: leucine, isoleucine en valine, natuurlijk aroma , magnesiumcarbonaat, zinksulfaat, vitamine D3",
+    "lifestyle": 0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.20000000000000004,
+    "price sensitivity": -0.7673716012084593
+}

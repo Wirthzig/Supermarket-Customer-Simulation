@@ -1,0 +1,18 @@
+{
+    "id": 922,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "Barebells Salty Peanut Vegan",
+    "price": 2.65,
+    "unit": "55 gPrijs per KG \u20ac 48,18",
+    "weight": "55 Gram",
+    "calories": 383.0,
+    "ingredients": "Ingredi\u00ebnten: Eiwit blend (SOJA, erwt, rijst), bevochtigingsmiddel (glycerol), vulstof (polydextrose), zoetstof (maltitol, sucralose), cacaoboter, oligofructose, cacaomassa, PINDA\u2019S, SOJA crisps (SOJAPROTEINE, cacao, tapiocazetmeel), zonnebloemolie, rijstmeel, PINDAPASTA (PINDA'S, PINDAOLIE), smaakstoffen, cacaopoeder, zout, emulgator (SOJALECITHINE). Kan sporen van melk, ei, gluten en noten bevatten.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.054683544303797474,
+    "price sensitivity": -0.7333333333333334
+}

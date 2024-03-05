@@ -1,0 +1,18 @@
+{
+    "id": 1875,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Coffee",
+    "product": "Douwe Egberts Lungo original capsules voordeelpak",
+    "price": 5.59,
+    "unit": "20 stuks",
+    "weight": "20 Stuks (piece). 104 Gram",
+    "calories": NaN,
+    "ingredients": "Te gebruiken in koffiemachines van Nespresso",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.38821752265861026,
+    "price sensitivity": -0.4184397163120568
+}

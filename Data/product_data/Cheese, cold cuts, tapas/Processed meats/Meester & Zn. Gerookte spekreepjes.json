@@ -1,0 +1,18 @@
+{
+    "id": 3097,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "Meester & Zn. Gerookte spekreepjes",
+    "price": 3.19,
+    "unit": "300 gPrijs per KG \u20ac 10,63",
+    "weight": "300 Gram",
+    "calories": 305.0,
+    "ingredients": "Ingredi\u00ebnten: 95% varkensvlees, zout, voedingszuur (kaliumlactaat [E326]), antioxidant (natriumascorbaat [E301], natriumcitraat [E331]), conserveermiddel (natriumnitriet [E250], natriumacetaat [E262]), specerijenextract, rook.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 2.59g per 100 gram",
+    "lifestyle": 0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.27508455467869225,
+    "price sensitivity": -0.5468053491827638
+}

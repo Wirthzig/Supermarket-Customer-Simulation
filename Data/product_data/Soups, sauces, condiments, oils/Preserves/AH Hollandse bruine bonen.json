@@ -1,0 +1,18 @@
+{
+    "id": 1085,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "AH Hollandse bruine bonen",
+    "price": 1.9,
+    "unit": "680 gPrijs per KG \u20ac 2,34",
+    "weight": "680 Gram",
+    "calories": 104.0,
+    "ingredients": "Ingredi\u00ebnten: bruine boon, water, verstevigingsmiddel (calciumchloride [E509]), antioxidant (calciumdinatrium-EDTA [E385]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10772659732540861,
+    "price sensitivity": -0.9498607242339833
+}

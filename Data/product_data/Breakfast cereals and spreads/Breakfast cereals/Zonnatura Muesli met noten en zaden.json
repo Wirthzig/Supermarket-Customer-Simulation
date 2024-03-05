@@ -1,0 +1,18 @@
+{
+    "id": 2401,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Zonnatura Muesli met noten en zaden",
+    "price": 2.99,
+    "unit": "375 gPrijs per KG \u20ac 7,97",
+    "weight": "375 Gram",
+    "calories": 388.0,
+    "ingredients": "Ingredi\u00ebnten: Volkoren granen* 70% (HAVER*, TARWE* [GLUTEN], GERST*, geroosterde TARWEvlokken*), noten en zaden* 16% (HAZELNOTEN* 3,5%, zonnebloempitten* 3,5%, AMANDELEN* [NOTEN] 2,5%, lijnzaad*, SESAMZAAD*, pompoenpitten* 1,5%), rozijnen* 12,5% (rozijnen*, zonnebloemolie*), kokosschaafsel* 1,5%, *Ingredi\u00ebnt van biologische teelt.\n\nKan sporen bevatten van melk, soja en andere noten.",
+    "lifestyle": 0.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.4339622641509434,
+    "price sensitivity": -0.5483870967741936
+}

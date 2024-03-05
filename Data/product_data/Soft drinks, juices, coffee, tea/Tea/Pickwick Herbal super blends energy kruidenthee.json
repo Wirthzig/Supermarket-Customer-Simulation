@@ -1,0 +1,18 @@
+{
+    "id": 1806,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "Pickwick Herbal super blends energy kruidenthee",
+    "price": 2.9,
+    "unit": "15 stuks",
+    "weight": "15 Stuks (piece). 22.5 Gram",
+    "calories": 1.0,
+    "ingredients": "Ingredi\u00ebnten: citroengras (45%), rooibos (20%), sinaasappelblaadjes, kurkuma (11%), natuurlijk aroma, duidoornbes (1%), vitamine B6 (1%).",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1850453172205438,
+    "price sensitivity": -0.7872340425531915
+}

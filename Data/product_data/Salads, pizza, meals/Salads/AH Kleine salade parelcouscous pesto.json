@@ -1,0 +1,18 @@
+{
+    "id": 3530,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Kleine salade parelcouscous pesto",
+    "price": 3.19,
+    "unit": "200 gPrijs per KG \u20ac 15,95",
+    "weight": "200 Gram",
+    "calories": 154.0,
+    "ingredients": "Ingredi\u00ebnten: groente (13% courgette, 7,5% rode paprika, 7,5% gele paprika, 5% rode ui, 4% rucola), water, durumtarwegriesmeel, plantaardige olie (koolzaad, 2,2% olijf, zonnebloem), zongedroogde tomaat, kruiden (o.a. 2% basilicum),\u00a0melk, azijn, natuurlijk aroma, zout, 0,1% pijnboompit, knoflookpoeder, vegetarisch stremsel, zuursel, conserveermiddel (kaliumsorbaat [E202]), voedingszuur (citroenzuur [E330]), smeltzout (natriumfosfaat [E339]).\u00a0\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.52g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2258064516129032,
+    "price sensitivity": -0.6949152542372882
+}

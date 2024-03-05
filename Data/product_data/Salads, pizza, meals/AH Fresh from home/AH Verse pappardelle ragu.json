@@ -1,0 +1,18 @@
+{
+    "id": 3570,
+    "category": "Salads, pizza, meals",
+    "sub category": "AH Fresh from home",
+    "product": "AH Verse pappardelle ragu",
+    "price": 7.49,
+    "unit": "460 gNormale prijs per KG \u20ac 16,28",
+    "weight": "460 Gram",
+    "calories": 142.0,
+    "ingredients": "Ingredi\u00ebnten: stoofvlees ragu [37% stoofvlees [95% rundvlees, tarwezetmeel, zout, peper], 30% tomatenblokjes [tomaat, zuurteregelaar (E330)], 7,4% rode wijn, raapolie, bleekselderij, ui, wortel, knoflook, rode peper, zout, gedroogde rozemarijn, gedroogde tijm], gekookte pappardelle [water, papperdelle [tarwe, water, scharrelei], raapolie, zout], 4,4% gegrilde rode paprika [rode paprika, raapolie, zout], 4,4% gegrilde gele paprika [gele paprika, raapolie, zout], Grana Padano [rauwe melk, zout, stremsel, conserveermiddel (ei-lysozym [E1105])].",
+    "lifestyle": -0.5,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.9193548387096774,
+    "price sensitivity": 0.3975903614457832
+}

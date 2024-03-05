@@ -1,0 +1,18 @@
+{
+    "id": 1608,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "AH Sinas light",
+    "price": 0.79,
+    "unit": "1,5 lPrijs per LT \u20ac 0,53",
+    "weight": "1.5 Liter",
+    "calories": 4.0,
+    "ingredients": "Ingredi\u00ebnten: koolzuurhoudend water, 8% sinaasappelsap uit concentraat, voedingszuur (citroenzuur [E330], appelzuur\u00a0[E296]),\u00a0antioxidant (ascorbinezuur [E300]), zoetstof (aspartaam [E951], sacharine [E954]), wortelsapconcentraat, natuurlijk sinaasappelaroma met andere natuurlijke aroma's, kleurstof (caroteen [E160a]), stabilisator (guarpitmeel [E412]), conserveermiddel (kaliumsorbaat [E202]), zuurteregelaar (natriumcitraat\u00a0[E331]).\nWaarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0256797583081571,
+    "price sensitivity": -0.549367088607595
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1111,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "Jos Poell Pasteitjes traditioneel",
+    "price": 1.29,
+    "unit": "125 gPrijs per KG \u20ac 10,32",
+    "weight": "4 Stuks (piece). 125 Gram",
+    "calories": 365.0,
+    "ingredients": "Ingredi\u00ebnten: TARWEBLOEM, plantaardige oli\u00ebn en vetten (palm, raap), zout, erwteneiwit. Kan sporen bevatten van melk en ei",
+    "lifestyle": 0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06240713224368499,
+    "price sensitivity": -0.37790157845868144
+}

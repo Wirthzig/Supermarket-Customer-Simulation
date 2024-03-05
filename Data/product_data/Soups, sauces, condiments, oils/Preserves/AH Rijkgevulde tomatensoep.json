@@ -1,0 +1,18 @@
+{
+    "id": 1098,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "AH Rijkgevulde tomatensoep",
+    "price": 1.89,
+    "unit": "800 mlPrijs per LT \u20ac 2,36",
+    "weight": "800 Milliliter",
+    "calories": 49.0,
+    "ingredients": "Ingredi\u00ebnten: 48% tomatenpuree, groente (10% tomaat, 1,8% ui, 0,6% prei), water, 3,9% varkensvlees\u00aa, suiker, citroensap, durumtarwegriesmeel, 1,2% tomatensap, gemodificeerd ma\u00efszetmeel, 1% rundvlees\u00aa, natuurlijk aroma, zout, gehydrolyseerd plantaardig eiwit (ma\u00efs, raap, zonnebloem), raapolie,\u00a0scharrelei-eiwit, varkenscollageen, voedingszuur (citroenzuur [E330], melkzuur [E270]), kleurstof (paprika-extract [E160c], carotenen [E160a]), varkenseiwit, gistextract, specerijen.\u00a0\u1d43Beter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 2.3g per 100 milliliter en waarvan toegevoegd zout 0.49g per 100 milliliter",
+    "lifestyle": 0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10698365527488855,
+    "price sensitivity": -0.4670380687093778
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1020,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Spices",
+    "product": "Go-Tan Gehakte knoflook",
+    "price": 1.89,
+    "unit": "100 gPrijs per KG \u20ac 18,90",
+    "weight": "100 Gram",
+    "calories": 128.0,
+    "ingredients": "Ingredi\u00ebnten: 87 % knoflook, zonnebloemolie, suiker, zout, voedingszuren (melkzuur, citroenzuur), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), antioxidant (ascorbinezuur). Kan sporen van pinda en noten bevatten.",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10698365527488855,
+    "price sensitivity": -0.8848653667595172
+}

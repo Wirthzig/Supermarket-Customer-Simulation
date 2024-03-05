@@ -1,0 +1,18 @@
+{
+    "id": 1225,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Meal packs, mixes",
+    "product": "Knorr Wereldgerechten zuid-afrikaanse bobotie",
+    "price": 4.29,
+    "unit": "per stuk",
+    "weight": "309 Gram",
+    "calories": 101.0,
+    "ingredients": "Ingredi\u00ebnten: Ingredi\u00ebnten rijstmix: Rijst\u00b9 92%, rozijnen. Kan ei, glutenbevattende granen, melk, mosterd, selderij, soja bevatten.\u00a0Ingredi\u00ebnten sausmix: Zetmeel, zout, paneermeel (TARWEBLOEM, gist, zout), EIPOEDER, ui\u00b9 12,2%, kippoeder (kippenvlees, zout, antioxidant (rozemarijnextract)), kerrie 6,7% (bevat MOSTERDZAAD), gistextract, peper, laurierblad, kurkuma\u00b9, kippenvet (kippenvet, antioxidant (rozemarijnextract)), citroensappoeder (maltodextrine, citroensap). Kan andere glutenbevattende granen, melk, selderij, soja bevatten.\u00a0Ingredi\u00ebnten kruidenmix: Kippoeder (kippenvlees, zout, antioxidant (rozemarijnextract)), uipoeder\u00b9 14,3%, knoflook\u00b9 14,3%, suiker, gistextract, kerrie 7,1% (bevat MOSTERDZAAD), koriander, maltodextrine, kurkuma, laurierblad, kippenvet (kippenvet, antioxidant (rozemarijnextract)). Kan ei, glutenbevattende granen, melk, selderij, soja bevatten.\u00a0\u00b9op duurzame wijze geteeld.",
+    "lifestyle": 0.8,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6099290780141843,
+    "price sensitivity": -0.7777777777777778
+}

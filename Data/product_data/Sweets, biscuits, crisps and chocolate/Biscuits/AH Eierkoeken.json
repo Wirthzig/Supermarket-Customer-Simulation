@@ -1,0 +1,18 @@
+{
+    "id": 2139,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Eierkoeken",
+    "price": 1.25,
+    "unit": "360 gPrijs per KG \u20ac 3,47",
+    "weight": "360 Gram",
+    "calories": 316.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, suiker, 20% vrije-uitloopei, invertsuikerstroop, vollemelkpoeder, rijsmiddel (ammoniumcarbonaat [E503], kaliumcarbonaat [E501]), sojabloem, aroma, melkeiwit, emulgator (mono- en diglyceriden van vetzuren [E471]), moutmeel (gerst, tarwe).\nWaarvan toegevoegde suikers 27g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10169491525423727,
+    "price sensitivity": -0.875
+}

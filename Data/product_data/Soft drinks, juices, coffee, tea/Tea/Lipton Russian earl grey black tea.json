@@ -1,0 +1,18 @@
+{
+    "id": 1716,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "Lipton Russian earl grey black tea",
+    "price": 2.19,
+    "unit": "20 stuks",
+    "weight": "34 Gram",
+    "calories": 4.0,
+    "ingredients": "Ingredi\u00ebnten: Zwarte thee1, aroma. 1Theeblend volledig Rainforest Alliance\u2122 gecertificeerd.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13141993957703926,
+    "price sensitivity": -0.979746835443038
+}

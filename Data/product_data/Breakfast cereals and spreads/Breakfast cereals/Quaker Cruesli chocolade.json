@@ -1,0 +1,18 @@
+{
+    "id": 2433,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Quaker Cruesli chocolade",
+    "price": 3.99,
+    "unit": "450 gNormale prijs per KG \u20ac 8,87",
+    "weight": "450 Gram",
+    "calories": 455.0,
+    "ingredients": "Ingredi\u00ebnten: volkoren HAVERMOUT (37%), pure chocolade\u2662 (12%) [cacaomassa\u2662\u2662, suiker, natuurlijk vanille aroma, emulgatoren (SOJALECITHINE, polyglycerol polyricinoleaat)], zonnebloemolie, suiker, volkoren TARWE (9,6%), glucosestroop, oligofructose (chicoreiwortel-extract), rijstebloem (2,1%), TARWEBLOEM (1,9%), gedroogde kokosnoot, melasse, zout, kaneel, natuurlijk appel toffee aroma en andere natuurlijke aroma's, antioxidant (tocopherol). \u2662\u2662Rainforest Alliance gecertificeerd, ra.org. Kan melk, amandel-, pecannoot-, paranoot- en hazelnoot stukjes bevatten.",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6226415094339622,
+    "price sensitivity": 0.8387096774193548
+}

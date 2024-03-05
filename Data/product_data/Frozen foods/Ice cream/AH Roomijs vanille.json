@@ -1,0 +1,18 @@
+{
+    "id": 859,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "AH Roomijs vanille",
+    "price": 2.69,
+    "unit": "1 lPrijs per LT \u20ac 2,69",
+    "weight": "480 Gram",
+    "calories": 193.0,
+    "ingredients": "Ingredi\u00ebnten: magere\u00a0melk, 24% slagroom, suiker, water, glucose-fructosestroop,\u00a0vegetarisch wei-eiwitconcentraat, emulgator (mono- en diglyceriden van vetzuren [E471]), kleurend wortelconcentraat, stabilisator (johannesbroodpitmeel [E410], guarpitmeel [E412]), Bourbonvanille-extract, 0,04% gemalen vanillestokje.\nWaarvan toegevoegde suikers 17g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2698412698412698,
+    "price sensitivity": -0.19999999999999984
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2706,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "Almhof Roomyoghurt perzik maracuja",
+    "price": 2.25,
+    "unit": "500 gNormale prijs per KG \u20ac 4,50",
+    "weight": "500 Gram",
+    "calories": 141.0,
+    "ingredients": "Ingredienten:\nROOMYOGHURT, suiker, 5,1% perziken, 0,9% maracujasap uit concentraat, zetmeel, natuurlijk aroma. KAN SPOREN VAN NOTEN BEVATTEN.",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.27666666666666667,
+    "price sensitivity": -0.23867069486404835
+}

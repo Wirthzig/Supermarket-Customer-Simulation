@@ -1,0 +1,18 @@
+{
+    "id": 3519,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Rundvleessalade",
+    "price": 1.89,
+    "unit": "400 gPrijs per KG \u20ac 4,73",
+    "weight": "400 Gram",
+    "calories": 170.0,
+    "ingredients": "Ingredi\u00ebnten: aardappel, groente (wortel, ui, doperwt), 11% rundvlees, plantaardige olie (raap, zonnebloem), water, augurk, suiker, zout, vrije-uitloopeigeel, azijn, natuurlijk aroma, zetmeel (ma\u00efs, aardappel), conserveermiddel (kaliumsorbaat [E202], natriumbenzoaat [E211], natriumnitriet [E250], natriumdisulfiet [E223]), voedingszuur (melkzuur [E270]), gemodificeerd ma\u00efszetmeel, verdikkingsmiddel (xanthaangom [E415], guarpitmeel [E412]), gistextract, gedroogde glucosestroop, rundergelatine, specerijen (o.a. mosterd, selderij), limoensapconcentraat, kruiden, maltodextrine, extract (rundvlees, savooiekool, pastinaak, ui, wortel).\nWaarvan toegevoegde suikers 3.4g per 100 gram en waarvan toegevoegd zout 1.18g per 100 gram.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.016129032258064495,
+    "price sensitivity": -0.39830508474576287
+}

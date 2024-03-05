@@ -1,0 +1,18 @@
+{
+    "id": 1145,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Unox Kerrie good noodles",
+    "price": 0.79,
+    "unit": "70 gPrijs per KG \u20ac 11,29",
+    "weight": "70 Gram",
+    "calories": 92.0,
+    "ingredients": "Ingredi\u00ebnten: Deegwaar (noedels) 89% (TARWEBLOEM, palmvet, zout, gemodificeerd aardappelzetmeel, suiker, raapzaadolie, kurkuma-extract), suiker, smaakversterker (E621, E627, E631), specerijen 1,4% (kerrie 0,5% (korianderzaad, komijn, kurkuma, peper, anijszaad, kaneel, venkelzaad, gember, lavaswortel, cayennepeper, piment), knoflookpoeder\u00b9, kurkuma\u00b9, peper, gember, cayennepeper, korianderzaad), ma\u00efszetmeel, mineraalzout (kalium), palmvet, rode paprika\u00b9 0,7%, aroma, prei 0,4%, geroosterde uienpoeder\u00b9, peterselie\u00b9 0,1%, sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), voedingszuur E330, gejodeerd zout. Kan ei, melk, selderij, mosterd bevatten.\u00b9 op duurzame wijze geteeld.",
+    "lifestyle": -0.1,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.02526002971768202,
+    "price sensitivity": -0.8105849582172702
+}

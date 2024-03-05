@@ -1,0 +1,18 @@
+{
+    "id": 1516,
+    "category": "Wine and bubbles",
+    "sub category": "White wine",
+    "product": "Vila Nova Vinho verde",
+    "price": 5.99,
+    "unit": "0,75 lPrijs per LT \u20ac 7,99",
+    "weight": "0.75 Liter",
+    "calories": NaN,
+    "ingredients": "Contains sulfites",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5180722891566265,
+    "price sensitivity": -1.0
+}

@@ -1,0 +1,18 @@
+{
+    "id": 825,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Ola Liuk",
+    "price": 4.29,
+    "unit": "8 stuksPrijs per LT \u20ac 7,15",
+    "weight": "600 Milliliter",
+    "calories": 137.0,
+    "ingredients": "Ingredi\u00ebnten: Water, suiker, glucose-fructosestroop, citroensap op basis van geconcentreerd sap (8.5%), gerehydrateerde magere MELK, TARWEBLOEM, zoethoutextract, kokosolie, melasse, LACTOSE en MELKEIWITTEN, stabilisator (johannesbroodpitmeel), zuurteregelaar (citroenzuur), aroma.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.48148148148148145,
+    "price sensitivity": -0.32333333333333325
+}

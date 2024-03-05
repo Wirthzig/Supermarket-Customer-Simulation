@@ -1,0 +1,18 @@
+{
+    "id": 914,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "Killerbody Snackreep cookies & cream",
+    "price": 2.19,
+    "unit": "40 gPrijs per KG \u20ac 54,75",
+    "weight": "40 Gram",
+    "calories": 377.0,
+    "ingredients": "Ingredi\u00ebnten: melkchocolade met zoetstof (31%) (zoetstof maltitol; cacaoboter, volle MELKpoeder, cacaomassa, emulgator: SOJAlecithine; vanille-extract), MELKeiwit, sojakoekjes (10%) (SOJA-eiwit rijstmeel, GERSTEMOUT extract, zout), zoetstof maltitol, collageen hydrolysaat bevochtigingsmiddelen glycerol, sorbitol, gecondenseerde MELK, SOJA eiwit, kokosvet, cacaoboter, smaakstof (MELK), emulgator mono- en diglyceriden van vetzuren, zout, kleurstof gewone karamel. Kan sporen bevatten van noten, eieren en pinda's.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.043037974683544304,
+    "price sensitivity": -0.6466666666666667
+}

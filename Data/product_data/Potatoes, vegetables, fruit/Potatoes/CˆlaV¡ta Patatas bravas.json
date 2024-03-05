@@ -1,0 +1,18 @@
+{
+    "id": 3579,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Potatoes",
+    "product": "C\u00ealaV\u00edta Patatas bravas",
+    "price": 2.99,
+    "unit": "425 gPrijs per KG \u20ac 7,04",
+    "weight": "425 Gram",
+    "calories": 99.0,
+    "ingredients": "Ingredi\u00ebnten: Aardappelen (96%), zonnebloemolie, zout, maltodextrine, gedroogde groente (knoflookpoeder, uipoeder, paprika), kruiden en specerijen (0,3%), gistextract, aardappelzetmeel, dextrose",
+    "lifestyle": 0.1,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.47916666666666663,
+    "price sensitivity": -0.7084337349397591
+}

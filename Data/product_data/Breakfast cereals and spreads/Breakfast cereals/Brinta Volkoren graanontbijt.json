@@ -1,0 +1,18 @@
+{
+    "id": 2440,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Brinta Volkoren graanontbijt",
+    "price": 2.19,
+    "unit": "500 gPrijs per KG \u20ac 4,38",
+    "weight": "500 Gram",
+    "calories": 347.0,
+    "ingredients": "Ingredi\u00ebnten: Volkoren TARWEMEEL, zout",
+    "lifestyle": 0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.28301886792452824,
+    "price sensitivity": 0.8387096774193548
+}

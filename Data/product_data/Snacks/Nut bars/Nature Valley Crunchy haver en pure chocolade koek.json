@@ -1,0 +1,18 @@
+{
+    "id": 1975,
+    "category": "Snacks",
+    "sub category": "Nut bars",
+    "product": "Nature Valley Crunchy haver en pure chocolade koek",
+    "price": 2.99,
+    "unit": "5 stuks",
+    "weight": "10 Stuks (piece)",
+    "calories": 473.0,
+    "ingredients": "Ingredi\u00ebnten: Volkoren HAVERmout (56%), suiker,zonnebloemolie, stukjes pure chocolade(7%)(cacaomassa, suiker, emulgator (SOJALECITHINE),natuurlijk vanillearoma), magere cacaopoeder, honing,zout, melasse, emulgator (zonnebloemlecithine),rijsmiddel (natriumwaterstofcarbonaat), natuurlijk aroma. Voor allergenen: zie vetgedrukte ingredi\u00ebnten. Kan\u00a0TARWE, PINDA'S en\u00a0BOOMNOTEN bevatten.",
+    "lifestyle": 0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4871060171919771,
+    "price sensitivity": -0.34751773049645407
+}

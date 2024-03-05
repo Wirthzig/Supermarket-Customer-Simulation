@@ -1,0 +1,18 @@
+{
+    "id": 2600,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "Becel Vloeibare bakboter voor vlees en jus",
+    "price": 4.25,
+    "unit": "450 mlPrijs per LT \u20ac 9,44",
+    "weight": "450 Milliliter",
+    "calories": 803.0,
+    "ingredients": "Ingredi\u00ebnten: Plantaardige oli\u00ebn 97%* (zonnebloem (57%), koolzaad (31%), lijnzaad (7,6%), geheel geharde koolzaad (1,9%)), droge MELKBESTANDDELEN*, smaakversterkers (calciumglutamaat, dinatriumguanylaat, natriuminosinaat), emulgator* (SOJALECITHINE), kaliumfosfaat, kaliumchloride*, aroma's (bevatten MELK), magere MELKPOEDER*, vitamines A en D, *Vol met ingredi\u00ebnten van natuurlijke oorsprong.",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.61,
+    "price sensitivity": -0.7069486404833837
+}

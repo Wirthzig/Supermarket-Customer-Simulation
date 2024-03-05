@@ -1,0 +1,18 @@
+{
+    "id": 160,
+    "category": "Pets",
+    "sub category": "Dogs",
+    "product": "Rodi Vlees",
+    "price": 1.59,
+    "unit": "4 x 100 gPrijs per KG \u20ac 3,98",
+    "weight": "400 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: Rund (100%) (rundvlees (40%), rundermilt, runderlong, runderhart)",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.15876777251184837,
+    "price sensitivity": -0.5020979020979022
+}

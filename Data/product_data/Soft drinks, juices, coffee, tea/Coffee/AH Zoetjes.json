@@ -1,0 +1,18 @@
+{
+    "id": 1823,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Coffee",
+    "product": "AH Zoetjes",
+    "price": 0.99,
+    "unit": "1200 stuks",
+    "weight": "72 Gram",
+    "calories": 26.0,
+    "ingredients": "Ingredi\u00ebnten: zoetstoffen (cyclamaten [E952], sacharine [E954]), zuurteregelaar (natiumcarbonaat [E500]), voedingszuur (wijnsteenzuur [E334]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.04078549848942598,
+    "price sensitivity": -0.950354609929078
+}

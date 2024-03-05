@@ -1,0 +1,18 @@
+{
+    "id": 2221,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Easter treats",
+    "product": "Ravelli Paaslolly's",
+    "price": 0.99,
+    "unit": "20 gPrijs per KG \u20ac 49,50",
+    "weight": "20 Gram",
+    "calories": 548.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, cacaoboter*, volle MELKpoeder, cacaomassa*, weipoeder (MELK), emulgator (SOJA-lecithine), natuurlijk vanille-aroma, extract van paprika, kleurstof (E100, E160e), kleurend leversmiddel (spirulina blauw). *Rainforest Alliance Certified. ra.org. Bevat lactose, melkeiwit en soja. Gemaakt in een bedrijf waar ook noten en pinda's worden verwerkt.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.04661016949152541,
+    "price sensitivity": -0.16666666666666674
+}

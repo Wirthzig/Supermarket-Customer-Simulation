@@ -1,0 +1,18 @@
+{
+    "id": 2969,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Truffelsalami met Parmezaanse kaas",
+    "price": 3.25,
+    "unit": "60 gPrijs per KG \u20ac 54,17",
+    "weight": "60 Gram",
+    "calories": 416.0,
+    "ingredients": "Ingredi\u00ebnten: varkensvlees, gejodeerd zout, zwarte zomertruffel, melk, varkensgelatine, dextrose, natuurlijk aroma (mosterd), specerijen (o.a.\u00a0mosterd), conserveermiddel (natriumnitriet [E250], kaliumsorbaat [E202], natriumacetaten [E262]), antioxidant (natriumascorbaat [E301]), zuursel, verdikkingsmiddel (xanthaangom [E415]), emulgator (mono- en diglyceriden van vetzuren, veresterd met citroenzuur [E472c]), zout, stremsel.\nWaarvan toegevoegde suikers 1.0g per 100 gram en waarvan toegevoegd zout 3.54g per 100 gram\nVoor 100 g truffelsalami is 133 g varkensvlees gebruikt.",
+    "lifestyle": -0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.28184892897406993,
+    "price sensitivity": -0.7013372956909362
+}

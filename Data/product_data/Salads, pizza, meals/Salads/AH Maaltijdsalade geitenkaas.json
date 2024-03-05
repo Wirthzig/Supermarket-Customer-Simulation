@@ -1,0 +1,18 @@
+{
+    "id": 3548,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Maaltijdsalade geitenkaas",
+    "price": 5.69,
+    "unit": "450 gPrijs per KG \u20ac 12,64",
+    "weight": "450 Gram",
+    "calories": 156.0,
+    "ingredients": "Ingredi\u00ebnten: groente (12% komkommer, 9,8% spinazie, 3,7% veldsla), rode appel, water, geitenmelk, semi-gedroogde tomaat, volkoren durumtarwegriesmeel,\u00a0walnoot, plantaardige olie (raap, koolzaad, zonnebloem), 2,6% honing, citroenazijn, zout, citroensapconcentraat, kruiden (o.a. 0,03% tijm), kruidenazijn, extra vierge olijfolie, specerijen, verdikkingsmiddel (xanthaangom [E415]), conserveermiddel (kaliumsorbaat [E202]), zoetstof (steviolglycosiden [E960a]), zuursel, vegetarisch stremsel, antioxidant (calciumascorbaat [E302]).\nWaarvan toegevoegde suikers 2.1g per 100 gram en waarvan toegevoegd zout 0.31g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6290322580645161,
+    "price sensitivity": -0.27118644067796616
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1448,
+    "category": "Beer and aperitifs",
+    "sub category": "Beer",
+    "product": "Amstel Pilsener bier krat",
+    "price": 17.69,
+    "unit": "24 x 0,3 lPrijs per LT \u20ac 2,46",
+    "weight": "30 Centiliter",
+    "calories": 41.0,
+    "ingredients": "Ingredi\u00ebnten: water, GERSTEMOUT, hop, hopextract",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.730117340286832,
+    "price sensitivity": 0.282511210762332
+}

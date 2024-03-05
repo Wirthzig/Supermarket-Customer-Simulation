@@ -1,0 +1,18 @@
+{
+    "id": 1595,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Spa Touch lemon",
+    "price": 1.49,
+    "unit": "1 lNormale prijs per LT \u20ac 1,49",
+    "weight": "100 Centiliter",
+    "calories": 0.0,
+    "ingredients": "INGREDIENTEN: Koolzuurhoudend natuurlijk mineraalwater 99,9% (bron: Marie-Henriette), natuurlijke citroen en limoen aroma's.",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.07854984894259819,
+    "price sensitivity": -0.7354430379746835
+}

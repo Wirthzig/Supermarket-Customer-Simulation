@@ -1,0 +1,18 @@
+{
+    "id": 1188,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Unox Chinese tomatensoep",
+    "price": 3.45,
+    "unit": "570 mlPrijs per LT \u20ac 6,05",
+    "weight": "570 Milliliter",
+    "calories": 59.0,
+    "ingredients": "Ingredi\u00ebnten: groenten\u00b9 63% (tomaat 50%, ui 6,3%, wortel 3,2%, lente-ui 2,2%, waterkastanje 1,3%), water, suiker, zonnebloemolie, mie 1,6% (harde TARWEGRIES, gedroogd EI-EIWIT), ROOM, gemodificeerd ma\u00efszetmeel, azijn, gistextract, gejodeerd zout, sambal oelek (rode peper, water, zout, azijn, gemodificeerd zetmeel), zout, citroensapconcentraat, knoflookpuree, aroma. \u00b9op duurzame wijze geteeld. Zie www.unox.nl voor meer informatie over duurzaam verbouwde groenten.",
+    "lifestyle": 0.2,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.22288261515601782,
+    "price sensitivity": -0.8012999071494893
+}

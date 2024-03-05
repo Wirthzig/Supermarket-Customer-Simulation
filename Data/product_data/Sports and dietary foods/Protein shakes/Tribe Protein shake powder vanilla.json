@@ -1,0 +1,18 @@
+{
+    "id": 880,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein shakes",
+    "product": "Tribe Protein shake powder vanilla",
+    "price": 19.99,
+    "unit": "500 gPrijs per KG \u20ac 39,98",
+    "weight": "500 Gram",
+    "calories": 366.0,
+    "ingredients": "Ingredi\u00ebnten: Eiwitmengsel (67%) (erwteneiwit, rijstprote\u00efnen), kokossuiker, natuurlijk aroma, vanille (0.3%), kaneel (0.3%), zeezout. Kan alle noten, pindas, en soja bevatten.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4936708860759494,
+    "price sensitivity": -0.19999999999999984
+}

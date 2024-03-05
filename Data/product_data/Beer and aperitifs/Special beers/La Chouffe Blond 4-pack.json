@@ -1,0 +1,18 @@
+{
+    "id": 1423,
+    "category": "Beer and aperitifs",
+    "sub category": "Special beers",
+    "product": "La Chouffe Blond 4-pack",
+    "price": 8.49,
+    "unit": "4 x 0,33 lPrijs per LT \u20ac 6,43",
+    "weight": "33 Centiliter",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: Water, GERSTEMOUT, invertsuikerstroop, gist, koriander, hop.",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3302911777488049,
+    "price sensitivity": -0.8242152466367713
+}

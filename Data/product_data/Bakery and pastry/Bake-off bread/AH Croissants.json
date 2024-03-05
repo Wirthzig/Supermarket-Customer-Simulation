@@ -1,0 +1,18 @@
+{
+    "id": 2465,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Croissants",
+    "price": 1.9,
+    "unit": "4 stuks",
+    "weight": "180 Gram",
+    "calories": 435.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, plantaardige olie (palm, raap), water, glucose-fructosestroop, gist, suiker, gejodeerd zout, zout, emulgator (mono- en diglyceriden van vetzuren [E471], mono- en diglyceriden van vetzuren, veresterd met monoacetyl- en diacetylwijnsteenzuur [E472e]), zuurteregelaar (citroenzuur [E330]), palmvet, dextrose, natuurlijk aroma, antioxidant (ascorbinezuur [E300]).\nWaarvan toegevoegde suikers 5.6g per 100 gram en waarvan toegevoegd zout 1.33g per 100 gram",
+    "lifestyle": 0.8,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0846153846153846,
+    "price sensitivity": 0.14613180515759305
+}

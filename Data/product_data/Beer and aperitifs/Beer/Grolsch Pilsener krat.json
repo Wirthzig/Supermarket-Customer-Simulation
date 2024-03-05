@@ -1,0 +1,18 @@
+{
+    "id": 1454,
+    "category": "Beer and aperitifs",
+    "sub category": "Beer",
+    "product": "Grolsch Pilsener krat",
+    "price": 17.98,
+    "unit": "24 x 0,3 lPrijs per LT \u20ac 2,50",
+    "weight": "30 Centiliter",
+    "calories": 40.0,
+    "ingredients": "Ingredi\u00ebnten: water, GERSTEMOUT en hop.",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.7427205562798783,
+    "price sensitivity": -0.7757847533632287
+}

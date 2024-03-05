@@ -1,0 +1,18 @@
+{
+    "id": 1100,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "Mutti Doppio concentrato di pomodoro",
+    "price": 1.29,
+    "unit": "140 gPrijs per KG \u20ac 9,21",
+    "weight": "140 Gram",
+    "calories": 96.0,
+    "ingredients": "Ingredi\u00ebnten: tomaat 99,5%, zout",
+    "lifestyle": 0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06240713224368499,
+    "price sensitivity": -0.2813370473537605
+}

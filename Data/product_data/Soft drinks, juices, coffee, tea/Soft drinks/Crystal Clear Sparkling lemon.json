@@ -1,0 +1,18 @@
+{
+    "id": 1612,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "Crystal Clear Sparkling lemon",
+    "price": 1.89,
+    "unit": "1,5 lPrijs per LT \u20ac 1,26",
+    "weight": "1.5 Liter",
+    "calories": 1.0,
+    "ingredients": "Ingredi\u00ebnten: water, koolzuur, voedingszuur (citroenzuur), zuurteregelaar (natriumcitraat), natuurlijk aroma, zoetstoffen (sucralose, acesulfaam-K), citroensap uit concentraat (0,01%).",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10876132930513595,
+    "price sensitivity": 0.05063291139240533
+}

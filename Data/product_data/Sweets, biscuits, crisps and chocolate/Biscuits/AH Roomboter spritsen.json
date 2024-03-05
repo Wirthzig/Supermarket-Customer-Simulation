@@ -1,0 +1,18 @@
+{
+    "id": 2128,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Roomboter spritsen",
+    "price": 1.85,
+    "unit": "175 gNormale prijs per KG \u20ac 10,57",
+    "weight": "175 Gram",
+    "calories": 535.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 30% roomboter, suiker, tarwezetmeel, zout, kleurstof (caroteen [E160a]), scharreleipoeder, natuurlijk vanillearoma, tarwegluten, rijsmiddel (natriumcarbonaat [E500], difosfaat [E450]).\nWaarvan toegevoegde suikers 21g per 100 gram en waarvan toegevoegd zout 0.50g per 100 gram",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.22881355932203387,
+    "price sensitivity": -0.08333333333333337
+}

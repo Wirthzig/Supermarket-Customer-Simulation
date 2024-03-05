@@ -1,0 +1,18 @@
+{
+    "id": 1543,
+    "category": "Wine and bubbles",
+    "sub category": "White wine",
+    "product": "Undurraga Chardonnay",
+    "price": 3.79,
+    "unit": "0,375 lPrijs per LT \u20ac 10,11",
+    "weight": "0.375 Liter",
+    "calories": NaN,
+    "ingredients": "Contains sulfites",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.25301204819277107,
+    "price sensitivity": -1.0
+}

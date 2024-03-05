@@ -1,0 +1,18 @@
+{
+    "id": 2398,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Zonnatura Krokante muesli pure chocolade",
+    "price": 3.99,
+    "unit": "375 gPrijs per KG \u20ac 10,64",
+    "weight": "375 Gram",
+    "calories": 417.0,
+    "ingredients": "Ingredi\u00ebnten: Volkoren HAVERvlokken* [GLUTEN] 51%, ruwe rietsuiker*, pure chocolade* 10% (cacaomassa*, rietsuiker*, cacaoboter*), gepofte rijst* (rijstmeel*), HAVERbloem* 8%, HAVERzemelen* 5%, zonnebloemolie* (zonnebloemolie*, antioxidant: tocoferolrijk extract), stabilisator: acaciavezelpoeder*, kokosvlokken*, zeezout, *Ingredi\u00ebnt van biologische teelt.\n\nKan sporen bevatten van soja, melk, sesamzaad en noten.",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.6226415094339622,
+    "price sensitivity": -0.4193548387096775
+}

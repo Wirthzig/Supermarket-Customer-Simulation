@@ -1,0 +1,18 @@
+{
+    "id": 2314,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Crackers, rice cakes",
+    "product": "AH Luchtige cracker volkoren met rijstbloem",
+    "price": 0.99,
+    "unit": "250 gPrijs per KG \u20ac 3,96",
+    "weight": "250 Gram",
+    "calories": 352.0,
+    "ingredients": "Ingredi\u00ebnten: volkorenmeel (56% rogge, 37% tarwe), rijstebloem, suiker, tarwemoutmeel, zonnebloemolie, zout.\nWaarvan toegevoegde suikers 2.8g per 100 gram en waarvan toegevoegd zout 1.18g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05660377358490566,
+    "price sensitivity": -0.3548387096774194
+}

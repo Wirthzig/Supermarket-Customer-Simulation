@@ -1,0 +1,18 @@
+{
+    "id": 3186,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "Old Amsterdam Belegen 48+ plakken",
+    "price": 5.15,
+    "unit": "ca. 220 gPrijs per KG \u20ac 23,39",
+    "weight": "220 Gram",
+    "calories": 402.0,
+    "ingredients": "Ingredi\u00ebnten: MELK, zout, zuursel, stremsel, conserveermiddel (E251), kleurstof (caroteen).",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4960541149943631,
+    "price sensitivity": -0.8582278481012658
+}

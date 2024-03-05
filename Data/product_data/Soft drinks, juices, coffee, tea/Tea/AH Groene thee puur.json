@@ -1,0 +1,18 @@
+{
+    "id": 1675,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "AH Groene thee puur",
+    "price": 0.95,
+    "unit": "40 stuks",
+    "weight": "60 Gram",
+    "calories": 1.0,
+    "ingredients": "Ingredi\u00ebnten: groene thee\u00b0.\nWaarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0377643504531722,
+    "price sensitivity": -0.7974683544303798
+}

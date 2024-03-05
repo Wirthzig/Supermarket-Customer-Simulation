@@ -1,0 +1,18 @@
+{
+    "id": 1009,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Spices",
+    "product": "AH Knoflook gemalen poeder",
+    "price": 0.99,
+    "unit": "70 gPrijs per KG \u20ac 14,14",
+    "weight": "70 Gram",
+    "calories": 365.0,
+    "ingredients": "Ingredi\u00ebnten: knoflookpoeder.\nWaarvan toegevoegde suikers 0g per 100 gram en waarvan toegevoegd zout 0g per 100 gram.",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.04011887072808321,
+    "price sensitivity": -0.7641597028783658
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2400,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Quaker Cruesli 4 nuts",
+    "price": 5.99,
+    "unit": "800 gPrijs per KG \u20ac 7,49",
+    "weight": "800 Gram",
+    "calories": 462.0,
+    "ingredients": "Ingredi\u00ebnten: volkoren HAVERMOUT (32%), volkoren TARWE (18%), glucosesiroop, zonnebloemolie, suiker, geroosterde AMANDELEN (4,2%), HAZELNOTEN (4,0%), oligofructose, PECANNOTEN (1,5%), rijstebloem (1,4%), TARWEBLOEM (1,3%), PARANOTEN (1,0%), honing (0,5%), natuurlijk aroma, antioxidant (tocopherol). Totaalpercentage noten 10,7%. Kan melk bevatten.",
+    "lifestyle": 0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 1.0,
+    "price sensitivity": -0.16129032258064535
+}

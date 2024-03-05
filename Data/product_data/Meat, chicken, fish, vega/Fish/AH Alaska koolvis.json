@@ -1,0 +1,18 @@
+{
+    "id": 3205,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Alaska koolvis",
+    "price": 2.89,
+    "unit": "4 x 100 gPrijs per KG \u20ac 7,23",
+    "weight": "400 Gram",
+    "calories": 67.0,
+    "ingredients": "Ingredi\u00ebnten: koolvis.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 0.5,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10759493670886078,
+    "price sensitivity": -0.8936708860759494
+}

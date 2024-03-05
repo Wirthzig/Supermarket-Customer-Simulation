@@ -1,0 +1,18 @@
+{
+    "id": 2663,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "Lurpak Roomboter ongezouten",
+    "price": 3.49,
+    "unit": "200 gPrijs per KG \u20ac 17,45",
+    "weight": "200 Gram",
+    "calories": 747.0,
+    "ingredients": "Ingredi\u00ebnten: Room (MELK), zuursel (MELK)",
+    "lifestyle": -0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4833333333333334,
+    "price sensitivity": -0.6616314199395771
+}

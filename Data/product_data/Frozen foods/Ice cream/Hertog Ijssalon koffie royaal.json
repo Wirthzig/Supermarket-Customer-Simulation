@@ -1,0 +1,18 @@
+{
+    "id": 813,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Hertog Ijssalon koffie royaal",
+    "price": 1.89,
+    "unit": "200 mlPrijs per LT \u20ac 9,45",
+    "weight": "200 Milliliter. 111 Gram",
+    "calories": 210.0,
+    "ingredients": "Ingredi\u00ebnten: Gerehydrateerde magere MELK, gepasteuriseerde volle MELK, suiker, water, glucose-fructosestroop, BOTERCONCENTRAAT, dextrose, glucosestroop, kokosolie, magere MELKPOEDER, cacaomassa, koffiepoeder, stabilisatoren (guargom, carrageen, johannesbroodpitmeel, pectines), magere cacaopoeder, LACTOSE en MELKEIWITTEN, emulgatoren (mono- en diglyceriden van vetzuren, ammoniumfosfatiden, polyglycerol polyricinoleaat), cacaoboter, kleurstof (karamel), aroma's, zout. Kan tarwe, ei, soja, noten bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.16402116402116398,
+    "price sensitivity": -0.5666666666666667
+}

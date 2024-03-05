@@ -1,0 +1,18 @@
+{
+    "id": 1299,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Couscous, bulgur, quinoa, groats",
+    "product": "Lassie Bio quinoa mix",
+    "price": 3.39,
+    "unit": "275 gPrijs per KG \u20ac 12,33",
+    "weight": "275 Gram",
+    "calories": 376.0,
+    "ingredients": "Ingredi\u00ebnten: Biologische quinoa mix",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.450354609929078,
+    "price sensitivity": 0.015873015873015817
+}

@@ -1,0 +1,18 @@
+{
+    "id": 876,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Ben & Jerry's Chocolate fudge brownie",
+    "price": 7.49,
+    "unit": "465 mlPrijs per LT \u20ac 16,11",
+    "weight": "465 Milliliter",
+    "calories": 217.0,
+    "ingredients": "Ingredi\u00ebnten ROOM (25%), water, suiker, gecondenseerde magere MELK, cacaopoeder (4,5%), TARWEBLOEM, magere cacaopoeder, sojaolie, EIGEEL\u00b9, invertsuiker, EI, gedroogd EI-EIWIT, stabilisatoren (guargom, carrageen), zout, vanille-extract, gemoute GERSTEBLOEM, rijsmiddel (natriumbicarbonaat). >Suiker, cacao, vanille onder Fairtrade voorwaarden ingekocht volgens het mass balance principe, totaal 28%F. \u00b9Van vrije uitloopeieren. Past in een vegetarisch dieet. FVisit info.fairtrade.net/sourcing",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.9047619047619047,
+    "price sensitivity": -0.7666666666666666
+}

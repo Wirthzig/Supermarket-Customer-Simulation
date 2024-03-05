@@ -1,0 +1,18 @@
+{
+    "id": 3061,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Filet americain naturel",
+    "price": 1.79,
+    "unit": "150 gPrijs per KG \u20ac 11,93",
+    "weight": "150 Gram",
+    "calories": 264.0,
+    "ingredients": "Ingredi\u00ebnten: 65% rundvlees, raapolie, water, vrije-uitloopeigeel, zout, specerijen (o.a.\u00a0mosterd), suiker, gemodificeerd ma\u00efszetmeel, azijn, paprikaconcentraat, tomatenpoeder, gistextract, voedingszuur (melkzuur [E270], citroenzuur [E330]), conserveermiddel (kaliumsorbaat [E202]), antioxidant (ascorbinezuur [E300]), natuurlijk aroma.\nWaarvan toegevoegde suikers 0.9g per 100 gram en waarvan toegevoegd zout 1.72g per 100 gram",
+    "lifestyle": 0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11724915445321309,
+    "price sensitivity": -0.9777117384843982
+}

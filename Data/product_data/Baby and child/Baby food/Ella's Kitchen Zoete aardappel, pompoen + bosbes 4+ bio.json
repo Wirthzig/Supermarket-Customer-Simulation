@@ -1,0 +1,18 @@
+{
+    "id": 452,
+    "category": "Baby and child",
+    "sub category": "Baby food",
+    "product": "Ella's Kitchen Zoete aardappel, pompoen + bosbes 4+ bio",
+    "price": 1.99,
+    "unit": "120 gPrijs per KG \u20ac 16,58",
+    "weight": "120 Gram",
+    "calories": 52.0,
+    "ingredients": "Ingredi\u00ebnten: 52% appels*, 23% zoete aardappelen*, 20% pompoen*, 5% bosbessen*, <1% geconcentreerd citroensap*. * = biologisch",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.03846153846153847,
+    "price sensitivity": -0.7886792452830189
+}

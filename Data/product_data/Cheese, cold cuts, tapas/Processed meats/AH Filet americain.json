@@ -1,0 +1,18 @@
+{
+    "id": 3047,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Filet americain",
+    "price": 2.89,
+    "unit": "150 gPrijs per KG \u20ac 19,27",
+    "weight": "150 Gram",
+    "calories": 250.0,
+    "ingredients": "Ingredi\u00ebnten: 65% rundvlees, plantaardige olie (zonnebloem, raap), water, azijn, tomatenpuree, zout, suiker, specerijen (o.a.\u00a0mosterd), voedingszuur (natriumlactaat [E325], citroenzuur [E330]), scharreleigeel, natuurlijk aroma (selderij), emulgator (mono- en diglyceriden van vetzuren, veresterd met citroenzuur [E472c]), dextrose, aroma (soja, selderij), maltodextrine, glucosestroop, kruiden, gehydrolyseerd plantaardig eiwit (soja, ma\u00efs), gistextract, paprikaconcentraat, antioxidant (extracten van rozemarijn [E392]), conserveermiddel (kaliumsorbaat [E202]).\nWaarvan toegevoegde suikers 1.5g per 100 gram en waarvan toegevoegd zout 1.20g per 100 gram",
+    "lifestyle": -0.1,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24126268320180386,
+    "price sensitivity": -0.9643387815750372
+}

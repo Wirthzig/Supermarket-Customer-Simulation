@@ -1,0 +1,18 @@
+{
+    "id": 844,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "AH Schepijs bourbon vanille",
+    "price": 2.79,
+    "unit": "2 lPrijs per LT \u20ac 1,40",
+    "weight": "1 Kilogram",
+    "calories": 219.0,
+    "ingredients": "Ingredi\u00ebnten: magere\u00a0melk,\u00a0vegetarisch wei-eiwitconcentraat, glucose-fructosestroop, kokosvet, suiker, slagroom, water, emulgator (mono- en diglyceriden van vetzuren [E471]), Bourbonvanille-extract, stabilisator (johannesbroodpitmeel [E410], guarpitmeel [E412]), 0,1% gemalen vanillestokjes, kleurstof (caroteen [E160a]).\nWaarvan toegevoegde suikers 16g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2830687830687831,
+    "price sensitivity": -0.7666666666666666
+}

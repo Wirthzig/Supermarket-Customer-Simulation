@@ -1,0 +1,18 @@
+{
+    "id": 3573,
+    "category": "Salads, pizza, meals",
+    "sub category": "AH Fresh from home",
+    "product": "AH Verse vega gado gado",
+    "price": 6.99,
+    "unit": "440 gNormale prijs per KG \u20ac 15,89",
+    "weight": "440 Gram",
+    "calories": 75.0,
+    "ingredients": "Ingredi\u00ebnten: kokosrijst [40% kokosmelk [kokosextract, water, stabilisator (E415, E412)], 25% bloemkoolrijst, 18% wilde rijst, water, limoenschil, zout], sat\u00e9dressing [water, 28% pinda, ketjap [sojasaus [water, sojaboon, tarwe, zout, azijn, alcohol, suiker], suiker, specerijen], gembersiroop [suiker, water, gemberaroma, conserveermiddel (E211)], limoensap, citroengraspuree [50% citroengras, water, zonnebloemolie, zout, stabilisator (E412, E415), zuurteregelaar (E514), antioxidant (E300), conserveermiddel (E202)], sambal [rode peper, zout, zuurteregelaar (E260), conserveermiddel (E211)], korianderzaad, knoflook, komijnzaad, zout], taug\u00e9, sperzieboon, atjar [witte kool, wortel, zoetzuur [water, azijn, suiker, zout], kurkuma], zoetzure rode kool [rode kool, zoetzuur [water, azijn, suiker, zout]], scharrelei [scharrelei, zout, voedingszuur (E330, E331), conserveermiddel (E260)], jonge bladsla, komkommer, seroendeng [45% pinda, 41% kokos, gele basterdsuiker, paprikapoeder, kruiden en specerijen, zout, knoflookpoeder].",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.8387096774193549,
+    "price sensitivity": -0.20481927710843373
+}

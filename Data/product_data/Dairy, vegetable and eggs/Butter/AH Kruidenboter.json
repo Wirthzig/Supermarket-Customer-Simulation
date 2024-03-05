@@ -1,0 +1,18 @@
+{
+    "id": 2642,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "AH Kruidenboter",
+    "price": 1.29,
+    "unit": "100 gPrijs per KG \u20ac 12,90",
+    "weight": "100 Gram",
+    "calories": 662.0,
+    "ingredients": "Ingredi\u00ebnten: 86%\u00a0roomboter, water, kruiden (bieslook, peterselie, dille,\u00a0selderij, basilicum, kervel), raapolie, specerijen, zout, peperextract, conserveermiddel (kaliumsorbaat [E202]), gistextract, verdikkingsmiddel (guarpitmeel [E412]), natuurlijk citroenaroma.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.88g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11666666666666668,
+    "price sensitivity": -0.7673716012084593
+}

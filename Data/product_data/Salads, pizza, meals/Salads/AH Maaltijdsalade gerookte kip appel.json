@@ -1,0 +1,18 @@
+{
+    "id": 3521,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Maaltijdsalade gerookte kip appel",
+    "price": 5.79,
+    "unit": "450 gPrijs per KG \u20ac 12,87",
+    "weight": "450 Gram",
+    "calories": 123.0,
+    "ingredients": "Ingredi\u00ebnten: groente (6,7% komkommer, 6,7% fris\u00e9esla, 4,4% lollo rosso, 2,9% lollo bionda, 2,7% radicchio, 2,2% witte kool), water, 14% kipfilet, appel, durumtarwegriesmeel, plantaardige olie (raap, zonnebloem),\u00a0tarwebloem, wittewijnazijn, suiker, 0,6% honing, specerijen (o.a. 0,3%\u00a0mosterd), azijn, zeezout, extract (ui, rozemarijn), zout, gemodificeerd ma\u00efszetmeel, dextrose, verdikkingsmiddel (xanthaangom [E415]), rook, conserveermiddel (natriumnitriet [E250]), gist, sherryazijn.\nWaarvan toegevoegde suikers 1.0g per 100 gram en waarvan toegevoegd zout 0.60g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6451612903225806,
+    "price sensitivity": 0.19491525423728784
+}

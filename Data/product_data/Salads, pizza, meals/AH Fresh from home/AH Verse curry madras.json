@@ -1,0 +1,18 @@
+{
+    "id": 3569,
+    "category": "Salads, pizza, meals",
+    "sub category": "AH Fresh from home",
+    "product": "AH Verse curry madras",
+    "price": 7.49,
+    "unit": "463 gNormale prijs per KG \u20ac 16,18",
+    "weight": "463 Gram",
+    "calories": 143.0,
+    "ingredients": "Ingredi\u00ebnten: madras saus [29% tomatenblokjes [tomaat, zuurteregelaar (E330)], 22% kokosmelk [kokosextract, water, stabilisator (E415, E412)], ui, raapolie, water, rode paprika, tomatenpuree [tomaat, zout], gember, 1,7% koriander, vadouvan [o.a. mosterd], knoflook, zout, 0,7% rode peper, korianderzaad, komijnzaad, gerookte paprikapoeder], biryani [75% gekookte witte rijst, parelpinda [pinda, palmolie], abrikoos stukjes [abrikoos, rijstebloem, conserveermiddel (E220\u00a0(sulfiet))], rode paprika, bosui, raapolie, zout, kurkuma], 11% broccoli, 11% gegrilde bloemkool [bloemkool, raapolie, zout], paarse spitskool [paarse spitskool, extra vierge olijfolie, zout], amandel, 0,7% koriander.",
+    "lifestyle": 0.9,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.9193548387096774,
+    "price sensitivity": -0.8795180722891567
+}

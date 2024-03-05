@@ -1,0 +1,18 @@
+{
+    "id": 3110,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "Babybel Mini",
+    "price": 5.99,
+    "unit": "280 gPrijs per KG \u20ac 21,39",
+    "weight": "280 Gram",
+    "calories": 295.0,
+    "ingredients": "Ingredi\u00ebnten: Gepasteuriseerde MELK (98%), zout, zuursel (bevat MELK), vegetarisch stremsel",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5907553551296506,
+    "price sensitivity": -0.8008915304606241
+}

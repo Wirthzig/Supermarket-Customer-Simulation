@@ -1,0 +1,18 @@
+{
+    "id": 2513,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Red velvet aardbei taart",
+    "price": 5.75,
+    "unit": "per stuk",
+    "weight": "1 Aantal",
+    "calories": 273.0,
+    "ingredients": "Ingredi\u00ebnten: suiker,\u00a0scharrelei, magere\u00a0yoghurt, water,\u00a0tarwebloem, plantaardige olie (kokos, raap, zonnebloem, palm), 2,7% aardbei, mageremelkpoeder, palmvet, cacaoboter\u00b0, 1,9% aardbeienpuree, glucosestroop,\u00a0tarwezetmeel, vollemelkpoeder, emulgator (mono- en diglyceriden van vetzuren, veresterd met melkzuur [E472b], esters van propaan-1,2-diol met vetzuren [E477],\u00a0sojalecithine\u00a0[E322], mono- en diglyceriden van vetzuren [E471]), rundergelatine, rijsmiddel (difosfaat [E450], natriumcarbonaat [E500]), dextrose, rodebietensapconcentraat, magerecacaopoeder\u00b0,\u00a0yoghurtpoeder, glucose-fructosestroop, kleurstof (ijzeroxide en -hydroxide [E172], bietenrood [E162]), geleermiddel (natriumalginaat [E401]), natuurlijk vanillearoma, zuurteregelaar (citroenzuur [E330], natriumcitraat [E331]), vanillearoma, verdikkingsmiddel (pectine [E440], xanthaangom [E415]), natuurlijke aroma's,\u00a0lactose, gemodificeerd ma\u00efszetmeel,\u00a0\u00a0stabilisator (natriumfosfaat [E339]),\u00a0antioxidant (ascorbinezuur [E300]).\nWaarvan toegevoegde suikers 24g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.35384615384615387,
+    "price sensitivity": -0.9426934097421205
+}

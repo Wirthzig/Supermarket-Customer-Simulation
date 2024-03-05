@@ -1,0 +1,18 @@
+{
+    "id": 3031,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Flinterdunne gegrilde beenham",
+    "price": 2.99,
+    "unit": "ca. 100 gPrijs per KG \u20ac 29,90",
+    "weight": "100 Gram",
+    "calories": 106.0,
+    "ingredients": "Ingredi\u00ebnten: 90% varkensvlees, water, voedingszuur (natriumacetaat [E262], kaliumlactaat [E326], natriumcitraat [E331]),\u00a0zout, suiker, antioxidant (natriumascorbaat [E301]), stabilisator (difosfaat [E450]), gistextract, dextrose, glucosestroop, conserveermiddel (natriumnitriet [E250]), zuurteregelaar (natriumcarbonaat [E500]).\nWaarvan toegevoegde suikers 0.9g per 100 gram en waarvan toegevoegd zout 1.80g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2525366403607667,
+    "price sensitivity": -0.9197622585438335
+}

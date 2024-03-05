@@ -1,0 +1,18 @@
+{
+    "id": 3550,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Salade erbij tomaat komkommer",
+    "price": 3.69,
+    "unit": "340 gPrijs per KG \u20ac 10,85",
+    "weight": "340 Gram",
+    "calories": 68.0,
+    "ingredients": "Ingredi\u00ebnten: groente (23% krulsla, 18% komkommer, 18% tomaat, 15% spitskool), 12% scharrelei, water, raapolie, azijn, suiker, 0,5% honing, specerijen (o.a. 0,4%\u00a0mosterd), zout, gemodificeerd aardappelzetmeel, vegetarisch\u00a0weipoeder, verdikkingsmiddel (xanthaangom [E415]), voedingszuur (citroenzuur [E330], natriumcitraat [E331]), gedroogde rozemarijn, conserveermiddel (azijnzuur [E260]), antioxidant (kaliumdisulfiet [E224]).\n\nWaarvan toegevoegde suikers 1.9g per 100 gram en waarvan toegevoegd zout 0.36g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.30645161290322576,
+    "price sensitivity": -0.6101694915254239
+}

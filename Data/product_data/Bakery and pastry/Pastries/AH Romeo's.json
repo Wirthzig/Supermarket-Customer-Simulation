@@ -1,0 +1,18 @@
+{
+    "id": 2550,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Romeo's",
+    "price": 2.46,
+    "unit": "8 stuks",
+    "weight": "175 Gram",
+    "calories": 455.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, tarwebloem, 19% roomboter, 12% amandelschaafsel, vrije-uitloopei-eiwit, glucosestroop, invertsuikerstroop, water, zout, kleurstof (caroteen [E160a]),\nBourbonvanille.\nWaarvan toegevoegde suikers 33g per 100 gram en waarvan toegevoegd zout 0.3g per 100 gram.",
+    "lifestyle": 0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12377622377622377,
+    "price sensitivity": -0.335243553008596
+}

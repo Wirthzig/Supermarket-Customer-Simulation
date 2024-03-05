@@ -1,0 +1,18 @@
+{
+    "id": 2458,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Witte pita's",
+    "price": 0.85,
+    "unit": "5 stuks",
+    "weight": "400 Gram",
+    "calories": 245.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, bakkersgist, zout, dextrose.\nWaarvan toegevoegde suikers 1.0g per 100 gram en waarvan toegevoegd zout 1.00g per 100 gram",
+    "lifestyle": -0.2,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.01118881118881119,
+    "price sensitivity": -0.2550143266475646
+}

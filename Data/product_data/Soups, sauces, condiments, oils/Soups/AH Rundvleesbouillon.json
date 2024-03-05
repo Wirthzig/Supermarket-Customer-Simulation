@@ -1,0 +1,18 @@
+{
+    "id": 1149,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "AH Rundvleesbouillon",
+    "price": 0.6,
+    "unit": "120 gPrijs per KG \u20ac 5,00",
+    "weight": "120 Gram",
+    "calories": 5.0,
+    "ingredients": "Ingredi\u00ebnten: zout, zetmeel (ma\u00efs, rijst), maltodextrine, palmvet, smaakversterker (mononatriumglutamaat [E621]), suiker, gedroogde groente (geroosterde ui, knolselderij, tomaat, wortel), 2,4% rundvleesextract, aroma, 1,1% rundervet, kleurstof (sulfiet-ammoniakkaramel [E150d]), specerijen, peterselie.\nWaarvan toegevoegde suikers 0.1g per 100 milliliter en waarvan toegevoegd zout 0.85g per 100 milliliter",
+    "lifestyle": 0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.011144130757800888,
+    "price sensitivity": -0.8105849582172702
+}

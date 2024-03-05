@@ -1,0 +1,18 @@
+{
+    "id": 3054,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Cervelaat",
+    "price": 1.79,
+    "unit": "150 gPrijs per KG \u20ac 11,93",
+    "weight": "150 Gram",
+    "calories": 415.0,
+    "ingredients": "Ingredi\u00ebnten: varkensvlees\u1d43, zout, kleurend rodebietensapconcentraat, varkenscollageen, kaliumchloride (dieetzout), rundercollageen, varkensvet\u1d43, dextrose, specerijen, natuurlijke aroma's, antioxidant (natriumascorbaat [E301]), varkenseiwit, conserveermiddel (natriumnitriet [E250], natamycine [E235]), rook.\u1d43Beter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.2g per 100 gram en waarvan toegevoegd zout 2.78g per 100 gram\nVoor 100 g cervelaat is 110 g varkensvlees gebruikt.",
+    "lifestyle": -0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11724915445321309,
+    "price sensitivity": -0.8662704309063893
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2568,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Diepvries roomboter appelflappen",
+    "price": 2.99,
+    "unit": "4 stuks",
+    "weight": "500 Gram",
+    "calories": 319.0,
+    "ingredients": "Ingredi\u00ebnten: 28% appel, tarwebloem, 21% roomboter, suiker, water, 0,9% rozijn, 0,9% krent, gemodificeerd ma\u00efszetmeel, gejodeerd zout, kaneel, kleurstof (caroteen [E160a], ammoniakkaramel [E150c]), antioxidant (ascorbinezuur [E300]), plantaardige olie (zonnebloem, raap), aroma, zout, mageremelkpoeder, scharreleigeelpoeder, zuurteregelaar (citroenzuur [E330]), verdikkingsmiddel (xanthaangom [E415]).\nWaarvan toegevoegde suikers 12g per 100 gram en waarvan toegevoegd zout 0.49g per 100 gram",
+    "lifestyle": -0.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.16083916083916086,
+    "price sensitivity": -0.9486404833836858
+}

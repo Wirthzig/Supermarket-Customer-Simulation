@@ -1,0 +1,18 @@
+{
+    "id": 976,
+    "category": "Sports and dietary foods",
+    "sub category": "Sports drinks",
+    "product": "AA Drink Hydration zero",
+    "price": 16.32,
+    "unit": "12 x 0,5 lPrijs per LT \u20ac 2,72",
+    "weight": "500 Milliliter",
+    "calories": 1.0,
+    "ingredients": "Ingredi\u00ebnten: Water, voedingszuur: citroenzuur, stabilisators: dextrine en E445,  zuurteregelaar: magnesium-lactaat,  aroma,  conserveermiddel: kaliumsor-baat,  antioxidant: ascorbinezuur, zoetstoffen: acesulfaam-K en sucralose, kleurstof: beta-caroteen, zout, vitamines: B3, B5 en B6",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4007594936708861,
+    "price sensitivity": -0.6333333333333333
+}

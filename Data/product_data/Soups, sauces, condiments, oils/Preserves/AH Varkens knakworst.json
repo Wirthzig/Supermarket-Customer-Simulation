@@ -1,0 +1,18 @@
+{
+    "id": 1126,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "AH Varkens knakworst",
+    "price": 1.49,
+    "unit": "10 stuksPrijs per KG \u20ac 7,45",
+    "weight": "400 Gram",
+    "calories": 169.0,
+    "ingredients": "Ingredi\u00ebnten: 67% varkensvlees\u00aa, water, 13% varkensseparatorvlees\u00aa, zout, aardappelzetmeel, rookaroma, dextrose, rundercollageenvezel, stabilisator (trifosfaat [E451]), specerijen, antioxidant (natriumerythorbaat [E316]), rozemarijn, specerijenextract, conserveermiddel (natriumnitriet [E250]).\u00a0\u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.5g per 100 gram en waarvan toegevoegd zout 1.50g per 100 gram",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.07726597325408618,
+    "price sensitivity": 0.16434540389972163
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2516,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Puddingkruimelvlaai half",
+    "price": 4.25,
+    "unit": "per stuk",
+    "weight": "1 Aantal",
+    "calories": 310.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, suiker, palmvet, vollemelkpoeder, bakkersgist, plantaardige olie (raap, palm, zonnebloem), gemodificeerd aardappelzetmeel, basterdsuiker, melkeiwit, mageremelkpoeder, tarwezetmeel, conserveermiddel (calciumacetaat [E263]), gejodeerd zout, geleermiddel (natriumfosfaat [E339], calciumsulfaat [E516], difosfaat [E450]), glucosestroop, rijsmiddel (natriumcarbonaat [E500]), emulgator (mono- en diglyceriden van vetzuren [E471]), natuurlijke aroma's (melk), dextrose, verdikkingsmiddel (natriumalginaat [E401]), citroensapconcentraat, zout, kleurstof (annatto norbixine [E160b(ii)]), Bourbonvanille.\nWaarvan toegevoegde suikers 19g per 100 gram en waarvan toegevoegd zout 0.23g per 100 gram",
+    "lifestyle": -0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24895104895104894,
+    "price sensitivity": 1.0
+}

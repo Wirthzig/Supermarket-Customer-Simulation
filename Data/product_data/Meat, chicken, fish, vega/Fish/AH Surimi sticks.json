@@ -1,0 +1,18 @@
+{
+    "id": 3216,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Surimi sticks",
+    "price": 1.19,
+    "unit": "250 gPrijs per KG \u20ac 4,76",
+    "weight": "250 Gram",
+    "calories": 122.0,
+    "ingredients": "Ingredi\u00ebnten: water, 32% witvis, zetmeel (tarwe, aardappel), gerehydrateerd vrije-uitloopei-eiwit, koolzaadolie, suiker, aroma (schaaldieren), zout, stabilisator (sorbitol [E420], polyfosfaten [E452], trifosfaten [E451], difosfaten [E450]), vrije-uitloopei, kleurstof (lycopeen [E160d]).\nWaarvan toegevoegde suikers 2.6g per 100 gram en waarvan toegevoegd zout 1.60g per 100 gram",
+    "lifestyle": -0.7,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0,
+    "price sensitivity": -0.8906329113924051
+}

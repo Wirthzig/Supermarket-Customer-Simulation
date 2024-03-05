@@ -1,0 +1,18 @@
+{
+    "id": 2397,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "AH Cornflakes",
+    "price": 1.69,
+    "unit": "500 gPrijs per KG \u20ac 3,38",
+    "weight": "500 Gram",
+    "calories": 377.0,
+    "ingredients": "Ingredi\u00ebnten: 95% ma\u00efsgrut, suiker, zout, gerstemoutextract.\nWaarvan toegevoegde suikers 3.2g per 100 gram en waarvan toegevoegd zout 0.95g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.18867924528301885,
+    "price sensitivity": -0.935483870967742
+}

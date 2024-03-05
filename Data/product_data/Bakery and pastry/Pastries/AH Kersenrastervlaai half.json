@@ -1,0 +1,18 @@
+{
+    "id": 2521,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Kersenrastervlaai half",
+    "price": 4.25,
+    "unit": "per stuk",
+    "weight": "1 Aantal",
+    "calories": 198.0,
+    "ingredients": "Ingredi\u00ebnten: water, 24% kers, tarwebloem, suiker, palmvet, gemodificeerd ma\u00efszetmeel, bakkersgist, plantaardige olie (raap, palm), glucosestroop, vollemelkpoeder, gejodeerd zout, conserveermiddel (kaliumsorbaat [E202]), kaneel, emulgator (mono- en diglyceriden van vetzuren [E471]), geleermiddel (carrageen [E407], pectine [E440]), citroensapconcentraat, natuurlijke aroma's (melk), voedingszuur (citroenzuur [E330]), verdikkingsmiddel (johannesbroodpitmeel [E410]).\nWaarvan toegevoegde suikers 15g per 100 gram en waarvan toegevoegd zout 0.26g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24895104895104894,
+    "price sensitivity": -0.025787965616045794
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2620,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "Becel Original margarine",
+    "price": 3.9,
+    "unit": "500 gPrijs per KG \u20ac 7,80",
+    "weight": "500 Gram",
+    "calories": 404.0,
+    "ingredients": "Ingredi\u00ebnten: Water, plantaardige oli\u00ebn (zonnebloem 26%, lijnzaad 11%, palm 6%, koolzaad 2%), emulgatoren (mono- en diglyceriden van vetzuren, lecithine), natuurlijk aroma, vitamine (A, B1, B2, B6, B12, D, foliumzuur)",
+    "lifestyle": 0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5516666666666666,
+    "price sensitivity": -0.8580060422960725
+}

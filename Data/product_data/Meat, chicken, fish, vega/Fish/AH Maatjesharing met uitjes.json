@@ -1,0 +1,18 @@
+{
+    "id": 3235,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Maatjesharing met uitjes",
+    "price": 2.9,
+    "unit": "2 stuks",
+    "weight": "150 Gram",
+    "calories": 149.0,
+    "ingredients": "Ingredi\u00ebnten: haring, 11% ui, gejodeerd zout.",
+    "lifestyle": -0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10822784810126583,
+    "price sensitivity": -0.8582278481012658
+}

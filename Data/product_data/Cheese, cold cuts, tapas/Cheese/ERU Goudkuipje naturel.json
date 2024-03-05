@@ -1,0 +1,18 @@
+{
+    "id": 3153,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "ERU Goudkuipje naturel",
+    "price": 2.55,
+    "unit": "200 gPrijs per KG \u20ac 12,75",
+    "weight": "200 Gram",
+    "calories": 243.0,
+    "ingredients": "Ingredi\u00ebnten: kaas (MELK) water, boter\n\n(MELK), MELKeiwitten, weipoeder (MELK),\n\nsmeltzouten (E452, E339, E451), zout",
+    "lifestyle": 0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.20293122886133033,
+    "price sensitivity": -0.8734177215189873
+}

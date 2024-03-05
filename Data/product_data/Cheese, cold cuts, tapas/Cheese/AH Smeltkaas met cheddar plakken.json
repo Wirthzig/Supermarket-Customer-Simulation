@@ -1,0 +1,18 @@
+{
+    "id": 3135,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "AH Smeltkaas met cheddar plakken",
+    "price": 1.69,
+    "unit": "200 gPrijs per KG \u20ac 8,45",
+    "weight": "200 Gram",
+    "calories": 276.0,
+    "ingredients": "Ingredi\u00ebnten: melk, magere melk, roomboter, mageremelkpoeder, smeltzout (polyfosfaat [E452], natriumfosfaat [E339]), zout, voedingszuur (citroenzuur [E330]), kleurstof (paprika-extract [E160c]), stremsel, zuursel.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 2.04g per 100 gram",
+    "lifestyle": -0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10597519729425028,
+    "price sensitivity": -0.48885586924219915
+}

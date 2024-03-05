@@ -1,0 +1,18 @@
+{
+    "id": 2588,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Spelt eierkoeken",
+    "price": 2.19,
+    "unit": "4 stuks",
+    "weight": "4 Aantal",
+    "calories": 295.0,
+    "ingredients": "Ingredi\u00ebnten: 31%\u00a0speltbloem (tarwe), suiker, 13%\u00a0vrije-uitloopei, water, 8,2%\u00a0speltschroot (tarwe), rijsmiddel (difosfaat [E450], ammoniumcarbonaat [E503]), ma\u00efszetmeel, dextrose,\u00a0sojabloem, glucosestroop, zout,\u00a0melkeiwit, gekaramelliseerde suiker, nootmuskaat, natuurlijk vanillearoma.\nWaarvan toegevoegde suikers 33g per 100 gram en waarvan toegevoegd zout 0.19g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1048951048951049,
+    "price sensitivity": -0.6918429003021148
+}

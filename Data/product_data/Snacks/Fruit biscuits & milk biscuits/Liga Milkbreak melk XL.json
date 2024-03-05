@@ -1,0 +1,18 @@
+{
+    "id": 2023,
+    "category": "Snacks",
+    "sub category": "Fruit biscuits & milk biscuits",
+    "product": "Liga Milkbreak melk XL",
+    "price": 3.75,
+    "unit": "367.5 gPrijs per KG \u20ac 10,20",
+    "weight": "367.5 Gram",
+    "calories": 447.0,
+    "ingredients": "Ingredi\u00ebnten:\u00a0TARWEBLOEM 47 %, suiker, glucosestroop, koolzaadolie, TARWEZETMEEL,\u00a0lactose (van MELK)\u00a0en\u00a0MELKeiwitTEN 6 %, magere\u00a0MELKPOEDER 5 %, geheel geharde palmpitolie, volle\u00a0MELKPOEDER 3 %, zonnebloemolie, EIEREN, tarwedextrine, palmpitolie, rijsmiddelen (difosfaten, natriumcarbonaten, ammoniumcarbonaten), mineralen (calciumcarbonaat, elementair ijzer), zout, emulgator (SOJALECITHINEN), vitamine B6, TARWEZEMELEN, palmolie, aroma's.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.7048710601719197,
+    "price sensitivity": -0.8815165876777251
+}

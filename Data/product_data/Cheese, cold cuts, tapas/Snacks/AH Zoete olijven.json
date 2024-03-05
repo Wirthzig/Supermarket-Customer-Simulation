@@ -1,0 +1,18 @@
+{
+    "id": 2917,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Zoete olijven",
+    "price": 2.25,
+    "unit": "130 gPrijs per KG \u20ac 17,31",
+    "weight": "130 Gram",
+    "calories": 279.0,
+    "ingredients": "Ingredi\u00ebnten: groene olijf, suiker, plantaardige olie (raap, zonnebloem [in wisselende verhoudingen]), zeezout, wittewijnazijn, voedingszuur (melkzuur [E270], citroenzuur [E330]), conserveermiddel (kaliumsorbaat [E202]).\nWaarvan toegevoegde suikers 17g per 100 gram en waarvan toegevoegd zout 2.70g per 100 gram",
+    "lifestyle": 0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.16910935738444197,
+    "price sensitivity": -0.9554234769687965
+}

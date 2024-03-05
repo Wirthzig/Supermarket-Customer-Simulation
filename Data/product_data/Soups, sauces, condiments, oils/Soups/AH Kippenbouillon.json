@@ -1,0 +1,18 @@
+{
+    "id": 1150,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "AH Kippenbouillon",
+    "price": 0.6,
+    "unit": "120 gPrijs per KG \u20ac 5,00",
+    "weight": "120 Gram",
+    "calories": 6.0,
+    "ingredients": "Ingredi\u00ebnten: zout, palmvet, maltodextrine, ma\u00efszetmeel, specerijen (ui, knoflook, kurkuma), gistextract, 3,1% kippenvleespoeder, natuurlijk aroma, 0,5% kippenvet, gekaramelliseerde suiker, peterselie.\nWaarvan toegevoegde suikers 0.01g per 100 milliliter en waarvan toegevoegd zout 0.88g per 100 milliliter",
+    "lifestyle": -0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.011144130757800888,
+    "price sensitivity": -0.7641597028783658
+}

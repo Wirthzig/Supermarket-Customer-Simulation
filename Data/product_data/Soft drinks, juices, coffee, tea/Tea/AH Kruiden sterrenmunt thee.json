@@ -1,0 +1,18 @@
+{
+    "id": 1711,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "AH Kruiden sterrenmunt thee",
+    "price": 1.35,
+    "unit": "20 stuks",
+    "weight": "30 Gram",
+    "calories": 1.0,
+    "ingredients": "Ingredi\u00ebnten: 40% venkelzaad\u00b0, zoethoutwortel\u00b0, pepermunt\u00b0, 9% anijs\u00b0, 1% steranijs.\nWaarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06797583081570997,
+    "price sensitivity": -0.7088607594936709
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1173,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Unox Cup-a-soup kip",
+    "price": 1.65,
+    "unit": "3 x 175 mlPrijs per LT \u20ac 3,14",
+    "weight": "36 Gram",
+    "calories": 22.0,
+    "ingredients": "Ingredi\u00ebnten: Deegwaar 24% (harde TARWEGRIES, zout), dextrose, aardappelzetmeel, aroma, wortel\u00b9 4,8%, zout, gistextract, suiker, palmvet, stukjes kippenvlees 2,3% (kippenvlees, palmolie, zout, antioxidant (E304i, E307), gejodeerd zout, mineraalzout (kalium), kippenvet 0,9% (kippenvet, antioxidant E392), prei\u00b9, specerijen\u00b9 (kurkuma, peterseliewortel), uipoeder\u00b9, BLADSELDERIJ 0,2%. Kan ei, soja, melk, mosterd bevatten.\u00b9 op duurzame wijze geteeld.",
+    "lifestyle": -0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.08915304606240712,
+    "price sensitivity": -0.5598885793871866
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1800,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "Pickwick Herbal super blends shine kruidenthee",
+    "price": 2.9,
+    "unit": "15 stuks",
+    "weight": "15 Stuks (piece). 22.5 Gram",
+    "calories": 1.0,
+    "ingredients": "Ingredi\u00ebnten: kamille (76,5%), braamblaadjes, natuurlijk aroma, zoethoutwortel (5%), biotine (1,5%), perzik stukjes (1%).",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1850453172205438,
+    "price sensitivity": -0.8085106382978724
+}

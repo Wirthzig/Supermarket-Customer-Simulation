@@ -1,0 +1,18 @@
+{
+    "id": 2025,
+    "category": "Snacks",
+    "sub category": "Fruit biscuits & milk biscuits",
+    "product": "Liga Belvita sandwich yoghurt aardbeiensmaak",
+    "price": 2.59,
+    "unit": "253 gNormale prijs per KG \u20ac 10,24",
+    "weight": "253 Gram",
+    "calories": 444.0,
+    "ingredients": "Ingredi\u00ebnten: Granen 55,2 %, [TARWEBLOEM 27,7 %, volkorengranen 27,5 % (HAVERVLOKKEN 11,7 %, VOLKORENTARWEMEEL 11,2 %, VOLKORENGERSTEMEEL 2,8 %, VOLKORENROGGEMEEL 0,9 %, volkorenspeltmeel (TARWE) 0,9 %)], suiker, plantaardige oli\u00ebn (koolzaad, palm, kokos in wisselende verhoudingen), glucose-fructosestroop, aardbeienpuree 4,7 %, bevochtigingsmiddel (glycerol), TARWEZETMEEL, magere YOGHURTPOEDER 1,4 %, glucosestroop, mineralen (calciumcarbonaat, magnesiumcarbonaten, elementair ijzer), rijsmiddelen (natriumcarbonaten, difosfaten, ammoniumcarbonaten), emulgatoren (SOJALECITHINEN, zonnebloemlecithinen), zuurteregelaars (citroenzuur, natriumcitraten, appelzuur, calciumcitraten), geconcentreerde braambessenpuree 0,2 %, aroma's, zout, geleermiddel (pectinen), magere MELKPOEDER, geconcentreerde aardbeienpuree 0,05 %. KAN EI EN NOTEN BEVATTEN.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3724928366762177,
+    "price sensitivity": 0.17061611374407604
+}

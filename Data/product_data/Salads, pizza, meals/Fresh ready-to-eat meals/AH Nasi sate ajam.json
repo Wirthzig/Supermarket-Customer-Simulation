@@ -1,0 +1,18 @@
+{
+    "id": 3507,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Nasi sate ajam",
+    "price": 4.59,
+    "unit": "450 gNormale prijs per KG \u20ac 10,20",
+    "weight": "450 Gram",
+    "calories": 171.0,
+    "ingredients": "Ingredi\u00ebnten: water, 18% rijst, groente (9,1% prei, 0,7% ui), 9,1% kipfilet\u1d43,\u00a0vrije-uitloopei\u1d47, puree (6,4% pinda, 0,7% tomaat), suiker, 2,6% varkensvlees\u1d43,\u00a00,4% varkensvlees, plantaardige olie (soja, raap, zonnebloem), gistextract, specerijen (o.a.\u00a0selderij), zout, aardappelzetmeel, tarwebloem, rietsuiker, varkenseiwit, melasse, stabilisator (trifosfaten [E451], difosfaten [E450], carrageen [E407]), suikerstroop, voedingszuur (azijnzuur [E260], citroenzuur [E330]), gehydrolyseerd soja-eiwit, kleurstof (sulfiet-ammoniakkaramel [E150d]), conserveermiddel (kaliumsorbaat [E202], natriumnitriet [E250]), verdikkingsmiddel (cellulosegom [E466]), antioxidant (natriumascorbaat [E301]), gemodificeerd aardappelzetmeel, natuurlijk aroma, zuurteregelaar (melkzuur [E270]).\u00a0\u1d43Beter Leven keurmerk 1 ster. \u1d47Beter Leven keurmerk 2 sterren.\nWaarvan toegevoegde suikers 3.6g per 100 gram en waarvan toegevoegd zout 0.81g per 100 gram",
+    "lifestyle": 0.6,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4516129032258064,
+    "price sensitivity": -0.48305084745762716
+}

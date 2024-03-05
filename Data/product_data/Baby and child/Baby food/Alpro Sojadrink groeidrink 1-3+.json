@@ -1,0 +1,18 @@
+{
+    "id": 473,
+    "category": "Baby and child",
+    "sub category": "Baby food",
+    "product": "Alpro Sojadrink groeidrink 1-3+",
+    "price": 2.49,
+    "unit": "1 lPrijs per LT \u20ac 2,49",
+    "weight": "1 Liter",
+    "calories": 64.0,
+    "ingredients": "INGREDI\u00cbNTEN:  water, maltodextrine, gepelde SOJABONEN (4,9%), ruwe rietsuiker, fructose, plantaardige olie (zonnebloem), calciumcarbonaat, zuurteregelaar (monokaliumfosfaat), aroma's, vitaminen (C, riboflavine (B2), B12, D2), emulgator (zonnebloemlecithine), stabilisator (gellan gom), ijzerpyrofosfaat, kaliumjodide. Vrij van zuivel en gluten.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05594405594405595,
+    "price sensitivity": 1.0
+}

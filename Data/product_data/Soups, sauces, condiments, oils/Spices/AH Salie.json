@@ -1,0 +1,18 @@
+{
+    "id": 1000,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Spices",
+    "product": "AH Salie",
+    "price": 1.29,
+    "unit": "15 gPrijs per KG \u20ac 86,00",
+    "weight": "15 Gram",
+    "calories": 64.0,
+    "ingredients": "Land van oorsprong: Nederland, Kenia, Marokko. Klasse: 1",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06240713224368499,
+    "price sensitivity": -0.8105849582172702
+}

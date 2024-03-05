@@ -1,0 +1,18 @@
+{
+    "id": 2963,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Gelderse gekookte worst",
+    "price": 2.25,
+    "unit": "140 gPrijs per KG \u20ac 16,07",
+    "weight": "140 Gram",
+    "calories": 292.0,
+    "ingredients": "Ingredi\u00ebnten: 86% varkensvlees, water, zout, aardappelzetmeel, specerijen, dextrose, emulgator (trifosfaten [E451]), aroma, conserveermiddel (natriumacetaat [E262], natriumnitriet [E250]), antioxidant (natriumascorbaat [E301]), rookaroma, maltodextrine, rook.\nWaarvan toegevoegde suikers 0.4g per 100 gram en waarvan toegevoegd zout 1.99g per 100 gram",
+    "lifestyle": 0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.16910935738444197,
+    "price sensitivity": -0.8306092124814264
+}

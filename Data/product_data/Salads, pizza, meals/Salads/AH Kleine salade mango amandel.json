@@ -1,0 +1,18 @@
+{
+    "id": 3561,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Kleine salade mango amandel",
+    "price": 4.19,
+    "unit": "260 gPrijs per KG \u20ac 16,12",
+    "weight": "260 Gram",
+    "calories": 106.0,
+    "ingredients": "Ingredi\u00ebnten: groente (19% bloemkool, 19% paarse spitskool, 15% komkommer, 5,8% spinazie), 23% mango, 5,5% kikkererwt, amandel, water, plantaardige olie (raap, zonnebloem), 0,8% sesampasta, zout, specerijen (o.a. 0,08% chilipeper), agavesiroop, voedingszuur (citroenzuur [E330], calciumlactaat [E327]), conserveermiddel (kaliumsorbaat [E202]), rookaroma, verdikkingsmiddel (arabische gom [E414]).\nWaarvan toegevoegde suikers 0.2g per 100 gram en waarvan toegevoegd zout 0.24g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.38709677419354843,
+    "price sensitivity": 1.0
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2380,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Sweet spreads",
+    "product": "Lotus Biscoff speculoos pasta original",
+    "price": 5.49,
+    "unit": "720 gPrijs per KG \u20ac 7,63",
+    "weight": "720 Gram",
+    "calories": 584.0,
+    "ingredients": "Ingredi\u00ebnten: Orginal speculoos 58% (TARWEbloem, suiker, plantaardige oli\u00ebn (duurzame en gecertificeerde palmolie, raapolie), kandijstroop, rijsmiddel (natriumwaterstofcarbonaat), SOJAbloem, zout, kaneel), raapolie, suiker, emulgator (SOJAlecithine), voedingszuur (citroenzuur).",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.9056603773584906,
+    "price sensitivity": 0.29032258064516125
+}

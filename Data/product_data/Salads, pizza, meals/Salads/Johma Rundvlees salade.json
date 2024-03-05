@@ -1,0 +1,18 @@
+{
+    "id": 3512,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "Johma Rundvlees salade",
+    "price": 2.39,
+    "unit": "500 gPrijs per KG \u20ac 4,78",
+    "weight": "500 Gram",
+    "calories": 171.0,
+    "ingredients": "Ingredi\u00ebnten: 47% gestoomde aardappel, water, koolzaadolie, 9% gekookt rundvlees (97% rundvlees, zout, gehydrolyseerd SOJA-EIWIT, zetmeel, suiker, specerijen, conserveermiddel [E250]), augurk, suiker, wortel, natuurazijn, ui, doperwten, peterselie, laurier, gemodificeerd zetmeel, zout, EIGEEL, specerijen (MOSTERD), aroma's (SELDERIJ, SOJA, TARWE), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), smaakversterkers (dinatriuminosinaat, mononatriumglutamaat, natriumguanylaat), verdikkingsmiddelen (guarpitmeel, xanthaangom), kleurstoffen (ammoniakkaramel, karamel, riboflavinen), voedingszuren (azijnzuur, citroenzuur, melkzuur), LACTOSE (MELK), knoflook, natuurlijk aroma, gistextract, maltodextrine, dextrose, specerijextract.       Kan sporen bevatten van noten, pinda\u0092's, sesamzaad, schaaldieren en vis. De salade heeft een zeer laag glutengehalte.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09677419354838711,
+    "price sensitivity": -0.18644067796610186
+}

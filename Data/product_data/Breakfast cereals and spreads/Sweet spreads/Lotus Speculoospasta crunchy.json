@@ -1,0 +1,18 @@
+{
+    "id": 2387,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Sweet spreads",
+    "product": "Lotus Speculoospasta crunchy",
+    "price": 3.55,
+    "unit": "400 gPrijs per KG \u20ac 8,88",
+    "weight": "400 Gram",
+    "calories": 571.0,
+    "ingredients": "Ingredi\u00ebnten: Original speculoos 65% (TARWEbloem, suiker, plantaardige oli\u00ebn (duurzame en gecertificeerde palmolie, raapolie), kandijstroop, rijsmiddel (natriumwaterstofcarbonaat), SOJAbloem, zout, kaneel), raapolie, suiker, emulgator (SOJAlecithine), voedingszuur (citroenzuur).",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5396226415094338,
+    "price sensitivity": 0.29032258064516125
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1304,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Couscous, bulgur, quinoa, groats",
+    "product": "Lassie Voorgestoomde Quinoa kant-en-klaar",
+    "price": 3.9,
+    "unit": "250 gPrijs per KG \u20ac 12,36",
+    "weight": "250 Gram",
+    "calories": 161.0,
+    "ingredients": "Ingredi\u00ebnten: Voorgekookte witte quinoa [water, witte quinoa], voorgekookte rode quinoa [water, rode quinoa], zonnebloemolie, zeezout, emulgator: zonnebloemlecithine.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5407801418439715,
+    "price sensitivity": 0.03174603174603163
+}

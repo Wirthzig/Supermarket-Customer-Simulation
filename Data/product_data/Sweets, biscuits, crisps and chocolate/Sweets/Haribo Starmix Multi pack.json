@@ -1,0 +1,18 @@
+{
+    "id": 2078,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "Haribo Starmix Multi pack",
+    "price": 3.49,
+    "unit": "375 gPrijs per KG \u20ac 9,31",
+    "weight": "375 Gram",
+    "calories": 342.0,
+    "ingredients": "Ingredi\u00ebnten: Glucosestroop, suiker, dextrose, gelatine, voedingszuur: citroenzuur, aroma, vruchten- en plantenconcentraten: saffloer, spirulina, appel, vlierbes, zwarte bes, sinaasappel, kiwi, citroen, mango, passievrucht, aronia, druif, karamelstroop, vlierbesextract, glansmiddelen: bijenwas wit en geel, carnaubawas\n\nKan sporen bevatten van melk, tarwe.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.576271186440678,
+    "price sensitivity": -0.8720379146919431
+}

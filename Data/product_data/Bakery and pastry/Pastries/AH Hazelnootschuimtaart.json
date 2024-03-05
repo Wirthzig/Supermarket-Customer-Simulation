@@ -1,0 +1,18 @@
+{
+    "id": 2511,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Hazelnootschuimtaart",
+    "price": 7.75,
+    "unit": "per stuk",
+    "weight": "1 Aantal",
+    "calories": 512.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, plantaardige olie (palm, raap, kokos), roomboter, 7,6% hazelnoot, scharreleigeel, water, scharrelei, gekaramelliseerde suiker, emulgator (polyglycerolester van vetzuren [E475], mono- en diglyceriden van vetzuren [E471], sojalecithinen [E322]), cacaomassa\u00b0, koffie-extract, mageremelkpoeder, voedingszuur (citroenzuur [E330]), palmvet, verdikkingsmiddel (johannesbroodpitmeel [E410], cellulosegom [E466]), zuurteregelaar (natriumcarbonaten [E500]), gekaramelliseerde suikerstroop, melasse, scharrelei-eiwitpoeder, citroensap, cacaoboter\u00b0, aroma, natuurlijk aroma, boterolie, natuurlijk vanillearoma.\nWaarvan toegevoegde suikers 46g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4937062937062937,
+    "price sensitivity": 0.26074498567335236
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3654,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Potatoes",
+    "product": "AH Aardappelpuree",
+    "price": 1.69,
+    "unit": "450 gPrijs per KG \u20ac 3,76",
+    "weight": "450 Gram",
+    "calories": 110.0,
+    "ingredients": "Ingredi\u00ebnten: 77% aardappel, halfvolle melk, 4,5% roomboter, water, 1,5% aardappelvlok, rijstzetmeel, zout, specerijen, emulgator (mono- en diglyceriden van vetzuren [E471]), antioxidant (extracten van rozemarijn [E392]).\nWaarvan toegevoegde suikers 0g per 100 gram en waarvan toegevoegd zout 0.25g per 100 gram.",
+    "lifestyle": 0.3,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.20833333333333331,
+    "price sensitivity": -0.4457831325301205
+}

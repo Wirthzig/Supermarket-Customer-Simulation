@@ -1,0 +1,18 @@
+{
+    "id": 2583,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Picolientje",
+    "price": 2.4,
+    "unit": "4 stuks",
+    "weight": "188 Gram",
+    "calories": NaN,
+    "ingredients": "-",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11958041958041957,
+    "price sensitivity": -0.9486404833836858
+}

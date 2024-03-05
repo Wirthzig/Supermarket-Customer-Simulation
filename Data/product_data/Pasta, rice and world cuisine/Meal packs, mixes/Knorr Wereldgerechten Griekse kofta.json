@@ -1,0 +1,18 @@
+{
+    "id": 1213,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Meal packs, mixes",
+    "product": "Knorr Wereldgerechten Griekse kofta",
+    "price": 4.9,
+    "unit": "321 g",
+    "weight": "303 Gram",
+    "calories": 90.0,
+    "ingredients": "Ingredi\u00ebnten rijstmix: Rijst\u00b9 98%, rode paprika\u00b9 2%. Kan glutenbevattende granen, ei, soja, melk, selderij, mosterd bevatten. Ingredi\u00ebnten sausmix: Tomatenpoeder\u00b9 28%, zout, ui\u00b9 12%, zetmeel, suiker, gistextract, geconcentreerd groentesap\u00b9 4,4% (KNOLSELDERIJ, wortel, prei, ui), komijn, knoflook\u00b9 2,3%, peper, oregano\u00b9, extra olijfolie verkregen bij de eerste persing, kaneel, piment. Kan glutenbevattende granen, ei, soja, melk, mosterd bevatten. Ingredi\u00ebnten kruidenmix: Paneermeel (TARWEBLOEM, gist, zout), zout, ui\u00b9 10,4%, gistextract, knoflook\u00b9 3,5%, komijn, extra olijfolie verkregen bij de eerste persing, geconcentreerd groentesap\u00b9 1,8% (KNOLSELDERIJ, wortel, prei, ui), peper, bonenkruid, nootmuskaat. Kan ei, soja, melk, mosterd bevatten. \u00b9 op duurzame wijze geteeld.",
+    "lifestyle": -0.5,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.7180851063829787,
+    "price sensitivity": -0.9238625812441968
+}

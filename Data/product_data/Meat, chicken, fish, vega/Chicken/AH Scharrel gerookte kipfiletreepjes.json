@@ -1,0 +1,18 @@
+{
+    "id": 3262,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel gerookte kipfiletreepjes",
+    "price": 4.99,
+    "unit": "250 gPrijs per KG \u20ac 19,96",
+    "weight": "250 Gram",
+    "calories": 98.0,
+    "ingredients": "Ingredi\u00ebnten: 88% kipfilet, water, natuurlijk aroma, aardappelzetmeel, zout, glucosestroop, azijn, gistextract, conserveermiddel (natriumnitriet [E250]), emulgator (difosfaten [E450]), specerijenextract, specerijen (lavaswortel, ui), pastinaakpoeder, rook.\nWaarvan toegevoegde suikers 0.4g per 100 gram en waarvan toegevoegd zout 1.38g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24050632911392408,
+    "price sensitivity": -0.9513924050632911
+}

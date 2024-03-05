@@ -1,0 +1,18 @@
+{
+    "id": 3527,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Kleine salade italiaans",
+    "price": 3.69,
+    "unit": "210 gPrijs per KG \u20ac 17,57",
+    "weight": "210 Gram",
+    "calories": 103.0,
+    "ingredients": "Ingredi\u00ebnten: groente (43% cherrytomaat, 17% rode paprika, 12% courgette, 2,4% rucola),\u00a0melk, plantaardige olie (2,8% olijf, zonnebloem), water, kruiden (o.a. 0,9% basilicum), azijn, suiker, zout, knoflook, 0,09% pijnboompit, specerijen, zuurteregelaar (citroenzuur [E330]), vegetarisch stremsel, zuursel, gedroogde spinazie, natuurlijk aroma, gemodificeerd ma\u00efszetmeel, stabilisator (xanthaangom [E415]), conserveermiddel (kaliumsorbaat [E202]).\nWaarvan toegevoegde suikers 0.4g per 100 gram en waarvan toegevoegd zout 0.23g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.30645161290322576,
+    "price sensitivity": -0.05932203389830515
+}

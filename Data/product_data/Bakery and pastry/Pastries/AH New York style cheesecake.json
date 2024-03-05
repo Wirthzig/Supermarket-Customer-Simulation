@@ -1,0 +1,18 @@
+{
+    "id": 2514,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH New York style cheesecake",
+    "price": 3.69,
+    "unit": "450 gPrijs per KG \u20ac 8,20",
+    "weight": "450 Gram",
+    "calories": 344.0,
+    "ingredients": "Ingredi\u00ebnten: volle\u00a0melk,\u00a0room,\u00a0tarwebloem, suiker, scharrelei, zure\u00a0room, palmvet, bruine suiker, water, natuurlijk aroma,\u00a0tarwezetmeel, plantaardige olie (raap, palm), ma\u00efszetmeel, invertsuikerstroop, rijsmiddel (E331, E500, E503), vegetarisch stremsel, zuursel, emulgator (E471), zout.\nWaarvan toegevoegde suikers 15g per 100 gram",
+    "lifestyle": 0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2097902097902098,
+    "price sensitivity": -0.3696275071633238
+}

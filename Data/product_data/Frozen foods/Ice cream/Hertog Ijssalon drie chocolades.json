@@ -1,0 +1,18 @@
+{
+    "id": 858,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Hertog Ijssalon drie chocolades",
+    "price": 4.69,
+    "unit": "900 mlPrijs per LT \u20ac 5,21",
+    "weight": "900 Milliliter. 522 Gram",
+    "calories": 216.0,
+    "ingredients": "Ingredi\u00ebnten Gerehydrateerde magere MELK, suiker, water, kokosolie, glucosestroop, glucose-fructosestroop, magere MELKPOEDER of -concentraat, magere cacaopoeder (2,5%), LACTOSE en MELKEIWITTEN, volle MELKPOEDER, cacaomassa (1%), cacaoboter (1%), emulgatoren (mono- en diglyceriden van vetzuren, ammoniumfosfatiden), stabilisatoren (natriumalginaat, guargom, johannesbroodpitmeel, carrageen), BOTERCONCENTRAAT, wortelconcentraat, aroma, geconcentreerd citroensap. Kan glutenbevattende granen, ei, hazelnoot, pecannoot, pistachenoot en soja bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5343915343915343,
+    "price sensitivity": -0.2799999999999999
+}

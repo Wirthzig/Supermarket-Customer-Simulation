@@ -1,0 +1,18 @@
+{
+    "id": 3119,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "AH Cheddar geraspte kaas",
+    "price": 2.89,
+    "unit": "150 gPrijs per KG \u20ac 19,27",
+    "weight": "150 Gram",
+    "calories": 396.0,
+    "ingredients": "Ingredi\u00ebnten: melk, ma\u00efszetmeel, zout, zuursel, vegetarisch stremsel, kleurstof (caroteen [E160a]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.88g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24126268320180386,
+    "price sensitivity": -0.8216939078751857
+}

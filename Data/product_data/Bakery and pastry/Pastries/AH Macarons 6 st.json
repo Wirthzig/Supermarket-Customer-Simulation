@@ -1,0 +1,18 @@
+{
+    "id": 2551,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Macarons 6 st",
+    "price": 3.5,
+    "unit": "6 stuks",
+    "weight": "78 Gram",
+    "calories": 452.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, 19%\u00a0amandel,\u00a0vrijeuitloopei-eiwit,\u00a0room, cacaoboter\u00b0, 3,7% frambozenpuree, vollemelkpoeder, glucose, voedingsvezel (inuline), plantaardige olie (kokos, zonnebloem), emulgator (glycerol [E422], mono- en diglyceriden van vetzuren [E471],\u00a0sojalecithine\u00a0[E322]), 0,9% pistachepasta, 0,6% aardbei, cacaoboter\u00b0, geleermiddel (pectine [E440]),\u00a0vrijeuitloopei-eiwitpoeder, natuurlijke aroma\u2019s\u00a0(pistache), glucosestroop, verdikkingsmiddel (carrageen [E407], xanthaangom [E415]),kleurstof (bietenrood [E162], kopercomplexen van chlorofyl en chlorofyline [E141]), aardbeiensapconcentraat, vanille-extract, Bourbonvanille, voedingszuur (citroenzuur [E330]).\nWaarvan toegevoegde suikers 41g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1965034965034965,
+    "price sensitivity": -0.1404011461318052
+}

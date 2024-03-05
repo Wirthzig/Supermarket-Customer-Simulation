@@ -1,0 +1,18 @@
+{
+    "id": 2449,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Stokbrood kruidenboter",
+    "price": 1.85,
+    "unit": "350 gPrijs per KG \u20ac 5,29",
+    "weight": "350 Gram",
+    "calories": 305.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, 15%\u00a0roomboter, ui, zout, kruiden (peterselie, dille, rozemarijn), gist,\u00a0roggebloem,\u00a0tarwemoutmeel,\u00a0tarwegluten, zetmeel (tapioca, aardappel), specerijen, natuurlijk aroma, voedingszuur (citroenzuur [E330]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.40g per 100 gram",
+    "lifestyle": -0.5,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.08111888111888113,
+    "price sensitivity": -0.31232091690544406
+}

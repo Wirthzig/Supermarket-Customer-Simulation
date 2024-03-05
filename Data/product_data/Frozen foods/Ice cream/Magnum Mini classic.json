@@ -1,0 +1,18 @@
+{
+    "id": 814,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Magnum Mini classic",
+    "price": 5.29,
+    "unit": "6 stuksPrijs per LT \u20ac 14,69",
+    "weight": "6 Stuks (piece). 330 Milliliter",
+    "calories": 326.0,
+    "ingredients": "Ingredi\u00ebnten: Gerehydrateerde magere MELK, suiker, cacaoboter\u00b9, cacaomassa\u00b9, water, kokosolie, glucosestroop, volle MELKPOEDER, glucose-fructosestroop, LACTOSE en MELKEIWITTEN, BOTERCONCENTRAAT, emulgatoren (E471, SOJALECITHINE, E476), uitgeputte gemalen vanillestokjes, stabilisatoren (johannesbroodpitmeel, guargom, carrageen), natuurlijk vanille aroma\u00b9 (bevat MELK), aroma, kleurstof (carotenen). Kan amandel bevatten. Glutenvrij. \u00b9Rainforest Alliance gecertificeerd.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6137566137566137,
+    "price sensitivity": -0.43333333333333324
+}

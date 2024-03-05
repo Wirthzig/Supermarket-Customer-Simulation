@@ -1,0 +1,18 @@
+{
+    "id": 820,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "H\u00e4agen-Dazs Macadamia nut brittle ijs",
+    "price": 4.61,
+    "unit": "460 mlNormale prijs per LT \u20ac 14,33",
+    "weight": "460 Milliliter. 400 Gram",
+    "calories": 264.0,
+    "ingredients": "Ingredi\u00ebnten: Verse ROOM (33%), ge\u00ebvaporeerde magere MELK, suiker, water, EIGEEL, glucosestroop, MACADEMIANOTEN (0,8%), kokosolie, BOTER, natuurlijk vanillearoma, rijsmiddel (natriumwaterstofcarbonaat) zout, emulgator (zonnebloemlecithine). Allergenen: zie vetgedrukte ingredi\u00ebnten. KAN ANDERE BOOMNOTEN BEVATTEN.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5238095238095238,
+    "price sensitivity": -0.44999999999999984
+}

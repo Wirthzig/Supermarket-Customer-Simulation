@@ -1,0 +1,18 @@
+{
+    "id": 713,
+    "category": "Frozen foods",
+    "sub category": "Frozen vegetables",
+    "product": "AH Biologisch Boerenkool",
+    "price": 1.29,
+    "unit": "450 gPrijs per KG \u20ac 2,87",
+    "weight": "450 Gram",
+    "calories": 44.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\nEU Landbouw",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.08465608465608465,
+    "price sensitivity": 0.7732997481108312
+}

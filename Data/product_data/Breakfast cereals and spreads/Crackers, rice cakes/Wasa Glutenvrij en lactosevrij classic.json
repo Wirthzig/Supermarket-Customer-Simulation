@@ -1,0 +1,18 @@
+{
+    "id": 2275,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Crackers, rice cakes",
+    "product": "Wasa Glutenvrij en lactosevrij classic",
+    "price": 3.49,
+    "unit": "240 gPrijs per KG \u20ac 14,54",
+    "weight": "18 Stuks (piece). 240 Gram",
+    "calories": 395.0,
+    "ingredients": "Ingredienten: Aardappelzetmeel, amaranthmeel, koolzaadolie, rijstebloem, suikerrietvezel, suiker, rijstzuurdesempoeder, (rijstmeel, water), emulgator (mono- en diglyceriden van vetzuren), gist, zout, verdikkingsmiddel (hydroxypropylmethylcellulose), rijst prote\u00efne, zout, venkelzaad, anijszaad, karwijzaad. Kan sporen van SESAMZAAD en MELK bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5283018867924528,
+    "price sensitivity": -0.8708333333333333
+}

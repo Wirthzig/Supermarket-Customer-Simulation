@@ -1,0 +1,18 @@
+{
+    "id": 3094,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "Valess Gekookte worst",
+    "price": 2.39,
+    "unit": "80 gPrijs per KG \u20ac 29,88",
+    "weight": "80 Gram",
+    "calories": 231.0,
+    "ingredients": "Ingredi\u00ebnten: 70% magere MELK, plantaardige olie (zonnebloem, koolzaad), kippenEI-eiwit*, verdikkingsmiddel (carrageen, xanthaangom, johannesbroodpitmeel, calciumalginaat, hydroxypropylmethylcellulose), voedingszuur (kaliumlactaat, natriumacetaat), stabilisator (polyfosfaat, difosfaat, trifosfaat), TARWEgluten, uienpoeder, HAVERvezel, bamboevezel, radijsconcentraat, MELKeiwit, antioxidant (natriumascorbaat), kleurstof (carotenen), dextrose, glucosestroop, natuurlijk aroma, natuurlijke rook, specerijen, zout, ijzer, *indien beschikbaar van vrije-uitloopkippen",
+    "lifestyle": 0.7,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1848928974069899,
+    "price sensitivity": -0.48885586924219915
+}

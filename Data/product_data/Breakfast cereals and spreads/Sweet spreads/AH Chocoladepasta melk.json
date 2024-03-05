@@ -1,0 +1,18 @@
+{
+    "id": 2316,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Sweet spreads",
+    "product": "AH Chocoladepasta melk",
+    "price": 2.49,
+    "unit": "400 gPrijs per KG \u20ac 6,23",
+    "weight": "400 Gram",
+    "calories": 577.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, plantaardige olie (raap, palm), lactose, 5,8% vollemelkpoeder, 4,6% magere cacaopoeder\u00b0, 1,3% mageremelkpoeder, vegetarisch weipoeder, emulgator (lecithine\u00a0[E322]), vanillearoma.\nWaarvan toegevoegde suikers 51g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.33962264150943394,
+    "price sensitivity": 0.29032258064516125
+}

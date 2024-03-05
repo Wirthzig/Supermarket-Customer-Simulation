@@ -1,0 +1,18 @@
+{
+    "id": 732,
+    "category": "Frozen foods",
+    "sub category": "Frozen vegetables",
+    "product": "AH Broccoliroosjes",
+    "price": 2.35,
+    "unit": "1 kgPrijs per KG \u20ac 2,35",
+    "weight": "1 Kilogram",
+    "calories": 26.0,
+    "ingredients": "Ingredi\u00ebnten: broccoli\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.22486772486772488,
+    "price sensitivity": -0.309823677581864
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2518,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Bossche bollen",
+    "price": 3.25,
+    "unit": "2 stuks",
+    "weight": "220 Gram",
+    "calories": 400.0,
+    "ingredients": "Ingredi\u00ebnten: room, suiker, scharrelei, water, tarwebloem, plantaardige olie (palm, raap), palmvet, mageremelkpoeder, magerecacaopoeder\u00b0, emulgator (mono- en diglyceriden van vetzuren [E471], lecithine [E322]), watervrij melkvet, stabilisator (carrageen [E407]), natuurlijk vanillearoma, zout, antioxidant (ascorbinezuur [E300]), tarwemoutmeel, zuurteregelaar (citroenzuur [E330]).\nWaarvan toegevoegde suikers 23g per 100 gram en waarvan toegevoegd zout 0.05g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17902097902097902,
+    "price sensitivity": 0.4097421203438394
+}

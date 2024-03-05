@@ -1,0 +1,18 @@
+{
+    "id": 2304,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Crackers, rice cakes",
+    "product": "Zonnatura Ma\u00efswafels",
+    "price": 0.99,
+    "unit": "100 gPrijs per KG \u20ac 9,90",
+    "weight": "100 Gram",
+    "calories": 384.0,
+    "ingredients": "Ingredi\u00ebnten: Ma\u00efs* 99,8%, zeezout, *Ingredi\u00ebnt van biologische teelt.\n\nKan sporen bevatten van sesamzaad.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.05660377358490566,
+    "price sensitivity": -0.08333333333333337
+}

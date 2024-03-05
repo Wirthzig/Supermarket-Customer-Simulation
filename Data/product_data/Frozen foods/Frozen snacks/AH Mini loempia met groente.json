@@ -1,0 +1,18 @@
+{
+    "id": 775,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "AH Mini loempia met groente",
+    "price": 1.56,
+    "unit": "15 stuksPrijs per KG \u20ac 5,20",
+    "weight": "300 Gram",
+    "calories": 239.0,
+    "ingredients": "Ingredi\u00ebnten: groente (28% witte kool, 7.5% wortel, 4% ui), tarwebloem, water, aardappel, raapolie, zout, gedroogde aardappel, gemodificeerd ma\u00efszetmeel, suiker, specerijen, zetmeel (erwt, mungboon), antioxidant (vetzuuresters van ascorbinezuur [E304], citroenzuur [E330]), emulgator (mono- en diglyceriden van vetzuren [E471]), conserveermiddel (natriumdisulfiet [E223]), stabilisator (difosfaat [E450]).\nWaarvan toegevoegde suikers 0.3g per 100 gram en waarvan toegevoegd zout 0.80g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12037037037037036,
+    "price sensitivity": -0.7128463476070529
+}

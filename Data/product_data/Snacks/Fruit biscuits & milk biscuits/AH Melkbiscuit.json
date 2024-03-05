@@ -1,0 +1,18 @@
+{
+    "id": 2037,
+    "category": "Snacks",
+    "sub category": "Fruit biscuits & milk biscuits",
+    "product": "AH Melkbiscuit",
+    "price": 1.49,
+    "unit": "245 gPrijs per KG \u20ac 6,08",
+    "weight": "245 Gram",
+    "calories": 478.0,
+    "ingredients": "Ingredi\u00ebnten: 42% tarwebloem, plantaardige olie (zonnebloem, raap, palm, palmpit), 11% mageremelkpoeder, suiker, volkorenhavermeel, voedingsvezel (inuline), tarwezetmeel, vegetarisch weipoeder, scharrelei, palmvet, oligofructosestroop, lactose, dextrose, emulgator (lecithinen [E322]), mineralen (calcium, ijzer), melkeiwit, glucosestroop, zout, rijsmiddel (natriumcarbonaat [E500], ammoniumcarbonaat [E503]), voedingszuur (citroenzuur [E330]), natuurlijke aroma's, aroma, vitamine B6.\nWaarvan toegevoegde suikers 11g per 100 gram en waarvan toegevoegd zout 0.15g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05730659025787964,
+    "price sensitivity": -1.0
+}

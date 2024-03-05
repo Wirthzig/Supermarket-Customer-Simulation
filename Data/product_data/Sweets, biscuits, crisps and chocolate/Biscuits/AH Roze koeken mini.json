@@ -1,0 +1,18 @@
+{
+    "id": 2133,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Roze koeken mini",
+    "price": 1.4,
+    "unit": "6 stuksPrijs per KG \u20ac 4,95",
+    "weight": "210 Gram",
+    "calories": 431.0,
+    "ingredients": "Ingredi\u00ebnten: suiker,\u00a0tarwebloem, plantaardige olie (palm, raap), water,\u00a0scharrelei, stabilisator (glycerol [E422], ascorbinezuur [E300]), voedingsvezel (oligofructose), glucosestroop,\u00a0lupinemeel, rijsmiddel (glucono-delta-lacton\u00a0[E575], natriumcarbonaat [E500]), dextrose, citroenpulp, zout, conserveermiddel (calciumpropionaat [E282], kaliumsorbaat [E202]), emulgator (mono- en diglyceriden van vetzuren [E471]), kleurend rodebietensapconcentraat, kleurstof (caroteen [E160a]), voedingszuur (citroenzuur [E330]).\nWaarvan toegevoegde suikers 33g per 100 gram en waarvan toegevoegd zout 0.35g per 100 gram",
+    "lifestyle": -0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1334745762711864,
+    "price sensitivity": 1.0
+}

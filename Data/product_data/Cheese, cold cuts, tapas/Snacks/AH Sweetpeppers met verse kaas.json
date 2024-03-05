@@ -1,0 +1,18 @@
+{
+    "id": 2935,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Sweetpeppers met verse kaas",
+    "price": 4.5,
+    "unit": "160 gPrijs per KG \u20ac 28,13",
+    "weight": "160 Gram",
+    "calories": 257.0,
+    "ingredients": "Ingredi\u00ebnten: 36% roomkaas, 34% zoete pepers, raapolie, suiker, azijn, water, conserveermiddel (natriumbenzoaat [E211], kaliumsorbaat [E202], melkzuur [E270]), verdikkingsmiddel (xanthaangom [E415]), zuurteregelaar (calciumchloride [E509]), voedingszuur (citroenzuur [E330]).\nWaarvan toegevoegde suikers 12g per 100 gram en waarvan toegevoegd zout 0.43g per 100 gram",
+    "lifestyle": 0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4227733934611049,
+    "price sensitivity": -0.8603268945022289
+}

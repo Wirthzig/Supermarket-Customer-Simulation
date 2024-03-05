@@ -1,0 +1,18 @@
+{
+    "id": 1094,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "Unox knaks pakket",
+    "price": 13.91,
+    "unit": "per pakket",
+    "weight": NaN,
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 1.0,
+    "price sensitivity": -0.8941504178272981
+}

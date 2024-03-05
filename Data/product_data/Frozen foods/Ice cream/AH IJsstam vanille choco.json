@@ -1,0 +1,18 @@
+{
+    "id": 856,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "AH IJsstam vanille choco",
+    "price": 1.49,
+    "unit": "650 mlPrijs per LT \u20ac 2,29",
+    "weight": "330 Gram",
+    "calories": 265.0,
+    "ingredients": "Ingredi\u00ebnten: gerehydrateerde magere melk, 22% slagroom, water, suiker, glucose-fructosestroop, plantaardig vet (kokos, palmpit),\u00a0wei-eiwitconcentraat, magerecacaopoeder\u00b0, emulgator (mono- en diglyceriden van vetzuren [E471],\u00a0sojalecithine\u00a0[E322]), stabilisator (johannesbroodpitmeel [E410], guarpitmeel [E412], carrageen [E407]), vanillearoma.\nWaarvan toegevoegde suikers 20g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1111111111111111,
+    "price sensitivity": -0.22999999999999998
+}

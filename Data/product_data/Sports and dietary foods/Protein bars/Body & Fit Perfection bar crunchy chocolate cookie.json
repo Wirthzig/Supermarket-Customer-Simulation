@@ -1,0 +1,18 @@
+{
+    "id": 929,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "Body & Fit Perfection bar crunchy chocolate cookie",
+    "price": 1.99,
+    "unit": "60 gPrijs per KG \u20ac 33,17",
+    "weight": "1 Stuks (piece). 60 Gram",
+    "calories": 358.0,
+    "ingredients": "Ingredienten: Eiwitblend (MELKeiwitconcentraat, wei-eiwitisolaat (MELK), MELKeiwit, emulgator (SOJAlecithine)), melkchocoladesmaak omhulling (13%), (zoetstoffen (isomalt, sucralose), palm- en palmpitolie, weipoeder (MELK), magere cacaopoeder, TARWEbloem (TARWEbloem, calciumcarbonaat, elementair ijzer, nicotinamide, thiaminehydrochloride), emulgatoren (SOJAlecithine, polyglycerolpolyricinoleaat), aroma), bevochtigingsmiddel (glycerol), karamel (10%) (bevochtigingsmiddel (glycerol), maltodextrine, oligofructose, water, vulstof (maltitolen), kokosolie, mager MELKpoeder, verdikkingsmiddel (hydroxypropyldizetmeelfosfaat), kleurstof (karamel), geleermiddel (pectinen), zuurteregelaar (calciumlactaat), emulgator (SOJAlecithine), zout, aroma, verdikkingsmiddel (xanthaangom)), krokante eiwitstukjes (SOJA-eiwitisolaat, tapiocazetmeel, stabilisator (calciumcarbonaat), zout), fructooligosaccharides, zonnebloemolie, SOJAeiwitisolaat, gehydrolyseerd TARWE-eiwit, bevochtigingsmiddel (maltitolen), cacaonibs, aroma, zout, zoetstof (sucralose), antioxidant (tocoferolrijk extract). Kan sporen bevatten van ei, pinda's en noten.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0379746835443038,
+    "price sensitivity": -0.8666666666666667
+}

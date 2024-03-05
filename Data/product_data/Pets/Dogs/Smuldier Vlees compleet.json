@@ -1,0 +1,18 @@
+{
+    "id": 175,
+    "category": "Pets",
+    "sub category": "Dogs",
+    "product": "Smuldier Vlees compleet",
+    "price": 1.69,
+    "unit": "400 gPrijs per KG \u20ac 4,23",
+    "weight": "1 Stuks (piece). 400 Gram",
+    "calories": NaN,
+    "ingredients": "Houdt Smuldier apart van andere voedingsmiddelen en reinig zorgvuldig alles wat in contact is geweest met het product. Niet geschikt voor humane consumptie.",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17061611374407584,
+    "price sensitivity": -0.641958041958042
+}

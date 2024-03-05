@@ -1,0 +1,18 @@
+{
+    "id": 975,
+    "category": "Sports and dietary foods",
+    "sub category": "Sports drinks",
+    "product": "O2Life Redfruit cranberry",
+    "price": 1.59,
+    "unit": "0,75 lPrijs per LT \u20ac 2,12",
+    "weight": "750 Milliliter",
+    "calories": 12.0,
+    "ingredients": "Natuurlijk mineraalwater\n\nNatuurlijk aroma\n\nFructose\n\nCitroenzuur\n\nKunstmatige zoetstoffen\n\nConserveermiddel E202\n\nVitamine B Complex B5-B6-B8-B12\n\nZuurstof",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.027848101265822787,
+    "price sensitivity": -0.3633333333333333
+}

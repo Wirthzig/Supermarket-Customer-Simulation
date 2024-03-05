@@ -1,0 +1,18 @@
+{
+    "id": 2553,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Spijskoekjes",
+    "price": 2.46,
+    "unit": "200 gNormale prijs per KG \u20ac 14,45",
+    "weight": "200 Gram",
+    "calories": 343.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, sojaboon, witte boon, water, amandel, plantaardige olie (raap, soja), rijstbloem, gemodificeerd aardappelzetmeel, glucosestroop, dextrose, vrije-uitloopei, stabilisator (sorbitol [E420], cellulosegom [E466]), vrije-uitloopei-eiwit, puree (abrikoos, framboos, rode aalbes), zetmeel (ma\u00efs, tarwe), abrikozenpit, emulgator (mono- en diglyceriden van vetzuren [E471]), tarwemeel, verdikkingsmiddel (pectine [E440], guarpitmeel [E412], xanthaangom [E415]), 0,2% hazelnoot, invertsuikerstroop, scharreleipoeder, gejodeerd zout, aroma, conserveermiddel (kaliumsorbaat [E202]), citrusvezel, natuurlijk aroma, scharrelei-eiwitpoeder, citroenschil, kleurend rodebietensapconcentraat, voedingszuur (citroenzuur [E330]).\nWaarvan toegevoegde suikers 50g per 100 gram en waarvan toegevoegd zout 0.1g per 100 gram.",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12377622377622377,
+    "price sensitivity": -0.1404011461318052
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1418,
+    "category": "Beer and aperitifs",
+    "sub category": "Special beers",
+    "product": "Leffe Winterbier 6-pack",
+    "price": 7.69,
+    "unit": "6 packPrijs per LT \u20ac 3,88",
+    "weight": "33 Centiliter",
+    "calories": 58.0,
+    "ingredients": "\"Ingredi\u00ebnten: Water, GERSTEMOUT, ma\u00efs, GERST, suiker, hop\n\n\"",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2955236853541939,
+    "price sensitivity": 0.20105820105820094
+}

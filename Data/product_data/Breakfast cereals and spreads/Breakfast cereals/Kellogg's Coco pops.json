@@ -1,0 +1,18 @@
+{
+    "id": 2441,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Kellogg's Coco pops",
+    "price": 3.59,
+    "unit": "330 gPrijs per KG \u20ac 10,88",
+    "weight": "330 Gram",
+    "calories": 382.0,
+    "ingredients": "Ingredi\u00ebnten: Rijst, glucosesiroop, suiker, cacaopoeder met verlaagd vetgehalte, cacaomassa, zout, GERSTEMOUTEXTRACT, aroma's, Vitaminen en mineralen: vitaminen (niacine, B6, B2, B1, foliumzuur, D, B12), ijzer. \n\nBevat mogelijk melk.\n\nVoor allergenen: zie ingredi\u00ebnten in vet gemarkeerd.",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5471698113207546,
+    "price sensitivity": 0.8387096774193548
+}

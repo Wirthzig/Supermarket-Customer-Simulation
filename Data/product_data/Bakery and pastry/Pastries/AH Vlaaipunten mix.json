@@ -1,0 +1,18 @@
+{
+    "id": 2522,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Vlaaipunten mix",
+    "price": 4.75,
+    "unit": "6 stuks",
+    "weight": "1 Aantal",
+    "calories": 219.0,
+    "ingredients": "Ingredi\u00ebnten: Kersenvlaai: water, 24% kers, tarwebloem, suiker, palmvet, gemodificeerd ma\u00efszetmeel, bakkersgist, plantaardige olie (raap, palm), glucosestroop, vollemelkpoeder, gejodeerd zout, conserveermiddel (kaliumsorbaat [E202]), kaneel, emulgator (mono- en diglyceriden van vetzuren [E471]),\u00a0geleermiddel (carrageen [E407], pectine [E440]), natuurlijke aroma's (melk), citroensapconcentraat, voedingszuur (citroenzuur [E330]), verdikkingsmiddel (johannesbroodpitmeel [E410]). Abrikozenvlaai: 36% abrikoos, tarwebloem, water,\u00a0suiker, palmvet, bakkersgist, gemodificeerd ma\u00efszetmeel, plantaardige olie (raap, palm), glucosestroop, vollemelkpoeder, gejodeerd zout, emulgator (mono- en diglyceriden van vetzuren [E471]), geleermiddel (carrageen [E407], pectine [E440), natuurlijke aroma's (melk),\u00a0citroensapconcentraat, voedingszuur (citroenzuur [E330]),\u00a0conserveermiddel (kaliumsorbaat [E202]), verdikkingsmiddel (johannesbroodpitmeel [E410]). Appelkruimelvlaai:\u00a0 tarwebloem, 24% appel, water, suiker,\u00a0palmvet, rozijn, bakkersgist,\u00a0dextrose,\u00a0plantaardige olie (raap, zonnebloem), vollemelkpoeder, gemodificeerd ma\u00efszetmeel, tarwezetmeel, melkeiwit,\u00a0rijsmiddel (natriumcarbonaat [E500]), citroensapconcentraat, gejodeerd zout, emulgator (mono- en diglyceriden van vetzuren [E471]), kaneel, voedingszuur (ascorbinezuur [E300]), conserveermiddel (kaliumsorbaat [E202]), zout, natuurlijk boteraroma,\u00a0vanille.\nWaarvan toegevoegde suikers 15g per 100 gram en waarvan toegevoegd zout 0.24g per 100 gram",
+    "lifestyle": 0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2839160839160839,
+    "price sensitivity": -0.2550143266475646
+}

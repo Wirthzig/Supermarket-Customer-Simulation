@@ -1,0 +1,18 @@
+{
+    "id": 3588,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Potatoes",
+    "product": "C\u00ealaV\u00edta Oma's opbak aardappeltjes voordeel",
+    "price": 2.89,
+    "unit": "700 gPrijs per KG \u20ac 4,13",
+    "weight": "700 Gram",
+    "calories": 86.0,
+    "ingredients": "Ingredi\u00ebnten: Aardappelen (Herkomst: EU)",
+    "lifestyle": -0.5,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4583333333333333,
+    "price sensitivity": -0.1325301204819278
+}

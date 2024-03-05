@@ -1,0 +1,18 @@
+{
+    "id": 2792,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Milk",
+    "product": "De Zaanse Hoeve Halfvolle melk",
+    "price": 0.79,
+    "unit": "500 mlPrijs per LT \u20ac 1,58",
+    "weight": "500 Milliliter",
+    "calories": 47.0,
+    "ingredients": "Ingredi\u00ebnten: halfvolle melk*.\nWaarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter\n*Van weidemelk.",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.03333333333333335,
+    "price sensitivity": -0.8126888217522659
+}

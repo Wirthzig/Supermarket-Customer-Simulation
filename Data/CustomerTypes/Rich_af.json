@@ -1,0 +1,19 @@
+{
+  "name": "Rich af",
+  "n": 5,
+  "fraud_probability": 0.05,
+  "time": {"mean": 0, "std": 0.4},
+  "amount": {"mean": 0.5, "std": 0.2},
+  "recipes": {"Spaghetti:": 0.4, "Burger": 0.2, "Risotto": 0.3, "VegRice": 0.4, "Steak": 0.2, "Party": 0.2},
+  "attributes": {
+    "price sensitivity": {"mean": -1, "std": 0},
+    "meat": {"mean": 0, "std": 0.25},
+    "vegetarian": {"mean": 0, "std": 0.25},
+    "vegan": {"mean": 0, "std": 0.25},
+    "lifestyle": {"mean": 1, "std": 0.1},
+    "sustainability": {"mean": 1, "std": 0.1},
+    "pets": {"mean": 0.6, "std": 0.1},
+    "children": {"mean": 0, "std": 0.4}
+  }
+}
+

@@ -1,0 +1,19 @@
+{
+  "name": "Junkie (unhealthy)",
+  "n": 5,
+  "fraud_probability": 0.15,
+  "time": {"mean": 0, "std": 0.25},
+  "amount": {"mean": -0.2, "std": 0.25},
+  "recipes": {"Spaghetti:": 0.3, "Burger": 0.6, "Risotto": 0.1, "VegRice": 0.1, "Steak": 0.4, "Party": 0.5},
+  "attributes":{
+    "price sensitivity": {"mean": -0.4, "std": 0.5},
+    "meat": {"mean": 0.7, "std": 0.25},
+    "vegetarian": {"mean": -0.2, "std": 0.1},
+    "vegan": {"mean": -0.5, "std": 0.1},
+    "lifestyle": {"mean": -0.9, "std": 0.22},
+    "sustainability": {"mean": -0.5, "std": 0.2},
+    "pets": {"mean": -1, "std": 0},
+    "children": {"mean": -1, "std": 0}
+  }
+}
+

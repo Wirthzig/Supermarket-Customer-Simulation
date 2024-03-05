@@ -1,0 +1,18 @@
+{
+    "id": 3783,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Vegetables",
+    "product": "AH Snoepgroente paprikamix",
+    "price": 1.99,
+    "unit": "175 gNormale prijs per KG \u20ac 11,37",
+    "weight": "175 Gram",
+    "calories": 24.0,
+    "ingredients": "Ingredi\u00ebnten: paprika (geel, rood, oranje [in wisselende verhoudingen]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2708333333333333,
+    "price sensitivity": 0.10843373493975883
+}

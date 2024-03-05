@@ -1,0 +1,18 @@
+{
+    "id": 3069,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Gerookte slagersachterham",
+    "price": 2.63,
+    "unit": "ca. 110 gNormale prijs per KG \u20ac 29,90",
+    "weight": "110 Gram",
+    "calories": 164.0,
+    "ingredients": "Ingredi\u00ebnten: 96% varkensvlees, zout, dextrose, voedingszuur (kaliumlactaat [E326], natriumacetaat [E262]), stabilisator (trifosfaat [E451]), gistextract, antioxidant (natriumascorbaat [E301]), rook, conserveermiddel (natriumnitriet [E250]).\nWaarvan toegevoegde suikers 1.0g per 100 gram en waarvan toegevoegd zout 1.60g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.21195039458850057,
+    "price sensitivity": -0.9791976225854383
+}

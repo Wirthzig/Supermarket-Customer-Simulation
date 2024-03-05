@@ -1,0 +1,18 @@
+{
+    "id": 1883,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Coffee",
+    "product": "Senseo Cappucino coffee pads",
+    "price": 3.9,
+    "unit": "8 stuks",
+    "weight": "8 Stuks (piece). 92 Gram",
+    "calories": 37.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, volledig gehard kokosvet, glucosesiroop, instant koffie (14%), MAGERE MELKPOEDER, stabilisator (E340, E452), MELKeiwit, zout, emulgator (E481), antiklontermiddel (E551, E341), aroma.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2605740181268882,
+    "price sensitivity": -0.7021276595744681
+}

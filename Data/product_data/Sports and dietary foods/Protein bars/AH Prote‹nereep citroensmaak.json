@@ -1,0 +1,18 @@
+{
+    "id": 899,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "AH Prote\u00efnereep citroensmaak",
+    "price": 2.49,
+    "unit": "90 gPrijs per KG \u20ac 27,67",
+    "weight": "90 Gram",
+    "calories": 392.0,
+    "ingredients": "Ingredi\u00ebnten: voedingsvezel (inuline), 19% zonnebloemeiwit, 16% pompoenpit, 10% cashewnoot, 10% pinda, dadelpuree, rijstebloem, agavesiroop, rijsteiwit, 0.9% citroenolie, zout.\nWaarvan toegevoegde suikers 7.3g per 100 gram en waarvan toegevoegd zout 0.58g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05063291139240506,
+    "price sensitivity": -0.32999999999999996
+}

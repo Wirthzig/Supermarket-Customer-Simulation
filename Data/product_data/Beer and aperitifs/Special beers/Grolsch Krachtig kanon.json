@@ -1,0 +1,18 @@
+{
+    "id": 1432,
+    "category": "Beer and aperitifs",
+    "sub category": "Special beers",
+    "product": "Grolsch Krachtig kanon",
+    "price": 2.5,
+    "unit": "50 clPrijs per LT \u20ac 4,10",
+    "weight": "50 Centiliter",
+    "calories": 86.0,
+    "ingredients": "Ingredi\u00ebnten: water, GERSTEMOUT,\u00a0glucosestroop en hop.",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06996957844415472,
+    "price sensitivity": -0.8206278026905829
+}

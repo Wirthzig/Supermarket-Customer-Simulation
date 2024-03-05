@@ -1,0 +1,18 @@
+{
+    "id": 3405,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Biologisch Hamburger",
+    "price": 3.69,
+    "unit": "2 stuks",
+    "weight": "200 Gram",
+    "calories": 219.0,
+    "ingredients": "Ingredi\u00ebnten: 93% rundvlees*, water, gebufferd azijn* (conserverend ingredi\u00ebnt), zout, aardappelzetmeel*, specerijen*, tomatenpoeder*, antioxidant (ascorbinezuur [E300], natriumcitraat [E331]), laurier*.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.89g per 100 gram\nEU/niet-EU Landbouw \n*Van biologische oorsprong.",
+    "lifestyle": -0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.15822784810126583,
+    "price sensitivity": -0.7372881355932204
+}

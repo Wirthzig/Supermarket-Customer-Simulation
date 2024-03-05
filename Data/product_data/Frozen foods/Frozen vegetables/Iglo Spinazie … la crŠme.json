@@ -1,0 +1,18 @@
+{
+    "id": 722,
+    "category": "Frozen foods",
+    "sub category": "Frozen vegetables",
+    "product": "Iglo Spinazie \u00e0 la cr\u00e8me",
+    "price": 1.49,
+    "unit": "500 gPrijs per KG \u20ac 2,98",
+    "weight": "500 Gram",
+    "calories": 55.0,
+    "ingredients": "Ingredi\u00ebnten: Gehakte spinazie 84%, water, room (MELK) 2%, magere MELKpoeder, koolzaadolie, TARWEbloem, weipoeder (MELK), zout, tapiocazetmeel, suiker, specerijen.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1111111111111111,
+    "price sensitivity": -0.6120906801007557
+}

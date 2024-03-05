@@ -1,0 +1,18 @@
+{
+    "id": 2660,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "Lurpak Roomboter gezouten",
+    "price": 3.59,
+    "unit": "200 gPrijs per KG \u20ac 17,95",
+    "weight": "200 Gram",
+    "calories": 739.0,
+    "ingredients": "Ingredi\u00ebnten: Room (MELK), zuursel (MELK), zout",
+    "lifestyle": -0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5,
+    "price sensitivity": -0.6299093655589124
+}

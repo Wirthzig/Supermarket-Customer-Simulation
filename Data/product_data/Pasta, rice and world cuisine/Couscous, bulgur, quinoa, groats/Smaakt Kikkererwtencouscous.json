@@ -1,0 +1,18 @@
+{
+    "id": 1260,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Couscous, bulgur, quinoa, groats",
+    "product": "Smaakt Kikkererwtencouscous",
+    "price": 3.49,
+    "unit": "340 gNormale prijs per KG \u20ac 10,26",
+    "weight": "340 Gram",
+    "calories": 360.0,
+    "ingredients": "Ingredi\u00ebnten: Kikkererwtenmeel*, *=biologisch\n\nKan sporen bevatten van andere glutenbevattende granen, pinda's (aardnoten), noten, sesamzaad.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.4680851063829787,
+    "price sensitivity": -0.6031746031746033
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3189,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Zalmfilet",
+    "price": 16.99,
+    "unit": "ca. 580 gPrijs per KG \u20ac 29,29",
+    "weight": "600 Gram",
+    "calories": 220.0,
+    "ingredients": "Ingredi\u00ebnten: zalm.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 1.0,
+    "price sensitivity": -0.8906329113924051
+}

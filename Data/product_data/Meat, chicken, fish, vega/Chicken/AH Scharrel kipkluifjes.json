@@ -1,0 +1,18 @@
+{
+    "id": 3294,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel kipkluifjes",
+    "price": 3.49,
+    "unit": "500 gPrijs per KG \u20ac 6,98",
+    "weight": "500 Gram",
+    "calories": 203.0,
+    "ingredients": "Ingredi\u00ebnten: 100% kippenvleugel.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.5,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14556962025316458,
+    "price sensitivity": -0.9286075949367089
+}

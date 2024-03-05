@@ -1,0 +1,18 @@
+{
+    "id": 2096,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "AH Tum tum",
+    "price": 1.39,
+    "unit": "300 gPrijs per KG \u20ac 4,63",
+    "weight": "300 Gram",
+    "calories": 342.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, glucosestroop, water, varkensgelatine, voedingszuur (citroenzuur [E330]), zetmeel (tarwe, ma\u00efs), cacaomassa\u00b0, kleurend concentraat (saffloer, zwarte bes, spirulina, wortel, rode biet, citroen, appel, radijs), natuurlijke aroma's, zuurteregelaar (natriumcitraat [E331]), glansmiddel (bijenwas [E901], carnaubawas [E903]), plantaardige olie (kokos, raap), emulgator (sojalecithine\u00a0[E322]), kleurstof (curcumine [E100], paprika-extract [E160c]), geleermiddel (arabische gom [E414]).\nWaarvan toegevoegde suikers gemiddeld 67g per 100 gram en waarvan toegevoegd zout gemiddeld 0.00g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13135593220338979,
+    "price sensitivity": -0.3507109004739336
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3829,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Vegetables",
+    "product": "AH Boerenkool",
+    "price": 2.0,
+    "unit": "300 gNormale prijs per KG \u20ac 6,67",
+    "weight": "300 Gram",
+    "calories": 33.0,
+    "ingredients": "Ingredi\u00ebnten: boerenkool.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.27291666666666664,
+    "price sensitivity": -0.32530120481927716
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2140,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Gangmakers",
+    "price": 1.89,
+    "unit": "230 gNormale prijs per KG \u20ac 8,22",
+    "weight": "230 Gram",
+    "calories": 455.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, tarwebloem, plantaardig vet (palm, shea, kokos), vrije-uitloopei, plantaardige olie (raap, zonnebloem), cichoreivezel, glucose-fructosestroop, 2,8% framboos, magerecacaopoeder\u00b0, bevochtigingsmiddel (glycerol [E422]), emulgator (mono- en diglyceriden van vetzuren [E471], natriumstearoyl-2-lactylaat [E481], sojalecithine\u00a0[E322]), tarwezetmeel, rijsmiddel (difosfaat [E450], natriumcarbonaat [E500]), vrije-uitloopeipoeder, verdikkingsmiddel (cellulosegom [E466],\u00a0pectine [E440]), vrije-uitloopei-eiwitpoeder, conserveermiddel (kaliumsorbaat [E202], calciumpropionaat [E282]), zout, natuurlijke aroma's (melk), zuurteregelaar (calciumchloride [E509], kaliumcitraat [E332]), voedingszuur (citroenzuur [E330], melkzuur [E270]), vegetarisch weipoeder, natuurlijk vanillearoma, stabilisator (sorbitaantristearaat [E492]), kleurend vlierbessenconcentraat.\nWaarvan toegevoegde suikers 36g per 100 gram en waarvan toegevoegd zout 0.18g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2372881355932203,
+    "price sensitivity": -0.45833333333333337
+}

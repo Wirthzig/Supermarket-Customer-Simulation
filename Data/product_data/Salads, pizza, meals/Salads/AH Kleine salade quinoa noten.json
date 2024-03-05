@@ -1,0 +1,18 @@
+{
+    "id": 3565,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Kleine salade quinoa noten",
+    "price": 3.9,
+    "unit": "205 gPrijs per KG \u20ac 15,07",
+    "weight": "205 Gram",
+    "calories": 190.0,
+    "ingredients": "Ingredi\u00ebnten: groente (12% wortel, 10% tuinerwt, 8,2% broccoli), water, 12%\u00a0sojaboon, quinoa, plantaardige olie (zonnebloem, olijf), pompoenpit, 3,7%\u00a0pistachenoot, 3,5%\u00a0amandel, azijn, suiker, korianderblad, natuurlijk aroma, specerijenextract, zout, paprikapureeconcentraat, 0,1% gember, knoflook, limoenconcentraat,\u00a0glutenvrije tarwe, citroensap, 0,06%\u00a0sesamolie, 0,04%\u00a0sesamzaad, stabilisator (xanthaangom [E415], guarpitmeel [E412]), conserveermiddel (kaliumsorbaat [E202], natriumbenzoaat [E211]), voedingszuur (citroenzuur [E330]).\n\nWaarvan toegevoegde suikers 1.1g per 100 gram en waarvan toegevoegd zout 0.25g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.34032258064516124,
+    "price sensitivity": -0.20481927710843373
+}

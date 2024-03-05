@@ -1,0 +1,18 @@
+{
+    "id": 2943,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "Los Taqueros Empanadas rund",
+    "price": 3.75,
+    "unit": "10 stuks",
+    "weight": "10 Stuks (piece)",
+    "calories": 253.0,
+    "ingredients": "Ingredi\u00ebnten: 36% TARWEBLOEM, water, 14% gegaard rundvlees, paprika, room (MELK), ui, shea butter, plantaardige oli\u00ebn (kokos, koolzaad, zonnebloem), zout, chilipeper, EI-EIWITPOEDER, EIGEELPOEDER,\nzuurteregelaar (kaliumacetaat), gemodificeerd zetmeel, kruiden, MELKPOEDER, specerijen, knoflook, voedingszuur (citroenzuur), emulgatoren (mono- en diglyceriden van vetzuren, zonnebloemlecithine), MELKEIWIT, verdikkingsmiddel (methylcellulose), LACTOSE (MELK), zetmeel, stabilisator (carrageen), rijsmiddelen (dinatriumdifosfaat, natriumwaterstofcarbonaat), azijn, TARWEMOUTMEEL, meelverbeteraar (ascorbinezuur), conserveermiddel (kaliumsorbaat), glucosestroop, maltodextrine",
+    "lifestyle": 0.2,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.33821871476888393,
+    "price sensitivity": -0.8900445765230312
+}

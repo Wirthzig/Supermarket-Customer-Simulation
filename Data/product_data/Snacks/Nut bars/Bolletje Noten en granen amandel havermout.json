@@ -1,0 +1,18 @@
+{
+    "id": 1970,
+    "category": "Snacks",
+    "sub category": "Nut bars",
+    "product": "Bolletje Noten en granen amandel havermout",
+    "price": 2.19,
+    "unit": "120 gPrijs per KG \u20ac 18,25",
+    "weight": "120 Gram",
+    "calories": 418.0,
+    "ingredients": "Ingredi\u00ebnten: 38% HAVERMOUT, plantaardige vezels, pompoenpitten, geconcentreerd dadelsap, 8% geroosterde AMANDELEN, gepofte GERST, plantaardige oli\u00ebn (palm, raap), geroosterde zonnebloempitten, stabilisator (glycerol), emulgator (zonnebloemlecithine). Kan sporen bevatten van andere glutenbevattende granen en andere noten.",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.25787965616045844,
+    "price sensitivity": -0.6276595744680852
+}

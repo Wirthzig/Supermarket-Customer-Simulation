@@ -1,0 +1,18 @@
+{
+    "id": 2925,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Gehaktballetjes Indisch",
+    "price": 2.75,
+    "unit": "110 gPrijs per KG \u20ac 25,00",
+    "weight": "110 Gram",
+    "calories": 297.0,
+    "ingredients": "Ingredi\u00ebnten: 69% varkensvlees, 10% rundvlees, aardappelzetmeel, gedroogde groente (ui, prei, rode paprika), specerijen, bamboevezel, melasse, suiker, zout, voedingszuur (kaliumlactaat [E326], natriumacetaat [E262], azijnzuur [E260]), aroma, rijstebloem, natuurlijk aroma, gehydrolyseerd raapeiwit, dextrose, plantaardige olie (raap, zonnebloem), azijn, gistextract, gefermenteerde sojaboon, maltodextrine, mosterdmeel, gekaramelliseerde suiker.\nWaarvan toegevoegde suikers 3.4g per 100 gram en waarvan toegevoegd zout 1.10g per 100 gram",
+    "lifestyle": 0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.22547914317925594,
+    "price sensitivity": -0.8900445765230312
+}

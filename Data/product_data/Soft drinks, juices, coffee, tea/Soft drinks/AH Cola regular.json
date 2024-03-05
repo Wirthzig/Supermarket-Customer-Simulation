@@ -1,0 +1,18 @@
+{
+    "id": 1624,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "AH Cola regular",
+    "price": 0.89,
+    "unit": "1,5 lPrijs per LT \u20ac 0,59",
+    "weight": "1.5 Liter",
+    "calories": 40.0,
+    "ingredients": "Ingredi\u00ebnten: koolzuurhoudend water, suiker, natuurlijk aroma, kleurstof (sulfiet-ammoniakkaramel [E150d]), voedingszuur (fosforzuur [E338]), aroma (cafe\u00efne).\nWaarvan toegevoegde suikers 9.7g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.03323262839879154,
+    "price sensitivity": -0.7974683544303798
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1102,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "AH Ananasstukjes op sap",
+    "price": 1.13,
+    "unit": "227 gPrijs per KG \u20ac 8,07",
+    "weight": "227 Gram",
+    "calories": 57.0,
+    "ingredients": "Ingredi\u00ebnten: ananas, ananassap.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.050520059435364036,
+    "price sensitivity": -0.8653667595171773
+}

@@ -1,0 +1,18 @@
+{
+    "id": 870,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "AH Vrieslollies",
+    "price": 0.81,
+    "unit": "10 stuks",
+    "weight": "500 Milliliter",
+    "calories": 56.0,
+    "ingredients": "Ingredi\u00ebnten: water, suiker, zuurteregelaar (citroenzuur [E330]), natuurlijke aroma's.\nWaarvan toegevoegde suikers 14g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.021164021164021166,
+    "price sensitivity": -0.8
+}

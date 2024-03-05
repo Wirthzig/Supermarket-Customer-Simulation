@@ -1,0 +1,18 @@
+{
+    "id": 3357,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel kipschnitzel 2 stuks",
+    "price": 3.19,
+    "unit": "205 gPrijs per KG \u20ac 15,56",
+    "weight": "205 Gram",
+    "calories": 240.0,
+    "ingredients": "Ingredi\u00ebnten: 55% kippenvlees, tarwebloem, 15% water, zonnebloemolie, zetmeel (tarwe, ma\u00efs), zout, specerijen, gist, voedingszuur (citroenzuur [E330]), specerijenextract, poeder (pastinaak, peterseliewortel).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.03g per 100 gram",
+    "lifestyle": 0.5,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12658227848101267,
+    "price sensitivity": -0.5254237288135595
+}

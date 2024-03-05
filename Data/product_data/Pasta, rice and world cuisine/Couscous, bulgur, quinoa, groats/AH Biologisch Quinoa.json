@@ -1,0 +1,18 @@
+{
+    "id": 1283,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Couscous, bulgur, quinoa, groats",
+    "product": "AH Biologisch Quinoa",
+    "price": 2.99,
+    "unit": "400 gPrijs per KG \u20ac 7,48",
+    "weight": "400 Gram",
+    "calories": 381.0,
+    "ingredients": "Ingredi\u00ebnten: quinoa*.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n*Van biologische oorsprong. \nNiet-EU Landbouw",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.37943262411347517,
+    "price sensitivity": -0.8571428571428572
+}

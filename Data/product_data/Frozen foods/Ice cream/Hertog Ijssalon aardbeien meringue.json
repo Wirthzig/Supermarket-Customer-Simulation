@@ -1,0 +1,18 @@
+{
+    "id": 830,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Hertog Ijssalon aardbeien meringue",
+    "price": 4.19,
+    "unit": "900 mlPrijs per LT \u20ac 4,66",
+    "weight": "900 Milliliter. 500 Gram",
+    "calories": 179.0,
+    "ingredients": "Ingredi\u00ebnten: Gerehydrateerde magere MELK, suiker, aardbeienpuree (10%), water, glucosestroop, glucose-fructosestroop, kokosolie, LACTOSE en MELKEIWITTEN, magere MELKPOEDER of -concentraat, gemodificeerd zetmeel, cacaoboter, stabilisatoren (guargom, johannesbroodpitmeel, carrageen, Arabische gom), emulgatoren (mono- en diglyceriden van vetzuren, polyglycerolpolyricinoleaat), geconcentreerd rode bietensap, geconcentreerd citroensap, magere MELK, geconcentreerd wortelsap, aroma's, zuurteregelaar (citroenzuur), geconcentreerd vlierbessensap, EI-EIWIT, TARWEZETMEEL, glansmiddel (schellak), kleurstof (curcumine), vanille-extract. Kan noten, soja bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4682539682539683,
+    "price sensitivity": -0.5799999999999998
+}

@@ -1,0 +1,18 @@
+{
+    "id": 792,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "AH Oven kroket",
+    "price": 2.49,
+    "unit": "320 gPrijs per KG \u20ac 7,78",
+    "weight": "320 Gram",
+    "calories": 269.0,
+    "ingredients": "Ingredi\u00ebnten: water, paneermeel (tarwe), 19% rundvlees, plantaardige olie (zonnebloem, palm, raap),\u00a0tarwebloem, scharreleigeel,\u00a0room, rundergelatine, zout, gistextract, emulgator (hydroxypropylmethylcellulose [E464], cellulosegom [E466], mono- en diglyceriden van vetzuren [E471]), specerijen (o.a.\u00a0selderij), gehydrolyseerd\u00a0soja-eiwit, gedroogde glucosestroop, suiker, dextrose, stabilisator (methylcellulose [E461], difosfaat [E450], carrageen [E407]), ma\u00efszetmeel, aroma, zeezout, kruiden, suikerstroop, citroensap,\u00a0tarwegluten,\u00a0tarwe, maltodextrine,\u00a0sojaboon, rundvleesextract, palmvet, rundvleespoeder, verdikkingsmiddel (xanthaangom [E415], guarpitmeel [E412]), kleurstof (karamel [E150a]), gekaramelliseerde suiker, aardappelzetmeel, zuurteregelaar (natriumcarbonaat [E500]).\nWaarvan toegevoegde suikers 0.8g per 100 gram en waarvan toegevoegd zout 1.13g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2433862433862434,
+    "price sensitivity": -0.6120906801007557
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2446,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Naanbrood",
+    "price": 1.89,
+    "unit": "240 gPrijs per KG \u20ac 7,88",
+    "weight": "240 Gram",
+    "calories": 253.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, raapolie, gist, natuurazijn, specerijen, rijsmiddel (difosfaat [E450], natriumcarbonaat [E500], calciumfosfaat [E341]), zout, mineralen (calcium, ijzer), conserveermiddel (calciumpropionaat [E282]), tarwezetmeel, vitaminen (B1, B3).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.33g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0839160839160839,
+    "price sensitivity": -0.2550143266475646
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3053,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "Kips Vega pat vol en smeuig",
+    "price": 2.35,
+    "unit": "125 gPrijs per KG \u20ac 18,80",
+    "weight": "125 Gram",
+    "calories": 261.0,
+    "ingredients": "Ingredi\u00ebnten: gerehydrateerd SOJA-EIWIT 33%, plantaardige oli\u00ebn (zonnebloem, kokos), gerehydrateerd erwteneiwit 17%, groenten 16% (ui, rode biet, wortelpuree, rode paprika), maltodextrine, water, gemodificeerd ma\u00efszetmeel, zout, geconcentreerde tomatenpuree, gehydrolyseerd ma\u00efs eiwit, specerijen, dextrose, antioxidanten: E300, E301, champignon extract, gistextract. E = Door de EU goedgekeurde hulpstof.",
+    "lifestyle": 0.2,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.18038331454340475,
+    "price sensitivity": -0.9494799405646359
+}

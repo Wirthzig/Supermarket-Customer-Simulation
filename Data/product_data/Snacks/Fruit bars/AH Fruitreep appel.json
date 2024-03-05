@@ -1,0 +1,18 @@
+{
+    "id": 2019,
+    "category": "Snacks",
+    "sub category": "Fruit bars",
+    "product": "AH Fruitreep appel",
+    "price": 1.39,
+    "unit": "216 gPrijs per KG \u20ac 6,44",
+    "weight": "216 Gram",
+    "calories": 393.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, suiker, fructo-oligosaccharide, bevochtigingsmiddel (glycerol [E422]), plantaardige olie (palm, raap, palmpit, zonnebloem),\u00a0havermout, glucose-fructosestroop, invertsuikerstroop, suikerrietvezel,\u00a0tarwezetmeel, 1,8% appelsapconcentraat, 1,8% appelpureeconcentraat, dextrose,\u00a0scharrelei, kokosvet, geleermiddel (pectine [E440]), voedingszuur (citroenzuur [E330], appelzuur [E296]), zuurteregelaar (calciumcitraat [E333], natriumcitraat [E331]), zout, natuurlijk aroma, mageremelkpoeder,\u00a0melkeiwit, rijsmiddel (natriumcarbonaat [E500]), vanillearoma.\nWaarvan toegevoegde suikers 28g per 100 gram en waarvan toegevoegd zout 0.17g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.028653295128939788,
+    "price sensitivity": -0.3033175355450237
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2958,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Zalmrolletjes met roomkaas",
+    "price": 3.75,
+    "unit": "80 gPrijs per KG \u20ac 46,88",
+    "weight": "80 Gram",
+    "calories": 262.0,
+    "ingredients": "Ingredi\u00ebnten: 56% zalm, 42% roomkaas, zout, azijn, gebufferd azijnpoeder (conserverend ingredi\u00ebnt), glutenvrij tarwezetmeel, voedingszuur (difosfaat [E450], citroenzuur [E330]), rook, water, conserveermiddel (kaliumsorbaat [E202]), verdikkingsmiddel (methylcellulose [E461]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.63g per 100 gram",
+    "lifestyle": 0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.33821871476888393,
+    "price sensitivity": -0.7265973254086182
+}

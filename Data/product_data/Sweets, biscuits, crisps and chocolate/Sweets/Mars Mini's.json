@@ -1,0 +1,18 @@
+{
+    "id": 2082,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "Mars Mini's",
+    "price": 3.49,
+    "unit": "333 gPrijs per KG \u20ac 10,48",
+    "weight": "17 Stuks (piece). 333 Gram",
+    "calories": 444.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, glucosestroop, volle MELKPOEDER, cacaoboter, cacaomassa, zonnebloemolie, magere MELKPOEDER, LACTOSE, weipermeaat (van MELK), magere cacao, GERSTEMOUTEXTRACT, botervet (van MELK), zout, emulgator (SOJALECITHINE), KIPPENEI-EIWITPOEDER, palmvet, zetmeel. (Kan bevatten: HAZELNOOT, PINDA).",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.576271186440678,
+    "price sensitivity": -0.3507109004739336
+}

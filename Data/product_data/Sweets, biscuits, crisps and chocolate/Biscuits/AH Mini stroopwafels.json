@@ -1,0 +1,18 @@
+{
+    "id": 2122,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Mini stroopwafels",
+    "price": 2.27,
+    "unit": "300 gPrijs per KG \u20ac 7,57",
+    "weight": "300 Gram",
+    "calories": 466.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 24% glucose-fructosestroop, suiker, 14% roomboter, palmvet, 4% suikerstroop, tarwevezel, sojabloem, raapolie, zout, emulgator (sojalecithine\u00a0[E322], mono- en diglyceriden van vetzuren [E471]), rijsmiddel (natriumcarbonaat [E500]), kaneel, Bourbonvanille, voedingszuur (citroenzuur [E330]).\nWaarvan toegevoegde suikers 31g per 100 gram en waarvan toegevoegd zout 0.50g per 100 gram",
+    "lifestyle": 0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.31779661016949146,
+    "price sensitivity": -0.8720379146919431
+}

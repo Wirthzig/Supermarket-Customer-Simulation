@@ -1,0 +1,18 @@
+{
+    "id": 797,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "AH Sat\u00e9 ajam",
+    "price": 1.19,
+    "unit": "160 gPrijs per KG \u20ac 7,44",
+    "weight": "160 Gram",
+    "calories": 230.0,
+    "ingredients": "Ingredi\u00ebnten: water, 30% kippenvlees, 17% pinda, suiker, gehydrolyseerd soja-eiwit, tomatenpuree, tarwevezel, ma\u00efszetmeel, zout, chilipeper, suikerstroop, azijn, melasse, volkorentarwemeel, tarwebloem, dextrose, gekaramelliseerde suiker, specerijen, glucose-fructosestroop, stabilisator (difosfaat [E450], natriumfosfaat [E339], trifosfaat [E451]), sojaboon, tarwe, invertsuikerstroop, gemodificeerd ma\u00efszetmeel, gistextract, natuurlijke aroma's, gist, zuurteregelaar (citroenzuur [E330]), zonnebloemolie, zoethoutextract, conserveermiddel (kaliumsorbaat [E202], natriumbenzoaat [E211]).\nWaarvan toegevoegde suikers 9.3g per 100 gram en waarvan toegevoegd zout 0.78g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.07142857142857141,
+    "price sensitivity": -0.7380352644836272
+}

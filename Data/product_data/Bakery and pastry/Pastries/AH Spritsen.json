@@ -1,0 +1,18 @@
+{
+    "id": 2554,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Spritsen",
+    "price": 2.46,
+    "unit": "10 stuks",
+    "weight": "800 Gram",
+    "calories": 477.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 29% roomboter, suiker, water, kleurstof (caroteen [E160a]), gejodeerd zout, weipoeder.\nWaarvan toegevoegde suikers 25g per 100 gram en waarvan toegevoegd zout 0.01g per 100 gram",
+    "lifestyle": -0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12377622377622377,
+    "price sensitivity": -0.3696275071633238
+}

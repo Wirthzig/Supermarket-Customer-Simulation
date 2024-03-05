@@ -1,0 +1,18 @@
+{
+    "id": 3367,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Kipreepjes",
+    "price": 3.49,
+    "unit": "200 gPrijs per KG \u20ac 17,45",
+    "weight": "200 Gram",
+    "calories": 103.0,
+    "ingredients": "Ingredi\u00ebnten: 76% kippenvlees, water, aardappelzetmeel, voedingszuur (natriumlactaat [E325]), zout, emulgator (trifosfaat (E451), conserveermiddel (natriumacetaat [E262], natriumnitriet [E250]), dextrose, antioxidant (natriumascorbaat [E301]).\nWaarvan toegevoegde suikers 0.10g per 100 gram en waarvan toegevoegd zout 1.39g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14556962025316458,
+    "price sensitivity": -0.22881355932203407
+}

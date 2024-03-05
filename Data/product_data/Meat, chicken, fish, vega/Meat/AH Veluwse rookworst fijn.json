@@ -1,0 +1,18 @@
+{
+    "id": 3396,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Veluwse rookworst fijn",
+    "price": 2.99,
+    "unit": "280 gNormale prijs per KG \u20ac 12,46",
+    "weight": "280 Gram",
+    "calories": 375.0,
+    "ingredients": "Ingredi\u00ebnten: 91% varkensvlees\u00a0 (Beter Leven 1 ster), varkensvet (Beter Leven 1 ster), zout, specerijen, antioxidant (ascorbinezuur, E301), voedingszuur (citroenzuur, E262), rodebietenpoeder, gedroogde glucosestroop, dextrose, natuurlijk aroma, varkenscollageen, rook, zuurteregelaar (E575), conserveermiddel (E250), stabilisator (E450).\nWaarvan toegevoegde suikers 0.9g per 100 gram",
+    "lifestyle": 0.2,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11392405063291142,
+    "price sensitivity": -0.31355932203389836
+}

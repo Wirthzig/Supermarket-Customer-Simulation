@@ -1,0 +1,18 @@
+{
+    "id": 3013,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Ardenner boterhamworst",
+    "price": 1.96,
+    "unit": "ca. 120 gPrijs per KG \u20ac 16,58",
+    "weight": "118 Gram",
+    "calories": 277.0,
+    "ingredients": "Ingredi\u00ebnten: 74% varkensvlees\u00aa, water, aardappelzetmeel, zout, varkensspek\u00aa, varkenseiwit, stabilisator (trifosfaat [E451], difosfaat [E450]), specerijen, lavas, dieetzout (kaliumchloride), glucosestroop, dextrose, natuurlijk aroma, aroma, gistextract, chicoreivezel, antioxidant (natriumascorbaat [E301]), zuurteregelaar (kaliumacetaat [E261], kaliumlactaat [E326], glucono-delta-lacton [E575]), conserveermiddel (natriumnitriet [E250]), rook. \u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.2g per 100 gram en waarvan toegevoegd zout 1.80g per 100 gram",
+    "lifestyle": 0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13641488162344984,
+    "price sensitivity": -0.9643387815750372
+}

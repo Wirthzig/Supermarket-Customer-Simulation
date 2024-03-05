@@ -1,0 +1,18 @@
+{
+    "id": 3545,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Maaltijdsalade mango hazelnoten",
+    "price": 5.89,
+    "unit": "400 gPrijs per KG \u20ac 14,73",
+    "weight": "400 Gram",
+    "calories": 158.0,
+    "ingredients": "Ingredi\u00ebnten: groente (21% krulsla, 9,7% komkommer, 7,8% rode kool, 6,9% radijs), mango, water, 7,5%\u00a0hazelnoot\u00ba, plantaardige olie (raap, zonnebloem),\u00a0spelt\u00a0(tarwe), 1,4% gedroogde cranberry, suiker, 0,9% citroenazijn, ma\u00efsvezel, zout, 0,2% limoensapconcentraat, 0,2% maanzaad, specerijen (o.a. 0,05% chili), gebufferd azijnpoeder\u00a0(conserverend ingredi\u00ebnt), natuurlijk aroma, verdikkingsmiddel (xanthaangom [E415]), extract van paprika.\nWaarvan toegevoegde suikers 1.3g per 100 gram en waarvan toegevoegd zout 0.21g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6612903225806451,
+    "price sensitivity": -0.18644067796610186
+}

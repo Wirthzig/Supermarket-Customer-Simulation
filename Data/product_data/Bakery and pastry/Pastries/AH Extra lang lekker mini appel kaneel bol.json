@@ -1,0 +1,18 @@
+{
+    "id": 2575,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Extra lang lekker mini appel kaneel bol",
+    "price": 2.79,
+    "unit": "9 stuks",
+    "weight": "360 Gram",
+    "calories": 279.0,
+    "ingredients": "Ingredi\u00ebnten: volkoren\u00a0tarwemeel,\u00a0tarwebloem, water, 16% gedroogde appel,\u00a0tarwegluten, gist, 2,8% appelpuree uit concentraat, dextrose, raapolie, glucose-fructosestroop,\u00a0weipoeder, emulgator (mono- en diglyceriden van vetzuren [E471], natriumstearoyl-2-lactylaat [E481], mono- en diglyceriden van vetzuren, veresterd met monoacetyl- en diacetylwijnsteenzuur [E472e]), gejodeerd zout, glucosestroop,\u00a0roggemeel, suiker, stabilisator (glycerol [E422]),\u00a0tarwevezel,\u00a0tarwekiem, 0,1% kaneel,\u00a0melkeiwit, geleermiddel (pectine [E440]), voedingszuur (citroenzuur [E330]), palmvet, antioxidant (ascorbinezuur [E300]), aroma, moutmeel\u00a0(tarwe, gerst), conserveermiddel (sorbinezuur [E200], natriumdisulfiet\u00a0[E223]), erwteneiwit, maltodextrine.\nWaarvan toegevoegde suikers 3.5g per 100 gram en waarvan toegevoegd zout 0.85g per 100 gram",
+    "lifestyle": 0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14685314685314685,
+    "price sensitivity": -0.797583081570997
+}

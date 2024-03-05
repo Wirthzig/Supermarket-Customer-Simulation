@@ -1,0 +1,18 @@
+{
+    "id": 2020,
+    "category": "Snacks",
+    "sub category": "Fruit bars",
+    "product": "Liga Haverkick appelsmaak",
+    "price": 2.39,
+    "unit": "200 gNormale prijs per KG \u20ac 11,95",
+    "weight": "200 Gram",
+    "calories": 393.0,
+    "ingredients": "Ingredi\u00ebnten: HAVERMEEL 39 %, vulling 36 % met fruit [glucose-fructosestroop, appelpuree 11 %, bevochtigingsmiddel (glycerol), rozijnen 2,5 %, suiker, appelblokjes 1 %, verdikkingsmiddel (gemodificeerd zetmeel), geleermiddel (pectinen), kaneel, zuurteregelaars (calciumcitraten, natriumcitraten), voedingszuren (appelzuur, citroenzuur), appelaroma], suiker, koolzaadolie, glucosestroop, SESAMZAADJES, mineralen (calciumcarbonaat, elementair ijzer), zout, kaneel, aroma's, emulgator (SOJALECITHINEN), vitamine B6, zonnebloemolie, TARWEBLOEM. KAN BEVATTEN: EI, MELK.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3151862464183381,
+    "price sensitivity": -0.6113744075829384
+}

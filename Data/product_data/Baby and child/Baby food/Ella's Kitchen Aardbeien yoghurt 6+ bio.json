@@ -1,0 +1,18 @@
+{
+    "id": 423,
+    "category": "Baby and child",
+    "sub category": "Baby food",
+    "product": "Ella's Kitchen Aardbeien yoghurt 6+ bio",
+    "price": 1.49,
+    "unit": "90 gPrijs per KG \u20ac 16,56",
+    "weight": "90 Gram",
+    "calories": 88.0,
+    "ingredients": "Ingredi\u00ebnten: 37% Griekse stijl yoghurt (MELK)*, 30% aardbeien*, 22% bananen*, 10% appels*,1% rijstzetmeel*, een beetje geconcentreerd citroensap*. * = biologisch",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.02097902097902098,
+    "price sensitivity": 0.09433962264150919
+}

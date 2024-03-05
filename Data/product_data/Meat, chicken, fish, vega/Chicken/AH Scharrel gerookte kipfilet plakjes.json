@@ -1,0 +1,18 @@
+{
+    "id": 3281,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel gerookte kipfilet plakjes",
+    "price": 3.28,
+    "unit": "ca. 155 gPrijs per KG \u20ac 21,19",
+    "weight": "150 Gram",
+    "calories": 115.0,
+    "ingredients": "Ingredi\u00ebnten: 94% kipfilet, specerijenextract, zout, dextrose, specerijen, poeder (pastinaak, peterseliewortel), rook.\nWaarvan toegevoegde suikers 0.8g per 100 gram en waarvan toegevoegd zout 1.35g per 100 gram",
+    "lifestyle": 0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13227848101265824,
+    "price sensitivity": -0.9443037974683545
+}

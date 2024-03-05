@@ -1,0 +1,18 @@
+{
+    "id": 3483,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Stamppot hutspot hachee",
+    "price": 4.49,
+    "unit": "500 gPrijs per KG \u20ac 8,98",
+    "weight": "500 Gram",
+    "calories": 95.0,
+    "ingredients": "Ingredi\u00ebnten: groente (27% wortel, 15% ui), 23% aardappel, 11% rundvlees, water, gerehydrateerde volle\u00a0melk, 2,8% aardappelvlok, suiker,\u00a0roomboter, raapolie, zetmeel (ma\u00efs, rijst, aardappel), zeezout, azijn,\u00a0tarwebloem, sapconcentraat (peer, appel), zout, runderbouillon, kaliumchloride\u00a0(dieetzout), specerijen (o.a. ui\u00a0[sulfiet,\u00a0mosterd]), rodewijnazijn, knoflook\u00a0(sulfiet), kleurstof (karamel [E150a]), emulgator (mono- en diglyceriden van vetzuren [E471]), gistextract, extract (specerijen, wortel, tomaat), maltodextrine, laurier, geleermiddel (pectine [E440]), antioxidant (natriumwaterstofsulfiet\u00a0[E222], extracten van rozemarijn [E392]).\nWaarvan toegevoegde suikers 1.9g per 100 gram en waarvan toegevoegd zout 0.70g per 100 gram",
+    "lifestyle": -0.9,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.43548387096774194,
+    "price sensitivity": -0.652542372881356
+}

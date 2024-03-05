@@ -1,0 +1,18 @@
+{
+    "id": 842,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Hertog Ijssalon mini aardbeien meringue",
+    "price": 1.69,
+    "unit": "200 mlPrijs per LT \u20ac 8,45",
+    "weight": "200 Milliliter",
+    "calories": 179.0,
+    "ingredients": "Ingredi\u00ebnten: Gerehydrateerde magere MELK, suiker, aardbeienpuree (11%), glucosestroop, glucose-fructosestroop, water, kokosolie, geconcentreerde MELKEIWITTEN en LACTOSE, geconcentreerde magere MELK, emulgator (mono- en diglyceriden van vetzuren), stabilisatoren (johannesbroodpitmeel, guargom, carrageen), geconcentreerd rode bietensap, geconcentreerd citroensap, geconcentreerd wortelsap, TARWEBLOEM, natuurlijke aroma\u2019s, zuurteregelaar (citroenzuur), vlierbessenextract, gemodificeerd zetmeel, TARWEZETMEEL, kleurstof (curcumine), MELKEIWIT, EI-EIWIT. Kan noten, soja bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13756613756613756,
+    "price sensitivity": 0.4666666666666668
+}

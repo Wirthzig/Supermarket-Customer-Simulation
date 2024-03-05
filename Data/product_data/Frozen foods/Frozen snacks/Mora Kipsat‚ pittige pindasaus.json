@@ -1,0 +1,18 @@
+{
+    "id": 786,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "Mora Kipsat\u00e9 pittige pindasaus",
+    "price": 2.49,
+    "unit": "160 gPrijs per KG \u20ac 15,56",
+    "weight": "160 Gram",
+    "calories": 182.0,
+    "ingredients": "Ingredi\u00ebnten:\nWater, kippenvlees 28% (kipfilet), PINDAkaas (PINDA, arachideolie), ui, ketjap (water, melasse, suiker, zout, gemodificeerd ma\u00efszetmeel, SOJAsaus [water, SOJAbonen, TARWE, zout, azijn]), suiker, sambal manis (sambal [rode peper, zout], melasse, water, gefrituurde ui [ui, palmolie, TARWEbloem, zout], suiker, SOJAsaus [water, SOJAbonen, TARWE, zout], gemodificeerd ma\u00efszetmeel, kruiden en specerijen, zout, natuurlijk aroma, weipoeder (bevat MELK), plantaardige olie (raap), SOJA-eiwit concentraat, zout, gemodificeerd ma\u00efszetmeel, knoflook, natuurlijk aroma (bevat SELDERIJ), SOJAsaus (water, SOJAbonen, TARWE, zout), maltodextrine, citroensap, emulgatoren: E450, E451 en E452, kruiden en specerijen, TARWEbloem, gekarameliseerde suiker, specerij-extract, aardappelzetmeel.\nKan sporen van EI bevatten.\n\"E\"-nummers zijn door de EU goedgekeurde hulpstoffen.\n36% Vleessamenstelling (samengesteld uit stukjes vlees) / 64% pindasaus.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2433862433862434,
+    "price sensitivity": -0.6977329974811084
+}

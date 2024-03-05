@@ -1,0 +1,18 @@
+{
+    "id": 2074,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "Haribo Bananas",
+    "price": 1.95,
+    "unit": "240 gPrijs per KG \u20ac 8,13",
+    "weight": "240 Gram",
+    "calories": 377.0,
+    "ingredients": "Ingredi\u00ebnten: Suiker, glucosestroop, gelatine, voedingszuur: citroenzuur, vruchten- en plantenconcentraten: saffloer, citroen, aroma\n\nKan sporen bevatten van melk, tarwe",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24999999999999994,
+    "price sensitivity": -0.6587677725118484
+}

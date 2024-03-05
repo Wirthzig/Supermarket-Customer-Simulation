@@ -1,0 +1,18 @@
+{
+    "id": 2142,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Penny wafels",
+    "price": 0.85,
+    "unit": "150 gPrijs per KG \u20ac 5,67",
+    "weight": "150 Gram",
+    "calories": 569.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, palmvet, suiker, plantaardige olie (palmpit, palm, kokos, shea), mageremelkpoeder, dextrose, 3,7% magerecacaopoeder\u00b0, weipoeder, cacaoboter\u00b0, vollemelkpoeder, emulgator (lecithinen [E322\u00a0(soja)], sorbitaantristearaat [E492]), cacaomassa\u00b0,\u00a0vrije-uitloopeigeel, bloem (teff,\u00a0soja, rijst), zout, aardappelzetmeel, natuurlijk vanillearoma, meelverbeteraar (ascorbinezuur [E300]), rijsmiddel (natriumbicarbonaat [E500]).\nWaarvan toegevoegde suikers 26g per 100 gram en waarvan toegevoegd zout 0.16g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.01694915254237287,
+    "price sensitivity": -0.875
+}

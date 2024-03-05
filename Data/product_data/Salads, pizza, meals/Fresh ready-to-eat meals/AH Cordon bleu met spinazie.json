@@ -1,0 +1,18 @@
+{
+    "id": 3468,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Cordon bleu met spinazie",
+    "price": 3.79,
+    "unit": "500 gNormale prijs per KG \u20ac 9,58",
+    "weight": "500 Gram",
+    "calories": 101.0,
+    "ingredients": "Ingredi\u00ebnten: 33% spinazie, aardappel, water, 12% varkensvlees, 4,9%\u00a0room,\u00a0melk, zetmeel (ma\u00efs, aardappel),\u00a0tarwebloem, plantaardige olie (raap, zonnebloem), natuurlijke aroma's\u00a0(melk, tarwe, sulfiet), zout, suiker, specerijen (o.a. ui\u00a0[sulfiet]), zeezout,\u00a0tarwezemel, kleurstof (karamel [E150a]), erwtenvezel, aroma\u2019s (selderij), dextrose,\u00a0stabilisator (carrageen [E407], trifosfaat [E451], difosfaat [E450], polyfosfaat [E452]), gistextract, maltodextrine, rookaroma, antioxidant (natriumascorbaat [E301], natriumwaterstofsulfiet\u00a0[E222]), conserveermiddel (natriumnitriet [E250]), rijstebloem, zuursel, stremsel, laurier, gist, lijnzaad,\u00a0gerstemoutextract.\u00a0\nWaarvan toegevoegde suikers 0.3g per 100 gram en waarvan toegevoegd zout 0.49g per 100 gram",
+    "lifestyle": -0.6,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3225806451612903,
+    "price sensitivity": -0.5423728813559323
+}

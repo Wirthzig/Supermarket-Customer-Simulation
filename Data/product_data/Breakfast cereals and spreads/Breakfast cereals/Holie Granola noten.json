@@ -1,0 +1,18 @@
+{
+    "id": 2421,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Holie Granola noten",
+    "price": 3.89,
+    "unit": "350 gPrijs per KG \u20ac 11,11",
+    "weight": "350 Gram",
+    "calories": 404.0,
+    "ingredients": "Ingredi\u00ebnten: \n              VOLKOREN HAVERVLOKKEN, VOLKOREN GERSTVLOKKEN, VOLKOREN SPELTVLOKKEN, plantaardige vezels, HAZELNOTEN (5%), AMANDELEN (5%), zonnebloempitten (5%), PECANNOTEN (3%), pompoenpitten (2%).\nKan sporen van pinda's en soja bevatten.",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6037735849056604,
+    "price sensitivity": -0.12903225806451613
+}

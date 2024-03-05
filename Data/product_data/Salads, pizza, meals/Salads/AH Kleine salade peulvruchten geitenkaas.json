@@ -1,0 +1,18 @@
+{
+    "id": 3536,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Kleine salade peulvruchten geitenkaas",
+    "price": 3.29,
+    "unit": "215 gPrijs per KG \u20ac 15,30",
+    "weight": "215 Gram",
+    "calories": 133.0,
+    "ingredients": "Ingredi\u00ebnten: groente (14% tomaat, 12% tuinerwt, 12% komkommer, 12% witte kool, 4,6% bosui), peulvruchten (12% linze, 11% kikkererwt), geitenmelk, olijfolie, kruiden (1,4% peterselie, 1,2% koriander, tijm), wittewijnazijn, water, suiker, antiklontermiddel (cellulose [E460]), zout, specerijen (o.a.\u00a0mosterd), knoflook, natuurlijk aroma, conserveermiddel (kaliumsorbaat [E202], natriumbenzoaat [E211]), azijn, stabilisator (xanthaangom [E415]), voedingszuur (citroenzuur [E330]), zuursel, vegetarisch stremsel.\nWaarvan toegevoegde suikers 0.7g per 100 gram en waarvan toegevoegd zout 0.30g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.24193548387096772,
+    "price sensitivity": -0.05932203389830515
+}

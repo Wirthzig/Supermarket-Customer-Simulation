@@ -1,0 +1,18 @@
+{
+    "id": 3656,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Potatoes",
+    "product": "AH Stamppot aardappelen",
+    "price": 1.19,
+    "unit": "600 gNormale prijs per KG \u20ac 1,98",
+    "weight": "600 Gram",
+    "calories": 87.0,
+    "ingredients": "Ingredi\u00ebnten: Aardappelen",
+    "lifestyle": 0.2,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10416666666666666,
+    "price sensitivity": 0.03614457831325302
+}

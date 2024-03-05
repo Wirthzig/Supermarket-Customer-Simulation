@@ -1,0 +1,18 @@
+{
+    "id": 2416,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Quaker Cruesli rood fruit",
+    "price": 4.9,
+    "unit": "450 gNormale prijs per KG \u20ac 9,09",
+    "weight": "450 Gram",
+    "calories": 433.0,
+    "ingredients": "Ingredi\u00ebnten: Volkoren HAVERMOUT (36%), volkoren TARWE (20%), glucosesiroop, zonnebloemolie, suiker, oligofructose, 1,5% gevriesdroogd fruit (aardbeien & frambozen), rijstebloem, TARWEBLOEM, honing (0,5%), natuurlijk frambozen aroma en andere natuurlijke aroma's, antioxidant (tocopherol). Kan melk en stukjes amandel, pecannoot, paranoot en hazelnoot bevatten.",
+    "lifestyle": 0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.7943396226415095,
+    "price sensitivity": 0.25806451612903225
+}

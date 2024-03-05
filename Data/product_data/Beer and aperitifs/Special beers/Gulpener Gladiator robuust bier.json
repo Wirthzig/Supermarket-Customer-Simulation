@@ -1,0 +1,18 @@
+{
+    "id": 1430,
+    "category": "Beer and aperitifs",
+    "sub category": "Special beers",
+    "product": "Gulpener Gladiator robuust bier",
+    "price": 1.39,
+    "unit": "0,5 lPrijs per LT \u20ac 2,78",
+    "weight": "50 Centiliter",
+    "calories": 76.0,
+    "ingredients": "Ingredi\u00ebnten: water, GERSTEMOUT,\u00a0glucosestroop en hop.",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.021729682746631895,
+    "price sensitivity": -0.8206278026905829
+}

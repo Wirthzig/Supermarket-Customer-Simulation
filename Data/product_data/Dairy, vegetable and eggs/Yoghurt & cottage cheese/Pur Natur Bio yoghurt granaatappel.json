@@ -1,0 +1,18 @@
+{
+    "id": 2668,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "Pur Natur Bio yoghurt granaatappel",
+    "price": 2.49,
+    "unit": "500 gPrijs per KG \u20ac 4,98",
+    "weight": "500 Gram",
+    "calories": 95.0,
+    "ingredients": "Ingredi\u00ebnten: Volle YOGHURT* met levende fermenten, granaatappelsap* 8,8%, rietsuiker*, rode bietensap*, stabilisatoren: pectine, johannesbroodpitmeel*, natuurlijk aroma, *afkomstig van biologische landbouw",
+    "lifestyle": -0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.3166666666666667,
+    "price sensitivity": -0.5105740181268883
+}

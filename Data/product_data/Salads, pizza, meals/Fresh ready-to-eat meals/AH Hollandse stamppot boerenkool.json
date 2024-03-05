@@ -1,0 +1,18 @@
+{
+    "id": 3503,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Hollandse stamppot boerenkool",
+    "price": 4.49,
+    "unit": "500 gPrijs per KG \u20ac 8,98",
+    "weight": "500 Gram",
+    "calories": 110.0,
+    "ingredients": "Ingredi\u00ebnten: 37% aardappel, 27% boerenkool, water, 11% varkensvlees\u1d43, 3,1% aardappelvlok, 1,1% rundvlees\u1d9c, plantaardige olie (raap, zonnebloem), zetmeel (ma\u00efs, rijst),\u00a0roomboter, natuurlijke aroma's\u00a0(melk, tarwe, sulfiet, soja),\u00a0voedingszuur (kaliumlactaat [E326], citroenzuur [E330]), zeezout, vollemelkpoeder, specerijen (o.a. ui\u00a0[sulfiet]), voedingsvezel (inuline, aardappel, erwt, psyllium), kaliumchloride\u00a0(dieetzout), zout, maltodextrine, stabilisator (difosfaat [E450]), azijn, aroma (selderij), dextrose, emulgator (mono- en diglyceriden van vetzuren [E471]), extract (geroosterd\u00a0gerstemout, specerijen), antioxidant (natriumascorbaat [E301], natriumwaterstofsulfiet\u00a0[E222], extracten van rozemarijn [E392]), rookaroma, gehydrolyseerd plantaardig eiwit (ma\u00efs, raap), laurier, rundercollageen, rook, conserveermiddel (natriumnitriet [E250]).\u00a0\u1d43Beter Leven keurmerk 1 ster.\u00a0\u1d9cBeter Leven keurmerk 3 sterren.\nWaarvan toegevoegde suikers 0.03g per 100 gram en waarvan toegevoegd zout 0.49g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.43548387096774194,
+    "price sensitivity": -0.8389830508474577
+}

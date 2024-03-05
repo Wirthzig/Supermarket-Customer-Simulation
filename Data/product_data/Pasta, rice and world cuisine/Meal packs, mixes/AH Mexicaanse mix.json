@@ -1,0 +1,18 @@
+{
+    "id": 1210,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Meal packs, mixes",
+    "product": "AH Mexicaanse mix",
+    "price": 2.69,
+    "unit": "200 gNormale prijs per KG \u20ac 13,45",
+    "weight": "200 Gram",
+    "calories": 464.0,
+    "ingredients": "Ingredi\u00ebnten: 23% ma\u00efs, poeder (9,3% ma\u00efs, 9,2% aardappel, tomaten), zonnebloemolie, zetmeel (aardappel, ma\u00efs, tapioca), 8,7% rijst, tarwebloem, 3% pompoenpit, suiker, gemodificeerd zetmeel (ma\u00efs, tapioca), zout, rietsuiker, specerijen (o.a. 0,09% chili), paprikaolie, maltodextrine, natuurlijk aroma, weipoeder, havervezel, voedingszuur (melkzuur [E270], citroenzuur [E330], appelzuur [E296]), sojaboon, emulgator (mono- en diglyceriden van vetzuren [E471]), water, kleurstof (paprika-extract [E160c], karamel [E150a], kopercomplexen van chlorofyl en chlorofyline [E141], ammoniakkaramel [E150c]), melkeiwit, zuursel, melk, tarwe, gejodeerd zout, stabilisator (carboxymethylcellulose [E466],\u00a0natriumfosfaat [E339]), dextrose, aroma, gistextract, kruiden, gerookt zout, tarwekorrel, dextrine, glucosestroop, extract van paprika, rookaroma.\nWaarvan toegevoegde suikers 3.8g per 100 gram en waarvan toegevoegd zout 1.58g per 100 gram",
+    "lifestyle": 0.8,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.32624113475177297,
+    "price sensitivity": -0.6341689879294337
+}

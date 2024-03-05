@@ -1,0 +1,18 @@
+{
+    "id": 2417,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Quaker Cruesli luchtig",
+    "price": 3.99,
+    "unit": "375 gNormale prijs per KG \u20ac 10,64",
+    "weight": "375 Gram",
+    "calories": 458.0,
+    "ingredients": "Ingredi\u00ebnten: volkoren HAVERMOUT (47%), zonnebloemolie, suiker, glucosesiroop, ma\u00efs (5,7%), rijstebloem (4,9%), oligofructose, volkoren TARWEMEEL (4,4%), honing, melasse, zout, natuurlijk aroma, moutextract (van GERST), antioxidant (tocopherol). Kan soja, melk en stukjes amandel, pecannoot, paranoot en hazelnoot bevatten.",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6226415094339622,
+    "price sensitivity": -0.5483870967741936
+}

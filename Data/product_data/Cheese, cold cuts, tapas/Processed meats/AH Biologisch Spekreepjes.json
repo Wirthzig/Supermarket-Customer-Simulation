@@ -1,0 +1,18 @@
+{
+    "id": 3024,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Biologisch Spekreepjes",
+    "price": 4.79,
+    "unit": "200 gPrijs per KG \u20ac 23,95",
+    "weight": "200 Gram",
+    "calories": 354.0,
+    "ingredients": "Ingredi\u00ebnten: 96% varkensvlees*, zeezout, zuurteregelaar (natriumlactaat [E325]), antioxidant (ascorbinezuur [E300]), specerijen*, conserveermiddel (natriumnitriet [E250]), beukenhoutrook.\u00a0\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.99g per 100 gram\nEU/niet-EU Landbouw \n*Van biologische oorsprong.",
+    "lifestyle": -0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.455467869222097,
+    "price sensitivity": -0.8603268945022289
+}

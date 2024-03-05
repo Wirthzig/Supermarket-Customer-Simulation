@@ -1,0 +1,18 @@
+{
+    "id": 928,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "FulFil Protein bar chocolate salted caramel",
+    "price": 2.85,
+    "unit": "55 gPrijs per KG \u20ac 51,82",
+    "weight": "55 Gram",
+    "calories": 371.0,
+    "ingredients": "Ingredi\u00ebnten: MELKeiwit, melkchocolade met zoetstof 25% (zoetstof [maltitol], cacaoboter, volle MELKpoeder, cacaomasa, emulgator [SOJAlecithinen], natuurlijk vanillearoma), collageenhydrolysaat, bevochtigingsmiddel (glycerol), isomalto-oligosacharide*, water, SOJAcrisps (SOJA-eiwitisolaat, tapiocazetmeel, GERSTemoutextract, zout), palmvet, witte chocolade met zoetstof (zoetstof [maltitol], cacaoboter, volle MELKpoeder, emulgator [SOJAlecithinen] natuurlijk vanillearoma), chocolade (cacaopoeder, cacaomassa, suiker), natuurlijk aroma, zout, vitaminen (vitamine C, B3, E, B2, B6, B1, B12, pantotheenzuur, foliumzuur), zoetstof (sucralose), *Isomalto-oligosacharide is een bron van glucose.  \n\nKan sporen bevatten van ei, noten en pinda's.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05974683544303798,
+    "price sensitivity": -0.6333333333333333
+}

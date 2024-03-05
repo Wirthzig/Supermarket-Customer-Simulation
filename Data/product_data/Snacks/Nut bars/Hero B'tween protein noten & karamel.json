@@ -1,0 +1,18 @@
+{
+    "id": 1976,
+    "category": "Snacks",
+    "sub category": "Nut bars",
+    "product": "Hero B'tween protein noten & karamel",
+    "price": 2.29,
+    "unit": "96 gPrijs per KG \u20ac 23,85",
+    "weight": "24 Gram",
+    "calories": 534.0,
+    "ingredients": "Ingredi\u00ebnten: Geroosterde PINDA's 45%, karamelsaus 12% (glucosestroop, gezoete, gecondenseerde volle MELK (volle MELK, suiker), glucose-fructosestroop, BOTER, verdikkingsmiddel (pectine), stabilisator (natriumcitraat), zout), karamelstukjes 10% (suiker, cacaoboter, volle MELKpoeder, karamelpoeder (magere MELKpoeder, zoete WEIpoeder, suiker, BOTER, natuurlijke aroma's), cacaopoeder met verlaagd vetgehalte, emulgator (lecithine)), geroosterde AMANDELEN 8%, glucosestroop, volkoren TARWE crispies (volkoren TARWEmeel, TARWEGLUTEN, GERSTmoutextract), glucose-fructosestroop, geroosterde HAZELNOTEN 3%, kokosvet, stabilisator (glycerol), natuurlijke aroma's, emulgator (lecithine), zout. Kan andere NOTEN bevatten.",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.28653295128939826,
+    "price sensitivity": -0.4893617021276596
+}

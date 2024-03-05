@@ -1,0 +1,18 @@
+{
+    "id": 2699,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "Optimel Magere kwark aardbei",
+    "price": 2.6,
+    "unit": "500 gNormale prijs per KG \u20ac 5,50",
+    "weight": "500 Gram",
+    "calories": 44.0,
+    "ingredients": "Ingredi\u00ebnten: Magere KWARK, 27% magere YOGHURT, 7,6% aardbei, gemodificeerd ma\u00efszetmeel, aroma, water, wortelconcentraat, citroensap, zoetstof: sucralose",
+    "lifestyle": -0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.335,
+    "price sensitivity": -0.676737160120846
+}

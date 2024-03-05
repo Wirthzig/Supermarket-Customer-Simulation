@@ -1,0 +1,18 @@
+{
+    "id": 1113,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "Heinz Tomato Frito",
+    "price": 1.25,
+    "unit": "350 gPrijs per KG \u20ac 3,57",
+    "weight": "350 Gram",
+    "calories": 76.0,
+    "ingredients": "Ingredi\u00ebnten: Tomaten (160g per 100g Tomato Frito), zonnebloemolie 3,4% (met extracten van gebakken ui en knoflook), suiker, zout, gemodificeerd zetmeel",
+    "lifestyle": -0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05943536404160475,
+    "price sensitivity": -0.4391829155060353
+}

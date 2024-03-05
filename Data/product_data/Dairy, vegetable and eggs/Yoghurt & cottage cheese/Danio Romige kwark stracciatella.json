@@ -1,0 +1,18 @@
+{
+    "id": 2764,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "Danio Romige kwark stracciatella",
+    "price": 2.49,
+    "unit": "450 gPrijs per KG \u20ac 5,53",
+    "weight": "1 Stuks (piece). 450 Gram",
+    "calories": 124.0,
+    "ingredients": "Ingredi\u00ebnten: Magere verse kwark (41%) (MELK), magere MELK, suiker (11,1%), water, room (MELK), MELKeiwitten, chocoladevlokjes 1,8% (cacaomassa, cacaoboter, suiker), glucose-fructosestroop, verdikkingsmiddelen (gemodificeerd tapioca- en ma\u00efszetmeel, pectine, guargom), aroma, zuurteregelaars (citroenzuur, calciumcitraat), MELKfermenten.",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3166666666666667,
+    "price sensitivity": -0.3141993957703928
+}

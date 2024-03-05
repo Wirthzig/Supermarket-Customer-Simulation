@@ -1,0 +1,18 @@
+{
+    "id": 2545,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Franse chocolade eclairs",
+    "price": 2.5,
+    "unit": "2 stuks",
+    "weight": "200 Gram",
+    "calories": 246.0,
+    "ingredients": "Ingredi\u00ebnten: water, suiker, vrije-uitloopei, plantaardige olie (palm, palmpit, raap, kokos), tarwebloem, magere melk, mageremelkpoeder, gemodificeerd ma\u00efszetmeel, cacaomassa\u00b0, glucose, roomboter, verdikkingsmiddel (cellulose [E460], cellulosegom [E466]), cacaoboter\u00b0, emulgator (mono- en diglyceriden van vetzuren [E471], polyoxyethyleensorbitaanmono\u00f6leaat [E433], lecithinen [E322 (soja)]), kleurstof (caroteen [E160a]), natuurlijk vanillearoma, vrije-uitloopeigeel, stabilisator (carrageen [E407]), tarwegluten, zuurteregelaar (natriumcitraat [E331], citroenzuur [E330]), vanillearoma, geleermiddel (carrageen [E407]), tarwemoutmeel, zout, meelverbeteraar (ascorbinezuur [E300]).\nWaarvan toegevoegde suikers 16g per 100 gram en waarvan toegevoegd zout 0.04g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12657342657342657,
+    "price sensitivity": -0.6504297994269341
+}

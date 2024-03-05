@@ -1,0 +1,18 @@
+{
+    "id": 707,
+    "category": "Frozen foods",
+    "sub category": "Frozen vegetables",
+    "product": "Iglo Spinazie 3x750gr pakket",
+    "price": 4.99,
+    "unit": "per pakket",
+    "weight": NaN,
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5740740740740741,
+    "price sensitivity": -0.15869017632241822
+}

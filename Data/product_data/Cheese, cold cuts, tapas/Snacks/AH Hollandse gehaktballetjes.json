@@ -1,0 +1,18 @@
+{
+    "id": 2956,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Hollandse gehaktballetjes",
+    "price": 2.29,
+    "unit": "400 gPrijs per KG \u20ac 5,73",
+    "weight": "400 Gram",
+    "calories": 262.0,
+    "ingredients": "Ingredi\u00ebnten: 68% varkensvlees,\u00a0tarwebloem, water,\u00a0tarwezetmeel, zout, conserveermiddel (kaliumacetaat [E261], natriumbenzoaat [E211], sorbinezuur [E200]), dextrose, specerijen, varkensvet\u1d43, suiker, glucosestroop, kruiden, natuurlijk aroma, stabilisator (trifosfaat [E451], guarpitmeel [E412]),\u00a0soja-eiwit, gist, aroma, gemoute\u00a0gerstextract,\u00a0tarwegluten.\u00a0\u00a0\nWaarvan toegevoegde suikers 1.9g per 100 gram en waarvan toegevoegd zout 2.30g per 100 gram",
+    "lifestyle": -0.1,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17361894024802707,
+    "price sensitivity": -0.7845468053491828
+}

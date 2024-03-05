@@ -1,0 +1,18 @@
+{
+    "id": 1146,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "AH Bouillon kip",
+    "price": 1.35,
+    "unit": "340 mlPrijs per LT \u20ac 3,97",
+    "weight": "340 Milliliter",
+    "calories": 12.0,
+    "ingredients": "Ingredi\u00ebnten: water, 23% kippenvlees\u00aa, zout, kippenvet, natuurlijk aroma (ei), tomatenpuree, specerijen. \u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0g per 100 gram en waarvan toegevoegd zout 0.71g per 100 gram.",
+    "lifestyle": -0.9,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06686478454680536,
+    "price sensitivity": -0.45775301764159704
+}

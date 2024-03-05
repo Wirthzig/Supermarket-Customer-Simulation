@@ -1,0 +1,18 @@
+{
+    "id": 2779,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Milk",
+    "product": "Campina Karnemelk",
+    "price": 1.59,
+    "unit": "1 lPrijs per LT \u20ac 1,59",
+    "weight": "1 Liter",
+    "calories": 34.0,
+    "ingredients": "Schudden voor gebruik",
+    "lifestyle": -0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.16666666666666666,
+    "price sensitivity": -0.9637462235649547
+}

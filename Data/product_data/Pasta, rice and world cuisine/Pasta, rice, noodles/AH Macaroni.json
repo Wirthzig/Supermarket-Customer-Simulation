@@ -1,0 +1,18 @@
+{
+    "id": 1353,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Pasta, rice, noodles",
+    "product": "AH Macaroni",
+    "price": 0.99,
+    "unit": "500 gPrijs per KG \u20ac 1,98",
+    "weight": "500 Gram",
+    "calories": 357.0,
+    "ingredients": "Ingredi\u00ebnten: durumtarwegriesmeel.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.024822695035460994,
+    "price sensitivity": -0.03703703703703709
+}

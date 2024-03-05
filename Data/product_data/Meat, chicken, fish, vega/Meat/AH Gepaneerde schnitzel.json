@@ -1,0 +1,18 @@
+{
+    "id": 3437,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Gepaneerde schnitzel",
+    "price": 2.5,
+    "unit": "2 stuksNormale prijs per KG \u20ac 10,50",
+    "weight": "300 Gram",
+    "calories": 162.0,
+    "ingredients": "Ingredi\u00ebnten: 64% varkensvlees, tarwebloem, 12% water, zetmeel (ma\u00efs, aardappel, tarwe, erwt), specerijen, zout, voedingsvezel (bamboe, tarwe, erwt), conserveermiddel (natriumacetaat [E262]), antioxidant (natriumcitraat [E331]), gist, zonnebloemolie.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.92g per 100 gram",
+    "lifestyle": 0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0829113924050633,
+    "price sensitivity": -0.788135593220339
+}

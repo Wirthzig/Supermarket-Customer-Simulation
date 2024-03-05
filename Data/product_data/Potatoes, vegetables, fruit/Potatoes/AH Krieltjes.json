@@ -1,0 +1,18 @@
+{
+    "id": 3631,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Potatoes",
+    "product": "AH Krieltjes",
+    "price": 1.9,
+    "unit": "500 gPrijs per KG \u20ac 2,18",
+    "weight": "500 Gram",
+    "calories": 80.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.0g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.25208333333333327,
+    "price sensitivity": -0.1325301204819278
+}

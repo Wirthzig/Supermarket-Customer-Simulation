@@ -1,0 +1,18 @@
+{
+    "id": 687,
+    "category": "Frozen foods",
+    "sub category": "Frozen vegetables",
+    "product": "Iglo Spinazie fijn gehakt",
+    "price": 1.59,
+    "unit": "750 gPrijs per KG \u20ac 2,12",
+    "weight": "750 Gram",
+    "calories": 23.0,
+    "ingredients": "Ingredi\u00ebnten : Spinazie 100%",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12433862433862433,
+    "price sensitivity": -0.1335012594458439
+}

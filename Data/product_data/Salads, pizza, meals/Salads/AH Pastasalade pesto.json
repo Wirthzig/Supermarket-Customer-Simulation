@@ -1,0 +1,18 @@
+{
+    "id": 3524,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Pastasalade pesto",
+    "price": 4.39,
+    "unit": "350 gNormale prijs per KG \u20ac 12,54",
+    "weight": "350 Gram",
+    "calories": 199.0,
+    "ingredients": "Ingredi\u00ebnten: groente (17% courgette, 6,9% tomaat, 4,3% rucola), water, durumtarwegriesmeel, plantaardige olie (zonnebloem, raap, 1,5% olijf),\u00a0melk, kruiden (3,2% basilicum, peterselie, rozemarijn, marjolein, oregano), 3,6% zwarte olijf, 2,3% gedroogde tomaat, 2% pijnboompit, azijn, specerijen (o.a.\u00a0mosterd), zout, natuurlijk aroma, voedingszuur (citroenzuur [E330], melkzuur [E270]),\u00a0scharreleigeel, suiker, gemodificeerd ma\u00efszetmeel, antioxidant (calciumdinatrium-EDTA [E385]), stabilisator (ijzer(ii)gluconaat [E579]), vegetarisch stremsel, zuursel, verdikkingsmiddel (xanthaangom [E415]), conserveermiddel (kaliumsorbaat [E202]).\nWaarvan toegevoegde suikers 0.2g per 100 gram en waarvan toegevoegd zout 0.54g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4193548387096773,
+    "price sensitivity": 1.0
+}

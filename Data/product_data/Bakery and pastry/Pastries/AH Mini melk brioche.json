@@ -1,0 +1,18 @@
+{
+    "id": 2579,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Mini melk brioche",
+    "price": 2.59,
+    "unit": "10 stuks",
+    "weight": "350 Gram",
+    "calories": 363.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, scharrelei, suiker, raapolie, water, roomboterconcentraat, emulgator (mono- en diglyceriden van vetzuren [E471], natriumstearoyl-2-lactylaat [E481]), gist, 1,2% mageremelkpoeder, zout, tarwegluten, natuurlijke aroma's (0,4% alcohol), verdikkingsmiddel (taragom [E417]), antioxidant (ascorbinezuur [E300]), roggebloem, kleurstof (caroteen [E160a]).\nWaarvan toegevoegde suikers 11g per 100 gram en waarvan toegevoegd zout 1.10g per 100 gram",
+    "lifestyle": 0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13286713286713286,
+    "price sensitivity": -0.38972809667673713
+}

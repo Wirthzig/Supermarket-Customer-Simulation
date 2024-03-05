@@ -1,0 +1,18 @@
+{
+    "id": 3285,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel gebraden kipflakes kebab",
+    "price": 3.99,
+    "unit": "225 gPrijs per KG \u20ac 17,73",
+    "weight": "225 Gram",
+    "calories": 156.0,
+    "ingredients": "Ingredi\u00ebnten: 90% kippendijfilet, voedingszuur (kaliumlactaat [E326], natriumacetaat [E262], azijnzuur [E260], citroenzuur [E330]), specerijen, aardappelzetmeel, zout, dextrose, zeezout, gebufferd azijnpoeder\u00a0(conserverend ingredi\u00ebnt), zonnebloemolie, natuurlijk aroma, rozemarijnextract.\nWaarvan toegevoegde suikers 0.7g per 100 gram en waarvan toegevoegd zout 0.77g per 100 gram",
+    "lifestyle": 0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17721518987341775,
+    "price sensitivity": -0.9645569620253165
+}

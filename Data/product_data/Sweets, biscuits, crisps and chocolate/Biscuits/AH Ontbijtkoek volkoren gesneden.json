@@ -1,0 +1,18 @@
+{
+    "id": 2144,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Ontbijtkoek volkoren gesneden",
+    "price": 1.99,
+    "unit": "475 gPrijs per KG \u20ac 4,19",
+    "weight": "475 Gram",
+    "calories": 279.0,
+    "ingredients": "Ingredi\u00ebnten: glucose-fructosestroop, 34% volkorenroggemeel, water, oligofructosestroop, voedingsvezel (aardappel, erwt), rijsmiddel (difosfaat [E450], natriumcarbonaat [E500]), specerijen, gekaramelliseerde suikerstroop, suiker, raapolie, conserveermiddel (sorbinezuur [E200]),\u00a0tarwemoutmeel, zout.\nWaarvan toegevoegde suikers 34g per 100 gram en waarvan toegevoegd zout 0.02g per 100 gram",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2584745762711864,
+    "price sensitivity": -0.49583333333333346
+}

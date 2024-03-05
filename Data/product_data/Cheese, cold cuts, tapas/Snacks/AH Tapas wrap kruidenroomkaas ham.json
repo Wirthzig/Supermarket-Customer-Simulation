@@ -1,0 +1,18 @@
+{
+    "id": 2942,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Tapas wrap kruidenroomkaas ham",
+    "price": 3.25,
+    "unit": "127 gPrijs per KG \u20ac 25,59",
+    "weight": "122 Gram",
+    "calories": 224.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 22% roomkaas, 19% varkensvlees, water, volle yoghurt, aardappelzetmeel, raapolie, stabilisator (difosfaat [E450], carrageen [E407], trifosfaat [E451]), zout, rijsmiddel (natriumcarbonaat [E500]), voedingszuur (appelzuur [E296]), spinazie, dextrose, gemodificeerd ma\u00efszetmeel, tarwevezel, conserveermiddel (natriumnitriet [E250], natriumbenzoaat [E211], kaliumsorbaat [E202]), 0,09% bieslook, glucosestroop, natuurlijk aroma, gejodeerd zout, antioxidant (natriumascorbaat [E301]), rookaroma, gehydrolyseerd ma\u00efseiwit, knoflookpuree, meelverbeteraar (l-cyste\u00efne [E920]).\u00a0\nWaarvan toegevoegde suikers 0.3g per 100 gram en waarvan toegevoegd zout 1.13g per 100 gram",
+    "lifestyle": -0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.28184892897406993,
+    "price sensitivity": -0.8900445765230312
+}

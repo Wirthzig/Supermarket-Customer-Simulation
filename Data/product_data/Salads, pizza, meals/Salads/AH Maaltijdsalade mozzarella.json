@@ -1,0 +1,18 @@
+{
+    "id": 3539,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Maaltijdsalade mozzarella",
+    "price": 5.69,
+    "unit": "450 gPrijs per KG \u20ac 12,64",
+    "weight": "450 Gram",
+    "calories": 173.0,
+    "ingredients": "Ingredi\u00ebnten: groente (22% cherrytomaat, 10% romaine sla, 8,1% komkommer, 7,7% radicchio, 2,6% rucola),\u00a0melk, water, plantaardige olie (raap, olijf, zonnebloem), durumtarwegriesmeel,\u00a0amandel, 3,2% balsamicoazijn\u00a0(sulfiet), 0,7% rode wijn\u00a0(sulfiet), appelsapconcentraat, suiker, zout, kruiden, azijn, knoflook, specerijen, verdikkingsmiddel (xanthaangom [E415]), zuurteregelaar (citroenzuur [E330]), vegetarisch stremsel, conserveermiddel (kaliumsorbaat [E202]).\nWaarvan toegevoegde suikers 0.4g per 100 gram en waarvan toegevoegd zout 0.26g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6290322580645161,
+    "price sensitivity": -0.5677966101694916
+}

@@ -1,0 +1,18 @@
+{
+    "id": 947,
+    "category": "Sports and dietary foods",
+    "sub category": "Sports drinks",
+    "product": "AH Sportdrank Orange",
+    "price": 0.49,
+    "unit": "0,5 lPrijs per LT \u20ac 0,98",
+    "weight": "500 Milliliter",
+    "calories": 60.0,
+    "ingredients": "Ingredi\u00ebnten: water, suiker, dextrose, fructose, maltodextrine, voedingszuur (citroenzuur [E330]), conserveermiddel (kaliumsorbaat [E202], natriumbenzoaat [E211], dimethyldicarbonaat\u00a0[E242]), aroma, antioxidant (ascorbinezuur [E300]), zout, stabilisator (arabische gom [E414],\nglycerolesters van houthars [E445]), kleurstof (carotenen [E160a], b\u00e8ta-apo-8'-carotenal (c30) [E160e]).\nWaarvan toegevoegde suikers 14g per 100 milliliter en waarvan toegevoegd zout 0.01g per 100 milliliter",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0,
+    "price sensitivity": -0.78
+}

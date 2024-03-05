@@ -1,0 +1,18 @@
+{
+    "id": 153,
+    "category": "Pets",
+    "sub category": "Dogs",
+    "product": "Naturo Zalm en aardappel voor de hond",
+    "price": 1.75,
+    "unit": "400 gPrijs per KG \u20ac 4,38",
+    "weight": "400 Gram",
+    "calories": NaN,
+    "ingredients": "Zalm 60%, Aardappelen 26%, Wortelen 5%, Erwten 5%, Mineralen, Zonnebloemolie,\nZalmolie, Gedroogde Tomaat, Gedroogde Zeewier, Gedroogde Basilicum",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17772511848341233,
+    "price sensitivity": -0.7762237762237763
+}

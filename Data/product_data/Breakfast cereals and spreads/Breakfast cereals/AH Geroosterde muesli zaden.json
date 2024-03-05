@@ -1,0 +1,18 @@
+{
+    "id": 2399,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "AH Geroosterde muesli zaden",
+    "price": 2.19,
+    "unit": "300 gPrijs per KG \u20ac 7,30",
+    "weight": "300 Gram",
+    "calories": 419.0,
+    "ingredients": "Ingredi\u00ebnten: 61% volkoren havervlok, 19% tarwevlok, oligofructose, 4,5% honing, zonnebloemolie, 3% pompoenpit, 2% zonnebloempit, 1% lijnzaad, 1% chiazaad (Salvia hispanica), 1% sesamzaad, antioxidant(tocoferolrijk extract [E306]).\nWaarvan toegevoegde suikers 4.2g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.28301886792452824,
+    "price sensitivity": -0.3870967741935485
+}

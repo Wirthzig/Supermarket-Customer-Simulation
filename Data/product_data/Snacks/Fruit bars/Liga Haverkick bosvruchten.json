@@ -1,0 +1,18 @@
+{
+    "id": 2015,
+    "category": "Snacks",
+    "sub category": "Fruit bars",
+    "product": "Liga Haverkick bosvruchten",
+    "price": 2.39,
+    "unit": "200 gNormale prijs per KG \u20ac 11,95",
+    "weight": "200 Gram",
+    "calories": 391.0,
+    "ingredients": "Ingredi\u00ebnten:\u00a0HAVERMEEL 40 %,\u00a0vulling\u00a036 %\u00a0met fruit [glucose-fructosestroop, appelpuree 7 %,\u00a0rozijnen 3,5 %,\u00a0bevochtigingsmiddel (glycerol), suiker, gedroogde\u00a0appelblokjes 1 %,\u00a0verdikkingsmiddel (gemodificeerd zetmeel), geleermiddel (pectinen), geconcentreerd zwartebessensap\u00a00,3 %,\u00a0geconcentreerde aardbeienpuree\u00a00,3 %,\u00a0geconcentreerde frambozenpuree 0,3 %,\u00a0voedingszuren (appelzuur, citroenzuur), zuurteregelaars (calciumcitraten, natriumcitraten), bosvruchtenaroma], suiker, koolzaadolie, glucosestroop, SESAMZAADJES, mineralen (calciumcarbonaat, elementair ijzer), zout, emulgator (SOJALECITHINEN), aroma, vitamine B6, TARWEBLOEM. KAN BEVATTEN: EI, MELK.",
+    "lifestyle": -0.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3151862464183381,
+    "price sensitivity": -0.7061611374407583
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1419,
+    "category": "Beer and aperitifs",
+    "sub category": "Special beers",
+    "product": "Texels Skuumkoppe speciaalbier",
+    "price": 1.79,
+    "unit": "0,3 lNormale prijs per LT \u20ac 5,97",
+    "weight": "30 Centiliter",
+    "calories": 57.0,
+    "ingredients": "Ingredi\u00ebnten: water, GERSTEMOUT, TARWEMOUT, hop, suiker, gist",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.03911342894393742,
+    "price sensitivity": -0.6984126984126984
+}

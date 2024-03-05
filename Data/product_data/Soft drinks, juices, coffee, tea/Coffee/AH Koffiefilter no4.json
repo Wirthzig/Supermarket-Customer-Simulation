@@ -1,0 +1,18 @@
+{
+    "id": 1889,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Coffee",
+    "product": "AH Koffiefilter no4",
+    "price": 0.69,
+    "unit": "100 stuks",
+    "weight": "100 Aantal",
+    "calories": NaN,
+    "ingredients": "cellulosepulp",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.018126888217522653,
+    "price sensitivity": -0.24113475177304966
+}

@@ -1,0 +1,18 @@
+{
+    "id": 942,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "Nature Valley Protein pinda & chocolade repen",
+    "price": 4.19,
+    "unit": "4 stuks",
+    "weight": "4 Stuks (piece). 160 Gram",
+    "calories": 492.0,
+    "ingredients": "Ingredi\u00ebnten: geroosterde PINDA'S (39%), cichorei-extract, ge\u00efsoleerd SOJAEIWIT, chocolade stukjes (8%) (suiker, cacaomassa, cacaoboter, emulgator: SOJALECITHINE), suiker, plantaardig vet (palm), MELKEIWITTEN, fructose, glucosestroop, zonnebloemolie, PINDAKAAS (2%), magere cacaopoeder, bevochtigingsmiddel (glycerol), tapioca, zout, emulgatoren (zonnebloem en SOJA lecithinen), zout, natuurlijke aroma's (bevat MELK), maltodextrine. Kan boomnoten bevatten.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09367088607594937,
+    "price sensitivity": -0.48
+}

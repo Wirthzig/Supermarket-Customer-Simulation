@@ -1,0 +1,18 @@
+{
+    "id": 2984,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Borreltoast zeezout",
+    "price": 1.99,
+    "unit": "125 gNormale prijs per KG \u20ac 15,92",
+    "weight": "125 Gram",
+    "calories": 417.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, extra vierge olijfolie, water, zeezout,\u00a0moutmeel\u00a0(tarwe, gerst), zout, meelverbeteraar (ascorbinezuur [E300]), gist, emulgator (sojalecithine\u00a0[E322]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 2.00g per 100 gram",
+    "lifestyle": -0.5,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13979706877113868,
+    "price sensitivity": 1.0
+}

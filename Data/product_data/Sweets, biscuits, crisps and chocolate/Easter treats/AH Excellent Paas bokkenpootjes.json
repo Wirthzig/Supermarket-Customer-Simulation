@@ -1,0 +1,18 @@
+{
+    "id": 2208,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Easter treats",
+    "product": "AH Excellent Paas bokkenpootjes",
+    "price": 1.49,
+    "unit": "225 gPrijs per KG \u20ac 6,62",
+    "weight": "225 Gram",
+    "calories": 509.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, plantaardig vet (palm, kokos), tarwezetmeel, rijstbloem, pindaschaafsel, voedingsvezel (inuline), vegetarisch weipoeder, lactose, glucosestroop, scharrelei-eiwit, cacaomassa\u00b0, melkeiwit, aroma, mageremelkpoeder, kleurstof (lute\u00efne [E161b], annatto bixine [E160b(i)]), emulgator (sojalecithine [E322]), cacaoboter\u00b0, natuurlijk vanillearoma, roomboter, verdikkingsmiddel (xanthaangom [E415], cellulosegom [E466]), rijsmiddel (natriumcarbonaat [E500]), zuurteregelaar (citroenzuur [E330]), natuurlijk aroma.\nWaarvan toegevoegde suikers 45g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.15254237288135591,
+    "price sensitivity": -0.1250000000000001
+}

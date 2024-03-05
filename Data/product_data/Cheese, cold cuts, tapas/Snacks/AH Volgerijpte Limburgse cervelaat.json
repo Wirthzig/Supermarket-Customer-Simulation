@@ -1,0 +1,18 @@
+{
+    "id": 2923,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Volgerijpte Limburgse cervelaat",
+    "price": 3.25,
+    "unit": "140 gPrijs per KG \u20ac 23,21",
+    "weight": "140 Gram",
+    "calories": 384.0,
+    "ingredients": "Ingredi\u00ebnten: varkensvlees\u1d43, zout, melkeiwit, dextrose, peper, kleurend rodebietenpoeder, kaliumchloride (dieetzout), glucosestroop, antioxidant (extracten van rozemarijn [E392], natriumascorbaat [E301]), rook, natuurlijk aroma, conserveermiddel (natriumnitraat [E251]).\u00a0\u1d43Beter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.3g per 100 gram en waarvan toegevoegd zout 2.24g per 100 gram\nVoor 100 g cervelaat is 129 g varkensvlees gebruikt.",
+    "lifestyle": -0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.28184892897406993,
+    "price sensitivity": -0.924219910846954
+}

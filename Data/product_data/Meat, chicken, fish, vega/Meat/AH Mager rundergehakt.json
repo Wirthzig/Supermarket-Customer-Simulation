@@ -1,0 +1,18 @@
+{
+    "id": 3423,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Mager rundergehakt",
+    "price": 3.69,
+    "unit": "300 gPrijs per KG \u20ac 12,30",
+    "weight": "300 Gram",
+    "calories": 192.0,
+    "ingredients": "Ingredi\u00ebnten: 98% rundvlees, natuurlijk aroma, antioxidant (natriumascorbaat [E301], natriumcitraat [E331]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.7,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.15822784810126583,
+    "price sensitivity": -0.5254237288135595
+}

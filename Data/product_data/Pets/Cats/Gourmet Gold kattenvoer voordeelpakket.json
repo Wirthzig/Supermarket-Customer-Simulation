@@ -1,0 +1,18 @@
+{
+    "id": 128,
+    "category": "Pets",
+    "sub category": "Cats",
+    "product": "Gourmet Gold kattenvoer voordeelpakket",
+    "price": 4.5,
+    "unit": "per pakket",
+    "weight": NaN,
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5035545023696683,
+    "price sensitivity": -0.986013986013986
+}

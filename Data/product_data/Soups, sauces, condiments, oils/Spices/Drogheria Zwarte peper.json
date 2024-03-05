@@ -1,0 +1,18 @@
+{
+    "id": 1012,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Spices",
+    "product": "Drogheria Zwarte peper",
+    "price": 2.89,
+    "unit": "45 gPrijs per KG \u20ac 64,22",
+    "weight": "47 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten:\u00a0Zwarte peper",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1812778603268945,
+    "price sensitivity": -0.8755803156917363
+}

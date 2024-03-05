@@ -1,0 +1,18 @@
+{
+    "id": 823,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "H\u00e4agen-Dazs Salted caramel ijs",
+    "price": 4.61,
+    "unit": "460 mlNormale prijs per LT \u20ac 14,33",
+    "weight": "460 Milliliter. 400 Gram",
+    "calories": 282.0,
+    "ingredients": "Ingredi\u00ebnten: verse ROOM (31%), suiker, gecondenseerde magere MELK met verlaagd LACTOSE gehalte, glucosestroop, gecondenseerde magere MELK, EIGEEL, BOTER, gecondenseerde volle MELK, kokosolie, zout, emulgator : zonnebloemlecithine ; natuurlijk vanillearoma, geleermiddel : pectinen. Kan bestanddelen van SOJA en BOOMNOTEN bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5238095238095238,
+    "price sensitivity": 0.21999999999999997
+}

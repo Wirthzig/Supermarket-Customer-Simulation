@@ -1,0 +1,18 @@
+{
+    "id": 3564,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Salade erbij italiaanse mix",
+    "price": 3.89,
+    "unit": "250 gPrijs per KG \u20ac 15,56",
+    "weight": "241 Gram",
+    "calories": 124.0,
+    "ingredients": "Ingredi\u00ebnten: groente (25% eikenbladsla, 18% komkommer, 13% rode paprika, 6,2% rucola), water,\u00a0melk, plantaardige olie (raap, 0,3% olijf, zonnebloem),\u00a0tarwebloem, 2,1% zonnebloempit, 2,1% pompoenpit, 1,2% gedroogde tomaat, azijn, suiker, zout, gemodificeerd aardappelzetmeel, kruiden (o.a. 0,3% basilicum), knoflookpuree,\u00a0vegetarisch weipoeder, natuurlijk aroma, specerijen, citroensapconcentraat, spinaziepoeder, gist, verdikkingsmiddel (xanthaangom [E415]), zeezout,\u00a0tarwemout, vegetarisch stremsel, zuursel, conserveermiddel (natriumnitraat [E251]), kleurstof (caroteen [E160a], annatto bixine [E160b(i)], annatto norbixine [E160b(ii)]), smeltzout (natriumfosfaat [E339]).\nWaarvan toegevoegde suikers 0.7g per 100 gram en waarvan toegevoegd zout 0.64g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.33870967741935487,
+    "price sensitivity": 0.5156626506024098
+}

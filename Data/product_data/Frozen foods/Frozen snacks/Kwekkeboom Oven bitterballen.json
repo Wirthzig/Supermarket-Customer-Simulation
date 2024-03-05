@@ -1,0 +1,18 @@
+{
+    "id": 785,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "Kwekkeboom Oven bitterballen",
+    "price": 4.29,
+    "unit": "12 stuks",
+    "weight": "300 Gram",
+    "calories": 248.0,
+    "ingredients": "Ingredi\u00ebnten:  Water, TARWEBLOEM, 11% rundvlees, plantaardige oli\u00ebn (raapzaad, palm), SOJA EIWIT, 2% room (bevat MELK), 1% kruiden en specerijen (bevat SOJA, TARWE, SELDERIJ) zout, maiszetmeel, verdikkingsmiddelen (E1442, E1200, E461), gistextract, gelatine (rund) (bevat SULFIET), emulgatoren (E415, E466, E412, E471), sojasaus (water, SOJA, TARWE, zout), KIPPENEI-albumine poeder, SOJABLOEM, magere MELK, kleurstoffen (E150a, 160b), rijsmiddel (E500ii), MELKEIWIT, bouillonpoeder (zout, natuurlijk lavas aroma, gehydrolyseerd plantaardig eiwit (SOJA), (zonnebloemolie), stabilisatoren (E451, E407), antiklontermiddel (E551), dextrose, natuurlijk aroma, natuurlijk lavas aroma, plantaardige vezels (aardappel, bamboe, citrus, inuline), gehydrolyseerd plantaardig eiwit (SOJA), SOJA-EIWITSOLAAT, maltodextrine, rozemarijn antioxidant, voedingszuur (E270).",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.48148148148148145,
+    "price sensitivity": -0.6120906801007557
+}

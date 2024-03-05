@@ -1,0 +1,18 @@
+{
+    "id": 3192,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Grote garnalen",
+    "price": 3.99,
+    "unit": "100 gPrijs per KG \u20ac 39,90",
+    "weight": "100 Gram",
+    "calories": 74.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.50g per 100 gram",
+    "lifestyle": -0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17721518987341775,
+    "price sensitivity": -0.9240506329113924
+}

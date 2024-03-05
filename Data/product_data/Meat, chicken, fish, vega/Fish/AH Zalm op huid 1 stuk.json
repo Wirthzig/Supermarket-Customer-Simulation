@@ -1,0 +1,18 @@
+{
+    "id": 3191,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Fish",
+    "product": "AH Zalm op huid 1 stuk",
+    "price": 4.29,
+    "unit": "ca. 170 gPrijs per KG \u20ac 25,24",
+    "weight": "170 Gram",
+    "calories": 220.0,
+    "ingredients": "Ingredi\u00ebnten: zalm.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.19620253164556964,
+    "price sensitivity": -0.8956962025316456
+}

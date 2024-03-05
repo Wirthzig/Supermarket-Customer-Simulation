@@ -1,0 +1,18 @@
+{
+    "id": 2187,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Easter treats",
+    "product": "AH Excellent Paasfondant koeken met roomboter",
+    "price": 2.19,
+    "unit": "300 gPrijs per KG \u20ac 7,30",
+    "weight": "300 Gram",
+    "calories": 416.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, tarwebloem, 14% roomboter, glucose-fructosestroop, scharrelei, plantaardig vet (palm, palmpit), puree (1,4% abrikoos, appel), aardappelzetmeel, rijsmiddel (difosfaat [E450], natriumcarbonaat [E500]), emulgator (mono- en diglyceriden van vetzuren [E471], sojalecithine [E322], polyglycerolester van vetzuren [E475], polyglycerolpolyricinoleaat [E476], sorbitaantristearaat [E492]), stabilisator (sorbitol [E420]), dextrose, zout, conserveermiddel (sorbinezuur [E200], calciumpropionaat [E282], kaliumsorbaat [E202],\u00a0natriumpropionaat [E281]), verdikkingsmiddel (pectine [E440], xanthaangom [E415]), sojabloem, rijstbloem, magerecacaopoeder\u00b0, melkeiwit, kleurend extract (kurkuma, wortel, rode biet), plantaardige olie (raap, zonnebloem), voedingszuur (kaliumcitraat [E332]), kleurstof (annatto bixine [E160b(i)], caroteen [E160a]), zuurteregelaar (citroenzuur [E330]), natuurlijk aroma, antioxidant (tocoferolrijk extract [E306]).\nWaarvan toegevoegde suikers 36g per 100 gram en waarvan toegevoegd zout 0.27g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.30084745762711856,
+    "price sensitivity": -0.04166666666666674
+}

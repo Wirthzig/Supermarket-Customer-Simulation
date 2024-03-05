@@ -1,0 +1,18 @@
+{
+    "id": 2406,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "AH Honingringen",
+    "price": 1.99,
+    "unit": "375 gPrijs per KG \u20ac 5,31",
+    "weight": "375 Gram",
+    "calories": 379.0,
+    "ingredients": "Ingredi\u00ebnten: 34% tarwebloem, 27% volkorenhavermeel, 14% tarwezemel, suiker, honing, 4,5% roggebloem, 4,5% gerstebloem, glucosestroop, vanillearoma, zout, kleurstof (caroteen [E160a]), aroma, zonnebloemolie, gekaramelliseerde suiker, vitaminen (B1, B2, B3, B5, B6, B8, foliumzuur, B12), ijzer, antioxidant (tocoferolrijk extract [E306]).\nWaarvan toegevoegde suikers 17g per 100 gram en waarvan toegevoegd zout 0.63g per 100 gram",
+    "lifestyle": -0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2452830188679245,
+    "price sensitivity": 0.25806451612903225
+}

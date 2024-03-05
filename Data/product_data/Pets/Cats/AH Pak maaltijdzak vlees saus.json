@@ -1,0 +1,18 @@
+{
+    "id": 114,
+    "category": "Pets",
+    "sub category": "Cats",
+    "product": "AH Pak maaltijdzak vlees saus",
+    "price": 1.89,
+    "unit": "600 gPrijs per KG \u20ac 3,15",
+    "weight": "600 Gram",
+    "calories": NaN,
+    "ingredients": "Geproduceerd in: EUCZ801055-02",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1943127962085308,
+    "price sensitivity": -0.8321678321678322
+}

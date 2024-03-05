@@ -1,0 +1,18 @@
+{
+    "id": 1181,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Unox Romige tomatencr\u00e8mesoep",
+    "price": 2.65,
+    "unit": "570 mlPrijs per LT \u20ac 4,65",
+    "weight": "570 Milliliter",
+    "calories": 56.0,
+    "ingredients": "Ingredi\u00ebnten: Tomaat\u00b9 74,5% (tomaat, zongedroogde tomaat 0,3%), water, plantaardige olie (raapzaad, zonnebloem), gemodificeerd ma\u00efszetmeel, suiker, KARNEMELKPOEDER, mascarpone 0,8% (bevat MELK), TARWEBLOEM, gistextract (bevat GERST), gejodeerd zout, aroma, voedingszuur E330, uipoeder, stabilisator (E451, 452), zout, fructose, maltodextrine, knoflook, basilicum, laurierblad, witte wijnextract, balsamico-azijn (wijnazijn, druivenmost), peterseliewortel. Kan ei, soja, selderij, mosterd bevatten.  \u00b9 op duurzame wijze geteeld. Zie www.unox.nl voor meer informatie over duurzaam verbouwde groenten.",
+    "lifestyle": -0.7,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.16344725111441305,
+    "price sensitivity": -0.8012999071494893
+}

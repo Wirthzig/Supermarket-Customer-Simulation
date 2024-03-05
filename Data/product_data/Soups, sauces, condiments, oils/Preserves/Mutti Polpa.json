@@ -1,0 +1,18 @@
+{
+    "id": 1109,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "Mutti Polpa",
+    "price": 1.69,
+    "unit": "425 mlPrijs per LT \u20ac 3,98",
+    "weight": "400 Gram",
+    "calories": 26.0,
+    "ingredients": "Ingredi\u00ebnten: tomaat 99,8%, zout.",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.09212481426448736,
+    "price sensitivity": -0.7920148560817084
+}

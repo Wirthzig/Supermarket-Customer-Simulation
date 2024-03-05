@@ -1,0 +1,18 @@
+{
+    "id": 3016,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Kipgrillworst",
+    "price": 2.39,
+    "unit": "150 gPrijs per KG \u20ac 15,93",
+    "weight": "150 Gram",
+    "calories": 184.0,
+    "ingredients": "Ingredi\u00ebnten: 79% kippenvlees, water, zetmeel (aardappel, ma\u00efs), zout, kipcollageen, voedingszuur (kaliumlactaat [E326]), dextrose, antioxidant (natriumerythorbaat [E316]), conserveermiddel (natriumacetaat [E262], natriumnitriet [E250]), stabilisator (trifosfaat [E451]), specerijen, gistextract, rijstebloem,\u00a0extract van paprika, oregano.\nWaarvan toegevoegde suikers 0.9g per 100 gram en waarvan toegevoegd zout 1.90g per 100 gram",
+    "lifestyle": -0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1848928974069899,
+    "price sensitivity": -0.9346210995542348
+}

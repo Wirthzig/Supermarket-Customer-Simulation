@@ -1,0 +1,18 @@
+{
+    "id": 930,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "Barebells Protein bar white salty peanut",
+    "price": 2.59,
+    "unit": "55 gPrijs per KG \u20ac 47,09",
+    "weight": "55 Gram",
+    "calories": 380.0,
+    "ingredients": "Ingredi\u00ebnten: MELKprote\u00efne, bevochtigingsmiddel (glycerol), collageen peptiden, zoetstoffen (maltitol, sucralose), vulstof (polydextrose), cacaoboter,PINDA'S, volle MELKPOEDER, water, zonnebloemolie, smaakstof, zout, cacaomassa, emulgator (SOJALECITHINE). Kan sporen van GLUTEN en NOTEN bevatten",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05316455696202531,
+    "price sensitivity": -0.3666666666666666
+}

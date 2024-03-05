@@ -1,0 +1,18 @@
+{
+    "id": 104,
+    "category": "Pets",
+    "sub category": "Cats",
+    "product": "Whiskas Kattenmelk voordeelverpakking",
+    "price": 3.49,
+    "unit": "3 x 200 mlPrijs per LT \u20ac 5,82",
+    "weight": "3 Stuks (piece). 600 Milliliter",
+    "calories": NaN,
+    "ingredients": "Goed schudden voor gebruik.",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.38388625592417064,
+    "price sensitivity": -0.8321678321678322
+}

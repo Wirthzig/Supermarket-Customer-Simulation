@@ -1,0 +1,18 @@
+{
+    "id": 3541,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Kleine slade biet geitenkaas",
+    "price": 3.19,
+    "unit": "200 gPrijs per KG \u20ac 15,95",
+    "weight": "200 Gram",
+    "calories": 171.0,
+    "ingredients": "Ingredi\u00ebnten: groente (41% rode biet, 13% paarse wortel), water, geitenmelk, olijfolie, 5% zonnebloempit, boekweit, spelt (tarwe), honing, kervel, sinaasappelschil, zout, antiklontermiddel (cellulose [E460]), knoflook, rodewijnazijn, zwarte peper, vegetarisch stremsel, zuursel, conserveermiddel (kaliumsorbaat [E202]), citrusvezel, voedingszuur (citroenzuur [E330]).\u00a0\nWaarvan toegevoegde suikers 2.9g per 100 gram en waarvan toegevoegd zout 0.70g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2258064516129032,
+    "price sensitivity": -0.05932203389830515
+}

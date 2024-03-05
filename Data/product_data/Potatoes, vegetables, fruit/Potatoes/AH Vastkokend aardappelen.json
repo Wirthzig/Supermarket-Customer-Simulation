@@ -1,0 +1,18 @@
+{
+    "id": 3617,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Potatoes",
+    "product": "AH Vastkokend aardappelen",
+    "price": 4.49,
+    "unit": "3 kgPrijs per KG \u20ac 1,50",
+    "weight": "3 Kilogram",
+    "calories": 88.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.7,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.7916666666666666,
+    "price sensitivity": -0.32530120481927716
+}

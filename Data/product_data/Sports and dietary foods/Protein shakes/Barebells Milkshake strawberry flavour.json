@@ -1,0 +1,18 @@
+{
+    "id": 885,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein shakes",
+    "product": "Barebells Milkshake strawberry flavour",
+    "price": 2.99,
+    "unit": "330 mlPrijs per LT \u20ac 9,06",
+    "weight": "330 Milliliter",
+    "calories": 58.0,
+    "ingredients": "Ingredi\u00ebnten: Halfvolle MELK (66 %),\u00a0MELK prote\u00efne concentraat (31%), water, stabilisatoren (cellulose, cellulosegom, carrageen), cacaoboter, smaakstoffen, zuurteregelaars (sodium fosfaat), lactase, zoetstoffen (Acesulfaam-K, sucralose), kleurstof (carotenen).",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06329113924050633,
+    "price sensitivity": 0.03333333333333344
+}

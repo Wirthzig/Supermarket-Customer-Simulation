@@ -1,0 +1,18 @@
+{
+    "id": 3717,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Fruit",
+    "product": "AH Handsinaasappelen",
+    "price": 2.69,
+    "unit": "2 kgNormale prijs per KG \u20ac 1,50",
+    "weight": "2 Kilogram",
+    "calories": 48.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.41666666666666663,
+    "price sensitivity": 0.5180722891566265
+}

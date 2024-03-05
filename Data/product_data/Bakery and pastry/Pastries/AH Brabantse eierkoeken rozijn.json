@@ -1,0 +1,18 @@
+{
+    "id": 2570,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Brabantse eierkoeken rozijn",
+    "price": 2.39,
+    "unit": "4 stuks",
+    "weight": "4 Aantal",
+    "calories": 293.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, suiker, rozijn, water, 9,5%\u00a0vrije-uitloopei\u1d47, mageremelkpoeder, sojabloem, rijsmiddel (ammoniumcarbonaat [E503]), melkeiwit, zonnebloemolie, citroensapconcentraat, citroenschil, lactose, tarwemoutmeel, gemodificeerd aardappelzetmeel, meelverbeteraar (ascorbinezuur [E300]).\u00a0\u1d47Beter Leven keurmerk 2 sterren.\nWaarvan toegevoegde suikers 30g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1188811188811189,
+    "price sensitivity": -0.7824773413897281
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1533,
+    "category": "Wine and bubbles",
+    "sub category": "White wine",
+    "product": "Mastri Vernacoli Pinot Grigio",
+    "price": 7.49,
+    "unit": "0,75 lPrijs per LT \u20ac 9,99",
+    "weight": "0.75 Liter",
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6987951807228916,
+    "price sensitivity": -0.9461883408071748
+}

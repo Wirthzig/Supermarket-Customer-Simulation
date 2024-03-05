@@ -1,0 +1,18 @@
+{
+    "id": 3504,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Bami babi pangang",
+    "price": 4.59,
+    "unit": "450 gNormale prijs per KG \u20ac 10,20",
+    "weight": "450 Gram",
+    "calories": 148.0,
+    "ingredients": "Ingredi\u00ebnten: durumtarwegriesmeel, water,\u00a013% varkensvlees\u1d43, groente (8,8% prei, 1,3% witte kool, 0,7% ui, 0,2% wortel, 0,09% tomaat),\u00a0vrije-uitloopei\u1d47, suiker, puree (2,1% tomaat,\u00a0pinda, dadel, appel), plantaardige olie (soja,\u00a0raap, zonnebloem), zout, specerijen (o.a. 0,1% rode peper), gemodificeerd zetmeel (aardappel, ma\u00efs),\u00a0tarwebloem, gember, aardappelzetmeel, 0,4% varkensvlees, azijn, gistextract, varkenseiwit, suikerstroop, stabilisator (trifosfaten [E451], difosfaten [E450], carrageen [E407]), zuurteregelaar (azijnzuur [E260], melkzuur [E270]), gehydrolyseerd\u00a0soja-eiwit, verdikkingsmiddel (guarpitmeel [E412]), kleurstof (sulfiet-ammoniakkaramel [E150d]), antioxidant (natriumascorbaat [E301]), conserveermiddel (kaliumsorbaat [E202], natriumnitriet [E250]), natuurlijk aroma, extract (selderij,\u00a0gerstemout), rozijn, sapconcentraat (citroen, sinaasappel), venkelpoeder, citroenschil, sinaasappelschil, citroenolie, sinaasappelolie.\u00a0\u1d43Beter Leven keurmerk 1 ster. \u1d47Beter Leven keurmerk 2 sterren.\nWaarvan toegevoegde suikers 4.5g per 100 gram en waarvan toegevoegd zout 0.78g per 100 gram",
+    "lifestyle": 0.4,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4516129032258064,
+    "price sensitivity": -0.5847457627118644
+}

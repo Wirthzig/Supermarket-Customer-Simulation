@@ -1,0 +1,18 @@
+{
+    "id": 3435,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Hamburger",
+    "price": 4.39,
+    "unit": "4 stuksPrijs per KG \u20ac 10,98",
+    "weight": "400 Gram",
+    "calories": 281.0,
+    "ingredients": "Ingredi\u00ebnten: 90% rundvlees, tomaat, natuurlijke aroma's, aardappelzetmeel, zout, specerijen, tomatenpuree, tomatenpoeder, gebufferd azijnpoeder (conserverend ingredi\u00ebnt), antioxidant (natriumascorbaat [E301], natriumcitraten [E331]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.87g per 100 gram",
+    "lifestyle": -0.4,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.20253164556962025,
+    "price sensitivity": -0.09745762711864425
+}

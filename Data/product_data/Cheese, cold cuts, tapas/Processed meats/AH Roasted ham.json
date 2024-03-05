@@ -1,0 +1,18 @@
+{
+    "id": 3044,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Roasted ham",
+    "price": 2.83,
+    "unit": "ca. 105 gNormale prijs per KG \u20ac 29,90",
+    "weight": "0.11 Kilogram",
+    "calories": 168.0,
+    "ingredients": "96% varkensvlees, zout, dextrose, voedingszuur (kaliumlactaat [E326], natriumacetaat [E262]), stabilisator (trifosfaat [E451]), gistextract, antioxidant (natriumascorbaat [E301]), conserveermiddel (natriumnitriet [E250]). Waarvan toegevoegde suikers 1,0 g per 100 g en waarvan toegevoegd zout 1,60 g per 100 g.  E= door EU goedgekeurde hulpstoffen.",
+    "lifestyle": 0.2,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.23449830890642617,
+    "price sensitivity": -1.0
+}

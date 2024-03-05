@@ -1,0 +1,18 @@
+{
+    "id": 2939,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Snacks",
+    "product": "AH Spaanse besos de fuet",
+    "price": 3.25,
+    "unit": "86 gPrijs per KG \u20ac 37,79",
+    "weight": "86 Gram",
+    "calories": 500.0,
+    "ingredients": "Ingredi\u00ebnten: varkensvlees, rundercollageen, zout, lactose, dextrine, specerijen, conserveermiddel (natriumnitriet [E250], kaliumnitraat [E252]), antioxidant (natriumerythorbaat [E316]), schimmelcultuur.\nWaarvan toegevoegde suikers 1.0g per 100 gram en waarvan toegevoegd zout 4.20g per 100 gram\nVoor 100 g Spaanse Besos de Fuet is 165 g varkensvlees gebruikt.",
+    "lifestyle": -0.2,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.28184892897406993,
+    "price sensitivity": -0.8900445765230312
+}

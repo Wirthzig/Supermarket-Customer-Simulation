@@ -1,0 +1,18 @@
+{
+    "id": 2340,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Sweet spreads",
+    "product": "Calv\u00e9 Pindakaas stukjes pinda",
+    "price": 3.59,
+    "unit": "350 gPrijs per KG \u20ac 10,26",
+    "weight": "350 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten:PINDA 81%, plantaardige olie (raapzaad, soja, volledig geharde palm\u00b9), dextrose, zout. \u00b9Palmolie op duurzame wijze geteeld.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5471698113207546,
+    "price sensitivity": -0.7419354838709677
+}

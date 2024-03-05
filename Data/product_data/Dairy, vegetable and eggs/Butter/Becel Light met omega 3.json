@@ -1,0 +1,18 @@
+{
+    "id": 2594,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "Becel Light met omega 3",
+    "price": 2.29,
+    "unit": "250 gPrijs per KG \u20ac 9,16",
+    "weight": "250 Gram",
+    "calories": 269.0,
+    "ingredients": "Ingredi\u00ebnten: Water*, plantaardige oli\u00ebn 28%* (zonnebloem 15%, lijnzaad 7%, palm 4%, koolzaad 2%), gemodificeerd zetmeel, emulgatoren* (mono- en diglyceriden van vetzuren, zonnebloemlecithine), conserveermiddel (kaliumsorbaat), natuurlijk aroma*, vitamine (A, B1, B2, B6, B12, D, foliumzuur), Vol met ingredi\u00ebnten* van natuurlijke oorsprong",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2833333333333334,
+    "price sensitivity": -0.7069486404833837
+}

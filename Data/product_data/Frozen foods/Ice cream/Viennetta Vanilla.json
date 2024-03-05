@@ -1,0 +1,18 @@
+{
+    "id": 879,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Viennetta Vanilla",
+    "price": 3.39,
+    "unit": "0,65 lPrijs per LT \u20ac 5,22",
+    "weight": "8 Stuks (piece). 750 Milliliter",
+    "calories": 240.0,
+    "ingredients": "Ingredi\u00ebnten: Gerehydrateerde magere MELK, kokosolie, glucose-fructosestroop, suiker, water, glucosestroop, magere cacaopoeder, LACTOSE en MELKEIWITTEN, emulgatoren (mono- en diglyceriden van vetzuren, ammoniumfosfatiden), stabilisatoren (johannesbroodpitmeel, guargom, carrageen), aroma. Kan amandel, hazelnoot, soja, walnoot bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.36243386243386244,
+    "price sensitivity": -0.3666666666666666
+}

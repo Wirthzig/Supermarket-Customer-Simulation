@@ -1,0 +1,18 @@
+{
+    "id": 3333,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel kipdijfiletreepjes naturel",
+    "price": 4.89,
+    "unit": "350 gPrijs per KG \u20ac 13,97",
+    "weight": "350 Gram",
+    "calories": 157.0,
+    "ingredients": "Ingredi\u00ebnten: 100% kipdijfilet\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.23417721518987342,
+    "price sensitivity": -0.5677966101694916
+}

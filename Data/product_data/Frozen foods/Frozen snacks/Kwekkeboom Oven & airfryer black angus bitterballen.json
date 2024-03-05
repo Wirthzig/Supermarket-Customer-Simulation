@@ -1,0 +1,18 @@
+{
+    "id": 789,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "Kwekkeboom Oven & airfryer black angus bitterballen",
+    "price": 4.39,
+    "unit": "240 gPrijs per KG \u20ac 18,29",
+    "weight": "240 Gram",
+    "calories": 276.0,
+    "ingredients": "Ingredi\u00ebnten: 54% Aberdeen Angus rundvlees ragout (rundvleesbouillon (water, ui, specerijen), 35% Aberdeen Angus rundvlees, bloem (TARWE), plantaardige oli\u00ebn (palm, raap, kokos (in wisselende verhouding) zonnebloem, koolzaad), kookroom (room (MELK), zetmeel (ma\u00efs)), ui, zout, SOJASAUS (water, SOJABONEN, zout), gelatine (rund), kruiden, specerijen, natuurlijk aroma, dextrose, gedroogde glucosestroop, suiker, aardappelvlokken, gistextract, rundvleesextract, maltodextrine, wortelpoeder, verdikkingsmiddel:: E464, citroensap concentraat), water, paneermeel (bloem (TARWE), zout, kleurstoffen:: E160b- E150a, conserveermiddelen : E223 (bevat SULFIET)), raapzaadolie, batter (SOJA EIWIT, zetmeel (ma\u00efs), SOJABLOEM, verdikkingsmiddel : E466, raapzaadolie, MELKEIWIT), antioxidant: extracten van rozemarijn.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.49470899470899465,
+    "price sensitivity": -0.6120906801007557
+}

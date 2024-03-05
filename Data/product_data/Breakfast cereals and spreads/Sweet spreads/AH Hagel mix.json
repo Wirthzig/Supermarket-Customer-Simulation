@@ -1,0 +1,18 @@
+{
+    "id": 2346,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Sweet spreads",
+    "product": "AH Hagel mix",
+    "price": 2.49,
+    "unit": "600 gPrijs per KG \u20ac 4,15",
+    "weight": "600 Gram",
+    "calories": 449.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, magerecacaopoeder\u00b0, rijstebloem, plantaardige olie (palm, shea), cacaoboter\u00b0, cacaomassa\u00b0, emulgator (lecithinen [E322]), glansmiddel (arabische gom [E414]), vanillearoma, vollemelkpoeder.\nWaarvan toegevoegde suikers 68g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\ncacaobestanddelen ten minste 32%. \n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.33962264150943394,
+    "price sensitivity": -0.12903225806451613
+}

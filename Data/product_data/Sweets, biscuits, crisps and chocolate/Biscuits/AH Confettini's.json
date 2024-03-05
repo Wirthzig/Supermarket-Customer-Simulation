@@ -1,0 +1,18 @@
+{
+    "id": 2131,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Biscuits",
+    "product": "AH Confettini's",
+    "price": 1.85,
+    "unit": "200 gNormale prijs per KG \u20ac 9,25",
+    "weight": "200 Gram",
+    "calories": 472.0,
+    "ingredients": "Ingredi\u00ebnten: suiker,\u00a0tarwebloem,\u00a0vrije-uitloopei, plantaardig vet (palm, shea), plantaardige olie (raap, zonnebloem), cichoreivezel, bevochtigingsmiddel (glycerol [E422]), glucose-fructosestroop, emulgator (mono- en diglyceriden van vetzuren [E471], natriumstearoyl-2-lactylaat [E481], lecithinen\u00a0[E322 (soja)]), cacaomassa\u00b0, cacaoboter\u00b0,\u00a0melkpoeder, zetmeel (tarwe, rijst), rijsmiddel (difosfaat [E450], natriumcarbonaat [E500]),\u00a0vrije-uitloopeipoeder, kleurend concentraat (rode biet, radijs, braam, citroen, saffloer, alg), verdikkingsmiddel (cellulosegom [E466]), zout,\u00a0vrije-uitloopei-eiwitpoeder, vegetarisch weipoeder, natuurlijke aroma\u2019s, conserveermiddel (kaliumsorbaat [E202], calciumpropionaat [E282]), glansmiddel (carnaubawas [E903], bijenwas [E901]), natuurlijk vanillearoma, glucosestroop, geleermiddel (arabische gom [E414]).\nWaarvan toegevoegde suikers 33g per 100 gram en waarvan toegevoegd zout 0.20g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.22881355932203387,
+    "price sensitivity": -0.5000000000000001
+}

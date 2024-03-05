@@ -1,0 +1,18 @@
+{
+    "id": 3389,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Sappige magere rookworst",
+    "price": 1.35,
+    "unit": "250 gPrijs per KG \u20ac 5,40",
+    "weight": "250 Gram",
+    "calories": 237.0,
+    "ingredients": "Ingredi\u00ebnten: 94% varkensvlees\u00aa, zout, rundereiwit, voedingszuur (citroenzuur [E330]), stabilisator (difosfaat [E450], polyfosfaat [E452]), rookaroma, natuurlijk aroma, specerijenextract, antioxidant (natriumascorbaat [E301]), specerijen, conserveermiddel (natriumnitriet [E250]).\u00a0\u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.60g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.010126582278481022,
+    "price sensitivity": -0.35593220338983056
+}

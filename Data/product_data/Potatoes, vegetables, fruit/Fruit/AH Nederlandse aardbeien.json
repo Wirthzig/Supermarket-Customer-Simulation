@@ -1,0 +1,18 @@
+{
+    "id": 3664,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Fruit",
+    "product": "AH Nederlandse aardbeien",
+    "price": 3.99,
+    "unit": "250 gPrijs per KG \u20ac 15,96",
+    "weight": "250 Gram",
+    "calories": 25.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.6875,
+    "price sensitivity": -0.1325301204819278
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3424,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Varkenslavink",
+    "price": 3.49,
+    "unit": "4 stuks",
+    "weight": "400 Gram",
+    "calories": 274.0,
+    "ingredients": "Ingredi\u00ebnten: 92% varkensvlees\u1d43, water, aardappelzetmeel, natuurlijk aroma, natriumgereduceerd zeezout, specerijen, gebufferd azijnpoeder (conserverend ingredi\u00ebnt), melkeiwit, antioxidant (natriumascorbaat [E301], natriumcitraat [E331]).\u1d43Beter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.57g per 100 gram",
+    "lifestyle": 0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14556962025316458,
+    "price sensitivity": -0.5254237288135595
+}

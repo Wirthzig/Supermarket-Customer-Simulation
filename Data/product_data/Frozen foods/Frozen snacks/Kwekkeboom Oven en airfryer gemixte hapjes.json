@@ -1,0 +1,18 @@
+{
+    "id": 787,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "Kwekkeboom Oven en airfryer gemixte hapjes",
+    "price": 4.99,
+    "unit": "12 stuks",
+    "weight": "260 Gram",
+    "calories": 295.0,
+    "ingredients": "Ingredi\u00ebnten: Kaashapjes: 58% Smeltkaas (37% Cheddar kaas (MELK), 28% kaas (MELK), water, boter (MELK), MELKEIWIT, zetmeel, smeltzouten (E452, E339, E331), zout, kleurstoffen ( caroteen, paprika extract)), water, TARWEBLOEM, raapzaadolie, SOJA EIWIT, zetmeel, SOAJBLOEM, gemodificeerd TARWEZETMEEL, zout, verdikkingsmiddelen (E466), kleurstoffen (karamel), conserveermiddelen (E223 bevat SULFIET), MELKEIWIT, gist, antioxidanten (rozemarijnextract).\n\nIngredi\u00ebnten: Kipnuggets:  51% Gemalen kipfilet, 23% water, TARWEBLOEM, raapzaadolie, zetmeel, zout, SOJA EIWIT , gemodificeerd zetmeel (bevat TARWE), aroma, verdikkingsmiddelen (polydextrose,  E415, E461, E466), SOJABLOEM, maltodextrine, kleurstoffen (E160b, curcumine), KIPPENEI EIWIT, gist, conserveermiddelen (E223 bevat SULFIET), MELKEIWIT, antioxidanten (rozemarijnextract).\n\nIngredi\u00ebnten: Kalfsvlees Bitterballen: Water, TARWEBLOEM, 10% kalfsvlees, plantaardige oli\u00ebn (raapzaad, palm), 6% room (bevat MELK), SOJA EIWIT, zetmeel (mais, TARWE), 1% kruiden (bevat TARWE, SELDERIJ), zout, verdikkingsmiddelen (E1442, E1200, E461), magere MELK, gelatine (rund) (bevat SULFIET), gistextract, suiker, emulgatoren (E415, E466, E412), SOJABLOEM, kleurstof (E150a), sojasaus (water, SOJA, TARWE, zout), KIPPENEI-albumine poeder, MELKEIWIT, rijsmiddel (E500ii), stabilisator (E407), lavas, rozemarijn antioxidant, voedingszuur (E270), azijn, citrusvezel.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5740740740740741,
+    "price sensitivity": -0.36020151133501266
+}

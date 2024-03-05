@@ -1,0 +1,18 @@
+{
+    "id": 1853,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Coffee",
+    "product": "Douwe Egberts Ice macchiato ijskoffie",
+    "price": 1.49,
+    "unit": "230 mlPrijs per LT \u20ac 6,48",
+    "weight": "230 Milliliter",
+    "calories": 85.0,
+    "ingredients": "Ingredi\u00ebnten: Volle MELK (80%), Arabica koffie (14%; water, koffie-extract*), suiker, maltodextrine, zuurteregelaars (E500, E339), verdikkingsmiddel (E407).",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.07854984894259819,
+    "price sensitivity": -0.9680851063829787
+}

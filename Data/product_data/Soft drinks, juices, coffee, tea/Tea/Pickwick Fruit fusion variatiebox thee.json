@@ -1,0 +1,18 @@
+{
+    "id": 1753,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "Pickwick Fruit fusion variatiebox thee",
+    "price": 2.9,
+    "unit": "20 stuks",
+    "weight": "20 Stuks (piece). 31.5 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: Kers & Zwarte bes: stukjes appel, rode biet, aroma's, braamblaadjes, hibiscus, zoethout stukjes, zwarte bes (0,5%), stukjes braam (0,4%), stukjes kers (0,25%). Framboos & Aardbei: stukjes appel, groene rooibos, rozenbottel, aroma's, rode biet, hibiscus, zoethout, stukjes framboos (0,5%), stukjes aarbei (0,5%). Mango & Sinaasappel: stukjes appel, rooibos, citroenmelisse, sinaasappelschilletjes (10%), zoethout, hibiscus, aroma's, stukjes mango (2%). Citroen & Ananas: stukjes appel, citroenmelisse, rozenbottel, citroenschilletjes (12%), aroma's, witte hibiscus, zoethout, stukjes ananas (0,5%).",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1850453172205438,
+    "price sensitivity": -0.8439716312056738
+}

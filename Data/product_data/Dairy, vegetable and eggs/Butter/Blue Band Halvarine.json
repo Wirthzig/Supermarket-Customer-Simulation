@@ -1,0 +1,18 @@
+{
+    "id": 2652,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "Blue Band Halvarine",
+    "price": 1.69,
+    "unit": "500 gNormale prijs per KG \u20ac 4,50",
+    "weight": "500 Gram",
+    "calories": 351.0,
+    "ingredients": "Ingredi\u00ebnten: Water, plantaardige oli\u00ebn 39% (zonnebloem 14%, palm, koolzaad 7,7%, lijnzaad 4,5%), gemodificeerd zetmeel, zout (0,35%), emulgatoren (mono- en diglyceriden van vetzuren, zonnebloemlecithine), voedingszuur (citroenzuur), natuurlijke aroma's, vitamine A, B1, B2, B6, foliumzuur, B12 en D",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.18333333333333335,
+    "price sensitivity": -0.5105740181268883
+}

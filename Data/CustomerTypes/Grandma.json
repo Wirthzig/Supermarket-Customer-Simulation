@@ -1,0 +1,19 @@
+{
+  "name": "Grandma (slow)",
+  "n": 5,
+  "fraud_probability": 0.05,
+  "time": {"mean": 1, "std": 0.2},
+  "amount": {"mean": 0, "std": 0.25},
+  "recipes": {"Spaghetti:": 0.4, "Burger": 0.2, "Risotto": 0.3, "VegRice": 0.4, "Steak": 0.2, "Party": 0.2},
+  "attributes": {
+    "price sensitivity": {"mean": 0, "std": 0.5},
+    "meat": {"mean": 0, "std": 0.25},
+    "vegetarian": {"mean": 0, "std": 0.25},
+    "vegan": {"mean": 0, "std": 0.25},
+    "lifestyle": {"mean": 0, "std": 0.25},
+    "sustainability": {"mean": 0, "std": 0.5},
+    "pets": {"mean": -1, "std": 0.2},
+    "children": {"mean": -1, "std": 0}
+  }
+}
+

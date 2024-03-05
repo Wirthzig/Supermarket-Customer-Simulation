@@ -1,0 +1,18 @@
+{
+    "id": 849,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Cornetto Mini classico",
+    "price": 3.19,
+    "unit": "6 x 60 mlPrijs per LT \u20ac 8,86",
+    "weight": "6 Stuks (piece). 360 Milliliter",
+    "calories": 328.0,
+    "ingredients": "Ingredi\u00ebnten: Gerehydrateerde magere MELK, suiker, TARWEBLOEM, kokosolie, glucose-fructosestroop, BOTERCONCENTRAAT, HAZELNOOT (2,5%), ROOM (2,5%), zonnebloemolie, glucosestroop, magere cacaopoeder1, magere MELKPOEDER- of concentraat, emulgatoren (lecithines, mono- en diglyceriden van vetzuren, ammoniumfosfatiden), aardappelzetmeel, water, stabilisatoren (natriumalginaat, carrageen), zout, gekarameliseerde suikerstroop, aroma's (bevat MELK), TARWEZETMEEL, EI-EIWIT, MELKEIWITTEN. Kan amandel, walnoot, cashewnoot, pecannoot, pistachenoot, macadamia en soja bevatten. \u00b9Rainforest Alliance gecertificeerd",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.335978835978836,
+    "price sensitivity": 0.10000000000000009
+}

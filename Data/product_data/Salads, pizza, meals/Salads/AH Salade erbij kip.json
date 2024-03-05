@@ -1,0 +1,18 @@
+{
+    "id": 3542,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Salade erbij kip",
+    "price": 4.29,
+    "unit": "325 gPrijs per KG \u20ac 13,20",
+    "weight": "320 Gram",
+    "calories": 102.0,
+    "ingredients": "Ingredi\u00ebnten: groente (13% romainesla, 13% bleekselderij, 10% knolselderij, 8% fris\u00e9esla), 20% kippenvlees, 19% rode appel, water, raapolie, kruidenazijn, suiker, zout,\u00a0scharreleigeel, ma\u00efszetmeel, natuurlijk aroma\u00a0(mosterd), specerijen (o.a.\u00a0mosterd), gemodificeerd aardappelzetmeel, dextrose, gebufferd azijnpoeder (conserverend ingredi\u00ebnt), verdikkingsmiddel (xanthaangom [E415]), azijn, antioxidant (calciumascorbaat [E302], citroenzuur [E330]).\nWaarvan toegevoegde suikers 1.4g per 100 gram en waarvan toegevoegd zout 0.52g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4032258064516129,
+    "price sensitivity": -0.39830508474576287
+}

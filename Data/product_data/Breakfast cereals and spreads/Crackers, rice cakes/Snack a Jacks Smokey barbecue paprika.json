@@ -1,0 +1,18 @@
+{
+    "id": 2285,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Crackers, rice cakes",
+    "product": "Snack a Jacks Smokey barbecue paprika",
+    "price": 2.9,
+    "unit": "103 gPrijs per KG \u20ac 20,29",
+    "weight": "103 Gram",
+    "calories": 375.0,
+    "ingredients": "Ingredi\u00ebnten: zilvervliesrijst (47%), ma\u00efs (46%) (waarvan de kiem verwijderd is), barbecue- en paprikasmaak [suiker, zout,  aroma's, ui-, knoflook-, paprika-, tomaatpoeder, voedingszuur (citroenzuur), kaliumchloride, specerijen, kleurstof (paprika-extract), zuurteregelaar (kaliumcitraat) rookaroma's, azijnpoeder]. \u25caDit product kan soja, sesam en melk bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.41698113207547166,
+    "price sensitivity": -0.9583333333333333
+}

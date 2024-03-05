@@ -1,0 +1,18 @@
+{
+    "id": 2587,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Roomboter gevulde koeken",
+    "price": 2.59,
+    "unit": "4 stuksPrijs per KG \u20ac 7,19",
+    "weight": "340 Gram",
+    "calories": NaN,
+    "ingredients": "-",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13286713286713286,
+    "price sensitivity": -0.38972809667673713
+}

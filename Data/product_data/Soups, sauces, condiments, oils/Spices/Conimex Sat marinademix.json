@@ -1,0 +1,18 @@
+{
+    "id": 1014,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Spices",
+    "product": "Conimex Sat marinademix",
+    "price": 0.8,
+    "unit": "38 gPrijs per KG \u20ac 21,05",
+    "weight": "38 Gram",
+    "calories": 330.0,
+    "ingredients": "Ingredi\u00ebnten: Suiker, zout, gistextract, gember, knoflook, plantaardige olie (zonnebloem, palm), maltodextrine, paprika, galangawortel, zwarte peper, uipoeder, sojasaus (SOJABOON, TARWE), GERSTEMOUTEXTRACT, citroensappoeder, komijn, aroma (bevat SELDERIJ).Kan melk, ei bevatten.",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.02600297176820208,
+    "price sensitivity": -0.7725162488393686
+}

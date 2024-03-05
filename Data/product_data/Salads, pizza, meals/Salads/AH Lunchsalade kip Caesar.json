@@ -1,0 +1,18 @@
+{
+    "id": 3526,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Lunchsalade kip Caesar",
+    "price": 3.59,
+    "unit": "225 gPrijs per KG \u20ac 15,96",
+    "weight": "225 Gram",
+    "calories": 148.0,
+    "ingredients": "Ingredi\u00ebnten: 44% romaine sla, 25% scharrelei, 24% kippenvlees, 5% varkensvlees, water, zout, ma\u00efszetmeel, dextrose, glucosestroop, azijn, voedingszuur (citroenzuur), antioxidant (E301), rook, conserveermiddel (E250). Caesardressing: water, plantaardige olie (raap, zonnebloem), 3% witte wijn,\u00a0kaaspoeder, zout, citroensapconcentraat, suiker, glucosestroop, gemodificeerd ma\u00efszetmeel, azijn, knoflook, specerijen (o.a.\u00a0mosterd), aroma\u2019s\u00a0(melk), kruiden, voedingszuur (azijnzuur, citroenzuur), scharreleigeel, conserveermiddel (E202, E211), verdikkingsmiddel (guarpitmeel), stabilisator (xanthaangom, E339), gehydrolyseerd plantaardig eiwit (soja, ma\u00efs), dieetzout (ammoniumchloride), knoflookextract, natuurlijk aroma. Croutons:\u00a0tarwebloem, palmolie, zout, gist.\u00a0Regato kaas:\u00a0melk, zout, stremsel, zuursel.\nWaarvan toegevoegde suikers 0.5g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.29032258064516125,
+    "price sensitivity": -0.48305084745762716
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3398,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Biologisch Ontbijtspek",
+    "price": 2.79,
+    "unit": "ca. 100 gPrijs per KG \u20ac 27,90",
+    "weight": "100 Gram",
+    "calories": 283.0,
+    "ingredients": "Ingredi\u00ebnten: varkensvlees*, zout, conserveermiddel (natriumlactaat [E325], natriumnitriet [E250]), azijn*, antioxidant (natriumascorbaat [E301]), rook.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 3.80g per 100 gram\nEU/niet-EU Landbouw \n*Van biologische oorsprong. \nVoor 100 g ontbijtspek is 105 g varkensvlees gebruikt.",
+    "lifestyle": -0.3,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.10126582278481014,
+    "price sensitivity": -0.5677966101694916
+}

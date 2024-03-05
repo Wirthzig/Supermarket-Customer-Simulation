@@ -1,0 +1,18 @@
+{
+    "id": 1305,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Couscous, bulgur, quinoa, groats",
+    "product": "Smaakt Volkoren couscous",
+    "price": 1.79,
+    "unit": "400 gNormale prijs per KG \u20ac 4,48",
+    "weight": "400 Gram",
+    "calories": 338.0,
+    "ingredients": "Ingredi\u00ebnten: Volkoren griesmeel* (DURUM TARWE)*, *=biologisch\n\nKan sporen bevatten van andere glutenbevattende granen, pinda's, soja, melk, noten, selderij, sesamzaad.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.16666666666666666,
+    "price sensitivity": 0.41269841269841256
+}

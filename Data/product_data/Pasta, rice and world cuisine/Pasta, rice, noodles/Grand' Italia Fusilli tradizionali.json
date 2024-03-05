@@ -1,0 +1,18 @@
+{
+    "id": 1313,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Pasta, rice, noodles",
+    "product": "Grand' Italia Fusilli tradizionali",
+    "price": 2.9,
+    "unit": "500 gPrijs per KG \u20ac 4,18",
+    "weight": "500 Gram",
+    "calories": 353.0,
+    "ingredients": "Ingredi\u00ebnten: 100% durm TARWEGRIES\n\nKan sporen bevatten van soja.",
+    "lifestyle": -0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3634751773049645,
+    "price sensitivity": -0.7089947089947091
+}

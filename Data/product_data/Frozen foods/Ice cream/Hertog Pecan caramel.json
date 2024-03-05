@@ -1,0 +1,18 @@
+{
+    "id": 843,
+    "category": "Frozen foods",
+    "sub category": "Ice cream",
+    "product": "Hertog Pecan caramel",
+    "price": 4.89,
+    "unit": "900 mlPrijs per LT \u20ac 5,43",
+    "weight": "900 Milliliter. 500 Gram",
+    "calories": 213.0,
+    "ingredients": "Ingredi\u00ebnten: Gerehydrateerde magere MELK, suiker, glucosestroop, water, ROOM, glucose-fructosestroop, LACTOSE en MELKEIWITTEN, BOTERCONCENTRAAT, PECANNOOT (2%), gekarameliseerde suikerstroop, fructose, kokosolie, stabilisatoren (guargom, johannesbroodpitmeel, taragum, carrageen), emulgator (mono- en diglyceriden van vetzuren), geconcentreerde magere MELK, zout, BOTER, kleurstof (caroteen), natuurlijk vanillearoma, uitgeputte gemalen vanillestokjes, natuulijk aroma. Kan tarwe, ei, soja en andere noten bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5608465608465607,
+    "price sensitivity": 0.10333333333333328
+}

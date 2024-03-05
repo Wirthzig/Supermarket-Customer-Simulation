@@ -1,0 +1,18 @@
+{
+    "id": 1561,
+    "category": "Wine and bubbles",
+    "sub category": "Red wine",
+    "product": "AH Suid-Afrika soepel",
+    "price": 3.99,
+    "unit": "1 lNormale prijs per LT \u20ac 4,49",
+    "weight": "1 Liter",
+    "calories": 75.0,
+    "ingredients": "South Africa",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.27710843373493976,
+    "price sensitivity": -0.5189873417721518
+}

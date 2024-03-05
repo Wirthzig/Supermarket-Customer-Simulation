@@ -1,0 +1,18 @@
+{
+    "id": 2402,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Breakfast cereals",
+    "product": "Kellogg's Tresor melk choco",
+    "price": 4.79,
+    "unit": "410 gPrijs per KG \u20ac 11,68",
+    "weight": "410 Gram",
+    "calories": 455.0,
+    "ingredients": "Ingredi\u00ebnten: Granenmeel (55%) (TARWE, HAVER, rijst), vulling met MELKCHOCOLADESMAAK (suiker, plantaardige oli\u00ebn{zonnebloem, raapzaad, palm}, MELKCHOCOLADE (9%) {suiker, cacaomassa, MELKWEIPOEDER, MELKVET, VOLLEMELKPOEDER, cacaoboter}, glucosestroop, magere cacaopoeder, VOLLEMELKPOEDER, MAGEREMELKPOEDER, emulgator {SOJALECITHINE}, citroenzuur), suiker, zout, kleurstoffen (annatto norbixine, carotenen), antioxidanten (ascorbylpalmitaat, alfatocoferol), Vitaminen: riboflavine, thiamine, vitamine B6, vitamine B12.\n\nBevat mogelijk gluten uit andere granen, noten.\n\nVoor allergenen: zie ingredi\u00ebnten in vet gemarkeerd.",
+    "lifestyle": -0.6,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.7735849056603772,
+    "price sensitivity": 0.4516129032258065
+}

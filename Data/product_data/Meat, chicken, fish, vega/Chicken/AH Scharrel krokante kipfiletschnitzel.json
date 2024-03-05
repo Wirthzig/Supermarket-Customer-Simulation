@@ -1,0 +1,18 @@
+{
+    "id": 3371,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Chicken",
+    "product": "AH Scharrel krokante kipfiletschnitzel",
+    "price": 3.89,
+    "unit": "250 gPrijs per KG \u20ac 15,56",
+    "weight": "250 Gram",
+    "calories": 234.0,
+    "ingredients": "Ingredi\u00ebnten: 58% kipfilet\u00aa, 18% ma\u00efs, 9,8% water, zonnebloemolie, tarwebloem, zout, zetmeel (ma\u00efs, aardappel, tarwe), suiker, specerijen, natuurlijk aroma,\u00a0kippeneiwit, gerstemoutextract, specerijenextract, poeder (pastinaak, peterseliewortel).\u00a0\u00aaBeter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.4g per 100 gram en waarvan toegevoegd zout 1.23g per 100 gram",
+    "lifestyle": 0.6,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1708860759493671,
+    "price sensitivity": -0.48305084745762716
+}

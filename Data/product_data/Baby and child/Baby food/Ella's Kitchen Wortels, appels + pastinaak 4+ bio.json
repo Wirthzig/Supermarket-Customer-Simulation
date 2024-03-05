@@ -1,0 +1,18 @@
+{
+    "id": 414,
+    "category": "Baby and child",
+    "sub category": "Baby food",
+    "product": "Ella's Kitchen Wortels, appels + pastinaak 4+ bio",
+    "price": 1.95,
+    "unit": "120 gPrijs per KG \u20ac 16,25",
+    "weight": "120 Gram",
+    "calories": 45.0,
+    "ingredients": "Ingredi\u00ebnten: 49% appels*, 31% wortels*, 20% pastinaken*, <1% geconcentreerd citroensap*. * = biologisch",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.03706293706293707,
+    "price sensitivity": -0.6603773584905661
+}

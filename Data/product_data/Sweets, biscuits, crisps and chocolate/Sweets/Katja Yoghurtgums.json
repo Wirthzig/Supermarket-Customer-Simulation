@@ -1,0 +1,18 @@
+{
+    "id": 2118,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Sweets",
+    "product": "Katja Yoghurtgums",
+    "price": 1.69,
+    "unit": "295 gNormale prijs per KG \u20ac 6,75",
+    "weight": "59 Stuks (piece). 295 Gram",
+    "calories": 330.0,
+    "ingredients": "Ingredi\u00ebnten:\u00a0Suiker, glucosestroop, maltodextrine,\u00a0MAGERE YOGHURTPOEDER\u00a0(6%), geleermiddel (pectine), zuurteregelaar (kaliumnatriumtartraat, kaliumcitraat), voedingszuur (citroenzuur, melkzuur), natuurlijke aroma\u2019s, kleurende fruit- en plantenconcentraten (wortel, zwarte wortel, appel, citroen, rode kool, bosbes), plantaardige olie (zonnebloem), glansmiddel (carnaubawas).",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1949152542372881,
+    "price sensitivity": -0.8720379146919431
+}

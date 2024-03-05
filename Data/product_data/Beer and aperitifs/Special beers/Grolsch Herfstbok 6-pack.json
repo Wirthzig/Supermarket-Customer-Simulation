@@ -1,0 +1,18 @@
+{
+    "id": 1424,
+    "category": "Beer and aperitifs",
+    "sub category": "Special beers",
+    "product": "Grolsch Herfstbok 6-pack",
+    "price": 7.29,
+    "unit": "6 x 30 clPrijs per LT \u20ac 4,05",
+    "weight": "30 Centiliter",
+    "calories": 60.0,
+    "ingredients": "Ingredi\u00ebnten: water, GERSTEMOUT, suiker, gekarameliseerde suikerstroop en hop.",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.27813993915688834,
+    "price sensitivity": -0.8152466367713004
+}

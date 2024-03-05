@@ -1,0 +1,18 @@
+{
+    "id": 1383,
+    "category": "Beer and aperitifs",
+    "sub category": "Alcohol-free beer and beer low in alcohol",
+    "product": "Lowlander 0.3% IPA",
+    "price": 2.29,
+    "unit": "33 clPrijs per LT \u20ac 6,94",
+    "weight": "330 Milliliter",
+    "calories": 23.0,
+    "ingredients": "water, GERSTEMOUT, TARWE, hop, gist, mango, sinaasappelschil, kardemom",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06084311169056932,
+    "price sensitivity": 0.04761904761904767
+}

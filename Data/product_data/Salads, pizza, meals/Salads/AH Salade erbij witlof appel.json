@@ -1,0 +1,18 @@
+{
+    "id": 3558,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Salade erbij witlof appel",
+    "price": 3.89,
+    "unit": "335 gPrijs per KG \u20ac 11,61",
+    "weight": "335 Gram",
+    "calories": 111.0,
+    "ingredients": "Ingredi\u00ebnten: groente (60% witlof, 3% bosui), 15% rode appel, water, plantaardige olie (raap, zonnebloem), 4,5% rozijn, 3%\u00a0walnoot, azijn, suiker,\u00a0scharreleigeel, natuurlijk aroma\u00a0(mosterd), gemodificeerd aardappelzetmeel, specerijen (o.a.\u00a0mosterd), zout, verdikkingsmiddel (xanthaangom [E415]), ciderazijn, antioxidant (ascorbinezuur [E300]).\nWaarvan toegevoegde suikers 1.3g per 100 gram en waarvan toegevoegd zout 0.19g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.33870967741935487,
+    "price sensitivity": 0.32203389830508455
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3427,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Gelderse rookworst",
+    "price": 1.35,
+    "unit": "250 gPrijs per KG \u20ac 5,40",
+    "weight": "250 Gram",
+    "calories": 291.0,
+    "ingredients": "Ingredi\u00ebnten: 93% varkensvlees\u00aa, zout, rundercollageen, voedingszuur (citroenzuur [E330]), stabilisator (difosfaten [E450], polyfosfaten [E452]), rookaroma, natuurlijk aroma, specerijenextract, antioxidant (natriumascorbaat [E301]), conserveermiddel (natriumnitriet [E250]), specerijen.\u00a0\u1d43Beter Leven keurmerk 1 ster.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 1.80g per 100 gram",
+    "lifestyle": 0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.010126582278481022,
+    "price sensitivity": -0.27118644067796616
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3020,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Grillworst kip",
+    "price": 2.29,
+    "unit": "ca. 125 gPrijs per KG \u20ac 18,29",
+    "weight": "130 Gram",
+    "calories": 239.0,
+    "ingredients": "Ingredi\u00ebnten: kippenvlees, zetmeel (aardappel, tarwe), zout, voedingszuur (kaliumlactaat [E326]), natuurlijk aroma, dextrose, specerijen, stabilisator (difosfaat [E450], trifosfaat [E451]), antioxidant (natriumascorbaat [E301]), aroma, conserveermiddel (natriumnitriet [E250]).\u00a0\nWaarvan toegevoegde suikers 1.1g per 100 gram en waarvan toegevoegd zout 1.76g per 100 gram",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17361894024802707,
+    "price sensitivity": -0.635958395245171
+}

@@ -1,0 +1,18 @@
+{
+    "id": 143,
+    "category": "Pets",
+    "sub category": "Dogs",
+    "product": "Naturo Duck with blueberries,pumpkin, courgette",
+    "price": 1.49,
+    "unit": "390 gPrijs per KG \u20ac 3,82",
+    "weight": "390 Gram",
+    "calories": NaN,
+    "ingredients": "Eend 50%, groenten en fruit 8% (pompoen, courgette, bosbessen), mineralen, zonnebloemolie 0,13%, zalmolie 0,06%, lijnzaadolie 0,06%, gedroogde kelp, gedroogde rozemarijn, gedroogde cichoreiwortel, Mannanoligosacchariden (prebiotische MOS), gedroogde brandnetel, groene thee, gedroogd Rozenbottel, Glucosamine 0,0025%, chondro\u00eftinesulfaat 0,00125%, Goudsbloem",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.14691943127962087,
+    "price sensitivity": -0.3566433566433568
+}

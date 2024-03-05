@@ -1,0 +1,18 @@
+{
+    "id": 1329,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Pasta, rice, noodles",
+    "product": "AH Basmatirijst",
+    "price": 2.79,
+    "unit": "1 kgPrijs per KG \u20ac 2,79",
+    "weight": "1 Kilogram",
+    "calories": 360.0,
+    "ingredients": "Ingredi\u00ebnten: rijst.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": -0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3439716312056737,
+    "price sensitivity": 0.06878306878306861
+}

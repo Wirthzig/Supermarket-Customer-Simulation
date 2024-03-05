@@ -1,0 +1,18 @@
+{
+    "id": 2584,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Volkoren eierkoeken",
+    "price": 1.9,
+    "unit": "200 gPrijs per KG \u20ac 5,45",
+    "weight": "200 Gram",
+    "calories": 301.0,
+    "ingredients": "Ingredi\u00ebnten: volkoren\u00a0tarwemeel, suiker, 20% vrije-uitloopei, water, invertsuikerstroop, vollemelkpoeder, rijsmiddel (ammoniumcarbonaat [E503]), sojabloem, natuurlijk aroma.\nWaarvan toegevoegde suikers 25g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0846153846153846,
+    "price sensitivity": 0.4365558912386709
+}

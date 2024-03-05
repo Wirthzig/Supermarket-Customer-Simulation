@@ -1,0 +1,18 @@
+{
+    "id": 3447,
+    "category": "Meat, chicken, fish, vega",
+    "sub category": "Meat",
+    "product": "AH Rundersoepballetjes",
+    "price": 2.99,
+    "unit": "ca. 250 gPrijs per KG \u20ac 11,96",
+    "weight": "250 Gram",
+    "calories": 253.0,
+    "ingredients": "Ingredi\u00ebnten: 95% rundvlees, natuurlijke aroma's, natriumgereduceerd zeezout, aardappelzetmeel, water, specerijen, gebufferde azijnpoeder (conserverend ingredi\u00ebnt), antioxidant (natriumascorbaat [E301], natriumcitraat [E331]).\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.97g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.11392405063291142,
+    "price sensitivity": -0.6101694915254239
+}

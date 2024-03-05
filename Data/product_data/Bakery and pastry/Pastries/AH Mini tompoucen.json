@@ -1,0 +1,18 @@
+{
+    "id": 2527,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Mini tompoucen",
+    "price": 2.5,
+    "unit": "4 stuks",
+    "weight": "4 Aantal",
+    "calories": 331.0,
+    "ingredients": "Ingredi\u00ebnten: water,\u00a0tarwebloem, suiker, plantaardige olie (kokos, raap), palmvet, mageremelkpoeder, glucosestroop, invertsuikerstroop, rundergelatine, emulgator (mono- en diglyceriden van vetzuren [E471], mono- en diglyceriden van vetzuren, veresterd met melkzuur [E472b]),\u00a0tarwezetmeel, gejodeerd zout, zout, kleurstof (anthocyaan [E163], caroteen [E160a], curcumine [E100]), voedingszuur (citroenzuur [E330]), verdikkingsmiddel (natriumalginaat [E401]), stabilisator (natriumfosfaat [E339]), vanillearoma.\nWaarvan toegevoegde suikers 19g per 100 gram en waarvan toegevoegd zout 0.35g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12657342657342657,
+    "price sensitivity": 0.06590257879656147
+}

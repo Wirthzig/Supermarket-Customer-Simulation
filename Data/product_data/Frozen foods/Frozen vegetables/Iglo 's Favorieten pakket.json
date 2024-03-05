@@ -1,0 +1,18 @@
+{
+    "id": 706,
+    "category": "Frozen foods",
+    "sub category": "Frozen vegetables",
+    "product": "Iglo 's Favorieten pakket",
+    "price": 6.72,
+    "unit": "per pakket",
+    "weight": NaN,
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.8029100529100528,
+    "price sensitivity": -0.10831234256926958
+}

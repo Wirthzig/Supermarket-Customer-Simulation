@@ -1,0 +1,18 @@
+{
+    "id": 2488,
+    "category": "Bakery and pastry",
+    "sub category": "Bake-off bread",
+    "product": "AH Voordeel schnittbroodjes wit",
+    "price": 1.89,
+    "unit": "10 stuks",
+    "weight": "700 Gram",
+    "calories": 262.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, bakkersgist, gejodeerd zout, tarwemoutmeel, tarwezuurdesem, tarwegluten, antioxidant (ascorbinezuur [E300]), conserveermiddel (sorbinezuur [E200]), voedingszuur (natriumacetaat [E262]), roggebloem.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.92g per 100 gram",
+    "lifestyle": 0.1,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0839160839160839,
+    "price sensitivity": -0.5988538681948424
+}

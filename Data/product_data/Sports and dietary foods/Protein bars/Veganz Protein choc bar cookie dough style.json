@@ -1,0 +1,18 @@
+{
+    "id": 916,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "Veganz Protein choc bar cookie dough style",
+    "price": 2.9,
+    "unit": "50 gPrijs per KG \u20ac 41,80",
+    "weight": "50 Gram",
+    "calories": 412.0,
+    "ingredients": "Ingredients: Protein mix* (29%) (rice protein*, pea protein*, SOYA protein*, pumpkin seed protein*), couverture chocolate* (15%) (cane sugar*, cocoa mass*, cocoa butter*), rice syrup*, date syrup*, agave syrup*, raw cocoa nibs* (6,3%), date powder*, coconut oil*, natural flavouring, salt. *from organic agriculture. May also contain traces of NUTS, CEREALS CONTAINING GLUTEN, EGG and MILK.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.061012658227848106,
+    "price sensitivity": -0.78
+}

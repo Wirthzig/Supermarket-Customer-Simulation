@@ -1,0 +1,18 @@
+{
+    "id": 1413,
+    "category": "Beer and aperitifs",
+    "sub category": "Special beers",
+    "product": "Texels Bock",
+    "price": 1.99,
+    "unit": "300 mlPrijs per LT \u20ac 6,63",
+    "weight": "30 Centiliter",
+    "calories": 65.0,
+    "ingredients": "Ingredi\u00ebnten: water, GERSTEMOUT, suiker, hop, gist",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.04780530204259019,
+    "price sensitivity": -0.1957671957671958
+}

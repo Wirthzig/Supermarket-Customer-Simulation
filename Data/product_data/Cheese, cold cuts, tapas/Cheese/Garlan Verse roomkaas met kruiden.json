@@ -1,0 +1,18 @@
+{
+    "id": 3166,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Cheese",
+    "product": "Garlan Verse roomkaas met kruiden",
+    "price": 1.9,
+    "unit": "150 gPrijs per KG \u20ac 7,27",
+    "weight": "150 Gram",
+    "calories": 267.0,
+    "ingredients": "Ingredi\u00ebnten: Magere MELK, ROOM, zout, BOTER, 0.2% kruiden (peterselie, basilicum), 0.2% knoflookextract (tapioca, maltodextrine, palmpitvet, WEIPOEDER, knoflookolie), 0.1% mierikswortelbereiding (mierikswortel, water, koolzaadolie, zout), 0.1% knoflookgranulaat, azijn, witte peper, zuursel (MELK)",
+    "lifestyle": 0.1,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.12965050732807215,
+    "price sensitivity": -0.8987341772151899
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1164,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Soups",
+    "product": "Unox Cup-a-soup Chinese tomaat",
+    "price": 1.85,
+    "unit": "3 x 17 gPrijs per LT \u20ac 3,52",
+    "weight": "51 Gram",
+    "calories": 30.0,
+    "ingredients": "Ingredi\u00ebnten: Tomaat\u00b9 27%, suiker, pannenkoekreepjes 11% (TARWEBLOEM, EI, zetmeel, zout, magere MELK, MELKWEI, aroma), aardappelzetmeel, deegwaar 5,6% (harde TARWEGRIES, zout), gistextract, zout, gejodeerd zout, taug\u00e9 2,5%, uipoeder\u00b9, ananassap, mineraalzout (kalium), aroma, ma\u00efsolie, glucosestroop, citroensappoeder (citroensap, maltodextrine), kruiden (bieslook\u00b9, BLADSELDERIJ), specerijen (kardemom, koriander, kruidnagel, cayennepeper). Kan mosterd, soja bevatten. \u00b9 op duurzame wijze geteeld.",
+    "lifestyle": 0.2,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.10401188707280833,
+    "price sensitivity": -0.8570102135561746
+}

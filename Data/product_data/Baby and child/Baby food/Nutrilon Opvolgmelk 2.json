@@ -1,0 +1,18 @@
+{
+    "id": 471,
+    "category": "Baby and child",
+    "sub category": "Baby food",
+    "product": "Nutrilon Opvolgmelk 2",
+    "price": 16.99,
+    "unit": "800 gPrijs per KG \u20ac 21,24",
+    "weight": "800 Gram",
+    "calories": 68.0,
+    "ingredients": "Ingredienten : Lactose (melk), plantaardige oli\u00ebn (high oleic zonnebloemolie, kokosolie, koolzaadolie, zonnebloemolie), magere melk, gedemineraliseerd wei (melk), galacto-oligosachariden (melk), wei concentraat (melk), fructo-oligosachariden, tricalciumfosfaat, visolie, eiwit (koemelk), kaliumchloride, kaliumcitraat, magnesiumwaterstoffosfaat, cholinechloride, olie van Mortierella alpina, natriumcitraat, calciumcarbonaat, emulgator (sojalecithine), natriumchloride, L-ascorbinezuur, natrium L-ascorbaat, inositol, L-tryptofaan, magnesiumchloride, ijzersulfaat, zinksulfaat, L-carnitine, DL-\u03b1-tocoferylacetaat,  antioxidant (ascorbylpalmitaat), calcium D-pantothenaat, nicotinamide, kopersulfaat, thiaminehydrochloride, retinylpalmitaat, riboflavine, pyridoxinehydrochloride, pteroylmonoglutaminezuur, kaliumjodide, mangaansulfaat, natriumseleniet, fytomenadion, cholecalciferol, D-biotine, cyanocobalamine.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5629370629370629,
+    "price sensitivity": 0.24528301886792447
+}

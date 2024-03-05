@@ -1,0 +1,18 @@
+{
+    "id": 3522,
+    "category": "Salads, pizza, meals",
+    "sub category": "Salads",
+    "product": "AH Saladeschotel huzaren",
+    "price": 1.79,
+    "unit": "400 gPrijs per KG \u20ac 4,48",
+    "weight": "400 Gram",
+    "calories": 139.0,
+    "ingredients": "Ingredi\u00ebnten: aardappel, groente (wortel, doperwt, ui, prei), water, raapolie, augurk, zilverui, scharrelei, suiker, rundvlees, azijn, zout, zetmeel (ma\u00efs, aardappel), vrije-uitloopeigeel, gemodificeerd ma\u00efszetmeel, conserveermiddel (kaliumsorbaat [E202], natriumbenzoaat [E211], natriumwaterstofsulfiet [E222], natriumdisulfiet [E223], natriumnitriet [E250]), voedingszuur (melkzuur [E270], citroenzuur [E330]), specerijen (o.a. mosterd, selderij), maltodextrine, verdikkingsmiddel (guarpitmeel [E412], xanthaangom [E415]), kruiden, limoensapconcentraat, natuurlijke aroma's, extract (zwarte peper, wortel), geleermiddel (pectine [E440]).\nWaarvan toegevoegde suikers 3.1g per 100 gram en waarvan toegevoegd zout 1.10g per 100 gram",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0,
+    "price sensitivity": -0.5254237288135595
+}

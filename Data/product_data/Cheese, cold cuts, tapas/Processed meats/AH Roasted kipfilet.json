@@ -1,0 +1,18 @@
+{
+    "id": 3057,
+    "category": "Cheese, cold cuts, tapas",
+    "sub category": "Processed meats",
+    "product": "AH Roasted kipfilet",
+    "price": 3.19,
+    "unit": "ca. 110 gPrijs per KG \u20ac 28,99",
+    "weight": "110 Gram",
+    "calories": 112.0,
+    "ingredients": "Ingredi\u00ebnten: 96% kippenvlees, antioxidant (kaliumlactaat [E326], natriumlactaat [E325], natriumascorbaat [E301]), zout, bamboevezel, dextrose, stabilisator (difosfaat [E450], carrageen [E407]), conserveermiddel (kaliumacetaat [E261], natriumnitriet [E250]), aroma.\nWaarvan toegevoegde suikers 0.9g per 100 gram en waarvan toegevoegd zout 1.60g per 100 gram",
+    "lifestyle": -0.8,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.27508455467869225,
+    "price sensitivity": -0.9777117384843982
+}

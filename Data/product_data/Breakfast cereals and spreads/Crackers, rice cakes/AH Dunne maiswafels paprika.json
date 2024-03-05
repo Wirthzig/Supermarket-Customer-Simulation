@@ -1,0 +1,18 @@
+{
+    "id": 2299,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Crackers, rice cakes",
+    "product": "AH Dunne maiswafels paprika",
+    "price": 1.39,
+    "unit": "104 gPrijs per KG \u20ac 13,37",
+    "weight": "104 Gram",
+    "calories": 412.0,
+    "ingredients": "Ingredi\u00ebnten: 86% ma\u00efsgrut, raapolie, specerijen (1,1% paprika, ui, knoflook, chipotlechilipeper), zout, weipoeder, suiker, aroma, fructose, tomatenpoeder, maltodextrine,\u00a0kaaspoeder, antiklontermiddel (calciumfosfaten [E341], siliciumdioxide [E551]),\nkaliumchloride\u00a0(dieetzout), voedingszuur (citroenzuur [E330]), rookaroma, emulgator (natriumfosfaat [E339]).\nWaarvan toegevoegde suikers 1.3g per 100 gram en waarvan toegevoegd zout 0.98g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.13207547169811318,
+    "price sensitivity": -0.975
+}

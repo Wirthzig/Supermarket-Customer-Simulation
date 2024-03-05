@@ -1,0 +1,18 @@
+{
+    "id": 2498,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "Picard Chocoladefondant",
+    "price": 3.79,
+    "unit": "200 gPrijs per KG \u20ac 18,95",
+    "weight": "2 Stuks (piece). 200 Gram",
+    "calories": 445.0,
+    "ingredients": "Ingredi\u00ebnten: Gepasteuriseerd vloeibaar heel EI, chocolade 22,2% (suiker, cacaomassa,cacaoboter, emulgator : SOJAlecithine, natuurlijk vanillearoma), suiker, TARWEmeel (GLUTEN), geconcentreerde boter (MELK), kokosolie. \nKan sporen bevatten van: noten, mosterd.",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.21678321678321677,
+    "price sensitivity": -0.025787965616045794
+}

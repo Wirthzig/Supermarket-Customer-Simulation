@@ -1,0 +1,18 @@
+{
+    "id": 2173,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Easter treats",
+    "product": "AH Excellent Paas cakejes",
+    "price": 1.59,
+    "unit": "343 gPrijs per KG \u20ac 4,64",
+    "weight": "343 Gram",
+    "calories": 417.0,
+    "ingredients": "Ingredi\u00ebnten: suiker, tarwebloem, plantaardige olie (raap, palm, palmpit, kokos), glucose-fructosestroop, scharrelei, stabilisator (glycerol [E422]), water, glucosestroop, zetmeel (aardappel, tarwe), plantaardig vet (palmpit, palm), fructosestroop, rijsmiddel (difosfaat [E450], natriumcarbonaat [E500]), dextrose, emulgator (mono- en diglyceriden van vetzuren [E471], sojalecithine [E322]), citroenschil, zout, kleurstof (caroteen [E160a]), conserveermiddel (sorbinezuur [E200], calciumpropionaat [E282]), rijstebloem, verdikkingsmiddel (xanthaangom [E415]), natuurlijke aroma's, gemodificeerd aardappelzetmeel, zuurteregelaar (citroenzuur [E330]).\nWaarvan toegevoegde suikers 42g per 100 gram en waarvan toegevoegd zout 0.15g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17372881355932202,
+    "price sensitivity": 0.5833333333333333
+}

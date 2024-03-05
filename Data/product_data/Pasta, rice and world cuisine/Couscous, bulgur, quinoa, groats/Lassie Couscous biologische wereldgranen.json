@@ -1,0 +1,18 @@
+{
+    "id": 1270,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Couscous, bulgur, quinoa, groats",
+    "product": "Lassie Couscous biologische wereldgranen",
+    "price": 1.69,
+    "unit": "275 gPrijs per KG \u20ac 6,15",
+    "weight": "275 Gram",
+    "calories": 359.0,
+    "ingredients": "Ingredi\u00ebnten: Biologische couscous (TARWE). Kan sporen van melk bevatten.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.14893617021276595,
+    "price sensitivity": -0.8518518518518519
+}

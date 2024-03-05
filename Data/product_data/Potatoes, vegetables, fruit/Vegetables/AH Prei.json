@@ -1,0 +1,18 @@
+{
+    "id": 3845,
+    "category": "Potatoes, vegetables, fruit",
+    "sub category": "Vegetables",
+    "product": "AH Prei",
+    "price": 0.75,
+    "unit": "per stukPrijs per KG \u20ac 3,75",
+    "weight": "1 Stuks (piece)",
+    "calories": NaN,
+    "ingredients": NaN,
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.01250000000000001,
+    "price sensitivity": 0.03614457831325302
+}

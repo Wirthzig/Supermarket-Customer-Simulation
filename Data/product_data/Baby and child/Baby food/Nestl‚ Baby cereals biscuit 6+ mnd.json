@@ -1,0 +1,18 @@
+{
+    "id": 479,
+    "category": "Baby and child",
+    "sub category": "Baby food",
+    "product": "Nestl\u00e9 Baby cereals biscuit 6+ mnd",
+    "price": 2.69,
+    "unit": "250 gPrijs per KG \u20ac 10,76",
+    "weight": "250 Gram",
+    "calories": 430.0,
+    "ingredients": "Ingredi\u00ebnten: Biscuitmeel 72,9% (meel van: TARWE 58,1% (gedeeltelijk gehydrolyseerd), TARWEgries 4,6%), plantaardige oli\u00ebn (koolzaad (laag erucazuur), zonnebloemolie)), magere MELKpoeder 26,5%, minerale zouten (calciumcarbonaat, ijzerfumaraat, zinksulfaat, kaliumjodide), vitamines (C, niacine, E, B1, pantotheenzuur, A, B6, K, foliumzuur, biotine, D), aroma: vanilline, bifiduscultuur (BL)",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.06293706293706293,
+    "price sensitivity": -0.939622641509434
+}

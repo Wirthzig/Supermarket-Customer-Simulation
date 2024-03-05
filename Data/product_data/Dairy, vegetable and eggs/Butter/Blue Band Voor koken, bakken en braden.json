@@ -1,0 +1,18 @@
+{
+    "id": 2635,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Butter",
+    "product": "Blue Band Voor koken, bakken en braden",
+    "price": 1.64,
+    "unit": "250 gNormale prijs per KG \u20ac 8,76",
+    "weight": "250 Gram",
+    "calories": 701.0,
+    "ingredients": "Ingredi\u00ebnten: Plantaardige oli\u00ebn 79% (palm, koolzaad, zonnebloem in wisselende hoeveelheden), water, zout 1,5%, emulgatoren (SOJALECITHINE, mono- en diglyceriden van vetzuren), bereiding van tuinbonen, voedingszuur (citroenzuur), aroma, vitamines A en D",
+    "lifestyle": -0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.17499999999999996,
+    "price sensitivity": -0.7371601208459215
+}

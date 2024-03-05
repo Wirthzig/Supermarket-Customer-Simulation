@@ -1,0 +1,18 @@
+{
+    "id": 945,
+    "category": "Sports and dietary foods",
+    "sub category": "Protein bars",
+    "product": "Grenade Protein bars birthday cake",
+    "price": 3.29,
+    "unit": "60 gPrijs per KG \u20ac 54,83",
+    "weight": "60 Gram",
+    "calories": 363.0,
+    "ingredients": "NL- INGREDI\u00cbNTEN: Prote\u00efnemengsel (calciumcase\u00efnaat (MELK), wei-eiwit-isolaat (MELK)), Witte chocolade met zoetstof (21%) (zoetstof: maltitol; cacaoboter, volle MELKpoeder, emulgator: SOJA-lecithine; aromas), bevochtigingsmiddel: glycerol; gehydroliseerde rundergelatine, vulstof: polydextrose; suikervrije hagelslag (4.5%)(maltitol, aardappelzetmeel, rijstmeel, palmvet, kleurstoffen: curcumine, riboflavine, betanine, anthocyanen, brilliant blue FCF), palmvet, iomalto-oligosaccharide, weiprote\u00efne crispies (weiprote\u00efne (MELK), rijstmeel, emulgator: SOJA-lecithine), aromas, zoetstof: sucralose.",
+    "lifestyle": 1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.07088607594936708,
+    "price sensitivity": -0.4666666666666667
+}

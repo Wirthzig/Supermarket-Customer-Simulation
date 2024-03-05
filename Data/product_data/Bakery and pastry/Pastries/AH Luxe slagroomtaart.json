@@ -1,0 +1,18 @@
+{
+    "id": 2517,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Luxe slagroomtaart",
+    "price": 3.99,
+    "unit": "600 gPrijs per KG \u20ac 6,65",
+    "weight": "600 Gram",
+    "calories": 254.0,
+    "ingredients": "Ingredi\u00ebnten: water, suiker, scharrelei, tarwebloem, magere melk, plantaardige olie (kokos, palm, raap, palmpit), glucosestroop, 2% slagroom, gemodificeerd aardappelzetmeel, mageremelkpoeder, 1,5% mandarijn, gepofte rijst, 0,8% amandel, zetmeel (tarwe, ma\u00efs), 0,5% aardbei, weipoeder, cacaomassa, aroma, kleurend concentraat (vlierbes, wortel), cacaoboter, sojabloem, kokosvet, melasse, melkeiwit, varkensgelatine, zout, emulgator (sojalecithine,\u00a0lecithine, E433, E471, E472b,\u00a0E477), stabilisator ( guarpitmeel, E263, E418, E450, E451), verdikkingsmiddel (xanthaangom, E407), zuurteregelaar (citroenzuur, E331), natuurlijk vanillearoma, geleermiddel (pectine), kleurstof (caroteen).\nWaarvan toegevoegde suikers 20g per 100 gram",
+    "lifestyle": 0.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.23076923076923078,
+    "price sensitivity": -0.10601719197707737
+}

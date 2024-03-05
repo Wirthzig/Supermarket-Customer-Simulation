@@ -1,0 +1,18 @@
+{
+    "id": 1421,
+    "category": "Beer and aperitifs",
+    "sub category": "Special beers",
+    "product": "Leffe Tripel abdijbier 6-pack",
+    "price": 8.99,
+    "unit": "6 x 30 clPrijs per LT \u20ac 4,99",
+    "weight": "30 Centiliter",
+    "calories": 66.0,
+    "ingredients": "Ingredi\u00ebnten: Water, GERSTEMOUT, suiker, kruiden (natuurlijke sinaasappelschil, korianderzaden), hop",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.3520208604954368,
+    "price sensitivity": -0.2751322751322751
+}

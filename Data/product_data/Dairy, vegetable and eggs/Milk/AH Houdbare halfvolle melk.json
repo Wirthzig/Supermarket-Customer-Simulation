@@ -1,0 +1,18 @@
+{
+    "id": 2775,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Milk",
+    "product": "AH Houdbare halfvolle melk",
+    "price": 1.79,
+    "unit": "6 x 200 mlPrijs per LT \u20ac 1,49",
+    "weight": "200 Milliliter",
+    "calories": 46.0,
+    "ingredients": "Waarvan toegevoegde suikers 0.00g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter\n*Van weidemelk.",
+    "lifestyle": -0.5,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.20000000000000004,
+    "price sensitivity": -0.3141993957703928
+}

@@ -1,0 +1,18 @@
+{
+    "id": 766,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "AH Oven kaassouffl\u00e9",
+    "price": 2.99,
+    "unit": "4 stuks",
+    "weight": "280 Gram",
+    "calories": 358.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, water, paneermeel\u00a0(tarwe), plantaardige olie (palm, raap),\u00a0melk, ma\u00efszetmeel, zout, gemodificeerd aardappelzetmeel, dieetzout (kaliumchloride),\u00a0melkeiwit, gedroogde glucosestroop, natuurlijk aroma\u00a0(melk), zeezout, emulgator (mono- en diglyceriden van vetzuren [E471], cellulosegom [E466]), zuurteregelaar (citroenzuur [E330], melkzuur [E270]), suiker, invertsuiker, kleurstof (curcumine [E100], paprika-extract [E160c], annatto norbixine [E160b(ii)], caroteen [E160a], ammoniakkaramel [E150c]), vrije-uitloopeipoeder, dextrose, vegetarisch stremsel, zuursel, smeltzout (calciumfosfaat [E341], difosfaat [E450], polyfosfaat [E452]).\nWaarvan toegevoegde suikers 0.5g per 100 gram en waarvan toegevoegd zout 0.73g per 100 gram",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.30952380952380953,
+    "price sensitivity": -0.6120906801007557
+}

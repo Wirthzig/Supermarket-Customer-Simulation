@@ -1,0 +1,18 @@
+{
+    "id": 2534,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Mini chocosoesjes",
+    "price": 1.89,
+    "unit": "12 stuks",
+    "weight": "200 Gram",
+    "calories": 391.0,
+    "ingredients": "Ingredi\u00ebnten: 39% slagroom, suiker, scharrelei, plantaardige olie (palm, zonnebloem [in wisselende verhoudingen]),\u00a0tarwebloem, plantaardig vet (palmpit, kokos [in wisselende verhoudingen]), mageremelkpoeder, magerecacaopoeder\u00b0, stabilisator (carrageen [E407]), emulgator (lecithine\u00a0[E322], mono- en diglyceriden van vetzuren [E471]), Bourbonvanille-extract, natuurlijk vanillearoma.\nWaarvan toegevoegde suikers 23g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -0.9,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0839160839160839,
+    "price sensitivity": -0.1404011461318052
+}

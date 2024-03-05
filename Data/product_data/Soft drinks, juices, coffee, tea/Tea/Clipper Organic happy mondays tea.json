@@ -1,0 +1,18 @@
+{
+    "id": 1705,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Tea",
+    "product": "Clipper Organic happy mondays tea",
+    "price": 3.69,
+    "unit": "20 stuks",
+    "weight": "20 Stuks (piece). 45 Gram",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: Citroengras*, gemberwortel* (25%), zoethoutwortel*, witte hibiscus*, citroenverbena*, natuurlijk citroenaroma* (4%), sinaasappelschil*, zwarte peper* (2,5%), citroenschil* (2%), kruidnagel*, natuurlijk gemberaroma (1%), *Ingredi\u00ebnt van biologische teelt.",
+    "lifestyle": 1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.24471299093655588,
+    "price sensitivity": -0.6582278481012658
+}

@@ -1,0 +1,18 @@
+{
+    "id": 146,
+    "category": "Pets",
+    "sub category": "Dogs",
+    "product": "Pedigree Dentastix groot",
+    "price": 3.9,
+    "unit": "270 gPrijs per KG \u20ac 11,44",
+    "weight": "7 Stuks (piece). 270 Gram",
+    "calories": NaN,
+    "ingredients": "Bovenkant zakje omvouwen en dichtplakken met de sticker.",
+    "lifestyle": 0.0,
+    "vegan": -1.0,
+    "vegetarian": -1.0,
+    "meat": 1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4324644549763033,
+    "price sensitivity": 0.8461538461538463
+}

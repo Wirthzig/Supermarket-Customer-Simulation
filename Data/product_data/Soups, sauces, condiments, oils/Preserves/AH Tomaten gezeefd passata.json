@@ -1,0 +1,18 @@
+{
+    "id": 1130,
+    "category": "Soups, sauces, condiments, oils",
+    "sub category": "Preserves",
+    "product": "AH Tomaten gezeefd passata",
+    "price": 0.95,
+    "unit": "500 gPrijs per KG \u20ac 1,90",
+    "weight": "500 Gram",
+    "calories": 38.0,
+    "ingredients": "Ingredi\u00ebnten: tomaat, zout.\nWaarvan toegevoegde suikers 0.00g per 100 gram en waarvan toegevoegd zout 0.45g per 100 gram",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.037147102526002965,
+    "price sensitivity": -0.6434540389972145
+}

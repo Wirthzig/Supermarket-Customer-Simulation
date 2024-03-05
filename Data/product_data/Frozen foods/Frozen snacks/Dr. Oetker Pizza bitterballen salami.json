@@ -1,0 +1,18 @@
+{
+    "id": 799,
+    "category": "Frozen foods",
+    "sub category": "Frozen snacks",
+    "product": "Dr. Oetker Pizza bitterballen salami",
+    "price": 4.89,
+    "unit": "10 stuks",
+    "weight": "250 Gram",
+    "calories": 240.0,
+    "ingredients": "Ingredi\u00ebnten: water, TARWEBLOEM, 7,3% salami (varkensvlees, conserveermiddelen (E508, E235, E250), zout, rundercollageen, rode bietensapconcentraat, dextrose, knoflookpoeder, varkenscollageen, natuurlijk aroma, varkenseiwit, specerijen, rook, antioxidant (E301)), 5,5% KAAS (gepasteuriseerde MELK, aardappelzetmeel, zout, stremsel, zuursel), 5,1% tomatenpuree, zonnebloemolie, palmolie, 2,0% MOZZARELLA (gepasteuriseerde MELK, aardappelzetmeel, zout, stremsel, zuursel), rundergelatine, verdikkingsmiddelen (E464, E461, E466), aroma, 0,3% tomaten, uien, zout, paprika, gedroogde glucosestroop, kruiden, gist, basterdsuiker (suiker, invertsuikerstroop), bruine basterdsuiker (suiker, invertsuikerstroop, kleurstof (E150c)), dextrose, specerijen, stabilisatoren (E450, E500), TARWEGLUTEN, kleurstoffen (E160b(i), E160b(ii)).",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.5608465608465607,
+    "price sensitivity": -0.6876574307304786
+}

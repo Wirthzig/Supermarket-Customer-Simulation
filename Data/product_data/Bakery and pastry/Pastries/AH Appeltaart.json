@@ -1,0 +1,18 @@
+{
+    "id": 2503,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Appeltaart",
+    "price": 6.75,
+    "unit": "per stuk",
+    "weight": "1 Aantal",
+    "calories": 287.0,
+    "ingredients": "Ingredi\u00ebnten: 37% appel, tarwebloem, suiker, roomboter, water, scharrelei, 2% rozijn, glucosestroop, gemodificeerd zetmeel (ma\u00efs, aardappel), abrikoos, 0,3% kaneel, rijsmiddel (difosfaat [E450], natriumcarbonaat [E500]), zetmeel (tarwe, tapioca), dextrose, gejodeerd zout, citroenschil, citroensapconcentraat, geleermiddel (pectine [E440]), emulgator (mono- en diglyceriden van vetzuren, veresterd met melkzuur [E472b], esters van propaan-1,2-diol met vetzuren [E477]), voedingszuur (citroenzuur [E330]), verdikkingsmiddel (arabische gom [E414], xanthaangom [E415]), natuurlijke aroma's, conserveermiddel (kaliumsorbaat [E202]), katoenzaadolie, zuurteregelaar (natriumcitraat [E331], calciumcitraat [E333]).\nWaarvan toegevoegde suikers 16g per 100 gram en waarvan toegevoegd zout 0.11g per 100 gram",
+    "lifestyle": -0.2,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.4237762237762238,
+    "price sensitivity": 0.26074498567335236
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1360,
+    "category": "Pasta, rice and world cuisine",
+    "sub category": "Pasta, rice, noodles",
+    "product": "AH Verse tortelloni verdi ricotta e spinaci",
+    "price": 2.39,
+    "unit": "250 gPrijs per KG \u20ac 9,56",
+    "weight": "250 Gram",
+    "calories": 279.0,
+    "ingredients": "Ingredi\u00ebnten: tarwebloem, 12% vrije-uitloopei, vegetarisch\u00a0wei, durumtarwegriesmeel, water, groente (spinazie, ui), vegetarisch\u00a0weipoeder, zonnebloemolie, voedingsvezel (bamboe, psyllium), aardappelzetmeel, 1,9% spinaziepoeder, zout, natuurlijk aroma, knoflook, kruiden, room, nootmuskaat, bakkersgist, zuurteregelaar (citroenzuur [E330]).",
+    "lifestyle": 0.7,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2730496453900709,
+    "price sensitivity": -0.010582010582010692
+}

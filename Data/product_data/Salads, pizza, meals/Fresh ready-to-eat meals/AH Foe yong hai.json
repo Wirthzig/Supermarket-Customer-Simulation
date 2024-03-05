@@ -1,0 +1,18 @@
+{
+    "id": 3487,
+    "category": "Salads, pizza, meals",
+    "sub category": "Fresh ready-to-eat meals",
+    "product": "AH Foe yong hai",
+    "price": 2.59,
+    "unit": "200 gNormale prijs per KG \u20ac 12,95",
+    "weight": "200 Gram",
+    "calories": 99.0,
+    "ingredients": "Ingredi\u00ebnten: 34% vrije-uitloopei, water, groente (7,1% champignon, 4,3% ui, 4,3% wortel, 3,2% doperwt, 3% prei, 2,3% bamboe), suiker, 4,5% tomatenpuree, tarwebloem, plantaardige olie (soja, raap, sesam, zonnebloem, lijnzaad, palm, koolzaad), zout, gistextract, witte peper, voedingszuur (azijnzuur [E260], melkzuur [E270]), antioxidant (citroenzuur [E330], ascorbinezuur [E300]), gemodificeerd aardappelzetmeel, kleurstof (caroteen [E160a], sulfiet-ammoniakkaramel [E150d]), natuurlijke aroma's, conserveermiddel (kaliumsorbaat [E202]), vitaminen (A, D), emulgator (lecithine\u00a0[E322], mono- en diglyceriden van vetzuren [E471]).\nWaarvan toegevoegde suikers 5.9g per 100 gram en waarvan toegevoegd zout 0.48g per 100 gram",
+    "lifestyle": 0.9,
+    "vegan": 0.0,
+    "vegetarian": 0.0,
+    "meat": 0.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1290322580645161,
+    "price sensitivity": -0.5677966101694916
+}

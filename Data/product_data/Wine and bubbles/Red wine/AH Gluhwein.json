@@ -1,0 +1,18 @@
+{
+    "id": 1589,
+    "category": "Wine and bubbles",
+    "sub category": "Red wine",
+    "product": "AH Gluhwein",
+    "price": 1.69,
+    "unit": "0,75 lNormale prijs per LT \u20ac 2,52",
+    "weight": "750 Milliliter",
+    "calories": 77.0,
+    "ingredients": "Italy",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0,
+    "price sensitivity": -0.860759493670886
+}

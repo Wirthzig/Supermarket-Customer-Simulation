@@ -1,0 +1,18 @@
+{
+    "id": 2673,
+    "category": "Dairy, vegetable and eggs",
+    "sub category": "Yoghurt & cottage cheese",
+    "product": "Pur Natur Biologische yoghurt",
+    "price": 2.79,
+    "unit": "500 gPrijs per KG \u20ac 5,58",
+    "weight": "500 Milliliter",
+    "calories": 72.0,
+    "ingredients": "Ingredi\u00ebnten: Volle YOGHURT* met levende fermenten, *afkomstig van biologische landbouw",
+    "lifestyle": -0.8,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 1.0,
+    "fraud probability": 0.3666666666666667,
+    "price sensitivity": -0.7673716012084593
+}

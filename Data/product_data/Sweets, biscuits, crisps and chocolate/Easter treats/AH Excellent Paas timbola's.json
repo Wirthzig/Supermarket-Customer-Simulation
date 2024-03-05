@@ -1,0 +1,18 @@
+{
+    "id": 2192,
+    "category": "Sweets, biscuits, crisps and chocolate",
+    "sub category": "Easter treats",
+    "product": "AH Excellent Paas timbola's",
+    "price": 1.89,
+    "unit": "225 gPrijs per KG \u20ac 8,40",
+    "weight": "225 Gram",
+    "calories": 431.0,
+    "ingredients": "Ingredi\u00ebnten: suiker,\u00a0scharrelei, plantaardig vet (palm, kokos),\u00a0tarwebloem, water,\u00a0sojaboon,\u00a0tarwezetmeel, glucosestroop, abrikozenpit, glucose-fructosestroop, raapolie, stabilisator (sorbitolen [E420], glycerol [E422], invertase [E1103]),\u00a0sojabloem, 0,8% frambozenpuree, 0,5% frambozenpureeconcentraat, magerecacaopoeder\u00b0, verdikkingsmiddel (xanthaangom [E415]), mageremelkpoeder, emulgator (mono- en diglyceriden van vetzuren [E471], sorbitaantristearaat [E492],\u00a0sojalecithinen [E322]), zout, kleurstof (carotenen [E160a]), geleermiddel (natriumalginaat [E401], pectine [E440]), zuurteregelaar (citroenzuur [E330], natriumcitraten [E331]), conserveermiddel (kaliumsorbaat [E202]), rijsmiddel (difosfaten [E450], natriumcarbonaten [E500]), kleurend extract (zwarte bes, zwarte wortel), natuurlijk aroma, aroma.\nWaarvan toegevoegde suikers 52g per 100 gram en waarvan toegevoegd zout 0.17g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.2372881355932203,
+    "price sensitivity": -0.04166666666666674
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1415,
+    "category": "Beer and aperitifs",
+    "sub category": "Special beers",
+    "product": "Oedipus Mannenliefde saison",
+    "price": 2.17,
+    "unit": "33 clNormale prijs per LT \u20ac 8,76",
+    "weight": "33 Centiliter",
+    "calories": NaN,
+    "ingredients": "Ingredi\u00ebnten: water, GERSTEMOUT, TARWEMOUT, hop, citroengras, szechuanpeper, gist",
+    "lifestyle": -1.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.05562798783137766,
+    "price sensitivity": 0.7566137566137565
+}

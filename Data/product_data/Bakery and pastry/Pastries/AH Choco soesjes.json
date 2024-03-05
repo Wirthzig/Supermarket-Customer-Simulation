@@ -1,0 +1,18 @@
+{
+    "id": 2532,
+    "category": "Bakery and pastry",
+    "sub category": "Pastries",
+    "product": "AH Choco soesjes",
+    "price": 3.5,
+    "unit": "11 stuks",
+    "weight": "210 Gram",
+    "calories": 387.0,
+    "ingredients": "Ingredi\u00ebnten: 42% slagroom, suiker, scharrelei, plantaardige olie [palm, raap, zonnebloem (in wisselende verhoudingen)], tarwebloem, plantaardig vet [palm, kokos (in wisselende verhoudingen)], magerecacaopoeder\u00b0, mageremelkpoeder, emulgator (sojalecithine\u00a0[E322], mono- en diglyceriden van vetzuren [E471]), ma\u00efszetmeel, Bourbonvanille-extract, natuurlijk vanillearoma, stabilisator (carrageen [E407]).\nWaarvan toegevoegde suikers 22g per 100 gram en waarvan toegevoegd zout 0.00g per 100 gram\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 0.3,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.1965034965034965,
+    "price sensitivity": -1.0
+}

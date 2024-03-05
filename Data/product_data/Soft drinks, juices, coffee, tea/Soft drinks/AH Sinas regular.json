@@ -1,0 +1,18 @@
+{
+    "id": 1629,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "AH Sinas regular",
+    "price": 0.79,
+    "unit": "1,5 lPrijs per LT \u20ac 0,53",
+    "weight": "1.5 Liter",
+    "calories": 32.0,
+    "ingredients": "Ingredi\u00ebnten: koolzuurhoudend water, 8% sinaasappelsap uit concentraat, suiker, voedingszuur (citroenzuur [E330], appelzuur\u00a0[E296]), antioxidant (ascorbinezuur [E300]), zuurteregelaar (natriumcitraat\u00a0[E331]), natuurlijk sinaasappelaroma met andere natuurlijke aroma's, wortelsapconcentraat, kleurstof (caroteen [E160a]), conserveermiddel (kaliumsorbaat [E202]), zoetstof (acesulfaam-k [E950], aspartaam [E951]), stabilisator (guarpitmeel [E412]).\nWaarvan toegevoegde suikers 6.9g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.0256797583081571,
+    "price sensitivity": -0.5316455696202531
+}

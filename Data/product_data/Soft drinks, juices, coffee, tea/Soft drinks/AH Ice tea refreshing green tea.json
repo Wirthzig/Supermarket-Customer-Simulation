@@ -1,0 +1,18 @@
+{
+    "id": 1662,
+    "category": "Soft drinks, juices, coffee, tea",
+    "sub category": "Soft drinks",
+    "product": "AH Ice tea refreshing green tea",
+    "price": 0.99,
+    "unit": "1,5 lPrijs per LT \u20ac 0,66",
+    "weight": "1.5 Liter",
+    "calories": 14.0,
+    "ingredients": "Ingredi\u00ebnten: water, suiker, zuurteregelaar (citroenzuur [E330],\u00a0natriumcitraat [E331]), 0,1% groene thee-extract, natuurlijk aroma, antioxidant (ascorbinezuur [E300]), zoetstof (steviolglycosiden [E960]).\nWaarvan toegevoegde suikers 3.6g per 100 milliliter en waarvan toegevoegd zout 0.00g per 100 milliliter\n\u00b0Rainforest Alliance gecertificeerd. Zie voor meer informatie ra.org",
+    "lifestyle": 0.0,
+    "vegan": 1.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.04078549848942598,
+    "price sensitivity": 0.05063291139240533
+}

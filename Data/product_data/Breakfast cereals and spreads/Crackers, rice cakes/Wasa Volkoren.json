@@ -1,0 +1,18 @@
+{
+    "id": 2313,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Crackers, rice cakes",
+    "product": "Wasa Volkoren",
+    "price": 2.9,
+    "unit": "260 gPrijs per KG \u20ac 8,04",
+    "weight": "260 Gram",
+    "calories": 330.0,
+    "ingredients": "Ingredienten: Volkoren ROGGEMEEL, gist, zout.\u00a0Kan sporen van MELK en SESAMZAAD bevatten. De vetgedrukte ingredi\u00ebnten kunnen een reactie veroorzaken bij personen met een allergie of intolerantie.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.41698113207547166,
+    "price sensitivity": 0.8387096774193548
+}

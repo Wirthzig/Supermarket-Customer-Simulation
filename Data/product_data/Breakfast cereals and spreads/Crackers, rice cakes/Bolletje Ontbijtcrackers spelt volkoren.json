@@ -1,0 +1,18 @@
+{
+    "id": 2260,
+    "category": "Breakfast cereals and spreads",
+    "sub category": "Crackers, rice cakes",
+    "product": "Bolletje Ontbijtcrackers spelt volkoren",
+    "price": 2.59,
+    "unit": "240 gPrijs per KG \u20ac 10,79",
+    "weight": "240 Gram",
+    "calories": 438.0,
+    "ingredients": "Ingredi\u00ebnten: spelt (TARWE) (volkoren meel, vlokken, stroop), 15% zaden (lijnzaad, zonebloempitten, pompoenpitten), plantaardige vezels, raapolie, zout, gist. Kan andere glutenbevattende en sesamzaad bevatten.",
+    "lifestyle": -1.0,
+    "vegan": 0.0,
+    "vegetarian": 1.0,
+    "meat": -1.0,
+    "sustainability": 0.0,
+    "fraud probability": 0.35849056603773577,
+    "price sensitivity": -0.6625000000000001
+}
